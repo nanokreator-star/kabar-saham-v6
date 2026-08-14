@@ -3,7 +3,8 @@ name: Kabar Saham V6 - Auto Alert
 on:
   schedule:
     # Off the top-of-hour peak. Approximately every 10 minutes.
-    - cron: '7-57/10 * * * *'
+    - cron: '7,17,27,37,47,57 * * * *'
+      timezone: 'Asia/Jakarta'
 
   workflow_dispatch:
     inputs:
