@@ -1,9 +1,9 @@
 {
-  "commands_processed": 0,
+  "commands_processed": 1,
   "initialized": true,
-  "last_command_utc": null,
-  "last_state_change_utc": "2026-08-14T15:08:33.748260+00:00",
-  "next_offset": 0,
+  "last_command_utc": "2026-08-14T15:26:26.270313+00:00",
+  "last_state_change_utc": "2026-08-14T15:26:26.270331+00:00",
+  "next_offset": 527719712,
   "schema_version": 1,
-  "updates_seen": 0
+  "updates_seen": 1
 }
