@@ -1,0 +1,19 @@
+V5.4 STABLE vs V6.0 GITHUB
+
+V5.4:
+- long-running process
+- Telegram getUpdates polling
+- interactive commands instantly
+- SQLite subscribers/sent state
+- laptop/server must remain on
+
+V6.0:
+- scheduled one-shot process
+- automatic alerts
+- GitHub Secrets for recipients
+- JSON hash state committed to repository
+- laptop may be off
+- no Telegram command polling in scheduled mode
+
+INTELLIGENCE CORE:
+V5.4 logic retained.

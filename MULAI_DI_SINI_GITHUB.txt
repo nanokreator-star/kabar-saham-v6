@@ -1,0 +1,255 @@
+KABAR SAHAM V6.0 — GITHUB ACTIONS FREE EDITION
+================================================
+
+KONSEP
+------
+V5.4 tetap menjadi core intelligence.
+V6.0 hanya mengubah cara menjalankan auto alert:
+
+V5.4:
+  python main.py -> hidup terus
+
+V6.0:
+  GitHub Actions -> scan sekali -> kirim alert -> simpan state -> selesai
+  -> sekitar 10 menit kemudian GitHub menjalankan lagi.
+
+YANG TETAP ADA
+--------------
+- Rights Issue / HMETD
+- IPO
+- Akuisisi
+- M&A
+- Takeover
+- Tender Offer
+- Publisher Direct Resolver
+- Deep Extraction
+- Market Data
+- Information Score
+- Catalyst
+- Decision Support
+- Telegram Auto Alert
+
+V6.0 FOKUS AUTO ALERT.
+Command Telegram real-time seperti /analyze atau /deep tetap paling lengkap
+jika V5.4 lokal sedang hidup. Interactive command cloud akan menjadi tahap V6.1.
+
+================================================
+A. PENTING: REPOSITORY PUBLIC UNTUK TARGET Rp0
+================================================
+
+Untuk scan sekitar tiap 10 menit, gunakan PUBLIC repository jika target Anda
+GitHub-hosted Actions tanpa biaya pemakaian standard runner.
+
+JANGAN upload .env atau database lama.
+Source code akan terlihat publik.
+
+================================================
+B. BUAT REPOSITORY GITHUB
+================================================
+
+1. Login GitHub.
+2. Klik New repository.
+3. Nama contoh:
+     kabar-saham-v6
+4. Pilih:
+     Public
+5. Create repository.
+
+================================================
+C. UPLOAD ISI FOLDER INI
+================================================
+
+Upload SEMUA isi folder:
+  Kabar_Saham_V6_0_GitHub_Actions_Free
+
+Yang harus terlihat di root GitHub:
+  scan_once.py
+  config.json
+  requirements.txt
+  core/
+  state/
+  .github/
+  tools/
+
+JANGAN upload folder pembungkus dua kali.
+
+================================================
+D. AMBIL TELEGRAM CHAT ID DARI V5.4 LAMA
+================================================
+
+Di folder V5.4 laptop, database Anda biasanya:
+  ma_alert.db
+
+Copy tools/export_chat_ids.py ke folder tersebut,
+atau jalankan dengan path database:
+
+  python tools/export_chat_ids.py "C:\PATH\BOT\ma_alert.db"
+
+Output contoh:
+  123456789
+
+Jika lebih dari satu subscriber:
+  123456789,-1001234567890
+
+Simpan nilainya untuk GitHub Secret.
+JANGAN kirim Chat ID ke repository.
+
+================================================
+E. BUAT GITHUB SECRETS
+================================================
+
+Repository:
+  Settings
+  > Secrets and variables
+  > Actions
+  > New repository secret
+
+Buat:
+
+1. Name:
+   TELEGRAM_BOT_TOKEN
+
+   Secret:
+   token bot dari .env V5.4
+
+2. Name:
+   TELEGRAM_CHAT_IDS
+
+   Secret:
+   hasil export_chat_ids.py
+
+JANGAN gunakan tanda kutip.
+
+================================================
+F. PASTIKAN ACTIONS BISA WRITE STATE
+================================================
+
+Workflow sudah meminta:
+  permissions:
+    contents: write
+
+Jika repository Anda membatasi permission:
+  Settings
+  > Actions
+  > General
+  > Workflow permissions
+
+Pastikan workflow diizinkan melakukan write ke repository.
+
+================================================
+G. TEST TELEGRAM DULU
+================================================
+
+Buka tab:
+  Actions
+
+Pilih:
+  Kabar Saham V6 - Auto Alert
+
+Klik:
+  Run workflow
+
+Mode:
+  test_telegram
+
+Jika benar, Telegram menerima:
+  Kabar Saham V6.0 — GitHub Actions TEST OK
+
+================================================
+H. JALANKAN SCAN PERTAMA
+================================================
+
+Actions > Run workflow
+Mode:
+  scan
+
+Default first-run:
+  BASELINE
+
+Artinya berita yang sudah ada ditandai sebagai known dan TIDAK dibanjiri
+ke Telegram.
+
+Telegram akan menerima notifikasi bahwa baseline V6 sudah dibuat.
+
+File:
+  state/github_state.json
+
+akan otomatis berubah dan workflow commit state tersebut.
+
+================================================
+I. SETELAH ITU OTOMATIS
+================================================
+
+Workflow schedule:
+  menit 07,17,27,37,47,57 setiap jam.
+
+Ini kurang lebih setiap 10 menit dan sengaja tidak tepat di menit 00 untuk
+mengurangi peluang delay pada jam sibuk GitHub Actions.
+
+Laptop boleh:
+  MATI.
+
+CMD boleh:
+  DITUTUP.
+
+Auto alert tetap dijalankan oleh GitHub Actions.
+
+================================================
+J. ANTI DUPLIKAT
+================================================
+
+V6 menyimpan:
+  SHA-256 article key + timestamp
+
+Tidak menyimpan token/chat ID.
+
+Jika artikel sudah terkirim:
+  scan berikutnya -> SKIP.
+
+State lama dipangkas otomatis setelah 60 hari dan dibatasi 5.000 key.
+
+================================================
+K. JIKA WORKFLOW GAGAL
+================================================
+
+Buka:
+  Actions
+  > workflow run merah
+  > scan
+
+Lihat step mana yang gagal.
+
+Masalah umum:
+1. TELEGRAM_BOT_TOKEN salah.
+2. TELEGRAM_CHAT_IDS salah.
+3. Workflow permission tidak boleh contents:write.
+4. Publisher sementara blocking.
+5. Market-data provider sementara timeout.
+
+Artikel yang gagal diproses tidak ditandai sent, sehingga run berikutnya
+dapat mencoba lagi.
+
+================================================
+L. CATATAN GITHUB SCHEDULE
+================================================
+
+Schedule bukan real-time hard guarantee.
+GitHub dapat menunda scheduled workflow ketika load tinggi.
+
+Public scheduled workflow juga dapat dinonaktifkan GitHub jika repository
+lama sekali tidak memiliki aktivitas. V6 menyimpan keepalive state berkala
+sekitar 14 hari untuk memberi aktivitas ringan tanpa commit setiap 10 menit.
+
+================================================
+M. V5.4 LAMA JANGAN DIHAPUS
+================================================
+
+Pertahankan:
+  main.py V5.4
+  .env
+  ma_alert.db
+  config.json
+
+sebagai fallback lokal.
+
+V6 adalah COPY / pengembangan dari V5.4, bukan pengganti yang merusak file lama.

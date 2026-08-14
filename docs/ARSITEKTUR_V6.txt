@@ -1,0 +1,24 @@
+KABAR SAHAM V6.0
+
+GitHub Scheduled Workflow
+        |
+        v
+scan_once.py
+        |
+        +--> V5.4 Core
+        |      + Google News RSS
+        |      + Publisher Direct
+        |      + Deep Extraction
+        |      + Market Data
+        |      + Decision Support
+        |
+        +--> Telegram Secrets
+        |      (never written to state)
+        |
+        +--> state/github_state.json
+               article hashes only
+        |
+        v
+process exits
+
+~10 minutes later -> new GitHub runner -> repeat.
