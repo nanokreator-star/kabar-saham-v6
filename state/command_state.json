@@ -1,13 +1,15 @@
 {
-  "commands_processed": 6,
+  "commands_processed": 8,
   "duplicates_suppressed": 0,
   "initialized": true,
-  "last_command_utc": "2026-08-14T16:31:15.376932+00:00",
-  "last_state_change_utc": "2026-08-14T16:31:15.376948+00:00",
-  "next_offset": 527719717,
+  "last_command_utc": "2026-08-14T16:35:30.269233+00:00",
+  "last_state_change_utc": "2026-08-14T16:35:30.269244+00:00",
+  "next_offset": 527719719,
   "recent_commands": {
-    "8cfb609f3d40a5eebbcc9bb187062792": 1786725031
+    "8cfb609f3d40a5eebbcc9bb187062792": 1786725031,
+    "d098246b31ac65321bf2b319473d3609": 1786725259,
+    "df42594ad243c54b915273725483bc7e": 1786725197
   },
   "schema_version": 2,
-  "updates_seen": 6
+  "updates_seen": 8
 }
