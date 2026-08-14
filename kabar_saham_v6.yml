@@ -1,0 +1,145 @@
+name: Kabar Saham V6 - Auto Alert
+
+on:
+  schedule:
+    # Off the top-of-hour peak. Approximately every 10 minutes.
+    - cron: '7-57/10 * * * *'
+
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: 'Pilih scan atau test Telegram'
+        required: true
+        default: 'scan'
+        type: choice
+        options:
+          - scan
+          - test_telegram
+
+# State file must be committed back to the repository.
+permissions:
+  contents: write
+
+# Never allow two scanners to modify state at the same time.
+concurrency:
+  group: kabar-saham-v6-scanner
+  cancel-in-progress: false
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 9
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v7
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install -r requirements.txt
+
+      - name: Resolve run mode
+        id: mode
+        shell: bash
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "value=${{ inputs.mode }}" >> "$GITHUB_OUTPUT"
+          else
+            echo "value=scan" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Run Kabar Saham V6
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_IDS: ${{ secrets.TELEGRAM_CHAT_IDS }}
+
+          CONFIG_PATH: ${{ github.workspace }}/config.json
+          DB_PATH: ${{ runner.temp }}/runtime_v6.db
+          V6_STATE_PATH: ${{ github.workspace }}/state/github_state.json
+
+          NEWS_POLL_MINUTES: '10'
+          RECENT_DAYS: '30'
+          AUTO_ALERT_HOURS: '48'
+          INDONESIA_PRIORITY: '1'
+          AUTO_ALERT_MIN_PRIORITY: 'MEDIUM'
+
+          MARKET_DATA_ENABLED: '1'
+          MARKET_CACHE_MINUTES: '15'
+          DECISION_LOTS: '1'
+          MARKET_ENRICH_LIMIT: '5'
+
+          DEEP_EXTRACTION_ENABLED: '1'
+          DEEP_EXTRACT_LIMIT: '3'
+          ARTICLE_CACHE_MINUTES: '60'
+          ARTICLE_TIMEOUT_SECONDS: '15'
+          MAX_ARTICLE_CHARS: '30000'
+
+          SOURCE_RESOLVER_ENABLED: '1'
+          RESOLVER_MAX_CANDIDATES: '8'
+          RESOLVER_SEARCH_FALLBACK: '1'
+          RESOLVER_CACHE_MINUTES: '180'
+          RESOLVER_TITLE_MIN_SCORE: '35'
+
+          GOOGLE_DECODER_ENABLED: '1'
+          GOOGLE_DECODER_BATCH_ENABLED: '1'
+          GOOGLE_DECODER_TIMEOUT_SECONDS: '12'
+          GOOGLE_DECODER_MAX_TOKEN_CHARS: '4096'
+          GOOGLE_DECODER_CACHE_MINUTES: '180'
+
+          DECODER_DEBUG_ENABLED: '0'
+          DECODER_MAX_RESPONSE_CHARS: '250000'
+          DECODER_MAX_URL_CANDIDATES: '20'
+          DECODER_MAX_NESTED_JSON_DEPTH: '5'
+
+          DYNAMIC_PROTOCOL_ENABLED: '1'
+          DYNAMIC_PARAMS_TIMEOUT_SECONDS: '12'
+          DYNAMIC_PARAMS_CACHE_MINUTES: '180'
+          DYNAMIC_PROTOCOL_FALLBACK_STATIC: '1'
+          DYNAMIC_PARAMS_HTML_MAX_CHARS: '500000'
+
+          PUBLISHER_DIRECT_ENABLED: '1'
+          PUBLISHER_DIRECT_MIN_SCORE: '70'
+          PUBLISHER_DIRECT_CACHE_MINUTES: '180'
+          PUBLISHER_DIRECT_TIMEOUT_SECONDS: '12'
+          PUBLISHER_DIRECT_MAX_CANDIDATES: '12'
+          PUBLISHER_INTERNAL_SEARCH_ENABLED: '1'
+          PUBLISHER_PUBLIC_SEARCH_ENABLED: '1'
+
+          V6_FIRST_RUN_MODE: 'BASELINE'
+          V6_SEND_BASELINE_NOTICE: '1'
+          V6_STATE_RETENTION_DAYS: '60'
+          V6_STATE_MAX_KEYS: '5000'
+          V6_KEEPALIVE_DAYS: '14'
+
+        run: |
+          python scan_once.py --mode "${{ steps.mode.outputs.value }}"
+
+      - name: Persist anti-duplicate state
+        # Telegram test does not modify scanner state.
+        if: steps.mode.outputs.value == 'scan'
+        shell: bash
+        run: |
+          git config user.name "kabar-saham-v6-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add state/github_state.json
+
+          if git diff --cached --quiet; then
+            echo "State unchanged; nothing to commit."
+            exit 0
+          fi
+
+          git commit -m "chore(state): update Kabar Saham scanner [skip ci]"
+
+          # Rebase safely in case the default branch changed while scanning.
+          git pull --rebase origin "${GITHUB_REF_NAME}"
+          git push origin "HEAD:${GITHUB_REF_NAME}"
