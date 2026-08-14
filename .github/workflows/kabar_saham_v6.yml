@@ -1,6 +1,6 @@
 name: Kabar Saham V6 - Auto Alert
 
-oon:
+on:
   workflow_dispatch:
     inputs:
       mode:
