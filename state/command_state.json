@@ -1,9 +1,9 @@
 {
-  "schema_version": 1,
-  "initialized": false,
-  "next_offset": 0,
-  "last_state_change_utc": null,
+  "commands_processed": 0,
+  "initialized": true,
   "last_command_utc": null,
-  "updates_seen": 0,
-  "commands_processed": 0
+  "last_state_change_utc": "2026-08-14T15:08:33.748260+00:00",
+  "next_offset": 0,
+  "schema_version": 1,
+  "updates_seen": 0
 }
