@@ -1,18 +1,28 @@
 {
-  "commands_processed": 19,
+  "commands_processed": 20,
   "duplicates_suppressed": 1,
   "initialized": true,
-  "issuer_aliases": {},
-  "last_command_utc": "2026-08-15T04:28:24.822946+00:00",
-  "last_state_change_utc": "2026-08-15T04:28:24.822964+00:00",
-  "next_offset": 527719731,
+  "issuer_aliases": {
+    "BNII": [
+      "MAM dan MSI"
+    ],
+    "KPPU": [
+      "Coates Hire Indonesia"
+    ],
+    "OCBC": [
+      "20% Saham Great Eastern Life Indonesia Rp201"
+    ]
+  },
+  "last_command_utc": "2026-08-15T04:29:39.854328+00:00",
+  "last_state_change_utc": "2026-08-15T04:29:39.854342+00:00",
+  "next_offset": 527719732,
   "recent_commands": {
-    "3ee4ef5cdf961718d1c0de120b3e6b70": 1786765615,
+    "3ee4ef5cdf961718d1c0de120b3e6b70": 1786768134,
     "533250b545e402ad23277855bf9c018c": 1786765777,
     "8cfb609f3d40a5eebbcc9bb187062792": 1786725031,
     "d098246b31ac65321bf2b319473d3609": 1786765862,
     "df42594ad243c54b915273725483bc7e": 1786768070
   },
   "schema_version": 6,
-  "updates_seen": 20
+  "updates_seen": 21
 }
