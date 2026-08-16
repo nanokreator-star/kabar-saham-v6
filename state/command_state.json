@@ -1,24 +1,32 @@
 {
-  "commands_processed": 23,
+  "commands_processed": 24,
   "duplicates_suppressed": 1,
   "initialized": true,
   "issuer_aliases": {
     "BNII": [
       "MAM dan MSI"
     ],
+    "BYAN": [
+      "Bayan (BYAN"
+    ],
+    "DOOH": [
+      "Era Media Sejahtera"
+    ],
     "KPPU": [
       "Coates Hire Indonesia"
     ],
     "OCBC": [
-      "20% Saham Great Eastern Life Indonesia Rp201"
+      "20% Saham Great Eastern Life Indonesia Rp201",
+      "OCBC Sekuritas Rp 455 Miliar"
     ]
   },
-  "last_command_utc": "2026-08-16T17:11:08.766427+00:00",
-  "last_state_change_utc": "2026-08-16T17:11:08.766439+00:00",
-  "next_offset": 527719735,
+  "last_command_utc": "2026-08-16T17:12:42.796346+00:00",
+  "last_state_change_utc": "2026-08-16T17:12:42.796358+00:00",
+  "next_offset": 527719736,
   "recent_commands": {
+    "3ee4ef5cdf961718d1c0de120b3e6b70": 1786900319,
     "df42594ad243c54b915273725483bc7e": 1786900237
   },
   "schema_version": 7,
-  "updates_seen": 24
+  "updates_seen": 25
 }
