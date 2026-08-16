@@ -1,5 +1,5 @@
 {
-  "commands_processed": 26,
+  "commands_processed": 28,
   "duplicates_suppressed": 2,
   "initialized": true,
   "issuer_aliases": {
@@ -20,15 +20,17 @@
       "OCBC Sekuritas Rp 455 Miliar"
     ]
   },
-  "last_command_utc": "2026-08-16T17:16:32.464606+00:00",
-  "last_state_change_utc": "2026-08-16T17:17:22.450554+00:00",
-  "next_offset": 527719739,
+  "last_command_utc": "2026-08-16T17:21:09.475478+00:00",
+  "last_state_change_utc": "2026-08-16T17:21:09.475491+00:00",
+  "next_offset": 527719741,
   "recent_commands": {
     "3ee4ef5cdf961718d1c0de120b3e6b70": 1786900319,
     "533250b545e402ad23277855bf9c018c": 1786900558,
+    "aed44ebe60b8de487bbddd02d19c1f9a": 1786900721,
+    "cce1bbcb51a987bc647f5b6a03bff886": 1786900842,
     "d098246b31ac65321bf2b319473d3609": 1786900472,
     "df42594ad243c54b915273725483bc7e": 1786900237
   },
   "schema_version": 7,
-  "updates_seen": 28
+  "updates_seen": 30
 }
