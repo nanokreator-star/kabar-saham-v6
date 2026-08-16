@@ -1,5 +1,5 @@
 {
-  "commands_processed": 36,
+  "commands_processed": 38,
   "duplicates_suppressed": 2,
   "initialized": true,
   "issuer_aliases": {
@@ -20,19 +20,59 @@
       "OCBC Sekuritas Rp 455 Miliar"
     ]
   },
-  "last_command_utc": "2026-08-16T17:49:30.304449+00:00",
-  "last_state_change_utc": "2026-08-16T17:49:30.304463+00:00",
-  "next_offset": 527719749,
+  "last_command_utc": "2026-08-16T18:27:50.396799+00:00",
+  "last_state_change_utc": "2026-08-16T18:27:50.396814+00:00",
+  "lifecycle_history": {
+    "DOOH|M&A / TAKEOVER": [
+      {
+        "catalyst": "POSITIVE",
+        "event_type": "TENDER OFFER",
+        "execution_price": null,
+        "family": "M&A / TAKEOVER",
+        "issuer": "Era Media Sejahtera",
+        "money": [
+          "Rp197,34 miliar"
+        ],
+        "next_milestone": "Penyelesaian tender / pembayaran",
+        "observed_utc": "2026-08-16T18:27:49.564514+00:00",
+        "official_authority": "IDX",
+        "official_cached": false,
+        "official_kind": "PRIMARY",
+        "official_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSWRNOVVfY0NhNXkwZkdZOUh3dkVsVFo3RGxSSXZYMkVMN3FYTDdnOTJiWmplSWdXVnU2X0xBVjIzTGUwaG9xWjQ2eFVTTkFhODdvVmVqUElScy1iMG9sZ3pFS1lCbWU3RlV3ZnVYTUo4aFNZREQyZVNPY25rSlQ0UzhlUHNKaDZxajFKYVNLczZHVXR6U3FhX1ZjWVFXVUNaV2JHWEhNLXRNVDdtRnQyTlhjZw?oc=5",
+        "price_range": null,
+        "published": "Fri, 14 Aug 2026 13:49:58 GMT",
+        "ratio": null,
+        "schedule": {},
+        "score": 88,
+        "share_count": "3,946 miliar saham",
+        "signal": "HIGH ATTENTION",
+        "signature": "bd552b8ef5ef4adb93702b6f847ada14b956ae4f87ade4c8d5bbfc8502c9ceb5",
+        "source": "kontan.co.id",
+        "source_url": "https://www.kontan.co.id/tag/saham-dooh",
+        "stage": "TENDER OFFER",
+        "stage_step": 6,
+        "stage_total": 7,
+        "stake": [
+          51.0
+        ],
+        "tender_price": null,
+        "ticker": "DOOH",
+        "title": "Pengendali Anyar DOOH Ternyata Baru Berdiri, Kuasai 51% Saham & Wajib Tender Offer - kontan.co.id"
+      }
+    ]
+  },
+  "next_offset": 527719751,
   "recent_commands": {
     "3ee4ef5cdf961718d1c0de120b3e6b70": 1786902502,
+    "4e350a4febee8a4dadd6f1194767bcfc": 1786904797,
     "533250b545e402ad23277855bf9c018c": 1786902512,
     "aed44ebe60b8de487bbddd02d19c1f9a": 1786900721,
     "cce1bbcb51a987bc647f5b6a03bff886": 1786900842,
     "d098246b31ac65321bf2b319473d3609": 1786902523,
-    "df42594ad243c54b915273725483bc7e": 1786902483
+    "df42594ad243c54b915273725483bc7e": 1786904784
   },
-  "schema_version": 8,
-  "updates_seen": 38,
+  "schema_version": 9,
+  "updates_seen": 40,
   "verified_official": {
     "DOOH": {
       "entries": [
@@ -49,7 +89,7 @@
       "issuer_aliases": [
         "Era Media Sejahtera"
       ],
-      "last_verified_utc": "2026-08-16T17:49:28.066831+00:00",
+      "last_verified_utc": "2026-08-16T18:27:49.033376+00:00",
       "ticker": "DOOH"
     }
   }
