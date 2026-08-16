@@ -1,5 +1,5 @@
 {
-  "commands_processed": 38,
+  "commands_processed": 39,
   "duplicates_suppressed": 3,
   "initialized": true,
   "issuer_aliases": {
@@ -20,8 +20,8 @@
       "OCBC Sekuritas Rp 455 Miliar"
     ]
   },
-  "last_command_utc": "2026-08-16T18:27:50.396799+00:00",
-  "last_state_change_utc": "2026-08-16T18:29:01.444218+00:00",
+  "last_command_utc": "2026-08-16T18:30:12.385380+00:00",
+  "last_state_change_utc": "2026-08-16T18:30:12.385385+00:00",
   "lifecycle_history": {
     "DOOH|M&A / TAKEOVER": [
       {
@@ -30,6 +30,7 @@
         "execution_price": null,
         "family": "M&A / TAKEOVER",
         "issuer": "Era Media Sejahtera",
+        "last_seen_utc": "2026-08-16T18:30:12.385317+00:00",
         "money": [
           "Rp197,34 miliar"
         ],
@@ -61,9 +62,9 @@
       }
     ]
   },
-  "next_offset": 527719752,
+  "next_offset": 527719753,
   "recent_commands": {
-    "3ee4ef5cdf961718d1c0de120b3e6b70": 1786902502,
+    "3ee4ef5cdf961718d1c0de120b3e6b70": 1786904972,
     "4e350a4febee8a4dadd6f1194767bcfc": 1786904797,
     "533250b545e402ad23277855bf9c018c": 1786902512,
     "aed44ebe60b8de487bbddd02d19c1f9a": 1786900721,
@@ -72,7 +73,7 @@
     "df42594ad243c54b915273725483bc7e": 1786904784
   },
   "schema_version": 9,
-  "updates_seen": 41,
+  "updates_seen": 42,
   "verified_official": {
     "DOOH": {
       "entries": [
@@ -89,7 +90,7 @@
       "issuer_aliases": [
         "Era Media Sejahtera"
       ],
-      "last_verified_utc": "2026-08-16T18:27:49.033376+00:00",
+      "last_verified_utc": "2026-08-16T18:30:11.208715+00:00",
       "ticker": "DOOH"
     }
   }
