@@ -1,5 +1,5 @@
 {
-  "commands_processed": 43,
+  "commands_processed": 44,
   "duplicates_suppressed": 4,
   "initialized": true,
   "issuer_aliases": {
@@ -20,8 +20,8 @@
       "OCBC Sekuritas Rp 455 Miliar"
     ]
   },
-  "last_command_utc": "2026-08-16T19:00:25.097306+00:00",
-  "last_state_change_utc": "2026-08-16T19:01:54.870264+00:00",
+  "last_command_utc": "2026-08-16T19:07:09.002829+00:00",
+  "last_state_change_utc": "2026-08-16T19:07:09.002841+00:00",
   "lifecycle_history": {
     "AKSI|M&A / TAKEOVER": [
       {
@@ -69,14 +69,14 @@
         "family": "M&A / TAKEOVER",
         "issuer": "Era Media Sejahtera",
         "last_detail_update_utc": "2026-08-16T19:00:24.612010+00:00",
-        "last_seen_utc": "2026-08-16T19:00:24.612010+00:00",
+        "last_seen_utc": "2026-08-16T19:07:08.341040+00:00",
         "money": [
           "Rp197,34 miliar"
         ],
         "next_milestone": "Penyelesaian tender / pembayaran",
         "observed_utc": "2026-08-16T18:27:49.564514+00:00",
         "official_authority": "IDX",
-        "official_cached": true,
+        "official_cached": false,
         "official_kind": "PRIMARY",
         "official_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSWRNOVVfY0NhNXkwZkdZOUh3dkVsVFo3RGxSSXZYMkVMN3FYTDdnOTJiWmplSWdXVnU2X0xBVjIzTGUwaG9xWjQ2eFVTTkFhODdvVmVqUElScy1iMG9sZ3pFS1lCbWU3RlV3ZnVYTUo4aFNZREQyZVNPY25rSlQ0UzhlUHNKaDZxajFKYVNLczZHVXR6U3FhX1ZjWVFXVUNaV2JHWEhNLXRNVDdtRnQyTlhjZw?oc=5",
         "price_range": null,
@@ -207,10 +207,10 @@
       }
     ]
   },
-  "next_offset": 527719758,
+  "next_offset": 527719759,
   "recent_commands": {
     "3ee4ef5cdf961718d1c0de120b3e6b70": 1786904972,
-    "4e350a4febee8a4dadd6f1194767bcfc": 1786906784,
+    "4e350a4febee8a4dadd6f1194767bcfc": 1786907185,
     "533250b545e402ad23277855bf9c018c": 1786902512,
     "aed44ebe60b8de487bbddd02d19c1f9a": 1786900721,
     "cce1bbcb51a987bc647f5b6a03bff886": 1786900842,
@@ -218,7 +218,7 @@
     "df42594ad243c54b915273725483bc7e": 1786906747
   },
   "schema_version": 10,
-  "updates_seen": 47,
+  "updates_seen": 48,
   "verified_official": {
     "DOOH": {
       "entries": [
@@ -235,7 +235,7 @@
       "issuer_aliases": [
         "Era Media Sejahtera"
       ],
-      "last_verified_utc": "2026-08-16T18:39:15.234160+00:00",
+      "last_verified_utc": "2026-08-16T19:07:08.028288+00:00",
       "ticker": "DOOH"
     }
   }
