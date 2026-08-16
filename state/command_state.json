@@ -1,6 +1,6 @@
 {
   "commands_processed": 38,
-  "duplicates_suppressed": 2,
+  "duplicates_suppressed": 3,
   "initialized": true,
   "issuer_aliases": {
     "BNII": [
@@ -21,7 +21,7 @@
     ]
   },
   "last_command_utc": "2026-08-16T18:27:50.396799+00:00",
-  "last_state_change_utc": "2026-08-16T18:27:50.396814+00:00",
+  "last_state_change_utc": "2026-08-16T18:29:01.444218+00:00",
   "lifecycle_history": {
     "DOOH|M&A / TAKEOVER": [
       {
@@ -61,7 +61,7 @@
       }
     ]
   },
-  "next_offset": 527719751,
+  "next_offset": 527719752,
   "recent_commands": {
     "3ee4ef5cdf961718d1c0de120b3e6b70": 1786902502,
     "4e350a4febee8a4dadd6f1194767bcfc": 1786904797,
@@ -72,7 +72,7 @@
     "df42594ad243c54b915273725483bc7e": 1786904784
   },
   "schema_version": 9,
-  "updates_seen": 40,
+  "updates_seen": 41,
   "verified_official": {
     "DOOH": {
       "entries": [
