@@ -1,5 +1,5 @@
 {
-  "commands_processed": 56,
+  "commands_processed": 57,
   "duplicates_suppressed": 4,
   "initialized": true,
   "issuer_aliases": {
@@ -20,8 +20,8 @@
       "OCBC Sekuritas Rp 455 Miliar"
     ]
   },
-  "last_command_utc": "2026-08-17T08:56:07.210344+00:00",
-  "last_state_change_utc": "2026-08-17T08:56:07.210359+00:00",
+  "last_command_utc": "2026-08-17T08:56:43.976115+00:00",
+  "last_state_change_utc": "2026-08-17T08:56:43.976129+00:00",
   "lifecycle_history": {
     "AKSI|M&A / TAKEOVER": [
       {
@@ -208,9 +208,10 @@
       }
     ]
   },
-  "next_offset": 527719771,
+  "next_offset": 527719772,
   "recent_commands": {
     "2c27fe8005d1d4ba13a11593ab925507": 1786951103,
+    "2d7a123cb1d7ba38697f01158605991f": 1786956975,
     "339afe5dac760c126d6e4534294cc187": 1786951152,
     "3ee4ef5cdf961718d1c0de120b3e6b70": 1786904972,
     "4e350a4febee8a4dadd6f1194767bcfc": 1786907185,
@@ -227,7 +228,7 @@
     "df42594ad243c54b915273725483bc7e": 1786956907
   },
   "schema_version": 12,
-  "updates_seen": 60,
+  "updates_seen": 61,
   "verified_official": {
     "DOOH": {
       "entries": [
