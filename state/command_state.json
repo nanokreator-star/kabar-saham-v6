@@ -1,5 +1,5 @@
 {
-  "commands_processed": 48,
+  "commands_processed": 49,
   "duplicates_suppressed": 4,
   "initialized": true,
   "issuer_aliases": {
@@ -20,8 +20,8 @@
       "OCBC Sekuritas Rp 455 Miliar"
     ]
   },
-  "last_command_utc": "2026-08-17T07:36:42.229137+00:00",
-  "last_state_change_utc": "2026-08-17T07:36:42.229150+00:00",
+  "last_command_utc": "2026-08-17T08:11:50.204250+00:00",
+  "last_state_change_utc": "2026-08-17T08:11:50.204262+00:00",
   "lifecycle_history": {
     "AKSI|M&A / TAKEOVER": [
       {
@@ -63,13 +63,13 @@
     "DOOH|M&A / TAKEOVER": [
       {
         "catalyst": "POSITIVE",
-        "detail_update_count": 4,
+        "detail_update_count": 5,
         "event_type": "TENDER OFFER",
         "execution_price": null,
         "family": "M&A / TAKEOVER",
         "issuer": "Era Media Sejahtera",
-        "last_detail_update_utc": "2026-08-17T07:36:30.383532+00:00",
-        "last_seen_utc": "2026-08-17T07:36:30.383532+00:00",
+        "last_detail_update_utc": "2026-08-17T08:11:37.903175+00:00",
+        "last_seen_utc": "2026-08-17T08:11:37.903175+00:00",
         "money": [
           "Rp197,34 miliar"
         ],
@@ -82,12 +82,12 @@
         "price_range": null,
         "published": "Fri, 14 Aug 2026 13:49:58 GMT",
         "ratio": null,
-        "scanner_seen_utc": "2026-08-17T07:20:39.045557+00:00",
+        "scanner_seen_utc": "2026-08-17T07:37:31.645672+00:00",
         "schedule": {},
         "score": 82,
         "share_count": "3,946 miliar saham",
         "signal": "HIGH ATTENTION",
-        "signature": "02ccab446be67965c9b000d7e76c2c6ac8912a1c938f4671148fad8fb87e128a",
+        "signature": "78de11070d37451eaaac8defe35ef58cc0e3d04bb53974e74486c3d897379463",
         "source": "kontan.co.id",
         "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPN3VOa2VEQWJZb3pxaWJRSlM2QTFxNnZqUENhdlU1UTRyMjdMUUVTZEdiZFJZVEVBb1Q5cy1DdnAtZ0oxbTZQRnhER2dLVXh3VjY5a1VuSlVuQ1dydmRFMENHQ2RyVFhsMjBhWDdDQ05abnBVT1Qya1B6cHlaSVJiSHIyQzYtTXhzN2drWGxzOGdiaGpZei1oa1VDR3NLaDlwMWt2SEN3NUlYcmN6REE2cUc2SdIBqwFBVV95cUxPbldiVm1iUGhxanhlQWVRVFVnc1VndmlXb0N0YTE3SmxDWkpscXBDZVBCUHU5czl0OGpVLVgyNWc3THBIVG82cHRpSFZTcDZEZ3JZTmNiamRnQUl1MzhVZENCUTNNaG5kQ2kxZllBRFBXdkljUzNfbnhsUDlPbWRjRlpkYXhFbzlQaFpjV2VTbS1GWi0yamUwLTdKTG9TTy1rd3JxSDg0TFdHOGM?oc=5",
         "stage": "TENDER OFFER",
@@ -95,7 +95,6 @@
         "stage_step": 6,
         "stage_total": 7,
         "stake": [
-          51.0,
           51.0
         ],
         "tender_price": null,
@@ -209,20 +208,21 @@
       }
     ]
   },
-  "next_offset": 527719763,
+  "next_offset": 527719764,
   "recent_commands": {
     "2c27fe8005d1d4ba13a11593ab925507": 1786951103,
     "339afe5dac760c126d6e4534294cc187": 1786951152,
     "3ee4ef5cdf961718d1c0de120b3e6b70": 1786904972,
     "4e350a4febee8a4dadd6f1194767bcfc": 1786907185,
     "533250b545e402ad23277855bf9c018c": 1786902512,
+    "704fce69f158ef3c4d5aeb580492d912": 1786954280,
     "aed44ebe60b8de487bbddd02d19c1f9a": 1786900721,
     "cce1bbcb51a987bc647f5b6a03bff886": 1786900842,
     "d098246b31ac65321bf2b319473d3609": 1786905035,
     "df42594ad243c54b915273725483bc7e": 1786952175
   },
   "schema_version": 12,
-  "updates_seen": 52,
+  "updates_seen": 53,
   "verified_official": {
     "DOOH": {
       "entries": [
