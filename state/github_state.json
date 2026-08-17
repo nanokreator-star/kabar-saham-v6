@@ -1,9 +1,9 @@
 {
   "baseline_initialized": true,
   "last_keepalive_utc": "2026-08-14T10:15:00.868800+00:00",
-  "last_state_change_utc": "2026-08-17T07:20:39.650594+00:00",
+  "last_state_change_utc": "2026-08-17T07:37:31.668096+00:00",
   "milestone_alerts": {},
-  "schema_version": 2,
+  "schema_version": 3,
   "sent": {
     "012e596a93e964d4908648da9297384f9ea68eb165f47ad9c1c9978b1fbb8b7c": "2026-08-14T10:15:00.868800+00:00",
     "01b1f973b10e02a81324bdb7d72a4442994e3fe9c1600e874211cc67b202e2a0": "2026-08-14T10:15:00.868800+00:00",
@@ -45,6 +45,7 @@
     "429f6dfbfb27af1f3aad80bf00b3dcbfde708ea095eac66280325e7e424fbc1d": "2026-08-14T10:15:00.868800+00:00",
     "44285719d070df6b59d0d0829be304528abb198af9f4bb215376d7d94cbba994": "2026-08-14T10:15:00.868800+00:00",
     "444758c81e424daee13d06430773f25877fbf4c860a87546cf00acb36a961238": "2026-08-14T10:15:00.868800+00:00",
+    "45beca7738c9133f975c545cd682b0704c633b21a3b90e2c06f6e9f162373e45": "2026-08-17T07:37:31.645710+00:00",
     "476d0f3eccd6d3ee387f32cdcaa15e804cc8f0ffc5fa48602544f0d233749f07": "2026-08-14T10:15:00.868800+00:00",
     "4db158fa131d9bdb7e06da8ba6759fe5073e4e9c9bac3496a711b3431d107ebd": "2026-08-14T10:15:00.868800+00:00",
     "4e440b65597626aeb9c337edac2f1103fb81d8886d5affb654ce547d687ff0c1": "2026-08-14T10:15:00.868800+00:00",
@@ -137,6 +138,9 @@
     "f8fb1eea7f3931c8c49eda5628d65af20d0a78b4aa4a20d5cc9c1b4ce4e73b29": "2026-08-14T10:15:00.868800+00:00",
     "fcdbae73571cb3a9f90be1262db52468ce7b912e97ee5d9ea3ec9ae4a5d8a4b0": "2026-08-14T10:15:00.868800+00:00"
   },
+  "watch_baseline_tokens": {
+    "DOOH": "2026-08-17T07:18:51.893214+00:00|2026-08-17T07:18:51.893217+00:00|HIGH"
+  },
   "watch_lifecycle": {
     "DOOH|M&A / TAKEOVER": {
       "catalyst": "POSITIVE",
@@ -159,7 +163,7 @@
       "price_range": null,
       "published": "Fri, 14 Aug 2026 13:49:58 GMT",
       "ratio": null,
-      "scanner_seen_utc": "2026-08-17T07:20:39.045557+00:00",
+      "scanner_seen_utc": "2026-08-17T07:37:31.645672+00:00",
       "schedule": {},
       "score": 82,
       "share_count": "3,946 miliar saham",
@@ -172,7 +176,6 @@
       "stage_step": 6,
       "stage_total": 7,
       "stake": [
-        51.0,
         51.0
       ],
       "tender_price": null,
