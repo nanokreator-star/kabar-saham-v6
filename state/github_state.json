@@ -765,6 +765,42 @@
       },
       "ticker": ""
     },
+    "M&A / TAKEOVER|TITLE|BCA INDOFOOD CATAT PERUBAHAN PENGENDALI SERTA KINERJA": {
+      "family": "M&A / TAKEOVER",
+      "first_seen_utc": "2026-08-14T10:15:00.868800+00:00",
+      "last_alert_utc": "2026-08-14T10:15:00.868800+00:00",
+      "last_seen_utc": "2026-08-14T10:15:00.868800+00:00",
+      "market_context": {
+        "change_pct": null,
+        "last_price": null,
+        "market_date": null
+      },
+      "material_snapshot": {
+        "acquirer": null,
+        "acquirer_confirmed": false,
+        "event_type": "TAKEOVER",
+        "execution_price": null,
+        "ipo_single_price": null,
+        "money": [],
+        "official_authority": null,
+        "official_kind": null,
+        "price_range": null,
+        "ratio": null,
+        "schedule": {},
+        "share_count": null,
+        "stage": "CHANGE OF CONTROL",
+        "stage_step": 5,
+        "stage_total": 7,
+        "stake": [],
+        "standby_buyer": null,
+        "target": null,
+        "target_confirmed": false,
+        "tender_price": null,
+        "underwriter": null,
+        "use_of_funds": []
+      },
+      "ticker": ""
+    },
     "M&A / TAKEOVER|TITLE|DISOROT GULA BALIKKAN RUGI JADI UNTUNG NAIK": {
       "family": "M&A / TAKEOVER",
       "first_seen_utc": "2026-08-14T10:15:00.868800+00:00",
@@ -3275,7 +3311,7 @@
     }
   },
   "last_keepalive_utc": "2026-08-14T10:15:00.868800+00:00",
-  "last_state_change_utc": "2026-08-18T06:00:58.154422+00:00",
+  "last_state_change_utc": "2026-08-18T07:00:55.603410+00:00",
   "market_noise_suppressed": 0,
   "milestone_alerts": {},
   "schema_version": 3,
