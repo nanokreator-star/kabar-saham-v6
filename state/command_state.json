@@ -1,5 +1,5 @@
 {
-  "commands_processed": 69,
+  "commands_processed": 70,
   "duplicates_suppressed": 4,
   "initialized": true,
   "issuer_aliases": {
@@ -14,6 +14,9 @@
     "DOOH": [
       "Era Media Sejahtera"
     ],
+    "GIAA": [
+      "Garuda Indonesia (Persero"
+    ],
     "KPPU": [
       "Coates Hire Indonesia"
     ],
@@ -22,8 +25,8 @@
       "OCBC Sekuritas Rp 455 Miliar"
     ]
   },
-  "last_command_utc": "2026-08-18T09:46:28.810648+00:00",
-  "last_state_change_utc": "2026-08-18T09:46:28.810663+00:00",
+  "last_command_utc": "2026-08-18T09:48:36.129899+00:00",
+  "last_state_change_utc": "2026-08-18T09:48:36.129903+00:00",
   "lifecycle_history": {
     "AKSI|M&A / TAKEOVER": [
       {
@@ -138,6 +141,44 @@
         "title": "Triple B Akuisisi 34,56 Persen Saham EPAC, Siap Gelar Tender Wajib - IDX Channel"
       }
     ],
+    "GIAA|M&A / TAKEOVER": [
+      {
+        "catalyst": "NEUTRAL",
+        "detail_update_count": 0,
+        "event_type": "MERGER",
+        "execution_price": null,
+        "family": "M&A / TAKEOVER",
+        "issuer": "Garuda Indonesia (Persero",
+        "last_seen_utc": "2026-08-18T09:48:36.129841+00:00",
+        "money": [],
+        "next_milestone": "Konfirmasi rencana transaksi",
+        "observed_utc": "2026-08-18T09:48:36.129841+00:00",
+        "official_authority": "",
+        "official_cached": false,
+        "official_kind": "",
+        "official_url": "",
+        "price_range": null,
+        "published": "Wed, 12 Aug 2026 05:24:34 GMT",
+        "ratio": null,
+        "schedule": {},
+        "score": 55,
+        "share_count": null,
+        "signal": "WATCH",
+        "signature": "879091a2fd7f8163c65fc26ae5ab3bcf94896b11c1422746277e0d4570a16224",
+        "source": "Ajaib",
+        "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSzhNYUFLSXN6d2JyUjdET21FeEl1bjk3WUpZRURUbHFVOWhCdGlfUUZKN1VxbFZOalFLMzNHTHI4RFIxNGJMSVBhV1hsOVljYnR4OEVrMkVnZVR1Ri16RExMY2loUmRqVFNHVVFDcWlCUTdTb01iUzBqRXFGYXF3MTFMWGxXODg?oc=5",
+        "stage": "M&A INFO",
+        "stage_started_utc": "2026-08-18T09:48:36.129841+00:00",
+        "stage_step": 1,
+        "stage_total": 7,
+        "stake": [
+          33.0
+        ],
+        "tender_price": null,
+        "ticker": "GIAA",
+        "title": "Saham GIAA Melonjak 33% di Tengah Sentimen Merger Pelita Air, Apakah Menarik untuk Trading? - Ajaib"
+      }
+    ],
     "GRUP|M&A / TAKEOVER": [
       {
         "catalyst": "POSITIVE",
@@ -210,8 +251,9 @@
       }
     ]
   },
-  "next_offset": 527719785,
+  "next_offset": 527719786,
   "recent_commands": {
+    "26624963e59274d218f73177edb88aec": 1787046421,
     "351d590a51b1fc322938538275d1124c": 1787030652,
     "4478bd5b0be4f9956fb1627f68056208": 1787046372,
     "56539456a669bb791ade18009d940e49": 1787036206,
@@ -219,7 +261,7 @@
     "df42594ad243c54b915273725483bc7e": 1787029896
   },
   "schema_version": 12,
-  "updates_seen": 74,
+  "updates_seen": 75,
   "verified_official": {
     "DOOH": {
       "entries": [
