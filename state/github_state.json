@@ -879,6 +879,44 @@
       },
       "ticker": ""
     },
+    "M&A / TAKEOVER|TITLE|DOOH TUNTAS SINERGI INTERNASIONAL GELAR WAJIB RCTIPLUS": {
+      "family": "M&A / TAKEOVER",
+      "first_seen_utc": "2026-08-18T03:31:02.730821+00:00",
+      "last_alert_utc": "2026-08-18T03:31:02.730821+00:00",
+      "last_seen_utc": "2026-08-18T03:31:02.730821+00:00",
+      "market_context": {
+        "change_pct": null,
+        "last_price": null,
+        "market_date": null
+      },
+      "material_snapshot": {
+        "acquirer": null,
+        "acquirer_confirmed": false,
+        "event_type": "TENDER OFFER",
+        "execution_price": null,
+        "ipo_single_price": null,
+        "money": [],
+        "official_authority": null,
+        "official_kind": null,
+        "price_range": null,
+        "ratio": null,
+        "schedule": {},
+        "share_count": null,
+        "stage": "TENDER OFFER",
+        "stage_step": 6,
+        "stage_total": 7,
+        "stake": [],
+        "standby_buyer": null,
+        "target": null,
+        "target_confirmed": false,
+        "tender_price": null,
+        "underwriter": null,
+        "use_of_funds": [
+          "AKUISISI / INVESTASI"
+        ]
+      },
+      "ticker": ""
+    },
     "M&A / TAKEOVER|TITLE|DOOH WAJIB USAI DIAMBIL ALIH ADA IRISAN": {
       "family": "M&A / TAKEOVER",
       "first_seen_utc": "2026-08-18T03:31:02.730821+00:00",
@@ -978,6 +1016,42 @@
         "share_count": null,
         "stage": "CHANGE OF CONTROL",
         "stage_step": 5,
+        "stage_total": 7,
+        "stake": [],
+        "standby_buyer": null,
+        "target": null,
+        "target_confirmed": false,
+        "tender_price": null,
+        "underwriter": null,
+        "use_of_funds": []
+      },
+      "ticker": ""
+    },
+    "M&A / TAKEOVER|TITLE|INPS SEPI PEMINAT GRAHA INTI SERAP 000": {
+      "family": "M&A / TAKEOVER",
+      "first_seen_utc": "2026-08-14T10:15:00.868800+00:00",
+      "last_alert_utc": "2026-08-14T10:15:00.868800+00:00",
+      "last_seen_utc": "2026-08-14T10:15:00.868800+00:00",
+      "market_context": {
+        "change_pct": null,
+        "last_price": null,
+        "market_date": null
+      },
+      "material_snapshot": {
+        "acquirer": null,
+        "acquirer_confirmed": false,
+        "event_type": "TENDER OFFER",
+        "execution_price": null,
+        "ipo_single_price": null,
+        "money": [],
+        "official_authority": null,
+        "official_kind": null,
+        "price_range": null,
+        "ratio": null,
+        "schedule": {},
+        "share_count": "5.000 saham",
+        "stage": "TENDER OFFER",
+        "stage_step": 6,
         "stage_total": 7,
         "stake": [],
         "standby_buyer": null,
@@ -2239,6 +2313,44 @@
       },
       "ticker": ""
     },
+    "RIGHTS ISSUE|TITLE|EKSPANSI KREDIT BMAS SIAPKAN MILIAR RCTIPLUS COM": {
+      "family": "RIGHTS ISSUE",
+      "first_seen_utc": "2026-08-14T10:15:00.868800+00:00",
+      "last_alert_utc": "2026-08-14T10:15:00.868800+00:00",
+      "last_seen_utc": "2026-08-14T10:15:00.868800+00:00",
+      "market_context": {
+        "change_pct": null,
+        "last_price": null,
+        "market_date": null
+      },
+      "material_snapshot": {
+        "acquirer": null,
+        "acquirer_confirmed": false,
+        "event_type": "RIGHTS ISSUE",
+        "execution_price": null,
+        "ipo_single_price": null,
+        "money": [],
+        "official_authority": null,
+        "official_kind": null,
+        "price_range": null,
+        "ratio": null,
+        "schedule": {},
+        "share_count": "2,9 Miliar saham",
+        "stage": "RIGHTS ISSUE INFO",
+        "stage_step": 1,
+        "stage_total": 6,
+        "stake": [],
+        "standby_buyer": null,
+        "target": null,
+        "target_confirmed": false,
+        "tender_price": null,
+        "underwriter": null,
+        "use_of_funds": [
+          "EKSPANSI / CAPEX"
+        ]
+      },
+      "ticker": ""
+    },
     "RIGHTS ISSUE|TITLE|ENRG BAKRIE KALILA JADI STANDBY BUYER ARTI": {
       "family": "RIGHTS ISSUE",
       "first_seen_utc": "2026-08-14T10:15:00.868800+00:00",
@@ -2420,6 +2532,44 @@
         "stake": [
           100.0
         ],
+        "standby_buyer": null,
+        "target": null,
+        "target_confirmed": false,
+        "tender_price": null,
+        "underwriter": null,
+        "use_of_funds": []
+      },
+      "ticker": ""
+    },
+    "RIGHTS ISSUE|TITLE|GELAR RP372 61 MILIAR BRNA TEBAR 181": {
+      "family": "RIGHTS ISSUE",
+      "first_seen_utc": "2026-08-14T10:15:00.868800+00:00",
+      "last_alert_utc": "2026-08-14T10:15:00.868800+00:00",
+      "last_seen_utc": "2026-08-14T10:15:00.868800+00:00",
+      "market_context": {
+        "change_pct": null,
+        "last_price": null,
+        "market_date": null
+      },
+      "material_snapshot": {
+        "acquirer": null,
+        "acquirer_confirmed": false,
+        "event_type": "RIGHTS ISSUE",
+        "execution_price": null,
+        "ipo_single_price": null,
+        "money": [
+          "Rp372,61 miliar"
+        ],
+        "official_authority": null,
+        "official_kind": null,
+        "price_range": null,
+        "ratio": null,
+        "schedule": {},
+        "share_count": null,
+        "stage": "RIGHTS ISSUE INFO",
+        "stage_step": 1,
+        "stage_total": 6,
+        "stake": [],
         "standby_buyer": null,
         "target": null,
         "target_confirmed": false,
@@ -3125,7 +3275,7 @@
     }
   },
   "last_keepalive_utc": "2026-08-14T10:15:00.868800+00:00",
-  "last_state_change_utc": "2026-08-18T05:13:56.231273+00:00",
+  "last_state_change_utc": "2026-08-18T06:00:58.154422+00:00",
   "market_noise_suppressed": 0,
   "milestone_alerts": {},
   "schema_version": 3,
