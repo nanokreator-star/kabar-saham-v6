@@ -2391,6 +2391,44 @@
       },
       "ticker": ""
     },
+    "RIGHTS ISSUE|TITLE|FORU RP27 EFEK DILUSI HAMPIR 100 BLOOMBERG": {
+      "family": "RIGHTS ISSUE",
+      "first_seen_utc": "2026-08-14T10:15:00.868800+00:00",
+      "last_alert_utc": "2026-08-14T10:15:00.868800+00:00",
+      "last_seen_utc": "2026-08-14T10:15:00.868800+00:00",
+      "market_context": {
+        "change_pct": null,
+        "last_price": null,
+        "market_date": null
+      },
+      "material_snapshot": {
+        "acquirer": null,
+        "acquirer_confirmed": false,
+        "event_type": "RIGHTS ISSUE",
+        "execution_price": null,
+        "ipo_single_price": null,
+        "money": [],
+        "official_authority": null,
+        "official_kind": null,
+        "price_range": null,
+        "ratio": null,
+        "schedule": {},
+        "share_count": null,
+        "stage": "RIGHTS ISSUE INFO",
+        "stage_step": 1,
+        "stage_total": 6,
+        "stake": [
+          100.0
+        ],
+        "standby_buyer": null,
+        "target": null,
+        "target_confirmed": false,
+        "tender_price": null,
+        "underwriter": null,
+        "use_of_funds": []
+      },
+      "ticker": ""
+    },
     "RIGHTS ISSUE|TITLE|GRUP BAKRIE MAU RIGHT BEGINI POLA HISTORIS": {
       "family": "RIGHTS ISSUE",
       "first_seen_utc": "2026-08-14T10:15:00.868800+00:00",
@@ -2757,6 +2795,44 @@
       },
       "ticker": ""
     },
+    "RIGHTS ISSUE|TITLE|PT BUKIT ULUWATU VILLA TBK GELAR BUVA": {
+      "family": "RIGHTS ISSUE",
+      "first_seen_utc": "2026-08-14T10:15:00.868800+00:00",
+      "last_alert_utc": "2026-08-14T10:15:00.868800+00:00",
+      "last_seen_utc": "2026-08-14T10:15:00.868800+00:00",
+      "market_context": {
+        "change_pct": null,
+        "last_price": null,
+        "market_date": null
+      },
+      "material_snapshot": {
+        "acquirer": null,
+        "acquirer_confirmed": false,
+        "event_type": "RIGHTS ISSUE",
+        "execution_price": null,
+        "ipo_single_price": null,
+        "money": [
+          "Rp1,53 triliun"
+        ],
+        "official_authority": null,
+        "official_kind": null,
+        "price_range": null,
+        "ratio": null,
+        "schedule": {},
+        "share_count": null,
+        "stage": "RIGHTS ISSUE INFO",
+        "stage_step": 1,
+        "stage_total": 6,
+        "stake": [],
+        "standby_buyer": null,
+        "target": null,
+        "target_confirmed": false,
+        "tender_price": null,
+        "underwriter": null,
+        "use_of_funds": []
+      },
+      "ticker": ""
+    },
     "RIGHTS ISSUE|TITLE|RAMPUNG BNBR PADI LONCAT AWAL PERDAGANGAN 27": {
       "family": "RIGHTS ISSUE",
       "first_seen_utc": "2026-08-14T10:15:00.868800+00:00",
@@ -3049,7 +3125,7 @@
     }
   },
   "last_keepalive_utc": "2026-08-14T10:15:00.868800+00:00",
-  "last_state_change_utc": "2026-08-18T05:09:45.832208+00:00",
+  "last_state_change_utc": "2026-08-18T05:13:56.231273+00:00",
   "market_noise_suppressed": 0,
   "milestone_alerts": {},
   "schema_version": 3,
