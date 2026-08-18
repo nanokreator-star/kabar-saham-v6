@@ -498,36 +498,42 @@
     "M&A / TAKEOVER|TICKER|DOOH": {
       "family": "M&A / TAKEOVER",
       "first_seen_utc": "2026-08-17T07:20:39.627738+00:00",
-      "last_alert_utc": "2026-08-17T07:20:39.627738+00:00",
-      "last_seen_utc": "2026-08-17T07:20:39.627738+00:00",
+      "last_alert_utc": "2026-08-18T10:41:00.074073+00:00",
+      "last_seen_utc": "2026-08-18T10:41:00.074073+00:00",
       "market_context": {
-        "change_pct": null,
-        "last_price": null,
-        "market_date": null
+        "change_pct": 10.8844,
+        "last_price": 326.0,
+        "market_date": "2026-08-18"
       },
       "material_snapshot": {
         "acquirer": null,
         "acquirer_confirmed": false,
-        "event_type": "AKUISISI",
+        "event_type": "TENDER OFFER",
         "execution_price": null,
         "ipo_single_price": null,
-        "money": [],
+        "money": [
+          "Rp197,34 miliar"
+        ],
         "official_authority": "IDX",
         "official_kind": "PRIMARY",
         "price_range": null,
         "ratio": null,
         "schedule": {},
-        "share_count": null,
-        "stage": "M&A INFO",
-        "stage_step": 1,
+        "share_count": "3,946 miliar saham",
+        "stage": "TENDER OFFER",
+        "stage_step": 6,
         "stage_total": 7,
-        "stake": [],
+        "stake": [
+          51.0
+        ],
         "standby_buyer": null,
         "target": null,
         "target_confirmed": false,
         "tender_price": null,
         "underwriter": null,
-        "use_of_funds": []
+        "use_of_funds": [
+          "AKUISISI / INVESTASI"
+        ]
       },
       "ticker": "DOOH"
     },
@@ -3349,7 +3355,7 @@
     }
   },
   "last_keepalive_utc": "2026-08-14T10:15:00.868800+00:00",
-  "last_state_change_utc": "2026-08-18T08:40:42.029086+00:00",
+  "last_state_change_utc": "2026-08-18T10:41:00.074107+00:00",
   "market_noise_suppressed": 0,
   "milestone_alerts": {},
   "schema_version": 3,
@@ -3375,6 +3381,7 @@
     "1f28efc71679b930bae7d69cd62095f2da32399d0c49f40dcc1a1d59c73c541a": "2026-08-17T12:30:59.740812+00:00",
     "1f4b5df05c871568ef7dc5de0368a9ac1b5e661f992affc3894eca51525a12c3": "2026-08-14T10:15:00.868800+00:00",
     "201cf77a86ce6457775cfd97c1ccb044610671ab3dd6955a5a4ad7235dc2f538": "2026-08-14T10:15:00.868800+00:00",
+    "21a67ed64ec7f0464e5f657cab58624d287f7467137cc3796ee1b1cb233b6969": "2026-08-18T10:41:00.074050+00:00",
     "227886cc07bab0f58145bba9b78623dc7b4178bfc7164e301676060caaeda962": "2026-08-14T10:15:00.868800+00:00",
     "2509b9d74e72beba4f0773f976e7cadb2a4b1fa149e824df6c839712e37ba7e2": "2026-08-14T10:15:00.868800+00:00",
     "254c500915afa0c07572e1269d8fe55758b52d547473a5368a65e9fac288b9f9": "2026-08-14T10:15:00.868800+00:00",
