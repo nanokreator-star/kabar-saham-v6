@@ -3669,6 +3669,22 @@
       "verified_at": "2026-08-19T10:06:50.855423+00:00",
       "website": "https://www.sspace.id"
     },
+    "PACK": {
+      "business_activity": "PT Abadi Nusantara Hijau Investama Tbk provides flexible packaging products for digital printing industry in Indonesia. It offers sachets and 3 side seals, standing pouches, lid cups, and roll stocks.",
+      "controller": null,
+      "industry": "Packaging & Containers",
+      "issuer_name": "Abadi Nusantara Hijau Investama",
+      "major_shareholders": [],
+      "profile_source": "Yahoo Finance",
+      "profile_source_quality": "FALLBACK",
+      "profile_source_url": null,
+      "sector": "Consumer Cyclical",
+      "subindustry": null,
+      "subsector": null,
+      "ticker": "PACK",
+      "verified_at": "2026-08-19T13:04:01.297975+00:00",
+      "website": "https://www.flexypack.com"
+    },
     "WIKA": {
       "business_activity": "PT Wijaya Karya (Persero) Tbk operates as an integrated construction company in Indonesia and internationally. It operates through Infrastructure and Building, Energy and Industrial Plant, Industry, Hotel, Realty and Property, and Investmen",
       "controller": null,
@@ -3687,7 +3703,7 @@
     }
   },
   "last_keepalive_utc": "2026-08-14T10:15:00.868800+00:00",
-  "last_state_change_utc": "2026-08-19T13:00:15.762808+00:00",
+  "last_state_change_utc": "2026-08-19T13:04:05.705499+00:00",
   "market_noise_suppressed": 1,
   "milestone_alerts": {},
   "rumor_alerts_sent": 0,
@@ -3699,7 +3715,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 0,
   "rumor_integrity_repairs": 3,
-  "rumor_last_scan_utc": "2026-08-19T13:00:15.735303+00:00",
+  "rumor_last_scan_utc": "2026-08-19T13:04:05.666206+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -3747,7 +3763,7 @@
       "source": "Tempo.co",
       "source_count": 13,
       "sources": [
-        "CNBC Indonesia",
+        "cnbcindonesia.com",
         "achmadnurhidayat.id",
         "publika.id",
         "pdiperjuanganbali.id",
@@ -3880,13 +3896,29 @@
       "category": "STRATEGIC INVESTOR",
       "company_name": null,
       "first_seen_utc": "2026-08-19T09:54:52+00:00",
-      "issuer_profile": null,
+      "issuer_profile": {
+        "business_activity": "PT Abadi Nusantara Hijau Investama Tbk provides flexible packaging products for digital printing industry in Indonesia. It offers sachets and 3 side seals, standing pouches, lid cups, and roll stocks.",
+        "controller": null,
+        "industry": "Packaging & Containers",
+        "issuer_name": "Abadi Nusantara Hijau Investama",
+        "major_shareholders": [],
+        "profile_source": "Yahoo Finance",
+        "profile_source_quality": "FALLBACK",
+        "profile_source_url": null,
+        "sector": "Consumer Cyclical",
+        "subindustry": null,
+        "subsector": null,
+        "ticker": "PACK",
+        "verified_at": "2026-08-19T13:04:01.297975+00:00",
+        "website": "https://www.flexypack.com"
+      },
       "key": "STRATEGIC INVESTOR|TICKER|PACK",
       "last_alert_utc": null,
       "last_seen_utc": "2026-08-19T09:54:52+00:00",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVWdvNXNjM0x4ZGIwSHhhZHBfNzhTdHphTmhoSGxPYTNUZ2s5X09GQ0tQXzFZMXRTel9SUkNFek1ET1FwalNKenZUR2ZaTC1UTEdWeHJYQWxaT2ROUGM2TEZDLVUtUEdXRlZ6OE13Z1NTX05ReFA5b0RueGJJZzRHWDdwN2Utb2ZGZXBDR0NRNklWUUVpdVZzY2xhaEI5WmNSdlhVUmtHb0xCYTlFclE?oc=5",
       "market_data": null,
       "official_confirmation": null,
+      "profile_refresh_utc": "2026-08-19T13:04:05.665767+00:00",
       "published": "Wed, 19 Aug 2026 09:54:52 GMT",
       "rumor_details": {
         "ipo_price": null,
