@@ -1,5 +1,5 @@
 {
-  "commands_processed": 101,
+  "commands_processed": 102,
   "duplicates_suppressed": 4,
   "initialized": true,
   "issuer_aliases": {
@@ -10,7 +10,8 @@
       "Bayan (BYAN",
       "Bayan Resources",
       "62 Persen Saham Bayan Resources",
-      "oleh Haji Isam"
+      "oleh Haji Isam",
+      "Haji Isam"
     ],
     "DOOH": [
       "Era Media Sejahtera"
@@ -33,6 +34,7 @@
       "industry": "Thermal Coal",
       "issuer_name": "62 Persen Saham Bayan Resources",
       "major_shareholders": [],
+      "owner_v2_checked_utc": "2026-08-19T16:08:23.021612+00:00",
       "profile_source": "Yahoo Finance",
       "profile_source_quality": "FALLBACK",
       "profile_source_url": null,
@@ -109,8 +111,8 @@
       "website": "https://www.wika.co.id"
     }
   },
-  "last_command_utc": "2026-08-19T16:07:32.277930+00:00",
-  "last_state_change_utc": "2026-08-19T16:07:32.277944+00:00",
+  "last_command_utc": "2026-08-19T16:08:23.737280+00:00",
+  "last_state_change_utc": "2026-08-19T16:08:23.737291+00:00",
   "lifecycle_history": {
     "AKSI|M&A / TAKEOVER": [
       {
@@ -335,12 +337,13 @@
       }
     ]
   },
-  "next_offset": 527719817,
+  "next_offset": 527719818,
   "recent_commands": {
     "26c528f9a7a61f30f3aa97ffb4fe03c4": 1787144505,
     "351d590a51b1fc322938538275d1124c": 1787147726,
     "3ee4ef5cdf961718d1c0de120b3e6b70": 1787130779,
     "68d39bf599469cddc1581e334208edc4": 1787130890,
+    "6984e764300c6e62c21f0437624a34f7": 1787155662,
     "70e87047856595ea5f43f415bfdafb9b": 1787138779,
     "7aeebfe21ee11cdd60d9b67b327b1578": 1787147641,
     "98d99a90c807bac0ed84d9c87c74046b": 1787131594,
@@ -350,7 +353,7 @@
     "df42594ad243c54b915273725483bc7e": 1787155524
   },
   "schema_version": 12,
-  "updates_seen": 106,
+  "updates_seen": 107,
   "verified_official": {
     "DOOH": {
       "entries": [
