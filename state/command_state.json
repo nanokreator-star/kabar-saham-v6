@@ -1,5 +1,5 @@
 {
-  "commands_processed": 74,
+  "commands_processed": 75,
   "duplicates_suppressed": 4,
   "initialized": true,
   "issuer_aliases": {
@@ -43,8 +43,8 @@
       "website": "https://www.sspace.id"
     }
   },
-  "last_command_utc": "2026-08-19T07:55:20.695152+00:00",
-  "last_state_change_utc": "2026-08-19T07:55:20.695164+00:00",
+  "last_command_utc": "2026-08-19T07:56:03.475352+00:00",
+  "last_state_change_utc": "2026-08-19T07:56:03.475365+00:00",
   "lifecycle_history": {
     "AKSI|M&A / TAKEOVER": [
       {
@@ -269,16 +269,16 @@
       }
     ]
   },
-  "next_offset": 527719790,
+  "next_offset": 527719791,
   "recent_commands": {
     "26624963e59274d218f73177edb88aec": 1787046421,
     "3ee4ef5cdf961718d1c0de120b3e6b70": 1787122521,
     "4478bd5b0be4f9956fb1627f68056208": 1787046372,
-    "68d39bf599469cddc1581e334208edc4": 1787122450,
+    "68d39bf599469cddc1581e334208edc4": 1787126130,
     "df42594ad243c54b915273725483bc7e": 1787126086
   },
   "schema_version": 12,
-  "updates_seen": 79,
+  "updates_seen": 80,
   "verified_official": {
     "DOOH": {
       "entries": [
