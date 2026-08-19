@@ -1,5 +1,5 @@
 {
-  "commands_processed": 71,
+  "commands_processed": 72,
   "duplicates_suppressed": 4,
   "initialized": true,
   "issuer_aliases": {
@@ -43,8 +43,8 @@
       "website": "https://www.sspace.id"
     }
   },
-  "last_command_utc": "2026-08-19T06:54:48.080483+00:00",
-  "last_state_change_utc": "2026-08-19T06:54:48.080496+00:00",
+  "last_command_utc": "2026-08-19T06:56:04.748050+00:00",
+  "last_state_change_utc": "2026-08-19T06:56:04.748055+00:00",
   "lifecycle_history": {
     "AKSI|M&A / TAKEOVER": [
       {
@@ -92,7 +92,7 @@
         "family": "M&A / TAKEOVER",
         "issuer": "Era Media Sejahtera",
         "last_detail_update_utc": "2026-08-17T08:11:37.903175+00:00",
-        "last_seen_utc": "2026-08-17T08:11:37.903175+00:00",
+        "last_seen_utc": "2026-08-19T06:56:04.747943+00:00",
         "money": [
           "Rp197,34 miliar"
         ],
@@ -107,12 +107,12 @@
         "ratio": null,
         "scanner_seen_utc": "2026-08-17T07:37:31.645672+00:00",
         "schedule": {},
-        "score": 82,
+        "score": 88,
         "share_count": "3,946 miliar saham",
         "signal": "HIGH ATTENTION",
         "signature": "78de11070d37451eaaac8defe35ef58cc0e3d04bb53974e74486c3d897379463",
         "source": "kontan.co.id",
-        "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPN3VOa2VEQWJZb3pxaWJRSlM2QTFxNnZqUENhdlU1UTRyMjdMUUVTZEdiZFJZVEVBb1Q5cy1DdnAtZ0oxbTZQRnhER2dLVXh3VjY5a1VuSlVuQ1dydmRFMENHQ2RyVFhsMjBhWDdDQ05abnBVT1Qya1B6cHlaSVJiSHIyQzYtTXhzN2drWGxzOGdiaGpZei1oa1VDR3NLaDlwMWt2SEN3NUlYcmN6REE2cUc2SdIBqwFBVV95cUxPbldiVm1iUGhxanhlQWVRVFVnc1VndmlXb0N0YTE3SmxDWkpscXBDZVBCUHU5czl0OGpVLVgyNWc3THBIVG82cHRpSFZTcDZEZ3JZTmNiamRnQUl1MzhVZENCUTNNaG5kQ2kxZllBRFBXdkljUzNfbnhsUDlPbWRjRlpkYXhFbzlQaFpjV2VTbS1GWi0yamUwLTdKTG9TTy1rd3JxSDg0TFdHOGM?oc=5",
+        "source_url": "https://www.kontan.co.id/tag/saham-dooh",
         "stage": "TENDER OFFER",
         "stage_started_utc": "2026-08-16T18:27:49.564514+00:00",
         "stage_step": 6,
@@ -269,15 +269,16 @@
       }
     ]
   },
-  "next_offset": 527719787,
+  "next_offset": 527719788,
   "recent_commands": {
     "26624963e59274d218f73177edb88aec": 1787046421,
+    "3ee4ef5cdf961718d1c0de120b3e6b70": 1787122521,
     "4478bd5b0be4f9956fb1627f68056208": 1787046372,
     "56539456a669bb791ade18009d940e49": 1787036206,
     "68d39bf599469cddc1581e334208edc4": 1787122450
   },
   "schema_version": 12,
-  "updates_seen": 76,
+  "updates_seen": 77,
   "verified_official": {
     "DOOH": {
       "entries": [
@@ -294,7 +295,7 @@
       "issuer_aliases": [
         "Era Media Sejahtera"
       ],
-      "last_verified_utc": "2026-08-16T19:07:08.028288+00:00",
+      "last_verified_utc": "2026-08-19T06:56:03.616777+00:00",
       "ticker": "DOOH"
     }
   },
