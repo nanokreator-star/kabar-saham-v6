@@ -1,6 +1,6 @@
 {
   "baseline_initialized": true,
-  "event_duplicates_suppressed": 0,
+  "event_duplicates_suppressed": 1,
   "event_memory": {
     "IPO|TITLE|BEI ADA CALON ANTRE DUA BERASAL SEKTOR": {
       "family": "IPO",
@@ -499,7 +499,7 @@
       "family": "M&A / TAKEOVER",
       "first_seen_utc": "2026-08-17T07:20:39.627738+00:00",
       "last_alert_utc": "2026-08-18T10:41:00.074073+00:00",
-      "last_seen_utc": "2026-08-18T10:41:00.074073+00:00",
+      "last_seen_utc": "2026-08-19T05:10:54.068730+00:00",
       "market_context": {
         "change_pct": 10.8844,
         "last_price": 326.0,
@@ -3510,7 +3510,7 @@
     }
   },
   "last_keepalive_utc": "2026-08-14T10:15:00.868800+00:00",
-  "last_state_change_utc": "2026-08-19T02:31:00.139295+00:00",
+  "last_state_change_utc": "2026-08-19T05:10:54.068753+00:00",
   "market_noise_suppressed": 0,
   "milestone_alerts": {},
   "schema_version": 3,
@@ -3644,6 +3644,7 @@
     "e33907a9fe904c50f06fe11b58b70b65be47742ec7f0a555fb1e52141661e12a": "2026-08-18T03:31:02.730821+00:00",
     "e43121d88f14cca7d84b58aa0e148b1506a557d0f3d159f7a08a27429f076efb": "2026-08-14T10:15:00.868800+00:00",
     "e454b21c7fd7f238db363cf91ec740e0cf0a757e7a4900279b78bc62a0b8ea9b": "2026-08-14T10:15:00.868800+00:00",
+    "e6ecb3d2002ace4b88aeb341a8fbe02419335242494b15dc4b7146461142cfdb": "2026-08-19T05:10:54.068710+00:00",
     "e93e5d0c3d6b46be06568f45420d6336e6ca9b5279bc6f03d289eba0f76a4a3e": "2026-08-14T10:15:00.868800+00:00",
     "ea1d49ec1236faf345355f86b1cdbed9030eccbb0655cb8ba4064f4984722fbe": "2026-08-14T10:15:00.868800+00:00",
     "ea5b49df6429cc6c8767991395bc48756a1c9e8d933e341a8141ed16a7888fad": "2026-08-14T23:40:54.238301+00:00",
