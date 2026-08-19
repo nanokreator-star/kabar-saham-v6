@@ -3620,12 +3620,45 @@
     }
   },
   "issuer_profile_cache": {
+    "BYAN": {
+      "business_activity": "PT Bayan Resources Tbk., together with its subsidiaries, engages in the open cut mining and sale of coal in Indonesia. It operates through Coal and Non-Coal segments.",
+      "controller": null,
+      "industry": "Thermal Coal",
+      "issuer_name": "62 Persen Saham Bayan Resources",
+      "major_shareholders": [],
+      "profile_source": "Yahoo Finance",
+      "profile_source_quality": "FALLBACK",
+      "profile_source_url": null,
+      "sector": "Energy",
+      "subindustry": null,
+      "subsector": null,
+      "ticker": "BYAN",
+      "verified_at": "2026-08-19T13:00:08.023619+00:00",
+      "website": "https://www.bayan.com.sg"
+    },
     "DOOH": {
       "business_activity": "PT Era Media Sejahtera Tbk operates as an advertising media company in Indonesia. It operates through Advertising, Consulting, and Media Content segments.",
-      "controller": null,
+      "controller": {
+        "basis": "OFFICIAL_EVENT_PLUS_DEEP_IDENTITY",
+        "evidence_text": "baru: <p>DOOH punya pengendali baru setelah Sinergi Internasional Investama akuisisi 51% saham Rp197,34 miliar. Aksi ini memicu kewajiban tender offer.</p> KONTAN.CO.ID \u2013 JAKARTA. PT Sinergi Internasional Investama resmi menjadi pengendali baru PT Era Media Sejahtera Tbk ( DOOH ) setelah merampungkan transaksi pengambilalihan 51% saham perseroan pada 30 Juli 2026. Dalam transak",
+        "name": "PT Sinergi Internasional Investama",
+        "source": "IDX + DEEP ARTICLE",
+        "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSWRNOVVfY0NhNXkwZkdZOUh3dkVsVFo3RGxSSXZYMkVMN3FYTDdnOTJiWmplSWdXVnU2X0xBVjIzTGUwaG9xWjQ2eFVTTkFhODdvVmVqUElScy1iMG9sZ3pFS1lCbWU3RlV3ZnVYTUo4aFNZREQyZVNPY25rSlQ0UzhlUHNKaDZxajFKYVNLczZHVXR6U3FhX1ZjWVFXVUNaV2JHWEhNLXRNVDdtRnQyTlhjZw?oc=5",
+        "stake_pct": 51.0,
+        "verification_level": "CROSS_VERIFIED",
+        "verified": true
+      },
       "industry": "Advertising Agencies",
       "issuer_name": "Era Media Sejahtera",
-      "major_shareholders": [],
+      "major_shareholders": [
+        {
+          "name": "PT Sinergi Internasional Investama",
+          "source": "IDX + DEEP ARTICLE",
+          "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSWRNOVVfY0NhNXkwZkdZOUh3dkVsVFo3RGxSSXZYMkVMN3FYTDdnOTJiWmplSWdXVnU2X0xBVjIzTGUwaG9xWjQ2eFVTTkFhODdvVmVqUElScy1iMG9sZ3pFS1lCbWU3RlV3ZnVYTUo4aFNZREQyZVNPY25rSlQ0UzhlUHNKaDZxajFKYVNLczZHVXR6U3FhX1ZjWVFXVUNaV2JHWEhNLXRNVDdtRnQyTlhjZw?oc=5",
+          "stake_pct": 51.0,
+          "verified": true
+        }
+      ],
       "profile_source": "Yahoo Finance",
       "profile_source_quality": "FALLBACK",
       "profile_source_url": null,
@@ -3635,53 +3668,83 @@
       "ticker": "DOOH",
       "verified_at": "2026-08-19T10:06:50.855423+00:00",
       "website": "https://www.sspace.id"
+    },
+    "WIKA": {
+      "business_activity": "PT Wijaya Karya (Persero) Tbk operates as an integrated construction company in Indonesia and internationally. It operates through Infrastructure and Building, Energy and Industrial Plant, Industry, Hotel, Realty and Property, and Investmen",
+      "controller": null,
+      "industry": "Engineering & Construction",
+      "issuer_name": "Konsorsium KAI-WIKA di Whoosh",
+      "major_shareholders": [],
+      "profile_source": "Yahoo Finance",
+      "profile_source_quality": "FALLBACK",
+      "profile_source_url": null,
+      "sector": "Industrials",
+      "subindustry": null,
+      "subsector": null,
+      "ticker": "WIKA",
+      "verified_at": "2026-08-19T12:59:52.430201+00:00",
+      "website": "https://www.wika.co.id"
     }
   },
   "last_keepalive_utc": "2026-08-14T10:15:00.868800+00:00",
-  "last_state_change_utc": "2026-08-19T12:07:09.538252+00:00",
+  "last_state_change_utc": "2026-08-19T13:00:15.762808+00:00",
   "market_noise_suppressed": 1,
   "milestone_alerts": {},
   "rumor_alerts_sent": 0,
   "rumor_baseline_initialized": true,
   "rumor_confirmed_count": 0,
+  "rumor_confirmed_dedups": 0,
   "rumor_denied_count": 0,
-  "rumor_duplicates_suppressed": 0,
+  "rumor_duplicates_suppressed": 1,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 0,
-  "rumor_last_scan_utc": "2026-08-19T12:07:09.501798+00:00",
+  "rumor_integrity_repairs": 3,
+  "rumor_last_scan_utc": "2026-08-19T13:00:15.735303+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
-      "company_name": "Bayan (BYAN",
+      "company_name": "Bayan Resources",
       "entity_aliases": [
         "Bayan (BYAN",
         "Bayan Resources",
         "62 Persen Saham Bayan Resources",
         "oleh Haji Isam"
       ],
-      "entity_resolution_source": "V6.7.1_MEMORY_REKEY",
+      "entity_resolution_source": "ISSUER_ALIAS_MEMORY+RUMOR_EXPLICIT_TICKER",
       "first_seen_utc": "2026-08-18T02:41:36+00:00",
-      "issuer_profile": null,
+      "issuer_profile": {
+        "business_activity": "PT Bayan Resources Tbk., together with its subsidiaries, engages in the open cut mining and sale of coal in Indonesia. It operates through Coal and Non-Coal segments.",
+        "controller": null,
+        "industry": "Thermal Coal",
+        "issuer_name": "62 Persen Saham Bayan Resources",
+        "major_shareholders": [],
+        "profile_source": "Yahoo Finance",
+        "profile_source_quality": "FALLBACK",
+        "profile_source_url": null,
+        "sector": "Energy",
+        "subindustry": null,
+        "subsector": null,
+        "ticker": "BYAN",
+        "verified_at": "2026-08-19T13:00:08.023619+00:00",
+        "website": "https://www.bayan.com.sg"
+      },
       "key": "AKUISISI / TAKEOVER|TICKER|BYAN",
       "last_alert_utc": null,
       "last_seen_utc": "2026-08-19T06:50:18+00:00",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNVUzekN5R1pLMnQ5NEZEV0dmQm1zbXcwZ0d3TmVJNmlVV1U1VWltYk9TRDRXa0EwRVlJM01xUW1RYi11bTZvQTRGRTZNQzY2VTVULUdGLWpfTDd1VGVOZ3dpa3dPTXVza3djcldJNExwMUh3RERlOVNVTTctTE1VNXJ3TEk1dHBCenZVN3ExY1VCbmxGV3BUekxDWnJvd3lScnlucWd0TkxNNWo4aVJpNVBBdDVGRzlXYzlLVNIBwgFBVV95cUxQeVd1U2ZLOUZMYWJUYWgxX3JRWEFBSDJsbW9PU242NUpMbUdHVzJoRHFoZnUxbDA1eEt4NHQtczhqUXp2Q3ZOeExEVXRER2JwMU55ZTR1VjR4Mmo5VDgzMHhJejZ2VkVwOFA0emxQbzZRdTZBUEpSX3JUWEhtV3JFR0RGY29WOHVoSXRoa0pOZHdtMm1KMlcyUWY1Yllzdjh3ODVrVGV3VnpJb2ZQb1RxY1VhN2l3WV82MGVuMmtkQklOUQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWGlqS1pzejZxMHVaZGJVamJYaDNyQjdEZ2dXV2RaZ3ZtLVltbUJLVHVZYWFEZmFOSmFLUUNqTk55eDFwenRobG1xTzVURDNGNU9iNF9hZk5UYjgzdnZmeHkyazhvdjVMcC16T2J5OXBqRmRiR1RTZ2lWZjVNRjhqaHdZakxqX3lXYW9nMGpSdGluNFFsUWhpM0trdw?oc=5",
       "market_data": null,
       "official_confirmation": null,
-      "published": "Tue, 18 Aug 2026 02:41:36 GMT",
+      "profile_refresh_utc": "2026-08-19T13:00:15.734503+00:00",
+      "published": "Wed, 19 Aug 2026 05:56:25 GMT",
       "rumor_details": {
         "ipo_price": null,
         "listing_estimate": null,
         "money": [],
-        "percentages": [
-          18.75
-        ],
+        "percentages": [],
         "price_range": null,
-        "rumored_party": "Tersengat Rumor",
-        "share_count": ", saham",
         "underwriter": null
       },
-      "source": "CNBC Indonesia",
+      "source": "Tempo.co",
       "source_count": 13,
       "sources": [
         "CNBC Indonesia",
@@ -3691,12 +3754,12 @@
         "Tempo.co",
         "investor.id",
         "MediaKompeten",
-        "beritajejakfakta.id"
+        "Readers.id"
       ],
       "status": "ACTIVE",
       "strength": "STRONG",
       "ticker": "BYAN",
-      "title": "Tersengat Rumor Akuisisi Haji Isam, Saham BYAN Terbang 18,75% - CNBC Indonesia"
+      "title": "Bayan Resources Tanggapi Isu Akuisisi Saham oleh Haji Isam - Tempo.co"
     },
     "BUYBACK|TITLE|ID PRESS RELEASE RENCANA BUYBACK 2026 DOCX": {
       "category": "BUYBACK",
@@ -3769,13 +3832,29 @@
         "Wijaya Karya Tbk (WIKA) PENGUMUMAN"
       ],
       "first_seen_utc": "2026-08-18T21:30:00+00:00",
-      "issuer_profile": null,
+      "issuer_profile": {
+        "business_activity": "PT Wijaya Karya (Persero) Tbk operates as an integrated construction company in Indonesia and internationally. It operates through Infrastructure and Building, Energy and Industrial Plant, Industry, Hotel, Realty and Property, and Investmen",
+        "controller": null,
+        "industry": "Engineering & Construction",
+        "issuer_name": "Konsorsium KAI-WIKA di Whoosh",
+        "major_shareholders": [],
+        "profile_source": "Yahoo Finance",
+        "profile_source_quality": "FALLBACK",
+        "profile_source_url": null,
+        "sector": "Industrials",
+        "subindustry": null,
+        "subsector": null,
+        "ticker": "WIKA",
+        "verified_at": "2026-08-19T12:59:52.430201+00:00",
+        "website": "https://www.wika.co.id"
+      },
       "key": "SPIN-OFF / RESTRUCTURING|TICKER|WIKA",
       "last_alert_utc": null,
       "last_seen_utc": "2026-08-18T23:32:57+00:00",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQb3hIYW16QjQ5akQ0TTJhQVQ1QVZiSV9HOWFrNjBvdGsybVVwMnhIY25kUE83UHRSbE1mdWtNUnhVbnpGVEt0WThVRmxNc0pSdlVHZHgteVRoWlFGMVpOcDdZQmhEZzlBQkdHaHJqWGk0dUJkT0h5M0thdTlGdVVHQ25Fa1lFTTZiUUd6bDRfcUQtRHZKY3dtZnd4RzNyNWRNQkIyaVV2TEYzQ1U2QjUtOEQ1VQ?oc=5",
       "market_data": null,
       "official_confirmation": null,
+      "profile_refresh_utc": "2026-08-19T13:00:06.300330+00:00",
       "published": "Tue, 18 Aug 2026 23:32:57 GMT",
       "rumor_details": {
         "ipo_price": null,
