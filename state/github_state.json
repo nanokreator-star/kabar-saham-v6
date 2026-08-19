@@ -498,16 +498,16 @@
     "M&A / TAKEOVER|TICKER|DOOH": {
       "family": "M&A / TAKEOVER",
       "first_seen_utc": "2026-08-17T07:20:39.627738+00:00",
-      "last_alert_utc": "2026-08-18T10:41:00.074073+00:00",
-      "last_seen_utc": "2026-08-19T05:10:54.068730+00:00",
+      "last_alert_utc": "2026-08-19T10:06:51.565055+00:00",
+      "last_seen_utc": "2026-08-19T10:06:51.565055+00:00",
       "market_context": {
         "change_pct": 10.8844,
         "last_price": 326.0,
         "market_date": "2026-08-18"
       },
       "material_snapshot": {
-        "acquirer": null,
-        "acquirer_confirmed": false,
+        "acquirer": "SII Gelar Tender Wajib Saham DOOH Usai",
+        "acquirer_confirmed": true,
         "event_type": "TENDER OFFER",
         "execution_price": null,
         "ipo_single_price": null,
@@ -527,8 +527,8 @@
           51.0
         ],
         "standby_buyer": null,
-        "target": null,
-        "target_confirmed": false,
+        "target": "51 Persen Saham",
+        "target_confirmed": true,
         "tender_price": null,
         "underwriter": null,
         "use_of_funds": [
@@ -3509,8 +3509,26 @@
       "ticker": ""
     }
   },
+  "issuer_profile_cache": {
+    "DOOH": {
+      "business_activity": "PT Era Media Sejahtera Tbk operates as an advertising media company in Indonesia. It operates through Advertising, Consulting, and Media Content segments.",
+      "controller": null,
+      "industry": "Advertising Agencies",
+      "issuer_name": "Era Media Sejahtera",
+      "major_shareholders": [],
+      "profile_source": "Yahoo Finance",
+      "profile_source_quality": "FALLBACK",
+      "profile_source_url": null,
+      "sector": "Communication Services",
+      "subindustry": null,
+      "subsector": null,
+      "ticker": "DOOH",
+      "verified_at": "2026-08-19T10:06:50.855423+00:00",
+      "website": "https://www.sspace.id"
+    }
+  },
   "last_keepalive_utc": "2026-08-14T10:15:00.868800+00:00",
-  "last_state_change_utc": "2026-08-19T05:22:31.609086+00:00",
+  "last_state_change_utc": "2026-08-19T10:06:51.565105+00:00",
   "market_noise_suppressed": 1,
   "milestone_alerts": {},
   "schema_version": 3,
@@ -3556,6 +3574,7 @@
     "3dd4c109b4e10e17db4bf5f64714b0479ece921ee46bc49e3cd5356ef1344caa": "2026-08-14T10:15:00.868800+00:00",
     "3eaf23d92beb13f67754f697873e7f546adf2546e6991d8c674875245db09dac": "2026-08-14T10:15:00.868800+00:00",
     "3eafed89ddcb9e18b3ed923b48ee02bb847cf1341bc2062f48d39edc355deef6": "2026-08-14T10:15:00.868800+00:00",
+    "3f5f2798b673a55b921d89225f03c9775e46d2583d5f426225e6f38a1586de9a": "2026-08-19T10:06:51.565020+00:00",
     "4033cc1087b068c042d2ce1036598043129ccc10f29977111a08b3e34e54c2ae": "2026-08-14T10:15:00.868800+00:00",
     "403f9a1fae38c9a0da7f0d91ab035f88fbd5e5fce81a545a81d175d91c1c6b05": "2026-08-14T10:15:00.868800+00:00",
     "429f6dfbfb27af1f3aad80bf00b3dcbfde708ea095eac66280325e7e424fbc1d": "2026-08-14T10:15:00.868800+00:00",
@@ -3596,6 +3615,7 @@
     "7c9caf4f3b18455a826e93f3c65547357574575fc3c87faeaed414b561e482a3": "2026-08-14T10:15:00.868800+00:00",
     "7e65651c2e4c9e0ac7012bb00c5f2cf68d72dd43a7e004f5df92db9aad7107d2": "2026-08-14T10:15:00.868800+00:00",
     "81811644b800d39836b917bda6c75d1d71ce1caf280821960e41cc853ca02fb3": "2026-08-14T10:15:00.868800+00:00",
+    "81bd0ccaca7a4e66e29732beb8e488cddb3ab5df0058ef5dc35f4d7ec3230dc3": "2026-08-19T10:06:51.565020+00:00",
     "829208e58c2d483ac29c3a3a4a05e50f550bc2ffc862059458139428038b4b54": "2026-08-14T10:15:00.868800+00:00",
     "830ef1668388081191c8687508173c3815158d8cf7bb5316d542d87beec83270": "2026-08-14T10:15:00.868800+00:00",
     "8437cd91d15e501ded2cfa4e8118f33db2a8cf8a3220888bd8f63a912adcfc1c": "2026-08-14T10:15:00.868800+00:00",
@@ -3654,6 +3674,7 @@
     "eeeb576b25a6317eb10cd22d2b5050abfc359a10722c68c62cec800026a13763": "2026-08-14T10:15:00.868800+00:00",
     "f029f6b94673c5cacdb8f9ccba97ce172cf53cc74451a8f95ba8e289d3b3703e": "2026-08-14T10:15:00.868800+00:00",
     "f043a1365917b39fe63e49ec98f615b059af8ebeddb151b87c9bddc0e740bf95": "2026-08-14T10:15:00.868800+00:00",
+    "f584f718a9664b3a17407a798e0136cd0fd2b2f69fff0f9869fc1673a16ac898": "2026-08-19T10:06:51.565020+00:00",
     "f68bffc1acd84fae237e431671e5a4ce8f03b6a0ec6df570afa0d6847c22ae5a": "2026-08-14T10:15:00.868800+00:00",
     "f78fbc179b94291b2eeb2fd8853c62a5ebb9156fca5529b9c929980c4b861776": "2026-08-14T10:15:00.868800+00:00",
     "f8a8224a34feba0a0cb2efd2e8f2e27a367a7d367963714b3bebac09ae8f88c6": "2026-08-14T10:15:00.868800+00:00",
