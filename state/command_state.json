@@ -1,5 +1,5 @@
 {
-  "commands_processed": 70,
+  "commands_processed": 71,
   "duplicates_suppressed": 4,
   "initialized": true,
   "issuer_aliases": {
@@ -25,8 +25,26 @@
       "OCBC Sekuritas Rp 455 Miliar"
     ]
   },
-  "last_command_utc": "2026-08-18T09:48:36.129899+00:00",
-  "last_state_change_utc": "2026-08-18T09:48:36.129903+00:00",
+  "issuer_profiles": {
+    "DOOH": {
+      "business_activity": "PT Era Media Sejahtera Tbk operates as an advertising media company in Indonesia. It operates through Advertising, Consulting, and Media Content segments.",
+      "controller": null,
+      "industry": "Advertising Agencies",
+      "issuer_name": "Era Media Sejahtera",
+      "major_shareholders": [],
+      "profile_source": "Yahoo Finance",
+      "profile_source_quality": "FALLBACK",
+      "profile_source_url": null,
+      "sector": "Communication Services",
+      "subindustry": null,
+      "subsector": null,
+      "ticker": "DOOH",
+      "verified_at": "2026-08-19T06:54:47.587261+00:00",
+      "website": "https://www.sspace.id"
+    }
+  },
+  "last_command_utc": "2026-08-19T06:54:48.080483+00:00",
+  "last_state_change_utc": "2026-08-19T06:54:48.080496+00:00",
   "lifecycle_history": {
     "AKSI|M&A / TAKEOVER": [
       {
@@ -251,17 +269,15 @@
       }
     ]
   },
-  "next_offset": 527719786,
+  "next_offset": 527719787,
   "recent_commands": {
     "26624963e59274d218f73177edb88aec": 1787046421,
-    "351d590a51b1fc322938538275d1124c": 1787030652,
     "4478bd5b0be4f9956fb1627f68056208": 1787046372,
     "56539456a669bb791ade18009d940e49": 1787036206,
-    "98d99a90c807bac0ed84d9c87c74046b": 1786985497,
-    "df42594ad243c54b915273725483bc7e": 1787029896
+    "68d39bf599469cddc1581e334208edc4": 1787122450
   },
   "schema_version": 12,
-  "updates_seen": 75,
+  "updates_seen": 76,
   "verified_official": {
     "DOOH": {
       "entries": [
