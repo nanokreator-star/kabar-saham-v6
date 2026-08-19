@@ -3703,10 +3703,10 @@
     }
   },
   "last_keepalive_utc": "2026-08-14T10:15:00.868800+00:00",
-  "last_state_change_utc": "2026-08-19T13:04:05.705499+00:00",
+  "last_state_change_utc": "2026-08-19T13:52:05.249043+00:00",
   "market_noise_suppressed": 1,
   "milestone_alerts": {},
-  "rumor_alerts_sent": 0,
+  "rumor_alerts_sent": 1,
   "rumor_baseline_initialized": true,
   "rumor_confirmed_count": 0,
   "rumor_confirmed_dedups": 0,
@@ -3715,11 +3715,13 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 0,
   "rumor_integrity_repairs": 3,
-  "rumor_last_scan_utc": "2026-08-19T13:04:05.666206+00:00",
+  "rumor_last_scan_utc": "2026-08-19T13:52:05.204135+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
       "company_name": "Bayan Resources",
+      "copy_duplicate_count": 0,
+      "effective_independent_count": 13.0,
       "entity_aliases": [
         "Bayan (BYAN",
         "Bayan Resources",
@@ -3728,6 +3730,8 @@
       ],
       "entity_resolution_source": "ISSUER_ALIAS_MEMORY+RUMOR_EXPLICIT_TICKER",
       "first_seen_utc": "2026-08-18T02:41:36+00:00",
+      "high_quality_source_count": 3,
+      "independent_story_count": 13,
       "issuer_profile": {
         "business_activity": "PT Bayan Resources Tbk., together with its subsidiaries, engages in the open cut mining and sale of coal in Indonesia. It operates through Coal and Non-Coal segments.",
         "controller": null,
@@ -3750,6 +3754,7 @@
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWGlqS1pzejZxMHVaZGJVamJYaDNyQjdEZ2dXV2RaZ3ZtLVltbUJLVHVZYWFEZmFOSmFLUUNqTk55eDFwenRobG1xTzVURDNGNU9iNF9hZk5UYjgzdnZmeHkyazhvdjVMcC16T2J5OXBqRmRiR1RTZ2lWZjVNRjhqaHdZakxqX3lXYW9nMGpSdGluNFFsUWhpM0trdw?oc=5",
       "market_data": null,
       "official_confirmation": null,
+      "premium_source_count": 3,
       "profile_refresh_utc": "2026-08-19T13:00:15.734503+00:00",
       "published": "Wed, 19 Aug 2026 05:56:25 GMT",
       "rumor_details": {
@@ -3761,9 +3766,61 @@
         "underwriter": null
       },
       "source": "Tempo.co",
+      "source_breakdown": [
+        {
+          "group": "cnbcindonesia.com",
+          "quality": "HIGH",
+          "source": "CNBC Indonesia",
+          "tier": 4
+        },
+        {
+          "group": "tempo.co",
+          "quality": "HIGH",
+          "source": "Tempo.co",
+          "tier": 4
+        },
+        {
+          "group": "investor.id",
+          "quality": "HIGH",
+          "source": "investor.id",
+          "tier": 4
+        },
+        {
+          "group": "achmadnurhidayat.id",
+          "quality": "LOW",
+          "source": "achmadnurhidayat.id",
+          "tier": 1
+        },
+        {
+          "group": "publika.id",
+          "quality": "LOW",
+          "source": "publika.id",
+          "tier": 1
+        },
+        {
+          "group": "pdiperjuanganbali.id",
+          "quality": "LOW",
+          "source": "pdiperjuanganbali.id",
+          "tier": 1
+        },
+        {
+          "group": "mediakompeten",
+          "quality": "LOW",
+          "source": "MediaKompeten",
+          "tier": 1
+        },
+        {
+          "group": "readers.id",
+          "quality": "LOW",
+          "source": "Readers.id",
+          "tier": 1
+        }
+      ],
       "source_count": 13,
+      "source_quality": "HIGH",
+      "source_quality_score": 22.0,
       "sources": [
-        "cnbcindonesia.com",
+        "CNBC Indonesia",
         "achmadnurhidayat.id",
         "publika.id",
         "pdiperjuanganbali.id",
@@ -3780,7 +3837,11 @@
     "BUYBACK|TITLE|ID PRESS RELEASE RENCANA BUYBACK 2026 DOCX": {
       "category": "BUYBACK",
       "company_name": "PT Bur",
+      "copy_duplicate_count": 0,
+      "effective_independent_count": 1.0,
       "first_seen_utc": "2026-08-19T06:44:31+00:00",
+      "high_quality_source_count": 1,
+      "independent_story_count": 1,
       "issuer_profile": null,
       "key": "BUYBACK|TITLE|ID PRESS RELEASE RENCANA BUYBACK 2026 DOCX",
       "last_alert_utc": null,
@@ -3788,6 +3849,7 @@
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOLXdnTGR2NFlqZUVSMFBndHdDVVF1NVZ6R1VlOVpKSURDbE02dnlQOVBfSVVpYUV1XzUtSmJUNU1OTFhHZWxrY0VmMXV2cVdET0dIanl1aXhWRFBkQU5YT25SUlcwb21KNHNFY25KRXZqR3FzdkhxRFkyUnAzZ2FaSnFIbXJucVJDVzhwMVZtSXMza2ZwRll1YzgzOFdILUtVQWp1QU5iYmJjX0lnelJMdUZndw?oc=5",
       "market_data": null,
       "official_confirmation": null,
+      "premium_source_count": 1,
       "published": "Wed, 19 Aug 2026 06:44:31 GMT",
       "rumor_details": {
         "ipo_price": null,
@@ -3800,7 +3862,17 @@
         "underwriter": null
       },
       "source": "PT Bursa Efek Indonesia",
+      "source_breakdown": [
+        {
+          "group": "pt bursa efek indonesia",
+          "quality": "OFFICIAL",
+          "source": "PT Bursa Efek Indonesia",
+          "tier": 5
+        }
+      ],
       "source_count": 1,
+      "source_quality": "MEDIUM",
+      "source_quality_score": 5.0,
       "sources": [
         "PT Bursa Efek Indonesia"
       ],
@@ -3812,7 +3884,11 @@
     "BUYBACK|TITLE|PRDA KI RENCANA BUYBACK 2026 DOCX PT": {
       "category": "BUYBACK",
       "company_name": "PT Bur",
+      "copy_duplicate_count": 0,
+      "effective_independent_count": 1.0,
       "first_seen_utc": "2026-08-19T06:44:31+00:00",
+      "high_quality_source_count": 1,
+      "independent_story_count": 1,
       "issuer_profile": null,
       "key": "BUYBACK|TITLE|PRDA KI RENCANA BUYBACK 2026 DOCX PT",
       "last_alert_utc": null,
@@ -3820,6 +3896,7 @@
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMy1jNGs0RnRkQnBoZlhDYkJSY3RfOWdMQ3N3eC0yTGlXX0VaM3E2LWU1c3BPTnlzTkhIOHZqUXFPalhzc3U4c0s5NmJMakRKWnFIMkxMYlNUQnFhOVhuaWhlbFdrZ2VEX2RxUkdKUWNLSUdhZEVlbS01c2dodVpPWlB2dEVLdWJRQkc5bm1CblZjWXkzZjNXckFCUzk1UkhTSHFXMHRuYk5Eazh4bGphdkdmQQ?oc=5",
       "market_data": null,
       "official_confirmation": null,
+      "premium_source_count": 1,
       "published": "Wed, 19 Aug 2026 06:44:31 GMT",
       "rumor_details": {
         "ipo_price": null,
@@ -3832,7 +3909,17 @@
         "underwriter": null
       },
       "source": "PT Bursa Efek Indonesia",
+      "source_breakdown": [
+        {
+          "group": "pt bursa efek indonesia",
+          "quality": "OFFICIAL",
+          "source": "PT Bursa Efek Indonesia",
+          "tier": 5
+        }
+      ],
       "source_count": 1,
+      "source_quality": "MEDIUM",
+      "source_quality_score": 5.0,
       "sources": [
         "PT Bursa Efek Indonesia"
       ],
@@ -3841,13 +3928,79 @@
       "ticker": null,
       "title": "PRDA_KI- Rencana Buyback 2026.docx - PT Bursa Efek Indonesia"
     },
+    "IPO|TITLE|MENIMBANG WACANA PELINDO INVESTOR ID": {
+      "category": "IPO",
+      "company_name": null,
+      "copy_duplicate_count": 0,
+      "effective_independent_count": 1.0,
+      "entity_aliases": [],
+      "entity_resolution_source": null,
+      "first_seen_utc": "2026-08-19T13:45:14+00:00",
+      "high_quality_source_count": 1,
+      "independent_story_count": 1,
+      "issuer_profile": {
+        "business_activity": null,
+        "controller": null,
+        "industry": null,
+        "issuer_name": null,
+        "major_shareholders": [],
+        "profile_source": "investor.id",
+        "profile_source_quality": "MEDIA_CONTEXT",
+        "sector": null,
+        "subsector": null,
+        "ticker": null,
+        "verified_at": "2026-08-19T13:52:04.657869+00:00"
+      },
+      "key": "IPO|TITLE|MENIMBANG WACANA PELINDO INVESTOR ID",
+      "last_alert_utc": "2026-08-19T13:52:05.203642+00:00",
+      "last_seen_utc": "2026-08-19T13:45:14+00:00",
+      "link": "https://investor.id/market/367328/pelindo-hingga-mind-id-bersiap-ipo",
+      "market_data": null,
+      "official_confirmation": null,
+      "premium_source_count": 1,
+      "profile_refresh_utc": null,
+      "published": "Wed, 19 Aug 2026 13:45:14 GMT",
+      "rumor_details": {
+        "ipo_price": null,
+        "listing_estimate": null,
+        "money": [],
+        "percentages": [],
+        "price_range": null,
+        "rumored_party": null,
+        "share_count": null,
+        "underwriter": null
+      },
+      "source": "investor.id",
+      "source_breakdown": [
+        {
+          "group": "investor.id",
+          "quality": "HIGH",
+          "source": "investor.id",
+          "tier": 4
+        }
+      ],
+      "source_count": 1,
+      "source_quality": "MEDIUM",
+      "source_quality_score": 4.0,
+      "sources": [
+        "investor.id"
+      ],
+      "status": "ACTIVE",
+      "strength": "WEAK",
+      "ticker": null,
+      "title": "Menimbang Wacana IPO Pelindo - investor.id"
+    },
     "SPIN-OFF / RESTRUCTURING|TICKER|WIKA": {
       "category": "SPIN-OFF / RESTRUCTURING",
       "company_name": "PT Wij",
+      "copy_duplicate_count": 0,
+      "effective_independent_count": 1.0,
       "entity_aliases": [
         "Wijaya Karya Tbk (WIKA) PENGUMUMAN"
       ],
       "first_seen_utc": "2026-08-18T21:30:00+00:00",
+      "high_quality_source_count": 1,
+      "independent_story_count": 1,
       "issuer_profile": {
         "business_activity": "PT Wijaya Karya (Persero) Tbk operates as an integrated construction company in Indonesia and internationally. It operates through Infrastructure and Building, Energy and Industrial Plant, Industry, Hotel, Realty and Property, and Investmen",
         "controller": null,
@@ -3870,6 +4023,7 @@
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQb3hIYW16QjQ5akQ0TTJhQVQ1QVZiSV9HOWFrNjBvdGsybVVwMnhIY25kUE83UHRSbE1mdWtNUnhVbnpGVEt0WThVRmxNc0pSdlVHZHgteVRoWlFGMVpOcDdZQmhEZzlBQkdHaHJqWGk0dUJkT0h5M0thdTlGdVVHQ25Fa1lFTTZiUUd6bDRfcUQtRHZKY3dtZnd4RzNyNWRNQkIyaVV2TEYzQ1U2QjUtOEQ1VQ?oc=5",
       "market_data": null,
       "official_confirmation": null,
+      "premium_source_count": 1,
       "profile_refresh_utc": "2026-08-19T13:00:06.300330+00:00",
       "published": "Tue, 18 Aug 2026 23:32:57 GMT",
       "rumor_details": {
@@ -3883,7 +4037,17 @@
         "underwriter": null
       },
       "source": "PT Bursa Efek Indonesia",
+      "source_breakdown": [
+        {
+          "group": "pt bursa efek indonesia",
+          "quality": "OFFICIAL",
+          "source": "PT Bursa Efek Indonesia",
+          "tier": 5
+        }
+      ],
       "source_count": 1,
+      "source_quality": "MEDIUM",
+      "source_quality_score": 5.0,
       "sources": [
         "PT Bursa Efek Indonesia"
       ],
@@ -3895,7 +4059,11 @@
     "STRATEGIC INVESTOR|TICKER|PACK": {
       "category": "STRATEGIC INVESTOR",
       "company_name": null,
+      "copy_duplicate_count": 0,
+      "effective_independent_count": 1.0,
       "first_seen_utc": "2026-08-19T09:54:52+00:00",
+      "high_quality_source_count": 1,
+      "independent_story_count": 1,
       "issuer_profile": {
         "business_activity": "PT Abadi Nusantara Hijau Investama Tbk provides flexible packaging products for digital printing industry in Indonesia. It offers sachets and 3 side seals, standing pouches, lid cups, and roll stocks.",
         "controller": null,
@@ -3918,6 +4086,7 @@
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVWdvNXNjM0x4ZGIwSHhhZHBfNzhTdHphTmhoSGxPYTNUZ2s5X09GQ0tQXzFZMXRTel9SUkNFek1ET1FwalNKenZUR2ZaTC1UTEdWeHJYQWxaT2ROUGM2TEZDLVUtUEdXRlZ6OE13Z1NTX05ReFA5b0RueGJJZzRHWDdwN2Utb2ZGZXBDR0NRNklWUUVpdVZzY2xhaEI5WmNSdlhVUmtHb0xCYTlFclE?oc=5",
       "market_data": null,
       "official_confirmation": null,
+      "premium_source_count": 1,
       "profile_refresh_utc": "2026-08-19T13:04:05.665767+00:00",
       "published": "Wed, 19 Aug 2026 09:54:52 GMT",
       "rumor_details": {
@@ -3931,7 +4100,17 @@
         "underwriter": null
       },
       "source": "KONTAN",
+      "source_breakdown": [
+        {
+          "group": "kontan.co.id",
+          "quality": "HIGH",
+          "source": "KONTAN",
+          "tier": 4
+        }
+      ],
       "source_count": 1,
+      "source_quality": "MEDIUM",
+      "source_quality_score": 4.0,
       "sources": [
         "KONTAN"
       ],
