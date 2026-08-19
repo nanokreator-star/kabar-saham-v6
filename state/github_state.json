@@ -1474,6 +1474,44 @@
       },
       "ticker": ""
     },
+    "M&A / TAKEOVER|TITLE|TUNTAS GELAR WAJIB INET PADA MELONJAK JADI": {
+      "family": "M&A / TAKEOVER",
+      "first_seen_utc": "2026-08-14T10:15:00.868800+00:00",
+      "last_alert_utc": "2026-08-14T10:15:00.868800+00:00",
+      "last_seen_utc": "2026-08-14T10:15:00.868800+00:00",
+      "market_context": {
+        "change_pct": null,
+        "last_price": null,
+        "market_date": null
+      },
+      "material_snapshot": {
+        "acquirer": null,
+        "acquirer_confirmed": false,
+        "event_type": "TENDER OFFER",
+        "execution_price": null,
+        "ipo_single_price": null,
+        "money": [],
+        "official_authority": null,
+        "official_kind": null,
+        "price_range": null,
+        "ratio": null,
+        "schedule": {},
+        "share_count": ", saham",
+        "stage": "TENDER OFFER",
+        "stage_step": 6,
+        "stage_total": 7,
+        "stake": [
+          53.58
+        ],
+        "standby_buyer": null,
+        "target": null,
+        "target_confirmed": false,
+        "tender_price": null,
+        "underwriter": null,
+        "use_of_funds": []
+      },
+      "ticker": ""
+    },
     "M&A / TAKEOVER|TITLE|WAJIB INET MINIM PEMINAT HANYA SERAP 01": {
       "family": "M&A / TAKEOVER",
       "first_seen_utc": "2026-08-14T10:15:00.868800+00:00",
@@ -3430,7 +3468,7 @@
     }
   },
   "last_keepalive_utc": "2026-08-14T10:15:00.868800+00:00",
-  "last_state_change_utc": "2026-08-19T00:31:02.209013+00:00",
+  "last_state_change_utc": "2026-08-19T01:20:49.093752+00:00",
   "market_noise_suppressed": 0,
   "milestone_alerts": {},
   "schema_version": 3,
