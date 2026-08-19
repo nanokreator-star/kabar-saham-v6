@@ -1,5 +1,5 @@
 {
-  "commands_processed": 91,
+  "commands_processed": 92,
   "duplicates_suppressed": 4,
   "initialized": true,
   "issuer_aliases": {
@@ -27,6 +27,22 @@
     ]
   },
   "issuer_profiles": {
+    "BYAN": {
+      "business_activity": "PT Bayan Resources Tbk., together with its subsidiaries, engages in the open cut mining and sale of coal in Indonesia. It operates through Coal and Non-Coal segments.",
+      "controller": null,
+      "industry": "Thermal Coal",
+      "issuer_name": "62 Persen Saham Bayan Resources",
+      "major_shareholders": [],
+      "profile_source": "Yahoo Finance",
+      "profile_source_quality": "FALLBACK",
+      "profile_source_url": null,
+      "sector": "Energy",
+      "subindustry": null,
+      "subsector": null,
+      "ticker": "BYAN",
+      "verified_at": "2026-08-19T13:00:08.023619+00:00",
+      "website": "https://www.bayan.com.sg"
+    },
     "DOOH": {
       "business_activity": "PT Era Media Sejahtera Tbk operates as an advertising media company in Indonesia. It operates through Advertising, Consulting, and Media Content segments.",
       "controller": {
@@ -59,10 +75,26 @@
       "ticker": "DOOH",
       "verified_at": "2026-08-19T10:06:50.855423+00:00",
       "website": "https://www.sspace.id"
+    },
+    "WIKA": {
+      "business_activity": "PT Wijaya Karya (Persero) Tbk operates as an integrated construction company in Indonesia and internationally. It operates through Infrastructure and Building, Energy and Industrial Plant, Industry, Hotel, Realty and Property, and Investmen",
+      "controller": null,
+      "industry": "Engineering & Construction",
+      "issuer_name": "Konsorsium KAI-WIKA di Whoosh",
+      "major_shareholders": [],
+      "profile_source": "Yahoo Finance",
+      "profile_source_quality": "FALLBACK",
+      "profile_source_url": null,
+      "sector": "Industrials",
+      "subindustry": null,
+      "subsector": null,
+      "ticker": "WIKA",
+      "verified_at": "2026-08-19T12:59:52.430201+00:00",
+      "website": "https://www.wika.co.id"
     }
   },
-  "last_command_utc": "2026-08-19T12:59:13.903466+00:00",
-  "last_state_change_utc": "2026-08-19T12:59:13.903477+00:00",
+  "last_command_utc": "2026-08-19T13:01:17.194635+00:00",
+  "last_state_change_utc": "2026-08-19T13:01:17.194647+00:00",
   "lifecycle_history": {
     "AKSI|M&A / TAKEOVER": [
       {
@@ -287,7 +319,7 @@
       }
     ]
   },
-  "next_offset": 527719807,
+  "next_offset": 527719808,
   "recent_commands": {
     "351d590a51b1fc322938538275d1124c": 1787141329,
     "3ee4ef5cdf961718d1c0de120b3e6b70": 1787130779,
@@ -296,11 +328,11 @@
     "7aeebfe21ee11cdd60d9b67b327b1578": 1787141243,
     "98d99a90c807bac0ed84d9c87c74046b": 1787131594,
     "af2ab547de6ccbfb8bf0100481961291": 1787138499,
-    "c6966f933b77755baae49e0710dd8553": 1787141293,
+    "c6966f933b77755baae49e0710dd8553": 1787144434,
     "df42594ad243c54b915273725483bc7e": 1787144317
   },
   "schema_version": 12,
-  "updates_seen": 96,
+  "updates_seen": 97,
   "verified_official": {
     "DOOH": {
       "entries": [
