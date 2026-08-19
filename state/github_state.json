@@ -303,6 +303,44 @@
       },
       "ticker": ""
     },
+    "M&A / TAKEOVER|PARTIES|SII GELAR TENDER WAJIB SAHAM DOOH USAI|51 PERSEN SAHAM": {
+      "family": "M&A / TAKEOVER",
+      "first_seen_utc": "2026-08-19T10:06:51.565020+00:00",
+      "last_alert_utc": "2026-08-19T10:06:51.565020+00:00",
+      "last_seen_utc": "2026-08-19T10:06:51.565020+00:00",
+      "market_context": {
+        "change_pct": null,
+        "last_price": null,
+        "market_date": null
+      },
+      "material_snapshot": {
+        "acquirer": "SII Gelar Tender Wajib Saham DOOH Usai",
+        "acquirer_confirmed": true,
+        "event_type": "TENDER OFFER",
+        "execution_price": null,
+        "ipo_single_price": null,
+        "money": [],
+        "official_authority": null,
+        "official_kind": null,
+        "price_range": null,
+        "ratio": null,
+        "schedule": {},
+        "share_count": null,
+        "stage": "TENDER OFFER",
+        "stage_step": 6,
+        "stage_total": 7,
+        "stake": [],
+        "standby_buyer": null,
+        "target": "51 Persen Saham",
+        "target_confirmed": true,
+        "tender_price": null,
+        "underwriter": null,
+        "use_of_funds": [
+          "AKUISISI / INVESTASI"
+        ]
+      },
+      "ticker": ""
+    },
     "M&A / TAKEOVER|PARTIES|TRIPLE BERKAH|": {
       "family": "M&A / TAKEOVER",
       "first_seen_utc": "2026-08-14T10:15:00.868800+00:00",
@@ -881,6 +919,42 @@
         "use_of_funds": [
           "AKUISISI / INVESTASI"
         ]
+      },
+      "ticker": ""
+    },
+    "M&A / TAKEOVER|TITLE|DOOH GELAR WAJIB AKHIR AGUSTUS BLOOMBERG TECHNOZ": {
+      "family": "M&A / TAKEOVER",
+      "first_seen_utc": "2026-08-19T10:06:51.565020+00:00",
+      "last_alert_utc": "2026-08-19T10:06:51.565020+00:00",
+      "last_seen_utc": "2026-08-19T10:06:51.565020+00:00",
+      "market_context": {
+        "change_pct": null,
+        "last_price": null,
+        "market_date": null
+      },
+      "material_snapshot": {
+        "acquirer": null,
+        "acquirer_confirmed": false,
+        "event_type": "TENDER OFFER",
+        "execution_price": null,
+        "ipo_single_price": null,
+        "money": [],
+        "official_authority": null,
+        "official_kind": null,
+        "price_range": null,
+        "ratio": null,
+        "schedule": {},
+        "share_count": null,
+        "stage": "TENDER OFFER",
+        "stage_step": 6,
+        "stage_total": 7,
+        "stake": [],
+        "standby_buyer": null,
+        "target": null,
+        "target_confirmed": false,
+        "tender_price": null,
+        "underwriter": null,
+        "use_of_funds": []
       },
       "ticker": ""
     },
@@ -3507,6 +3581,42 @@
         "use_of_funds": []
       },
       "ticker": ""
+    },
+    "RIGHTS ISSUE|TITLE|TETAPKAN HARGA PELAKSANAAN BUVA JATUH PERSEN IDX": {
+      "family": "RIGHTS ISSUE",
+      "first_seen_utc": "2026-08-14T10:15:00.868800+00:00",
+      "last_alert_utc": "2026-08-14T10:15:00.868800+00:00",
+      "last_seen_utc": "2026-08-14T10:15:00.868800+00:00",
+      "market_context": {
+        "change_pct": null,
+        "last_price": null,
+        "market_date": null
+      },
+      "material_snapshot": {
+        "acquirer": null,
+        "acquirer_confirmed": false,
+        "event_type": "RIGHTS ISSUE",
+        "execution_price": null,
+        "ipo_single_price": null,
+        "money": [],
+        "official_authority": null,
+        "official_kind": null,
+        "price_range": null,
+        "ratio": null,
+        "schedule": {},
+        "share_count": ", saham",
+        "stage": "RIGHTS ISSUE INFO",
+        "stage_step": 1,
+        "stage_total": 6,
+        "stake": [],
+        "standby_buyer": null,
+        "target": null,
+        "target_confirmed": false,
+        "tender_price": null,
+        "underwriter": null,
+        "use_of_funds": []
+      },
+      "ticker": ""
     }
   },
   "issuer_profile_cache": {
@@ -3528,9 +3638,217 @@
     }
   },
   "last_keepalive_utc": "2026-08-14T10:15:00.868800+00:00",
-  "last_state_change_utc": "2026-08-19T10:06:51.565105+00:00",
+  "last_state_change_utc": "2026-08-19T11:20:28.397597+00:00",
   "market_noise_suppressed": 1,
   "milestone_alerts": {},
+  "rumor_alerts_sent": 0,
+  "rumor_baseline_initialized": true,
+  "rumor_confirmed_count": 0,
+  "rumor_denied_count": 0,
+  "rumor_duplicates_suppressed": 0,
+  "rumor_expired_count": 0,
+  "rumor_last_scan_utc": "2026-08-19T11:20:28.363761+00:00",
+  "rumor_memory": {
+    "AKUISISI / TAKEOVER|TICKER|BYAN": {
+      "category": "AKUISISI / TAKEOVER",
+      "company_name": null,
+      "first_seen_utc": "2026-08-18T02:41:36+00:00",
+      "issuer_profile": null,
+      "key": "AKUISISI / TAKEOVER|TICKER|BYAN",
+      "last_alert_utc": null,
+      "last_seen_utc": "2026-08-19T06:50:18+00:00",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeW82cXhoQ29IMG0xOGtodnZCSm1XZHNDY3J5UkgtaXhaM1hQcmprQUFHcWJ0QXZSSDVodUdPLWpGa2tvUVZ6S1pSZDg4eXpyOFVLRXRwMWZKU3BQbUVkM3JoalBUM0VJOEp3dlpubnl1QnlzUXluRDlWRklkUXFYREpwdDlRMVB0d3NLaGkyaHF6NHd1LUhSNTQ4UHNlLWtORzl4SVJB?oc=5",
+      "market_data": null,
+      "official_confirmation": null,
+      "published": "Wed, 19 Aug 2026 03:06:00 GMT",
+      "rumor_details": {
+        "ipo_price": null,
+        "listing_estimate": null,
+        "money": [],
+        "percentages": [],
+        "price_range": null,
+        "rumored_party": null,
+        "share_count": null,
+        "underwriter": null
+      },
+      "source": "investor.id",
+      "source_count": 12,
+      "sources": [
+        "cnbcindonesia.com",
+        "achmadnurhidayat.id",
+        "publika.id",
+        "pdiperjuanganbali.id",
+        "investor.id",
+        "MediaKompeten",
+        "beritajejakfakta.id",
+        "Readers.id"
+      ],
+      "status": "ACTIVE",
+      "strength": "STRONG",
+      "ticker": "BYAN",
+      "title": "Isu Akuisisi Bayan Resources (BYAN) Mengemuka, Perseroan Ungkap Faktanya - investor.id"
+    },
+    "AKUISISI / TAKEOVER|TITLE|BAYAN RESOURCES TANGGAPI ISU OLEH HAJI ISAM": {
+      "category": "AKUISISI / TAKEOVER",
+      "company_name": null,
+      "first_seen_utc": "2026-08-19T05:56:25+00:00",
+      "issuer_profile": null,
+      "key": "AKUISISI / TAKEOVER|TITLE|BAYAN RESOURCES TANGGAPI ISU OLEH HAJI ISAM",
+      "last_alert_utc": null,
+      "last_seen_utc": "2026-08-19T05:56:25+00:00",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWGlqS1pzejZxMHVaZGJVamJYaDNyQjdEZ2dXV2RaZ3ZtLVltbUJLVHVZYWFEZmFOSmFLUUNqTk55eDFwenRobG1xTzVURDNGNU9iNF9hZk5UYjgzdnZmeHkyazhvdjVMcC16T2J5OXBqRmRiR1RTZ2lWZjVNRjhqaHdZakxqX3lXYW9nMGpSdGluNFFsUWhpM0trdw?oc=5",
+      "market_data": null,
+      "official_confirmation": null,
+      "published": "Wed, 19 Aug 2026 05:56:25 GMT",
+      "rumor_details": {
+        "ipo_price": null,
+        "listing_estimate": null,
+        "money": [],
+        "percentages": [],
+        "price_range": null,
+        "rumored_party": "Bayan Resources Tanggapi Isu",
+        "share_count": null,
+        "underwriter": null
+      },
+      "source": "Tempo.co",
+      "source_count": 1,
+      "sources": [
+        "Tempo.co"
+      ],
+      "status": "ACTIVE",
+      "strength": "WEAK",
+      "ticker": null,
+      "title": "Bayan Resources Tanggapi Isu Akuisisi Saham oleh Haji Isam - Tempo.co"
+    },
+    "BUYBACK|TITLE|ID PRESS RELEASE RENCANA BUYBACK 2026 DOCX": {
+      "category": "BUYBACK",
+      "company_name": "PT Bur",
+      "first_seen_utc": "2026-08-19T06:44:31+00:00",
+      "issuer_profile": null,
+      "key": "BUYBACK|TITLE|ID PRESS RELEASE RENCANA BUYBACK 2026 DOCX",
+      "last_alert_utc": null,
+      "last_seen_utc": "2026-08-19T06:44:31+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOLXdnTGR2NFlqZUVSMFBndHdDVVF1NVZ6R1VlOVpKSURDbE02dnlQOVBfSVVpYUV1XzUtSmJUNU1OTFhHZWxrY0VmMXV2cVdET0dIanl1aXhWRFBkQU5YT25SUlcwb21KNHNFY25KRXZqR3FzdkhxRFkyUnAzZ2FaSnFIbXJucVJDVzhwMVZtSXMza2ZwRll1YzgzOFdILUtVQWp1QU5iYmJjX0lnelJMdUZndw?oc=5",
+      "market_data": null,
+      "official_confirmation": null,
+      "published": "Wed, 19 Aug 2026 06:44:31 GMT",
+      "rumor_details": {
+        "ipo_price": null,
+        "listing_estimate": null,
+        "money": [],
+        "percentages": [],
+        "price_range": null,
+        "rumored_party": null,
+        "share_count": null,
+        "underwriter": null
+      },
+      "source": "PT Bursa Efek Indonesia",
+      "source_count": 1,
+      "sources": [
+        "PT Bursa Efek Indonesia"
+      ],
+      "status": "CONFIRMED OFFICIAL",
+      "strength": "CONFIRMED OFFICIAL",
+      "ticker": null,
+      "title": "[ID] Press Release - Rencana Buyback 2026.docx - PT Bursa Efek Indonesia"
+    },
+    "BUYBACK|TITLE|PRDA KI RENCANA BUYBACK 2026 DOCX PT": {
+      "category": "BUYBACK",
+      "company_name": "PT Bur",
+      "first_seen_utc": "2026-08-19T06:44:31+00:00",
+      "issuer_profile": null,
+      "key": "BUYBACK|TITLE|PRDA KI RENCANA BUYBACK 2026 DOCX PT",
+      "last_alert_utc": null,
+      "last_seen_utc": "2026-08-19T06:44:31+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMy1jNGs0RnRkQnBoZlhDYkJSY3RfOWdMQ3N3eC0yTGlXX0VaM3E2LWU1c3BPTnlzTkhIOHZqUXFPalhzc3U4c0s5NmJMakRKWnFIMkxMYlNUQnFhOVhuaWhlbFdrZ2VEX2RxUkdKUWNLSUdhZEVlbS01c2dodVpPWlB2dEVLdWJRQkc5bm1CblZjWXkzZjNXckFCUzk1UkhTSHFXMHRuYk5Eazh4bGphdkdmQQ?oc=5",
+      "market_data": null,
+      "official_confirmation": null,
+      "published": "Wed, 19 Aug 2026 06:44:31 GMT",
+      "rumor_details": {
+        "ipo_price": null,
+        "listing_estimate": null,
+        "money": [],
+        "percentages": [],
+        "price_range": null,
+        "rumored_party": null,
+        "share_count": null,
+        "underwriter": null
+      },
+      "source": "PT Bursa Efek Indonesia",
+      "source_count": 1,
+      "sources": [
+        "PT Bursa Efek Indonesia"
+      ],
+      "status": "CONFIRMED OFFICIAL",
+      "strength": "CONFIRMED OFFICIAL",
+      "ticker": null,
+      "title": "PRDA_KI- Rencana Buyback 2026.docx - PT Bursa Efek Indonesia"
+    },
+    "SPIN-OFF / RESTRUCTURING|TICKER|WIKA": {
+      "category": "SPIN-OFF / RESTRUCTURING",
+      "company_name": "PT Wij",
+      "first_seen_utc": "2026-08-18T21:30:00+00:00",
+      "issuer_profile": null,
+      "key": "SPIN-OFF / RESTRUCTURING|TICKER|WIKA",
+      "last_alert_utc": null,
+      "last_seen_utc": "2026-08-18T23:32:57+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQb3hIYW16QjQ5akQ0TTJhQVQ1QVZiSV9HOWFrNjBvdGsybVVwMnhIY25kUE83UHRSbE1mdWtNUnhVbnpGVEt0WThVRmxNc0pSdlVHZHgteVRoWlFGMVpOcDdZQmhEZzlBQkdHaHJqWGk0dUJkT0h5M0thdTlGdVVHQ25Fa1lFTTZiUUd6bDRfcUQtRHZKY3dtZnd4RzNyNWRNQkIyaVV2TEYzQ1U2QjUtOEQ1VQ?oc=5",
+      "market_data": null,
+      "official_confirmation": null,
+      "published": "Tue, 18 Aug 2026 23:32:57 GMT",
+      "rumor_details": {
+        "ipo_price": null,
+        "listing_estimate": null,
+        "money": [],
+        "percentages": [],
+        "price_range": null,
+        "rumored_party": null,
+        "share_count": null,
+        "underwriter": null
+      },
+      "source": "PT Bursa Efek Indonesia",
+      "source_count": 1,
+      "sources": [
+        "PT Bursa Efek Indonesia"
+      ],
+      "status": "CONFIRMED OFFICIAL",
+      "strength": "CONFIRMED OFFICIAL",
+      "ticker": "WIKA",
+      "title": "PENGUMUMAN Restrukturisasi Obligasi dan Sukuk PT Wijaya Karya Tbk (WIKA) Tercatat di Papan: Pemantauan Khusus No.: Peng-P-00933/ - PT Bursa Efek Indonesia"
+    },
+    "STRATEGIC INVESTOR|TICKER|PACK": {
+      "category": "STRATEGIC INVESTOR",
+      "company_name": null,
+      "first_seen_utc": "2026-08-19T09:54:52+00:00",
+      "issuer_profile": null,
+      "key": "STRATEGIC INVESTOR|TICKER|PACK",
+      "last_alert_utc": null,
+      "last_seen_utc": "2026-08-19T09:54:52+00:00",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVWdvNXNjM0x4ZGIwSHhhZHBfNzhTdHphTmhoSGxPYTNUZ2s5X09GQ0tQXzFZMXRTel9SUkNFek1ET1FwalNKenZUR2ZaTC1UTEdWeHJYQWxaT2ROUGM2TEZDLVUtUEdXRlZ6OE13Z1NTX05ReFA5b0RueGJJZzRHWDdwN2Utb2ZGZXBDR0NRNklWUUVpdVZzY2xhaEI5WmNSdlhVUmtHb0xCYTlFclE?oc=5",
+      "market_data": null,
+      "official_confirmation": null,
+      "published": "Wed, 19 Aug 2026 09:54:52 GMT",
+      "rumor_details": {
+        "ipo_price": null,
+        "listing_estimate": null,
+        "money": [],
+        "percentages": [],
+        "price_range": null,
+        "rumored_party": null,
+        "share_count": null,
+        "underwriter": null
+      },
+      "source": "KONTAN",
+      "source_count": 1,
+      "sources": [
+        "KONTAN"
+      ],
+      "status": "ACTIVE",
+      "strength": "WEAK",
+      "ticker": "PACK",
+      "title": "Ada Transaksi Nego 1,34 Miliar di Saham PACK, Sinyal Investor Strategis Masuk? - KONTAN"
+    }
+  },
   "schema_version": 3,
   "sent": {
     "012e596a93e964d4908648da9297384f9ea68eb165f47ad9c1c9978b1fbb8b7c": "2026-08-14T10:15:00.868800+00:00",
