@@ -1,5 +1,5 @@
 {
-  "commands_processed": 75,
+  "commands_processed": 76,
   "duplicates_suppressed": 4,
   "initialized": true,
   "issuer_aliases": {
@@ -9,7 +9,8 @@
     "BYAN": [
       "Bayan (BYAN",
       "Bayan Resources",
-      "62 Persen Saham Bayan Resources"
+      "62 Persen Saham Bayan Resources",
+      "oleh Haji Isam"
     ],
     "DOOH": [
       "Era Media Sejahtera"
@@ -28,10 +29,27 @@
   "issuer_profiles": {
     "DOOH": {
       "business_activity": "PT Era Media Sejahtera Tbk operates as an advertising media company in Indonesia. It operates through Advertising, Consulting, and Media Content segments.",
-      "controller": null,
+      "controller": {
+        "basis": "OFFICIAL_EVENT_PLUS_DEEP_IDENTITY",
+        "evidence_text": "baru: <p>DOOH punya pengendali baru setelah Sinergi Internasional Investama akuisisi 51% saham Rp197,34 miliar. Aksi ini memicu kewajiban tender offer.</p> KONTAN.CO.ID – JAKARTA. PT Sinergi Internasional Investama resmi menjadi pengendali baru PT Era Media Sejahtera Tbk ( DOOH ) setelah merampungkan transaksi pengambilalihan 51% saham perseroan pada 30 Juli 2026. Dalam transak",
+        "name": "PT Sinergi Internasional Investama",
+        "source": "IDX + DEEP ARTICLE",
+        "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSWRNOVVfY0NhNXkwZkdZOUh3dkVsVFo3RGxSSXZYMkVMN3FYTDdnOTJiWmplSWdXVnU2X0xBVjIzTGUwaG9xWjQ2eFVTTkFhODdvVmVqUElScy1iMG9sZ3pFS1lCbWU3RlV3ZnVYTUo4aFNZREQyZVNPY25rSlQ0UzhlUHNKaDZxajFKYVNLczZHVXR6U3FhX1ZjWVFXVUNaV2JHWEhNLXRNVDdtRnQyTlhjZw?oc=5",
+        "stake_pct": 51.0,
+        "verification_level": "CROSS_VERIFIED",
+        "verified": true
+      },
       "industry": "Advertising Agencies",
       "issuer_name": "Era Media Sejahtera",
-      "major_shareholders": [],
+      "major_shareholders": [
+        {
+          "name": "PT Sinergi Internasional Investama",
+          "source": "IDX + DEEP ARTICLE",
+          "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSWRNOVVfY0NhNXkwZkdZOUh3dkVsVFo3RGxSSXZYMkVMN3FYTDdnOTJiWmplSWdXVnU2X0xBVjIzTGUwaG9xWjQ2eFVTTkFhODdvVmVqUElScy1iMG9sZ3pFS1lCbWU3RlV3ZnVYTUo4aFNZREQyZVNPY25rSlQ0UzhlUHNKaDZxajFKYVNLczZHVXR6U3FhX1ZjWVFXVUNaV2JHWEhNLXRNVDdtRnQyTlhjZw?oc=5",
+          "stake_pct": 51.0,
+          "verified": true
+        }
+      ],
       "profile_source": "Yahoo Finance",
       "profile_source_quality": "FALLBACK",
       "profile_source_url": null,
@@ -39,12 +57,12 @@
       "subindustry": null,
       "subsector": null,
       "ticker": "DOOH",
-      "verified_at": "2026-08-19T06:54:47.587261+00:00",
+      "verified_at": "2026-08-19T07:57:08.660037+00:00",
       "website": "https://www.sspace.id"
     }
   },
-  "last_command_utc": "2026-08-19T07:56:03.475352+00:00",
-  "last_state_change_utc": "2026-08-19T07:56:03.475365+00:00",
+  "last_command_utc": "2026-08-19T07:57:09.353099+00:00",
+  "last_state_change_utc": "2026-08-19T07:57:09.353102+00:00",
   "lifecycle_history": {
     "AKSI|M&A / TAKEOVER": [
       {
@@ -92,14 +110,14 @@
         "family": "M&A / TAKEOVER",
         "issuer": "Era Media Sejahtera",
         "last_detail_update_utc": "2026-08-17T08:11:37.903175+00:00",
-        "last_seen_utc": "2026-08-19T06:56:04.747943+00:00",
+        "last_seen_utc": "2026-08-19T07:57:09.353008+00:00",
         "money": [
           "Rp197,34 miliar"
         ],
         "next_milestone": "Penyelesaian tender / pembayaran",
         "observed_utc": "2026-08-16T18:27:49.564514+00:00",
         "official_authority": "IDX",
-        "official_cached": false,
+        "official_cached": true,
         "official_kind": "PRIMARY",
         "official_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSWRNOVVfY0NhNXkwZkdZOUh3dkVsVFo3RGxSSXZYMkVMN3FYTDdnOTJiWmplSWdXVnU2X0xBVjIzTGUwaG9xWjQ2eFVTTkFhODdvVmVqUElScy1iMG9sZ3pFS1lCbWU3RlV3ZnVYTUo4aFNZREQyZVNPY25rSlQ0UzhlUHNKaDZxajFKYVNLczZHVXR6U3FhX1ZjWVFXVUNaV2JHWEhNLXRNVDdtRnQyTlhjZw?oc=5",
         "price_range": null,
@@ -269,16 +287,16 @@
       }
     ]
   },
-  "next_offset": 527719791,
+  "next_offset": 527719792,
   "recent_commands": {
     "26624963e59274d218f73177edb88aec": 1787046421,
-    "3ee4ef5cdf961718d1c0de120b3e6b70": 1787122521,
+    "3ee4ef5cdf961718d1c0de120b3e6b70": 1787126174,
     "4478bd5b0be4f9956fb1627f68056208": 1787046372,
     "68d39bf599469cddc1581e334208edc4": 1787126130,
     "df42594ad243c54b915273725483bc7e": 1787126086
   },
   "schema_version": 12,
-  "updates_seen": 80,
+  "updates_seen": 81,
   "verified_official": {
     "DOOH": {
       "entries": [
