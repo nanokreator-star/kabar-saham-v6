@@ -3703,7 +3703,7 @@
     }
   },
   "last_keepalive_utc": "2026-08-14T10:15:00.868800+00:00",
-  "last_state_change_utc": "2026-08-19T13:52:05.249043+00:00",
+  "last_state_change_utc": "2026-08-19T16:06:29.649015+00:00",
   "market_noise_suppressed": 1,
   "milestone_alerts": {},
   "rumor_alerts_sent": 1,
@@ -3711,17 +3711,20 @@
   "rumor_confirmed_count": 0,
   "rumor_confirmed_dedups": 0,
   "rumor_denied_count": 0,
-  "rumor_duplicates_suppressed": 1,
+  "rumor_duplicates_suppressed": 2,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 0,
   "rumor_integrity_repairs": 3,
-  "rumor_last_scan_utc": "2026-08-19T13:52:05.204135+00:00",
+  "rumor_last_scan_utc": "2026-08-19T16:06:29.609100+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
       "company_name": "Bayan Resources",
-      "copy_duplicate_count": 0,
-      "effective_independent_count": 13.0,
+      "copy_duplicate_count": 9,
+      "credible_effective_independent_count": 3.0,
+      "derivative_source_count": 7,
+      "detected_source_count": 13,
+      "effective_independent_count": 5.4,
       "entity_aliases": [
         "Bayan (BYAN",
         "Bayan Resources",
@@ -3731,7 +3734,7 @@
       "entity_resolution_source": "ISSUER_ALIAS_MEMORY+RUMOR_EXPLICIT_TICKER",
       "first_seen_utc": "2026-08-18T02:41:36+00:00",
       "high_quality_source_count": 3,
-      "independent_story_count": 13,
+      "independent_story_count": 11,
       "issuer_profile": {
         "business_activity": "PT Bayan Resources Tbk., together with its subsidiaries, engages in the open cut mining and sale of coal in Indonesia. It operates through Coal and Non-Coal segments.",
         "controller": null,
@@ -3765,66 +3768,99 @@
         "price_range": null,
         "underwriter": null
       },
-      "source": "Tempo.co",
+      "semantic_copy_count": 2,
+      "source": "tempo.co",
       "source_breakdown": [
         {
-          "group": "cnbcindonesia.com",
-          "quality": "HIGH",
-          "source": "CNBC Indonesia",
-          "tier": 4
-        },
-        {
+          "derivative": false,
           "group": "tempo.co",
+          "new_material": 0,
           "quality": "HIGH",
-          "source": "Tempo.co",
-          "tier": 4
+          "semantic_copy": false,
+          "source": "tempo.co",
+          "tier": 4,
+          "weight": 1.0
         },
         {
+          "derivative": false,
           "group": "investor.id",
+          "new_material": 0,
           "quality": "HIGH",
+          "semantic_copy": false,
           "source": "investor.id",
-          "tier": 4
+          "tier": 4,
+          "weight": 1.0
         },
         {
-          "group": "achmadnurhidayat.id",
+          "derivative": false,
+          "group": "cnbcindonesia.com",
+          "new_material": 0,
+          "quality": "HIGH",
+          "semantic_copy": false,
+          "source": "CNBC Indonesia",
+          "tier": 4,
+          "weight": 1.0
+        },
+        {
+          "derivative": false,
+          "group": "asatunews.co.id",
+          "new_material": 1,
           "quality": "LOW",
-          "source": "achmadnurhidayat.id",
-          "tier": 1
+          "semantic_copy": false,
+          "source": "AsatuNews.co.id",
+          "tier": 1,
+          "weight": 0.55
         },
         {
-          "group": "publika.id",
+          "derivative": true,
+          "group": "periskop.id",
+          "new_material": 0,
           "quality": "LOW",
-          "source": "publika.id",
-          "tier": 1
+          "semantic_copy": false,
+          "source": "Periskop.id",
+          "tier": 1,
+          "weight": 0.25
         },
         {
-          "group": "pdiperjuanganbali.id",
-          "quality": "LOW",
-          "source": "pdiperjuanganbali.id",
-          "tier": 1
-        },
-        {
+          "derivative": true,
           "group": "mediakompeten",
+          "new_material": 0,
           "quality": "LOW",
+          "semantic_copy": false,
           "source": "MediaKompeten",
-          "tier": 1
+          "tier": 1,
+          "weight": 0.25
         },
         {
-          "group": "readers.id",
+          "derivative": true,
+          "group": "terkini24.id",
+          "new_material": 0,
           "quality": "LOW",
-          "source": "Readers.id",
-          "tier": 1
+          "semantic_copy": false,
+          "source": "terkini24.id",
+          "tier": 1,
+          "weight": 0.25
+        },
+        {
+          "derivative": true,
+          "group": "pdiperjuanganbali.id",
+          "new_material": 0,
+          "quality": "LOW",
+          "semantic_copy": false,
+          "source": "pdiperjuanganbali.id",
+          "tier": 1,
+          "weight": 0.25
         }
       ],
       "source_count": 13,
       "source_quality": "HIGH",
-      "source_quality_score": 22.0,
+      "source_quality_score": 14.4,
       "sources": [
         "CNBC Indonesia",
         "achmadnurhidayat.id",
         "publika.id",
         "pdiperjuanganbali.id",
-        "Tempo.co",
+        "tempo.co",
         "investor.id",
         "MediaKompeten",
         "Readers.id"
@@ -3832,13 +3868,16 @@
       "status": "ACTIVE",
       "strength": "STRONG",
       "ticker": "BYAN",
-      "title": "Bayan Resources Tanggapi Isu Akuisisi Saham oleh Haji Isam - Tempo.co"
+      "title": "Bayan Resources Tanggapi Isu Akuisisi Saham oleh Haji Isam - tempo.co"
     },
     "BUYBACK|TITLE|ID PRESS RELEASE RENCANA BUYBACK 2026 DOCX": {
       "category": "BUYBACK",
       "company_name": "PT Bur",
       "copy_duplicate_count": 0,
-      "effective_independent_count": 1.0,
+      "credible_effective_independent_count": 1.1,
+      "derivative_source_count": 0,
+      "detected_source_count": 1,
+      "effective_independent_count": 1.1,
       "first_seen_utc": "2026-08-19T06:44:31+00:00",
       "high_quality_source_count": 1,
       "independent_story_count": 1,
@@ -3861,18 +3900,23 @@
         "share_count": null,
         "underwriter": null
       },
+      "semantic_copy_count": 0,
       "source": "PT Bursa Efek Indonesia",
       "source_breakdown": [
         {
+          "derivative": false,
           "group": "pt bursa efek indonesia",
+          "new_material": 0,
           "quality": "OFFICIAL",
+          "semantic_copy": false,
           "source": "PT Bursa Efek Indonesia",
-          "tier": 5
+          "tier": 5,
+          "weight": 1.1
         }
       ],
       "source_count": 1,
       "source_quality": "MEDIUM",
-      "source_quality_score": 5.0,
+      "source_quality_score": 5.5,
       "sources": [
         "PT Bursa Efek Indonesia"
       ],
@@ -3885,7 +3929,10 @@
       "category": "BUYBACK",
       "company_name": "PT Bur",
       "copy_duplicate_count": 0,
-      "effective_independent_count": 1.0,
+      "credible_effective_independent_count": 1.1,
+      "derivative_source_count": 0,
+      "detected_source_count": 1,
+      "effective_independent_count": 1.1,
       "first_seen_utc": "2026-08-19T06:44:31+00:00",
       "high_quality_source_count": 1,
       "independent_story_count": 1,
@@ -3908,18 +3955,23 @@
         "share_count": null,
         "underwriter": null
       },
+      "semantic_copy_count": 0,
       "source": "PT Bursa Efek Indonesia",
       "source_breakdown": [
         {
+          "derivative": false,
           "group": "pt bursa efek indonesia",
+          "new_material": 0,
           "quality": "OFFICIAL",
+          "semantic_copy": false,
           "source": "PT Bursa Efek Indonesia",
-          "tier": 5
+          "tier": 5,
+          "weight": 1.1
         }
       ],
       "source_count": 1,
       "source_quality": "MEDIUM",
-      "source_quality_score": 5.0,
+      "source_quality_score": 5.5,
       "sources": [
         "PT Bursa Efek Indonesia"
       ],
@@ -3932,6 +3984,9 @@
       "category": "IPO",
       "company_name": null,
       "copy_duplicate_count": 0,
+      "credible_effective_independent_count": 1.0,
+      "derivative_source_count": 0,
+      "detected_source_count": 1,
       "effective_independent_count": 1.0,
       "entity_aliases": [],
       "entity_resolution_source": null,
@@ -3954,7 +4009,7 @@
       "key": "IPO|TITLE|MENIMBANG WACANA PELINDO INVESTOR ID",
       "last_alert_utc": "2026-08-19T13:52:05.203642+00:00",
       "last_seen_utc": "2026-08-19T13:45:14+00:00",
-      "link": "https://investor.id/market/367328/pelindo-hingga-mind-id-bersiap-ipo",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1rSW1qdmM2TlZyQXBNek96Vk41R3JtZ2xubEY4YnIzY2lnZFh4Q013WW9WMVRMM09mN1c3RWRxM0dVQmdDbld3ZllBcFI5MlNzVnZyVGRtX2hBdzZSRE5iUXQ1VnFiNUtCODA5d0JUN3dvZ2c?oc=5",
       "market_data": null,
       "official_confirmation": null,
       "premium_source_count": 1,
@@ -3970,13 +4025,18 @@
         "share_count": null,
         "underwriter": null
       },
+      "semantic_copy_count": 0,
       "source": "investor.id",
       "source_breakdown": [
         {
+          "derivative": false,
           "group": "investor.id",
+          "new_material": 0,
           "quality": "HIGH",
+          "semantic_copy": false,
           "source": "investor.id",
-          "tier": 4
+          "tier": 4,
+          "weight": 1.0
         }
       ],
       "source_count": 1,
@@ -3994,7 +4054,10 @@
       "category": "SPIN-OFF / RESTRUCTURING",
       "company_name": "PT Wij",
       "copy_duplicate_count": 0,
-      "effective_independent_count": 1.0,
+      "credible_effective_independent_count": 1.1,
+      "derivative_source_count": 0,
+      "detected_source_count": 1,
+      "effective_independent_count": 1.1,
       "entity_aliases": [
         "Wijaya Karya Tbk (WIKA) PENGUMUMAN"
       ],
@@ -4036,18 +4099,23 @@
         "share_count": null,
         "underwriter": null
       },
+      "semantic_copy_count": 0,
       "source": "PT Bursa Efek Indonesia",
       "source_breakdown": [
         {
+          "derivative": false,
           "group": "pt bursa efek indonesia",
+          "new_material": 0,
           "quality": "OFFICIAL",
+          "semantic_copy": false,
           "source": "PT Bursa Efek Indonesia",
-          "tier": 5
+          "tier": 5,
+          "weight": 1.1
         }
       ],
       "source_count": 1,
       "source_quality": "MEDIUM",
-      "source_quality_score": 5.0,
+      "source_quality_score": 5.5,
       "sources": [
         "PT Bursa Efek Indonesia"
       ],
@@ -4060,6 +4128,9 @@
       "category": "STRATEGIC INVESTOR",
       "company_name": null,
       "copy_duplicate_count": 0,
+      "credible_effective_independent_count": 1.0,
+      "derivative_source_count": 0,
+      "detected_source_count": 1,
       "effective_independent_count": 1.0,
       "first_seen_utc": "2026-08-19T09:54:52+00:00",
       "high_quality_source_count": 1,
@@ -4099,13 +4170,18 @@
         "share_count": null,
         "underwriter": null
       },
+      "semantic_copy_count": 0,
       "source": "KONTAN",
       "source_breakdown": [
         {
+          "derivative": false,
           "group": "kontan.co.id",
+          "new_material": 0,
           "quality": "HIGH",
+          "semantic_copy": false,
           "source": "KONTAN",
-          "tier": 4
+          "tier": 4,
+          "weight": 1.0
         }
       ],
       "source_count": 1,
