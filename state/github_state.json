@@ -731,6 +731,45 @@
       },
       "ticker": "OKAS"
     },
+    "M&A / TAKEOVER|TICKER|PIPA": {
+      "family": "M&A / TAKEOVER",
+      "first_seen_utc": "2026-08-19T00:31:02.208969+00:00",
+      "last_alert_utc": "2026-08-19T00:31:02.208963+00:00",
+      "last_seen_utc": "2026-08-19T00:31:02.208963+00:00",
+      "market_context": {
+        "change_pct": 0.0,
+        "last_price": 124.0,
+        "market_date": "2026-08-18"
+      },
+      "material_snapshot": {
+        "acquirer": null,
+        "acquirer_confirmed": false,
+        "event_type": "AKUISISI",
+        "execution_price": null,
+        "ipo_single_price": null,
+        "money": [],
+        "official_authority": null,
+        "official_kind": null,
+        "price_range": null,
+        "ratio": null,
+        "schedule": {},
+        "share_count": null,
+        "stage": "SPA / SIGNED",
+        "stage_step": 4,
+        "stage_total": 7,
+        "stake": [],
+        "standby_buyer": null,
+        "target": null,
+        "target_confirmed": false,
+        "tender_price": null,
+        "underwriter": null,
+        "use_of_funds": [
+          "AKUISISI / INVESTASI",
+          "EKSPANSI / CAPEX"
+        ]
+      },
+      "ticker": "PIPA"
+    },
     "M&A / TAKEOVER|TITLE|51 DOOH RAMPUNG SII SIAP GELAR WAJIB": {
       "family": "M&A / TAKEOVER",
       "first_seen_utc": "2026-08-18T03:31:02.730821+00:00",
@@ -3391,7 +3430,7 @@
     }
   },
   "last_keepalive_utc": "2026-08-14T10:15:00.868800+00:00",
-  "last_state_change_utc": "2026-08-18T20:30:57.659852+00:00",
+  "last_state_change_utc": "2026-08-19T00:31:02.209013+00:00",
   "market_noise_suppressed": 0,
   "milestone_alerts": {},
   "schema_version": 3,
@@ -3502,6 +3541,7 @@
     "acb72e87943af90a14485f30f1044d5d2acde6387f81233cdba01c039de9385d": "2026-08-14T10:15:00.868800+00:00",
     "b7e2dd72313f82062863e8a488cb6ab2caa15d261ef46487e0f04598f08bf542": "2026-08-14T10:15:00.868800+00:00",
     "b9a491ff0723d4b28dea6cce10f88216b577a97545819aee9db14c9e339dab0f": "2026-08-14T10:15:00.868800+00:00",
+    "b9fef1c2d035bcc97d779563585897fe64b72824ee5100e87cd126c48d3fa8e3": "2026-08-19T00:31:02.208943+00:00",
     "bbe884fbc449fb10cb942b000c191836b7bec3feaead9d86e3532289a87bfdbe": "2026-08-14T10:15:00.868800+00:00",
     "bcaf8aeff9fc756fd5abefaad9112e31066f5be443285a41d6bde543232d7c2b": "2026-08-14T10:15:00.868800+00:00",
     "c07e3c51a5c10cda6156604e413ed536b871e8cb7c98e47ece24dc30d43c980d": "2026-08-14T10:15:00.868800+00:00",
