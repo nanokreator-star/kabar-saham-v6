@@ -1916,6 +1916,48 @@
       },
       "ticker": "FOTO"
     },
+    "RIGHTS ISSUE|TICKER|IRSX": {
+      "family": "RIGHTS ISSUE",
+      "first_seen_utc": "2026-08-19T02:31:00.139252+00:00",
+      "last_alert_utc": "2026-08-19T02:31:00.139247+00:00",
+      "last_seen_utc": "2026-08-19T02:31:00.139247+00:00",
+      "market_context": {
+        "change_pct": 0.5263,
+        "last_price": 382.0,
+        "market_date": "2026-08-19"
+      },
+      "material_snapshot": {
+        "acquirer": null,
+        "acquirer_confirmed": false,
+        "event_type": "RIGHTS ISSUE",
+        "execution_price": null,
+        "ipo_single_price": null,
+        "money": [],
+        "official_authority": null,
+        "official_kind": null,
+        "price_range": null,
+        "ratio": null,
+        "schedule": {},
+        "share_count": "12,39 Miliar saham",
+        "stage": "RENCANA",
+        "stage_step": 2,
+        "stage_total": 6,
+        "stake": [
+          66.67
+        ],
+        "standby_buyer": null,
+        "target": null,
+        "target_confirmed": false,
+        "tender_price": null,
+        "underwriter": null,
+        "use_of_funds": [
+          "EKSPANSI / CAPEX",
+          "MODAL KERJA",
+          "PENGEMBANGAN USAHA"
+        ]
+      },
+      "ticker": "IRSX"
+    },
     "RIGHTS ISSUE|TICKER|MGLV": {
       "family": "RIGHTS ISSUE",
       "first_seen_utc": "2026-08-14T10:15:00.868800+00:00",
@@ -3468,7 +3510,7 @@
     }
   },
   "last_keepalive_utc": "2026-08-14T10:15:00.868800+00:00",
-  "last_state_change_utc": "2026-08-19T01:20:49.093752+00:00",
+  "last_state_change_utc": "2026-08-19T02:31:00.139295+00:00",
   "market_noise_suppressed": 0,
   "milestone_alerts": {},
   "schema_version": 3,
@@ -3541,6 +3583,7 @@
     "616989ebd24b7809db1cec6e92cdccfa251fb5b0dd665767864ef0d758d8e7e6": "2026-08-14T10:15:00.868800+00:00",
     "646b85801b59b7050b05830457080dbec683e7d99c6192fb3a280114460d7df8": "2026-08-14T10:15:00.868800+00:00",
     "6961e4412739374464ff56e1b4e06e5b6475ac1f443c928a76a26014d3ebbf38": "2026-08-14T10:15:00.868800+00:00",
+    "6a55b369a5fb6e9c73fe0e2a2093ecf571ca173100bc25e1c091de3392c007b1": "2026-08-19T02:31:00.139231+00:00",
     "6bdad19c48883f375d8ee66130498bd919d86e168ebf0c2398442c45bea37308": "2026-08-14T10:15:00.868800+00:00",
     "6d54bb8221e40afd8a2bd6f7622b02933e1eca3a8fbe421d25d19102dfc1b064": "2026-08-14T10:15:00.868800+00:00",
     "7003b0d1af4222bb498db8d25d949c60a641ece80cd91fe782deb1edcdb7ef5a": "2026-08-14T10:15:00.868800+00:00",
