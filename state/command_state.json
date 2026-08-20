@@ -1,5 +1,5 @@
 {
-  "commands_processed": 116,
+  "commands_processed": 117,
   "duplicates_suppressed": 4,
   "initialized": true,
   "issuer_aliases": {
@@ -36,13 +36,10 @@
       "controller": null,
       "industry": "Thermal Coal",
       "issuer_name": "Bayan Resources",
-      "owner_context_sources": 0,
-      "owner_discovery_method": "STRICT_OFFICIAL_SECTION_V5",
-      "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
+      "owner_context_sources": 1,
+      "owner_resolution_level": "OFFICIAL_CONTROLLER",
       "owner_v2_checked_utc": "2026-08-19T16:08:23.021612+00:00",
       "owner_v3_checked_utc": "2026-08-20T03:21:46.587478+00:00",
-      "owner_v5_checked_utc": "2026-08-20T06:53:08.789003+00:00",
-      "owner_v5_pages_fetched": 0,
       "owner_v5_repaired_utc": "2026-08-20T06:51:00.469499+00:00",
       "owner_v5_safety_repairs": 3,
       "profile_source": "Yahoo Finance",
@@ -69,7 +66,7 @@
       },
       "industry": "Advertising Agencies",
       "issuer_name": "Era Media Sejahtera",
-      "owner_v5_repaired_utc": "2026-08-20T06:53:02.003835+00:00",
+      "owner_v5_repaired_utc": "2026-08-20T06:53:53.479041+00:00",
       "owner_v5_safety_repairs": 6,
       "profile_source": "Yahoo Finance",
       "profile_source_quality": "FALLBACK",
@@ -153,8 +150,8 @@
       "website": "https://www.wika.co.id"
     }
   },
-  "last_command_utc": "2026-08-20T06:53:12.546935+00:00",
-  "last_state_change_utc": "2026-08-20T06:53:12.546943+00:00",
+  "last_command_utc": "2026-08-20T06:53:54.098231+00:00",
+  "last_state_change_utc": "2026-08-20T06:53:54.098245+00:00",
   "lifecycle_history": {
     "AKSI|M&A / TAKEOVER": [
       {
@@ -380,7 +377,7 @@
       }
     ]
   },
-  "next_offset": 527719832,
+  "next_offset": 527719833,
   "recent_commands": {
     "26c528f9a7a61f30f3aa97ffb4fe03c4": 1787144505,
     "351d590a51b1fc322938538275d1124c": 1787199087,
@@ -392,11 +389,11 @@
     "98d99a90c807bac0ed84d9c87c74046b": 1787131594,
     "996b024487acda24e3f2617940d764bf": 1787147683,
     "af2ab547de6ccbfb8bf0100481961291": 1787138499,
-    "c6966f933b77755baae49e0710dd8553": 1787198946,
+    "c6966f933b77755baae49e0710dd8553": 1787208802,
     "df42594ad243c54b915273725483bc7e": 1787208626
   },
   "schema_version": 12,
-  "updates_seen": 121,
+  "updates_seen": 122,
   "verified_official": {
     "DOOH": {
       "entries": [
