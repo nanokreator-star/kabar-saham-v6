@@ -1,5 +1,5 @@
 {
-  "commands_processed": 111,
+  "commands_processed": 112,
   "duplicates_suppressed": 4,
   "initialized": true,
   "issuer_aliases": {
@@ -44,48 +44,16 @@
       "major_shareholders": [
         {
           "name": "GMS Announcement GMS Invitation GMS Minutes",
-          "role": "CONTROLLER",
           "source": "bayan.com.sg",
           "source_url": "https://www.bayan.com.sg/shareholders-information",
           "stake_pct": null,
-          "verification_level": "PRIMARY_COMPANY_CONTROLLER_V4",
-          "verified": true
-        },
-        {
-          "name": "Saham-Saham Emiten Batubara Kakap Melompat Read More 24 July 2023 Saham BYAN Ngacir",
-          "source": "bayan.com.sg",
-          "source_count": 1,
-          "source_url": "https://www.bayan.com.sg",
-          "stake_pct": 4.94,
-          "verification_level": "PRIMARY_COMPANY_HOLDER_V4",
-          "verified": true
-        },
-        {
-          "name": "Announcement GMS Invitation GMS Minutes",
-          "source": "bayan.com.sg",
-          "source_count": 1,
-          "source_url": "https://www.bayan.com.sg/shareholders-information",
-          "stake_pct": null,
-          "verification_level": "PRIMARY_COMPANY_HOLDER_V4",
-          "verified": true
-        },
-        {
-          "name": "Reports Financial Statements Financial Highlights Sustainability Report General",
-          "source": "bayan.com.sg",
-          "source_count": 1,
-          "source_url": "https://www.bayan.com.sg/gms-announcement",
-          "stake_pct": null,
-          "verification_level": "PRIMARY_COMPANY_HOLDER_V4",
           "verified": true
         }
       ],
       "owner_context_sources": 1,
-      "owner_discovery_method": "OFFICIAL_REGISTRY+PRIMARY_COMPANY_V4",
       "owner_resolution_level": "OFFICIAL_CONTROLLER",
       "owner_v2_checked_utc": "2026-08-19T16:08:23.021612+00:00",
       "owner_v3_checked_utc": "2026-08-20T03:21:46.587478+00:00",
-      "owner_v4_checked_utc": "2026-08-20T04:08:41.334701+00:00",
-      "owner_v4_pages_fetched": 3,
       "profile_source": "Yahoo Finance",
       "profile_source_quality": "FALLBACK",
       "profile_source_url": null,
@@ -184,8 +152,8 @@
       "website": "https://www.wika.co.id"
     }
   },
-  "last_command_utc": "2026-08-20T04:08:41.898708+00:00",
-  "last_state_change_utc": "2026-08-20T04:08:41.898738+00:00",
+  "last_command_utc": "2026-08-20T04:09:37.178134+00:00",
+  "last_state_change_utc": "2026-08-20T04:09:37.178145+00:00",
   "lifecycle_history": {
     "AKSI|M&A / TAKEOVER": [
       {
@@ -411,7 +379,7 @@
       }
     ]
   },
-  "next_offset": 527719827,
+  "next_offset": 527719828,
   "recent_commands": {
     "26c528f9a7a61f30f3aa97ffb4fe03c4": 1787144505,
     "351d590a51b1fc322938538275d1124c": 1787196496,
@@ -423,11 +391,11 @@
     "98d99a90c807bac0ed84d9c87c74046b": 1787131594,
     "996b024487acda24e3f2617940d764bf": 1787147683,
     "af2ab547de6ccbfb8bf0100481961291": 1787138499,
-    "c6966f933b77755baae49e0710dd8553": 1787196359,
+    "c6966f933b77755baae49e0710dd8553": 1787198946,
     "df42594ad243c54b915273725483bc7e": 1787198566
   },
   "schema_version": 12,
-  "updates_seen": 116,
+  "updates_seen": 117,
   "verified_official": {
     "DOOH": {
       "entries": [
