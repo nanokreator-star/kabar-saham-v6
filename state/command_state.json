@@ -1,5 +1,5 @@
 {
-  "commands_processed": 137,
+  "commands_processed": 138,
   "duplicates_suppressed": 5,
   "initialized": true,
   "issuer_aliases": {
@@ -188,6 +188,8 @@
       "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
       "owner_v4_checked_utc": "2026-08-20T04:04:24.024668+00:00",
       "owner_v4_pages_fetched": 0,
+      "owner_v6_checked_utc": "2026-08-20T16:10:48.543332+00:00",
+      "owner_v6_pages_fetched": 0,
       "profile_source": "Yahoo Finance",
       "profile_source_quality": "FALLBACK",
       "profile_source_url": null,
@@ -195,7 +197,7 @@
       "subindustry": null,
       "subsector": null,
       "ticker": "PACK",
-      "verified_at": "2026-08-20T04:04:02.909442+00:00",
+      "verified_at": "2026-08-20T16:10:49.700001+00:00",
       "website": "https://www.flexypack.com"
     },
     "PGUN": {
@@ -223,7 +225,12 @@
       "controller": null,
       "industry": "Engineering & Construction",
       "issuer_name": "Konsorsium KAI-WIKA di Whoosh",
+      "owner_context_sources": 0,
+      "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
+      "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
       "owner_v3_checked_utc": "2026-08-20T03:21:03.973084+00:00",
+      "owner_v6_checked_utc": "2026-08-20T15:33:12.838742+00:00",
+      "owner_v6_pages_fetched": 0,
       "profile_source": "Yahoo Finance",
       "profile_source_quality": "FALLBACK",
       "profile_source_url": null,
@@ -231,12 +238,12 @@
       "subindustry": null,
       "subsector": null,
       "ticker": "WIKA",
-      "verified_at": "2026-08-20T03:20:40.034808+00:00",
+      "verified_at": "2026-08-20T15:33:13.522329+00:00",
       "website": "https://www.wika.co.id"
     }
   },
-  "last_command_utc": "2026-08-20T14:53:54.235000+00:00",
-  "last_state_change_utc": "2026-08-20T14:53:54.235012+00:00",
+  "last_command_utc": "2026-08-20T16:50:39.896358+00:00",
+  "last_state_change_utc": "2026-08-20T16:50:39.896370+00:00",
   "lifecycle_history": {
     "AKSI|M&A / TAKEOVER": [
       {
@@ -462,9 +469,10 @@
       }
     ]
   },
-  "next_offset": 527719854,
+  "next_offset": 527719855,
   "recent_commands": {
     "351d590a51b1fc322938538275d1124c": 1787237599,
+    "4f73523fc4f31bd578b3e700c2973230": 1787244588,
     "6984e764300c6e62c21f0437624a34f7": 1787228869,
     "7aeebfe21ee11cdd60d9b67b327b1578": 1787228962,
     "bb942440ff783ef54ebb0d7cb1d3f483": 1787226679,
@@ -472,7 +480,7 @@
     "df42594ad243c54b915273725483bc7e": 1787237497
   },
   "schema_version": 12,
-  "updates_seen": 143,
+  "updates_seen": 144,
   "verified_official": {
     "DOOH": {
       "entries": [
