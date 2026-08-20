@@ -1,5 +1,5 @@
 {
-  "commands_processed": 123,
+  "commands_processed": 124,
   "duplicates_suppressed": 4,
   "initialized": true,
   "issuer_aliases": {
@@ -56,7 +56,7 @@
       "owner_resolution_level": "OFFICIAL_CONTROLLER",
       "owner_v2_checked_utc": "2026-08-19T16:08:23.021612+00:00",
       "owner_v3_checked_utc": "2026-08-20T03:21:46.587478+00:00",
-      "owner_v5_repaired_utc": "2026-08-20T09:38:05.674519+00:00",
+      "owner_v5_repaired_utc": "2026-08-20T09:39:14.570503+00:00",
       "owner_v5_safety_repairs": 5,
       "profile_source": "Yahoo Finance",
       "profile_source_quality": "FALLBACK",
@@ -84,7 +84,7 @@
       "owner_context_sources": 0,
       "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
       "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-      "owner_v5_repaired_utc": "2026-08-20T09:38:05.674684+00:00",
+      "owner_v5_repaired_utc": "2026-08-20T09:39:14.570901+00:00",
       "owner_v5_safety_repairs": 16,
       "owner_v6_checked_utc": "2026-08-20T09:34:37.697363+00:00",
       "owner_v6_pages_fetched": 0,
@@ -170,8 +170,8 @@
       "website": "https://www.wika.co.id"
     }
   },
-  "last_command_utc": "2026-08-20T09:38:06.257360+00:00",
-  "last_state_change_utc": "2026-08-20T09:38:06.257372+00:00",
+  "last_command_utc": "2026-08-20T09:39:16.550152+00:00",
+  "last_state_change_utc": "2026-08-20T09:39:16.550165+00:00",
   "lifecycle_history": {
     "AKSI|M&A / TAKEOVER": [
       {
@@ -397,10 +397,10 @@
       }
     ]
   },
-  "next_offset": 527719839,
+  "next_offset": 527719840,
   "recent_commands": {
     "26c528f9a7a61f30f3aa97ffb4fe03c4": 1787144505,
-    "351d590a51b1fc322938538275d1124c": 1787208906,
+    "351d590a51b1fc322938538275d1124c": 1787218696,
     "6984e764300c6e62c21f0437624a34f7": 1787218515,
     "70e87047856595ea5f43f415bfdafb9b": 1787138779,
     "7aeebfe21ee11cdd60d9b67b327b1578": 1787218646,
@@ -410,7 +410,7 @@
     "df42594ad243c54b915273725483bc7e": 1787218399
   },
   "schema_version": 12,
-  "updates_seen": 128,
+  "updates_seen": 129,
   "verified_official": {
     "DOOH": {
       "entries": [
