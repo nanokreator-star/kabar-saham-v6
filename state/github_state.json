@@ -3735,8 +3735,8 @@
       },
       "industry": "Advertising Agencies",
       "issuer_name": "Era Media Sejahtera",
-      "owner_v5_repaired_utc": "2026-08-20T06:51:44.379748+00:00",
-      "owner_v5_safety_repairs": 4,
+      "owner_v5_repaired_utc": "2026-08-20T06:57:50.528277+00:00",
+      "owner_v5_safety_repairs": 8,
       "profile_source": "Yahoo Finance",
       "profile_source_quality": "FALLBACK",
       "profile_source_url": null,
@@ -3820,7 +3820,7 @@
     }
   },
   "last_keepalive_utc": "2026-08-14T10:15:00.868800+00:00",
-  "last_state_change_utc": "2026-08-20T06:52:14.657552+00:00",
+  "last_state_change_utc": "2026-08-20T06:57:52.376944+00:00",
   "market_noise_suppressed": 1,
   "milestone_alerts": {},
   "rumor_alerts_sent": 1,
@@ -3831,8 +3831,8 @@
   "rumor_duplicates_suppressed": 3,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 0,
-  "rumor_integrity_repairs": 5,
-  "rumor_last_scan_utc": "2026-08-20T06:52:14.458950+00:00",
+  "rumor_integrity_repairs": 6,
+  "rumor_last_scan_utc": "2026-08-20T06:57:52.333796+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -3992,7 +3992,7 @@
     },
     "AKUISISI / TAKEOVER|TICKER|JARR": {
       "category": "AKUISISI / TAKEOVER",
-      "company_name": null,
+      "company_name": "Jhonlin Agro Raya",
       "copy_duplicate_count": 0,
       "credible_effective_independent_count": 0,
       "derivative_source_count": 0,
