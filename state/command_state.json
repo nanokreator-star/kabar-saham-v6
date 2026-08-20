@@ -1,5 +1,5 @@
 {
-  "commands_processed": 138,
+  "commands_processed": 139,
   "duplicates_suppressed": 5,
   "initialized": true,
   "issuer_aliases": {
@@ -242,8 +242,8 @@
       "website": "https://www.wika.co.id"
     }
   },
-  "last_command_utc": "2026-08-20T16:50:39.896358+00:00",
-  "last_state_change_utc": "2026-08-20T16:50:39.896370+00:00",
+  "last_command_utc": "2026-08-20T16:52:31.242649+00:00",
+  "last_state_change_utc": "2026-08-20T16:52:31.242658+00:00",
   "lifecycle_history": {
     "AKSI|M&A / TAKEOVER": [
       {
@@ -469,9 +469,10 @@
       }
     ]
   },
-  "next_offset": 527719855,
+  "next_offset": 527719856,
   "recent_commands": {
     "351d590a51b1fc322938538275d1124c": 1787237599,
+    "4d8319106cdd619881e311d64d00f273": 1787244718,
     "4f73523fc4f31bd578b3e700c2973230": 1787244588,
     "6984e764300c6e62c21f0437624a34f7": 1787228869,
     "7aeebfe21ee11cdd60d9b67b327b1578": 1787228962,
@@ -480,7 +481,7 @@
     "df42594ad243c54b915273725483bc7e": 1787237497
   },
   "schema_version": 12,
-  "updates_seen": 144,
+  "updates_seen": 145,
   "verified_official": {
     "DOOH": {
       "entries": [
@@ -501,15 +502,5 @@
       "ticker": "DOOH"
     }
   },
-  "watchlist": {
-    "DOOH": {
-      "added_utc": "2026-08-17T07:18:51.893214+00:00",
-      "family": "M&A / TAKEOVER",
-      "issuer": "Era Media Sejahtera",
-      "last_known_stage": "TENDER OFFER",
-      "priority": "HIGH",
-      "ticker": "DOOH",
-      "updated_utc": "2026-08-17T07:18:51.893217+00:00"
-    }
-  }
+  "watchlist": {}
 }
