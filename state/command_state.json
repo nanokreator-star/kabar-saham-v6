@@ -1,5 +1,5 @@
 {
-  "commands_processed": 130,
+  "commands_processed": 131,
   "duplicates_suppressed": 5,
   "initialized": true,
   "issuer_aliases": {
@@ -190,8 +190,8 @@
       "website": "https://www.wika.co.id"
     }
   },
-  "last_command_utc": "2026-08-20T11:59:47.050067+00:00",
-  "last_state_change_utc": "2026-08-20T11:59:47.050078+00:00",
+  "last_command_utc": "2026-08-20T12:27:32.859430+00:00",
+  "last_state_change_utc": "2026-08-20T12:27:32.859442+00:00",
   "lifecycle_history": {
     "AKSI|M&A / TAKEOVER": [
       {
@@ -417,7 +417,7 @@
       }
     ]
   },
-  "next_offset": 527719847,
+  "next_offset": 527719848,
   "recent_commands": {
     "26c528f9a7a61f30f3aa97ffb4fe03c4": 1787144505,
     "351d590a51b1fc322938538275d1124c": 1787227151,
@@ -426,10 +426,10 @@
     "996b024487acda24e3f2617940d764bf": 1787147683,
     "bb942440ff783ef54ebb0d7cb1d3f483": 1787226679,
     "c6966f933b77755baae49e0710dd8553": 1787227029,
-    "df42594ad243c54b915273725483bc7e": 1787226443
+    "df42594ad243c54b915273725483bc7e": 1787228813
   },
   "schema_version": 12,
-  "updates_seen": 136,
+  "updates_seen": 137,
   "verified_official": {
     "DOOH": {
       "entries": [
