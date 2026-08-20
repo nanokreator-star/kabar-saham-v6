@@ -1,5 +1,5 @@
 {
-  "commands_processed": 110,
+  "commands_processed": 111,
   "duplicates_suppressed": 4,
   "initialized": true,
   "issuer_aliases": {
@@ -30,12 +30,62 @@
   "issuer_profiles": {
     "BYAN": {
       "business_activity": "PT Bayan Resources Tbk., together with its subsidiaries, engages in the open cut mining and sale of coal in Indonesia. It operates through Coal and Non-Coal segments.",
-      "controller": null,
+      "controller": {
+        "basis": "OWNER_INTELLIGENCE_V4_EXPLICIT_ROLE",
+        "name": "GMS Announcement GMS Invitation GMS Minutes",
+        "source": "bayan.com.sg",
+        "source_url": "https://www.bayan.com.sg/shareholders-information",
+        "stake_pct": null,
+        "verification_level": "PRIMARY_COMPANY_CONTROLLER_V4",
+        "verified": true
+      },
       "industry": "Thermal Coal",
       "issuer_name": "Bayan Resources",
-      "major_shareholders": [],
+      "major_shareholders": [
+        {
+          "name": "GMS Announcement GMS Invitation GMS Minutes",
+          "role": "CONTROLLER",
+          "source": "bayan.com.sg",
+          "source_url": "https://www.bayan.com.sg/shareholders-information",
+          "stake_pct": null,
+          "verification_level": "PRIMARY_COMPANY_CONTROLLER_V4",
+          "verified": true
+        },
+        {
+          "name": "Saham-Saham Emiten Batubara Kakap Melompat Read More 24 July 2023 Saham BYAN Ngacir",
+          "source": "bayan.com.sg",
+          "source_count": 1,
+          "source_url": "https://www.bayan.com.sg",
+          "stake_pct": 4.94,
+          "verification_level": "PRIMARY_COMPANY_HOLDER_V4",
+          "verified": true
+        },
+        {
+          "name": "Announcement GMS Invitation GMS Minutes",
+          "source": "bayan.com.sg",
+          "source_count": 1,
+          "source_url": "https://www.bayan.com.sg/shareholders-information",
+          "stake_pct": null,
+          "verification_level": "PRIMARY_COMPANY_HOLDER_V4",
+          "verified": true
+        },
+        {
+          "name": "Reports Financial Statements Financial Highlights Sustainability Report General",
+          "source": "bayan.com.sg",
+          "source_count": 1,
+          "source_url": "https://www.bayan.com.sg/gms-announcement",
+          "stake_pct": null,
+          "verification_level": "PRIMARY_COMPANY_HOLDER_V4",
+          "verified": true
+        }
+      ],
+      "owner_context_sources": 1,
+      "owner_discovery_method": "OFFICIAL_REGISTRY+PRIMARY_COMPANY_V4",
+      "owner_resolution_level": "OFFICIAL_CONTROLLER",
       "owner_v2_checked_utc": "2026-08-19T16:08:23.021612+00:00",
       "owner_v3_checked_utc": "2026-08-20T03:21:46.587478+00:00",
+      "owner_v4_checked_utc": "2026-08-20T04:08:41.334701+00:00",
+      "owner_v4_pages_fetched": 3,
       "profile_source": "Yahoo Finance",
       "profile_source_quality": "FALLBACK",
       "profile_source_url": null,
@@ -101,6 +151,11 @@
       "industry": "Packaging & Containers",
       "issuer_name": "Abadi Nusantara Hijau Investama",
       "major_shareholders": [],
+      "owner_context_sources": 0,
+      "owner_discovery_method": "OFFICIAL_REGISTRY+PRIMARY_COMPANY_V4",
+      "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
+      "owner_v4_checked_utc": "2026-08-20T04:04:24.024668+00:00",
+      "owner_v4_pages_fetched": 0,
       "profile_source": "Yahoo Finance",
       "profile_source_quality": "FALLBACK",
       "profile_source_url": null,
@@ -108,7 +163,7 @@
       "subindustry": null,
       "subsector": null,
       "ticker": "PACK",
-      "verified_at": "2026-08-19T13:04:01.297975+00:00",
+      "verified_at": "2026-08-20T04:04:02.909442+00:00",
       "website": "https://www.flexypack.com"
     },
     "WIKA": {
@@ -129,8 +184,8 @@
       "website": "https://www.wika.co.id"
     }
   },
-  "last_command_utc": "2026-08-20T04:03:20.791654+00:00",
-  "last_state_change_utc": "2026-08-20T04:03:20.791666+00:00",
+  "last_command_utc": "2026-08-20T04:08:41.898708+00:00",
+  "last_state_change_utc": "2026-08-20T04:08:41.898738+00:00",
   "lifecycle_history": {
     "AKSI|M&A / TAKEOVER": [
       {
@@ -356,13 +411,13 @@
       }
     ]
   },
-  "next_offset": 527719826,
+  "next_offset": 527719827,
   "recent_commands": {
     "26c528f9a7a61f30f3aa97ffb4fe03c4": 1787144505,
     "351d590a51b1fc322938538275d1124c": 1787196496,
     "3ee4ef5cdf961718d1c0de120b3e6b70": 1787130779,
     "68d39bf599469cddc1581e334208edc4": 1787130890,
-    "6984e764300c6e62c21f0437624a34f7": 1787196422,
+    "6984e764300c6e62c21f0437624a34f7": 1787198886,
     "70e87047856595ea5f43f415bfdafb9b": 1787138779,
     "7aeebfe21ee11cdd60d9b67b327b1578": 1787196458,
     "98d99a90c807bac0ed84d9c87c74046b": 1787131594,
@@ -372,7 +427,7 @@
     "df42594ad243c54b915273725483bc7e": 1787198566
   },
   "schema_version": 12,
-  "updates_seen": 115,
+  "updates_seen": 116,
   "verified_official": {
     "DOOH": {
       "entries": [
