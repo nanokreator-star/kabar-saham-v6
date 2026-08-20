@@ -1,5 +1,5 @@
 {
-  "commands_processed": 105,
+  "commands_processed": 106,
   "duplicates_suppressed": 4,
   "initialized": true,
   "issuer_aliases": {
@@ -31,9 +31,10 @@
       "business_activity": "PT Bayan Resources Tbk., together with its subsidiaries, engages in the open cut mining and sale of coal in Indonesia. It operates through Coal and Non-Coal segments.",
       "controller": null,
       "industry": "Thermal Coal",
-      "issuer_name": "62 Persen Saham Bayan Resources",
+      "issuer_name": "Bayan Resources",
       "major_shareholders": [],
       "owner_v2_checked_utc": "2026-08-19T16:08:23.021612+00:00",
+      "owner_v3_checked_utc": "2026-08-20T03:21:46.587478+00:00",
       "profile_source": "Yahoo Finance",
       "profile_source_quality": "FALLBACK",
       "profile_source_url": null,
@@ -41,7 +42,7 @@
       "subindustry": null,
       "subsector": null,
       "ticker": "BYAN",
-      "verified_at": "2026-08-19T13:00:08.023619+00:00",
+      "verified_at": "2026-08-20T03:21:14.981343+00:00",
       "website": "https://www.bayan.com.sg"
     },
     "DOOH": {
@@ -77,6 +78,22 @@
       "verified_at": "2026-08-19T10:06:50.855423+00:00",
       "website": "https://www.sspace.id"
     },
+    "NAYZ": {
+      "business_activity": "PT Hassana Boga Sejahtera Tbk engages in the production and sale of food products in Indonesia. It operates through two segments: Organic Baby Food and Rice and Business Tools.",
+      "controller": null,
+      "industry": "Packaged Foods",
+      "issuer_name": "Hassana Boga Sejahtera",
+      "major_shareholders": [],
+      "profile_source": "Yahoo Finance",
+      "profile_source_quality": "FALLBACK",
+      "profile_source_url": null,
+      "sector": "Consumer Defensive",
+      "subindustry": null,
+      "subsector": null,
+      "ticker": "NAYZ",
+      "verified_at": "2026-08-20T03:24:18.724401+00:00",
+      "website": "https://hassana.co.id"
+    },
     "PACK": {
       "business_activity": "PT Abadi Nusantara Hijau Investama Tbk provides flexible packaging products for digital printing industry in Indonesia. It offers sachets and 3 side seals, standing pouches, lid cups, and roll stocks.",
       "controller": null,
@@ -99,6 +116,7 @@
       "industry": "Engineering & Construction",
       "issuer_name": "Konsorsium KAI-WIKA di Whoosh",
       "major_shareholders": [],
+      "owner_v3_checked_utc": "2026-08-20T03:21:03.973084+00:00",
       "profile_source": "Yahoo Finance",
       "profile_source_quality": "FALLBACK",
       "profile_source_url": null,
@@ -106,12 +124,12 @@
       "subindustry": null,
       "subsector": null,
       "ticker": "WIKA",
-      "verified_at": "2026-08-19T12:59:52.430201+00:00",
+      "verified_at": "2026-08-20T03:20:40.034808+00:00",
       "website": "https://www.wika.co.id"
     }
   },
-  "last_command_utc": "2026-08-20T03:19:59.709408+00:00",
-  "last_state_change_utc": "2026-08-20T03:19:59.709421+00:00",
+  "last_command_utc": "2026-08-20T03:26:41.056852+00:00",
+  "last_state_change_utc": "2026-08-20T03:26:41.056865+00:00",
   "lifecycle_history": {
     "AKSI|M&A / TAKEOVER": [
       {
@@ -153,13 +171,13 @@
     "DOOH|M&A / TAKEOVER": [
       {
         "catalyst": "POSITIVE",
-        "detail_update_count": 5,
-        "event_type": "TENDER OFFER",
+        "detail_update_count": 6,
+        "event_type": "TAKEOVER",
         "execution_price": null,
         "family": "M&A / TAKEOVER",
-        "issuer": "Era Media Sejahtera",
-        "last_detail_update_utc": "2026-08-17T08:11:37.903175+00:00",
-        "last_seen_utc": "2026-08-19T09:13:43.936140+00:00",
+        "issuer": "dengan harga 80% di bawah pasar",
+        "last_detail_update_utc": "2026-08-20T03:26:25.673389+00:00",
+        "last_seen_utc": "2026-08-20T03:26:25.673389+00:00",
         "money": [
           "Rp197,34 miliar"
         ],
@@ -170,26 +188,27 @@
         "official_kind": "PRIMARY",
         "official_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSWRNOVVfY0NhNXkwZkdZOUh3dkVsVFo3RGxSSXZYMkVMN3FYTDdnOTJiWmplSWdXVnU2X0xBVjIzTGUwaG9xWjQ2eFVTTkFhODdvVmVqUElScy1iMG9sZ3pFS1lCbWU3RlV3ZnVYTUo4aFNZREQyZVNPY25rSlQ0UzhlUHNKaDZxajFKYVNLczZHVXR6U3FhX1ZjWVFXVUNaV2JHWEhNLXRNVDdtRnQyTlhjZw?oc=5",
         "price_range": null,
-        "published": "Fri, 14 Aug 2026 13:49:58 GMT",
+        "published": "Fri, 14 Aug 2026 12:50:00 GMT",
         "ratio": null,
-        "scanner_seen_utc": "2026-08-17T07:37:31.645672+00:00",
+        "scanner_seen_utc": "2026-08-20T03:21:46.600420+00:00",
         "schedule": {},
-        "score": 88,
+        "score": 100,
         "share_count": "3,946 miliar saham",
         "signal": "HIGH ATTENTION",
-        "signature": "78de11070d37451eaaac8defe35ef58cc0e3d04bb53974e74486c3d897379463",
-        "source": "kontan.co.id",
-        "source_url": "https://www.kontan.co.id/tag/saham-dooh",
+        "signature": "07a74d30beedeb47cd031584b9fe3e113d6256ab3539d3a1c217e71e1b95d14b",
+        "source": "idnfinancials.com",
+        "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSXNZYUwyWHZnNlFGWVJSTmVkT2hmMDN0MDFVYXVsMXhZUGtHM0N1MHNVOUgxQmdkM3RhYmI5WVFQOGFJYmpHalNBV2tkMUVENWVuUHEyb0VxeWZSdUw1YUtycFBIQ0hmSENReFo2dzdMUFVCdGk1dnNhcUItQVlkNnZBQkRjTTV3M2NSYnB0bUJKVFlPMlR1cDJhWnVQZGtkUGVYSFBXdG1CRmlxd1hZ?oc=5",
         "stage": "TENDER OFFER",
+        "stage_regression_ignored": true,
         "stage_started_utc": "2026-08-16T18:27:49.564514+00:00",
         "stage_step": 6,
         "stage_total": 7,
         "stake": [
-          51.0
+          80.0
         ],
         "tender_price": null,
         "ticker": "DOOH",
-        "title": "Pengendali Anyar DOOH Ternyata Baru Berdiri, Kuasai 51% Saham & Wajib Tender Offer - kontan.co.id"
+        "title": "Pengendali baru DOOH akuisisi saham dengan harga 80% di bawah pasar - idnfinancials.com"
       }
     ],
     "EPAC|M&A / TAKEOVER": [
@@ -336,7 +355,7 @@
       }
     ]
   },
-  "next_offset": 527719821,
+  "next_offset": 527719822,
   "recent_commands": {
     "26c528f9a7a61f30f3aa97ffb4fe03c4": 1787144505,
     "351d590a51b1fc322938538275d1124c": 1787155754,
@@ -348,11 +367,11 @@
     "98d99a90c807bac0ed84d9c87c74046b": 1787131594,
     "996b024487acda24e3f2617940d764bf": 1787147683,
     "af2ab547de6ccbfb8bf0100481961291": 1787138499,
-    "c6966f933b77755baae49e0710dd8553": 1787155604,
+    "c6966f933b77755baae49e0710dd8553": 1787196359,
     "df42594ad243c54b915273725483bc7e": 1787195964
   },
   "schema_version": 12,
-  "updates_seen": 110,
+  "updates_seen": 111,
   "verified_official": {
     "DOOH": {
       "entries": [
