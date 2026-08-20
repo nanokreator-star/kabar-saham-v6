@@ -1,5 +1,5 @@
 {
-  "commands_processed": 115,
+  "commands_processed": 116,
   "duplicates_suppressed": 4,
   "initialized": true,
   "issuer_aliases": {
@@ -25,6 +25,9 @@
     "OCBC": [
       "Great Eastern Life Indonesia Rp201",
       "OCBC Sekuritas Rp 455 Miliar"
+    ],
+    "PIPA": [
+      "Pengolah Migas"
     ]
   },
   "issuer_profiles": {
@@ -33,10 +36,13 @@
       "controller": null,
       "industry": "Thermal Coal",
       "issuer_name": "Bayan Resources",
-      "owner_context_sources": 1,
-      "owner_resolution_level": "OFFICIAL_CONTROLLER",
+      "owner_context_sources": 0,
+      "owner_discovery_method": "STRICT_OFFICIAL_SECTION_V5",
+      "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
       "owner_v2_checked_utc": "2026-08-19T16:08:23.021612+00:00",
       "owner_v3_checked_utc": "2026-08-20T03:21:46.587478+00:00",
+      "owner_v5_checked_utc": "2026-08-20T06:53:08.789003+00:00",
+      "owner_v5_pages_fetched": 0,
       "owner_v5_repaired_utc": "2026-08-20T06:51:00.469499+00:00",
       "owner_v5_safety_repairs": 3,
       "profile_source": "Yahoo Finance",
@@ -63,8 +69,8 @@
       },
       "industry": "Advertising Agencies",
       "issuer_name": "Era Media Sejahtera",
-      "owner_v5_repaired_utc": "2026-08-20T06:51:00.471193+00:00",
-      "owner_v5_safety_repairs": 2,
+      "owner_v5_repaired_utc": "2026-08-20T06:53:02.003835+00:00",
+      "owner_v5_safety_repairs": 6,
       "profile_source": "Yahoo Finance",
       "profile_source_quality": "FALLBACK",
       "profile_source_url": null,
@@ -74,6 +80,26 @@
       "ticker": "DOOH",
       "verified_at": "2026-08-19T10:06:50.855423+00:00",
       "website": "https://www.sspace.id"
+    },
+    "JARR": {
+      "business_activity": "PT Jhonlin Agro Raya Tbk engages in the oil palm plantation business in Indonesia. It operates through Biodiesel and Fresh Fruit Bunches.",
+      "controller": null,
+      "industry": "Farm Products",
+      "issuer_name": "Jhonlin Agro Raya",
+      "owner_context_sources": 0,
+      "owner_discovery_method": "STRICT_OFFICIAL_SECTION_V5",
+      "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
+      "owner_v5_checked_utc": "2026-08-20T06:52:14.456932+00:00",
+      "owner_v5_pages_fetched": 1,
+      "profile_source": "Yahoo Finance",
+      "profile_source_quality": "FALLBACK",
+      "profile_source_url": null,
+      "sector": "Consumer Defensive",
+      "subindustry": null,
+      "subsector": null,
+      "ticker": "JARR",
+      "verified_at": "2026-08-20T06:51:49.723059+00:00",
+      "website": "https://www.ptjar.com"
     },
     "NAYZ": {
       "business_activity": "PT Hassana Boga Sejahtera Tbk engages in the production and sale of food products in Indonesia. It operates through two segments: Organic Baby Food and Rice and Business Tools.",
@@ -127,8 +153,8 @@
       "website": "https://www.wika.co.id"
     }
   },
-  "last_command_utc": "2026-08-20T06:51:01.006621+00:00",
-  "last_state_change_utc": "2026-08-20T06:51:01.006652+00:00",
+  "last_command_utc": "2026-08-20T06:53:12.546935+00:00",
+  "last_state_change_utc": "2026-08-20T06:53:12.546943+00:00",
   "lifecycle_history": {
     "AKSI|M&A / TAKEOVER": [
       {
@@ -354,13 +380,13 @@
       }
     ]
   },
-  "next_offset": 527719831,
+  "next_offset": 527719832,
   "recent_commands": {
     "26c528f9a7a61f30f3aa97ffb4fe03c4": 1787144505,
     "351d590a51b1fc322938538275d1124c": 1787199087,
     "3ee4ef5cdf961718d1c0de120b3e6b70": 1787130779,
     "68d39bf599469cddc1581e334208edc4": 1787130890,
-    "6984e764300c6e62c21f0437624a34f7": 1787198886,
+    "6984e764300c6e62c21f0437624a34f7": 1787208751,
     "70e87047856595ea5f43f415bfdafb9b": 1787138779,
     "7aeebfe21ee11cdd60d9b67b327b1578": 1787198993,
     "98d99a90c807bac0ed84d9c87c74046b": 1787131594,
@@ -370,7 +396,7 @@
     "df42594ad243c54b915273725483bc7e": 1787208626
   },
   "schema_version": 12,
-  "updates_seen": 120,
+  "updates_seen": 121,
   "verified_official": {
     "DOOH": {
       "entries": [
