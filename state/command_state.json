@@ -1,5 +1,5 @@
 {
-  "commands_processed": 131,
+  "commands_processed": 132,
   "duplicates_suppressed": 5,
   "initialized": true,
   "issuer_aliases": {
@@ -52,12 +52,60 @@
       },
       "industry": "Thermal Coal",
       "issuer_name": "Bayan Resources",
-      "owner_context_sources": 1,
+      "major_shareholders": [
+        {
+          "basis": "OWNER_V6_STRUCTURED_SOURCE_ONLY",
+          "evidence_text": "2 | Elaine Low | 7,333,833,700 | 22.00",
+          "name": "Elaine Low",
+          "official_registry": false,
+          "primary_company": true,
+          "role": "MAJOR",
+          "source": "bayan.com.sg",
+          "source_group": "bayan.com.sg",
+          "source_quality": "PRIMARY_COMPANY",
+          "source_tier": 4,
+          "source_url": "https://www.bayan.com.sg/shareholders-information",
+          "stake_pct": 22.0,
+          "structured_source": true,
+          "verification_level": "PRIMARY_COMPANY_STRUCTURED_HOLDER_V6",
+          "verified": true
+        },
+        {
+          "basis": "OWNER_V6_STRUCTURED_SOURCE_ONLY",
+          "evidence_text": "3 | PT Sumber Suryadaya Prima | 3,333,380,000 | 10.00",
+          "name": "PT Sumber Suryadaya Prima",
+          "official_registry": false,
+          "primary_company": true,
+          "role": "MAJOR",
+          "source": "bayan.com.sg",
+          "source_group": "bayan.com.sg",
+          "source_quality": "PRIMARY_COMPANY",
+          "source_tier": 4,
+          "source_url": "https://www.bayan.com.sg/shareholders-information",
+          "stake_pct": 10.0,
+          "structured_source": true,
+          "verification_level": "PRIMARY_COMPANY_STRUCTURED_HOLDER_V6",
+          "verified": true
+        }
+      ],
+      "owner_context_sources": 4,
+      "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
+      "owner_holder_resolution_level": "STRUCTURED_MAJOR_HOLDERS_V8",
       "owner_resolution_level": "OFFICIAL_CONTROLLER",
       "owner_v2_checked_utc": "2026-08-19T16:08:23.021612+00:00",
       "owner_v3_checked_utc": "2026-08-20T03:21:46.587478+00:00",
       "owner_v5_repaired_utc": "2026-08-20T09:39:57.598622+00:00",
       "owner_v5_safety_repairs": 7,
+      "owner_v6710_holder_checked_utc": "2026-08-20T12:28:30.949652+00:00",
+      "owner_v6710_holder_count": 2,
+      "owner_v6_checked_utc": "2026-08-20T12:28:30.949480+00:00",
+      "owner_v6_pages_fetched": 4,
+      "owner_v6_source_urls": [
+        "https://www.bayan.com.sg/primary-and-controlling-shareholders",
+        "https://www.bayan.com.sg/pemegang-saham-utama-dan-pengendali",
+        "https://www.bayan.com.sg/shareholders-information",
+        "https://www.bayan.com.sg/kepemilikan-saham"
+      ],
       "profile_source": "Yahoo Finance",
       "profile_source_quality": "FALLBACK",
       "profile_source_url": null,
@@ -190,8 +238,8 @@
       "website": "https://www.wika.co.id"
     }
   },
-  "last_command_utc": "2026-08-20T12:27:32.859430+00:00",
-  "last_state_change_utc": "2026-08-20T12:27:32.859442+00:00",
+  "last_command_utc": "2026-08-20T12:28:31.708289+00:00",
+  "last_state_change_utc": "2026-08-20T12:28:31.708302+00:00",
   "lifecycle_history": {
     "AKSI|M&A / TAKEOVER": [
       {
@@ -417,11 +465,11 @@
       }
     ]
   },
-  "next_offset": 527719848,
+  "next_offset": 527719849,
   "recent_commands": {
     "26c528f9a7a61f30f3aa97ffb4fe03c4": 1787144505,
     "351d590a51b1fc322938538275d1124c": 1787227151,
-    "6984e764300c6e62c21f0437624a34f7": 1787226557,
+    "6984e764300c6e62c21f0437624a34f7": 1787228869,
     "7aeebfe21ee11cdd60d9b67b327b1578": 1787218646,
     "996b024487acda24e3f2617940d764bf": 1787147683,
     "bb942440ff783ef54ebb0d7cb1d3f483": 1787226679,
@@ -429,7 +477,7 @@
     "df42594ad243c54b915273725483bc7e": 1787228813
   },
   "schema_version": 12,
-  "updates_seen": 137,
+  "updates_seen": 138,
   "verified_official": {
     "DOOH": {
       "entries": [
