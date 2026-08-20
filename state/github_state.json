@@ -2,15 +2,15 @@
   "baseline_initialized": true,
   "early_signal_alerts_sent": 2,
   "early_signal_baseline_initialized": true,
-  "early_signal_duplicates_suppressed": 51,
-  "early_signal_last_scan_utc": "2026-08-20T18:30:50.738697+00:00",
+  "early_signal_duplicates_suppressed": 53,
+  "early_signal_last_scan_utc": "2026-08-20T18:40:50.189158+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -9.41,
       "combined": true,
       "direction": "DOWN",
       "last_alert_utc": "2026-08-20T17:01:03.692653+00:00",
-      "last_seen_utc": "2026-08-20T18:30:50.452379+00:00",
+      "last_seen_utc": "2026-08-20T18:40:49.918580+00:00",
       "level": "HIGH",
       "market_date": "2026-08-19",
       "signature": "BYAN|2026-08-19|HIGH|DOWN|RUMOR|AKUISISI / TAKEOVER|TICKER|BYAN",
@@ -32,7 +32,7 @@
       "combined": true,
       "direction": "DOWN",
       "last_alert_utc": "2026-08-20T17:01:04.386872+00:00",
-      "last_seen_utc": "2026-08-20T18:30:50.582819+00:00",
+      "last_seen_utc": "2026-08-20T18:40:50.024919+00:00",
       "level": "HIGH",
       "market_date": "2026-08-19",
       "signature": "PGUN|2026-08-19|HIGH|DOWN|RUMOR|AKUISISI / TAKEOVER|TICKER|PGUN",
@@ -3409,6 +3409,42 @@
       },
       "ticker": ""
     },
+    "RIGHTS ISSUE|TITLE|PT BERLINA TBK LAKUKAN TERBITKAN WARAN SERI": {
+      "family": "RIGHTS ISSUE",
+      "first_seen_utc": "2026-08-14T10:15:00.868800+00:00",
+      "last_alert_utc": "2026-08-14T10:15:00.868800+00:00",
+      "last_seen_utc": "2026-08-14T10:15:00.868800+00:00",
+      "market_context": {
+        "change_pct": null,
+        "last_price": null,
+        "market_date": null
+      },
+      "material_snapshot": {
+        "acquirer": null,
+        "acquirer_confirmed": false,
+        "event_type": "RIGHTS ISSUE",
+        "execution_price": null,
+        "ipo_single_price": null,
+        "money": [],
+        "official_authority": null,
+        "official_kind": null,
+        "price_range": null,
+        "ratio": null,
+        "schedule": {},
+        "share_count": null,
+        "stage": "RIGHTS ISSUE INFO",
+        "stage_step": 1,
+        "stage_total": 6,
+        "stake": [],
+        "standby_buyer": null,
+        "target": null,
+        "target_confirmed": false,
+        "tender_price": null,
+        "underwriter": null,
+        "use_of_funds": []
+      },
+      "ticker": ""
+    },
     "RIGHTS ISSUE|TITLE|PT BUKIT ULUWATU VILLA TBK GELAR BUVA": {
       "family": "RIGHTS ISSUE",
       "first_seen_utc": "2026-08-14T10:15:00.868800+00:00",
@@ -3987,7 +4023,7 @@
     }
   },
   "last_keepalive_utc": "2026-08-14T10:15:00.868800+00:00",
-  "last_state_change_utc": "2026-08-20T18:30:50.762511+00:00",
+  "last_state_change_utc": "2026-08-20T18:40:50.217432+00:00",
   "market_noise_suppressed": 1,
   "milestone_alerts": {},
   "rumor_alerts_sent": 2,
@@ -3999,7 +4035,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 0,
   "rumor_integrity_repairs": 6,
-  "rumor_last_scan_utc": "2026-08-20T18:30:50.273011+00:00",
+  "rumor_last_scan_utc": "2026-08-20T18:40:49.743685+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
