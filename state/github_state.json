@@ -1,19 +1,19 @@
 {
   "baseline_initialized": true,
-  "early_signal_alerts_sent": 2,
+  "early_signal_alerts_sent": 4,
   "early_signal_baseline_initialized": true,
-  "early_signal_duplicates_suppressed": 83,
-  "early_signal_last_scan_utc": "2026-08-20T21:20:56.150132+00:00",
+  "early_signal_duplicates_suppressed": 84,
+  "early_signal_last_scan_utc": "2026-08-20T21:30:52.921995+00:00",
   "early_signal_memory": {
     "BYAN": {
-      "change_pct": -9.41,
+      "change_pct": 3.35,
       "combined": true,
-      "direction": "DOWN",
-      "last_alert_utc": "2026-08-20T17:01:03.692653+00:00",
-      "last_seen_utc": "2026-08-20T21:20:55.746880+00:00",
+      "direction": "UP",
+      "last_alert_utc": "2026-08-20T21:30:52.000597+00:00",
+      "last_seen_utc": "2026-08-20T21:30:51.455212+00:00",
       "level": "HIGH",
-      "market_date": "2026-08-19",
-      "signature": "BYAN|2026-08-19|HIGH|DOWN|RUMOR|AKUISISI / TAKEOVER|TICKER|BYAN",
+      "market_date": "2026-08-20",
+      "signature": "BYAN|2026-08-20|HIGH|UP|RUMOR|AKUISISI / TAKEOVER|TICKER|BYAN",
       "volume_ratio": 231.18
     },
     "PACK": {
@@ -21,21 +21,21 @@
       "combined": true,
       "direction": "UP",
       "last_alert_utc": null,
-      "last_seen_utc": "2026-08-20T16:51:09.710053+00:00",
+      "last_seen_utc": "2026-08-20T21:30:52.921982+00:00",
       "level": "MEDIUM",
       "market_date": "2026-08-20",
       "signature": "PACK|2026-08-20|MEDIUM|UP|RUMOR|STRATEGIC INVESTOR|TICKER|PACK",
       "volume_ratio": 0.58
     },
     "PGUN": {
-      "change_pct": -7.36,
+      "change_pct": 15.29,
       "combined": true,
-      "direction": "DOWN",
-      "last_alert_utc": "2026-08-20T17:01:04.386872+00:00",
-      "last_seen_utc": "2026-08-20T21:20:55.926599+00:00",
+      "direction": "UP",
+      "last_alert_utc": "2026-08-20T21:30:52.727032+00:00",
+      "last_seen_utc": "2026-08-20T21:30:52.173256+00:00",
       "level": "HIGH",
-      "market_date": "2026-08-19",
-      "signature": "PGUN|2026-08-19|HIGH|DOWN|RUMOR|AKUISISI / TAKEOVER|TICKER|PGUN",
+      "market_date": "2026-08-20",
+      "signature": "PGUN|2026-08-20|HIGH|UP|RUMOR|AKUISISI / TAKEOVER|TICKER|PGUN",
       "volume_ratio": 21.42
     }
   },
@@ -263,6 +263,42 @@
           "AKUISISI / INVESTASI",
           "EKSPANSI / CAPEX"
         ]
+      },
+      "ticker": ""
+    },
+    "M&A / TAKEOVER|PARTIES|PENGAMAT|SAHAM WIKA DI PSBI MESTI TRANSPARAN": {
+      "family": "M&A / TAKEOVER",
+      "first_seen_utc": "2026-08-20T21:31:02.854824+00:00",
+      "last_alert_utc": "2026-08-20T21:31:02.854819+00:00",
+      "last_seen_utc": "2026-08-20T21:31:02.854819+00:00",
+      "market_context": {
+        "change_pct": null,
+        "last_price": null,
+        "market_date": null
+      },
+      "material_snapshot": {
+        "acquirer": "Pengamat",
+        "acquirer_confirmed": true,
+        "event_type": "AKUISISI",
+        "execution_price": null,
+        "ipo_single_price": null,
+        "money": [],
+        "official_authority": null,
+        "official_kind": null,
+        "price_range": null,
+        "ratio": null,
+        "schedule": {},
+        "share_count": null,
+        "stage": "SPA / SIGNED",
+        "stage_step": 4,
+        "stage_total": 7,
+        "stake": [],
+        "standby_buyer": null,
+        "target": "Saham WIKA di PSBI Mesti Transparan",
+        "target_confirmed": true,
+        "tender_price": null,
+        "underwriter": null,
+        "use_of_funds": []
       },
       "ticker": ""
     },
@@ -4025,7 +4061,7 @@
     }
   },
   "last_keepalive_utc": "2026-08-14T10:15:00.868800+00:00",
-  "last_state_change_utc": "2026-08-20T21:20:56.168407+00:00",
+  "last_state_change_utc": "2026-08-20T21:31:02.855301+00:00",
   "market_noise_suppressed": 1,
   "milestone_alerts": {},
   "rumor_alerts_sent": 2,
@@ -4037,7 +4073,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 0,
   "rumor_integrity_repairs": 6,
-  "rumor_last_scan_utc": "2026-08-20T21:20:55.432747+00:00",
+  "rumor_last_scan_utc": "2026-08-20T21:30:50.884570+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -4786,6 +4822,7 @@
     "11251952642978483e7fc9539628f0695211e38e8f80cec519a59bfb86ad7dd0": "2026-08-14T10:15:00.868800+00:00",
     "1168b14369fbc8ee7eb4b60c1e8abba366dfdded5e83960e855dd78bbcae8bec": "2026-08-14T10:15:00.868800+00:00",
     "13ff8f383c56143ea2d2f8aec430d2dfc74bff133c3cb57bb8943a99f3ee71d3": "2026-08-14T10:15:00.868800+00:00",
+    "14563a329d45a6520f39507f75c18800006c2babd88b2e11830fc4c851289149": "2026-08-20T21:31:02.854802+00:00",
     "14fd93f713d058496956d63c63bedcc60cf42e26af3b7c4e7d2056c25ca96365": "2026-08-14T10:15:00.868800+00:00",
     "1bd8f6063a72b9667300b2c7e4a2718aa76ff4b3c6e17a3abfbd739fb077503b": "2026-08-14T10:15:00.868800+00:00",
     "1f28efc71679b930bae7d69cd62095f2da32399d0c49f40dcc1a1d59c73c541a": "2026-08-17T12:30:59.740812+00:00",
