@@ -1,5 +1,5 @@
 {
-  "commands_processed": 104,
+  "commands_processed": 105,
   "duplicates_suppressed": 4,
   "initialized": true,
   "issuer_aliases": {
@@ -9,7 +9,6 @@
     "BYAN": [
       "Bayan (BYAN",
       "Bayan Resources",
-      "62 Persen Saham Bayan Resources",
       "oleh Haji Isam",
       "Haji Isam"
     ],
@@ -23,7 +22,7 @@
       "Coates Hire Indonesia"
     ],
     "OCBC": [
-      "20% Saham Great Eastern Life Indonesia Rp201",
+      "Great Eastern Life Indonesia Rp201",
       "OCBC Sekuritas Rp 455 Miliar"
     ]
   },
@@ -111,8 +110,8 @@
       "website": "https://www.wika.co.id"
     }
   },
-  "last_command_utc": "2026-08-19T16:09:48.311366+00:00",
-  "last_state_change_utc": "2026-08-19T16:09:48.311379+00:00",
+  "last_command_utc": "2026-08-20T03:19:59.709408+00:00",
+  "last_state_change_utc": "2026-08-20T03:19:59.709421+00:00",
   "lifecycle_history": {
     "AKSI|M&A / TAKEOVER": [
       {
@@ -337,7 +336,7 @@
       }
     ]
   },
-  "next_offset": 527719820,
+  "next_offset": 527719821,
   "recent_commands": {
     "26c528f9a7a61f30f3aa97ffb4fe03c4": 1787144505,
     "351d590a51b1fc322938538275d1124c": 1787155754,
@@ -350,10 +349,10 @@
     "996b024487acda24e3f2617940d764bf": 1787147683,
     "af2ab547de6ccbfb8bf0100481961291": 1787138499,
     "c6966f933b77755baae49e0710dd8553": 1787155604,
-    "df42594ad243c54b915273725483bc7e": 1787155524
+    "df42594ad243c54b915273725483bc7e": 1787195964
   },
   "schema_version": 12,
-  "updates_seen": 109,
+  "updates_seen": 110,
   "verified_official": {
     "DOOH": {
       "entries": [
