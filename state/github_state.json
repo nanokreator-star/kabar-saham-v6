@@ -576,17 +576,17 @@
     "M&A / TAKEOVER|TICKER|DOOH": {
       "family": "M&A / TAKEOVER",
       "first_seen_utc": "2026-08-17T07:20:39.627738+00:00",
-      "last_alert_utc": "2026-08-19T10:06:51.565055+00:00",
-      "last_seen_utc": "2026-08-19T10:06:51.565055+00:00",
+      "last_alert_utc": "2026-08-20T09:34:38.381223+00:00",
+      "last_seen_utc": "2026-08-20T09:34:38.381223+00:00",
       "market_context": {
-        "change_pct": 10.8844,
+        "change_pct": 0.0,
         "last_price": 326.0,
-        "market_date": "2026-08-18"
+        "market_date": "2026-08-19"
       },
       "material_snapshot": {
-        "acquirer": "SII Gelar Tender Wajib Saham DOOH Usai",
+        "acquirer": "Pengendali baru DOOH",
         "acquirer_confirmed": true,
-        "event_type": "TENDER OFFER",
+        "event_type": "TAKEOVER",
         "execution_price": null,
         "ipo_single_price": null,
         "money": [
@@ -602,10 +602,10 @@
         "stage_step": 6,
         "stage_total": 7,
         "stake": [
-          51.0
+          80.0
         ],
         "standby_buyer": null,
-        "target": "51 Persen Saham",
+        "target": "saham dengan harga 80% di bawah pasar",
         "target_confirmed": true,
         "tender_price": null,
         "underwriter": null,
@@ -3724,19 +3724,23 @@
     "DOOH": {
       "business_activity": "PT Era Media Sejahtera Tbk operates as an advertising media company in Indonesia. It operates through Advertising, Consulting, and Media Content segments.",
       "controller": {
-        "basis": "OFFICIAL_EVENT_PLUS_DEEP_IDENTITY",
-        "evidence_text": "baru: <p>DOOH punya pengendali baru setelah Sinergi Internasional Investama akuisisi 51% saham Rp197,34 miliar. Aksi ini memicu kewajiban tender offer.</p> KONTAN.CO.ID \u2013 JAKARTA. PT Sinergi Internasional Investama resmi menjadi pengendali baru PT Era Media Sejahtera Tbk ( DOOH ) setelah merampungkan transaksi pengambilalihan 51% saham perseroan pada 30 Juli 2026. Dalam transak",
-        "name": "PT Sinergi Internasional Investama",
-        "source": "IDX + DEEP ARTICLE",
+        "basis": "OFFICIAL_CONTROL_CHANGE_EVENT",
+        "name": "Pengendali baru DOOH",
+        "source": "IDX",
         "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSWRNOVVfY0NhNXkwZkdZOUh3dkVsVFo3RGxSSXZYMkVMN3FYTDdnOTJiWmplSWdXVnU2X0xBVjIzTGUwaG9xWjQ2eFVTTkFhODdvVmVqUElScy1iMG9sZ3pFS1lCbWU3RlV3ZnVYTUo4aFNZREQyZVNPY25rSlQ0UzhlUHNKaDZxajFKYVNLczZHVXR6U3FhX1ZjWVFXVUNaV2JHWEhNLXRNVDdtRnQyTlhjZw?oc=5",
-        "stake_pct": 51.0,
-        "verification_level": "CROSS_VERIFIED",
+        "stake_pct": 80.0,
+        "verification_level": "OFFICIAL_EVENT_ROLE",
         "verified": true
       },
       "industry": "Advertising Agencies",
       "issuer_name": "Era Media Sejahtera",
-      "owner_v5_repaired_utc": "2026-08-20T06:57:50.528277+00:00",
-      "owner_v5_safety_repairs": 8,
+      "owner_context_sources": 0,
+      "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
+      "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
+      "owner_v5_repaired_utc": "2026-08-20T09:34:34.688152+00:00",
+      "owner_v5_safety_repairs": 14,
+      "owner_v6_checked_utc": "2026-08-20T09:34:37.697363+00:00",
+      "owner_v6_pages_fetched": 0,
       "profile_source": "Yahoo Finance",
       "profile_source_quality": "FALLBACK",
       "profile_source_url": null,
@@ -3744,7 +3748,7 @@
       "subindustry": null,
       "subsector": null,
       "ticker": "DOOH",
-      "verified_at": "2026-08-19T10:06:50.855423+00:00",
+      "verified_at": "2026-08-20T09:34:34.688015+00:00",
       "website": "https://www.sspace.id"
     },
     "JARR": {
@@ -3820,7 +3824,7 @@
     }
   },
   "last_keepalive_utc": "2026-08-14T10:15:00.868800+00:00",
-  "last_state_change_utc": "2026-08-20T06:57:52.376944+00:00",
+  "last_state_change_utc": "2026-08-20T09:34:38.381450+00:00",
   "market_noise_suppressed": 1,
   "milestone_alerts": {},
   "rumor_alerts_sent": 1,
@@ -3832,16 +3836,16 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 0,
   "rumor_integrity_repairs": 6,
-  "rumor_last_scan_utc": "2026-08-20T06:57:52.333796+00:00",
+  "rumor_last_scan_utc": "2026-08-20T09:34:31.339909+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
       "company_name": "Bayan Resources",
-      "copy_duplicate_count": 9,
-      "credible_effective_independent_count": 3.0,
-      "derivative_source_count": 7,
+      "copy_duplicate_count": 10,
+      "credible_effective_independent_count": 2.0,
+      "derivative_source_count": 8,
       "detected_source_count": 13,
-      "effective_independent_count": 5.4,
+      "effective_independent_count": 4.7,
       "entity_aliases": [
         "Bayan (BYAN",
         "Bayan Resources",
@@ -3851,7 +3855,7 @@
       ],
       "entity_resolution_source": "ISSUER_ALIAS_MEMORY+ISSUER_PROFILE_CACHE+RUMOR_EXPLICIT_TICKER",
       "first_seen_utc": "2026-08-18T02:41:36+00:00",
-      "high_quality_source_count": 3,
+      "high_quality_source_count": 2,
       "independent_story_count": 11,
       "issuer_profile": {
         "business_activity": "PT Bayan Resources Tbk., together with its subsidiaries, engages in the open cut mining and sale of coal in Indonesia. It operates through Coal and Non-Coal segments.",
@@ -3877,7 +3881,7 @@
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWGlqS1pzejZxMHVaZGJVamJYaDNyQjdEZ2dXV2RaZ3ZtLVltbUJLVHVZYWFEZmFOSmFLUUNqTk55eDFwenRobG1xTzVURDNGNU9iNF9hZk5UYjgzdnZmeHkyazhvdjVMcC16T2J5OXBqRmRiR1RTZ2lWZjVNRjhqaHdZakxqX3lXYW9nMGpSdGluNFFsUWhpM0trdw?oc=5",
       "market_data": null,
       "official_confirmation": null,
-      "premium_source_count": 3,
+      "premium_source_count": 2,
       "profile_refresh_utc": "2026-08-20T03:21:46.587724+00:00",
       "published": "Wed, 19 Aug 2026 05:56:25 GMT",
       "rumor_details": {
@@ -3903,16 +3907,6 @@
         },
         {
           "derivative": false,
-          "group": "investor.id",
-          "new_material": 0,
-          "quality": "HIGH",
-          "semantic_copy": false,
-          "source": "investor.id",
-          "tier": 4,
-          "weight": 1.0
-        },
-        {
-          "derivative": false,
           "group": "cnbcindonesia.com",
           "new_material": 0,
           "quality": "HIGH",
@@ -3930,6 +3924,16 @@
           "source": "AsatuNews.co.id",
           "tier": 1,
           "weight": 0.55
+        },
+        {
+          "derivative": true,
+          "group": "sawitku",
+          "new_material": 0,
+          "quality": "LOW",
+          "semantic_copy": false,
+          "source": "Sawitku",
+          "tier": 1,
+          "weight": 0.25
         },
         {
           "derivative": true,
@@ -3974,16 +3978,16 @@
       ],
       "source_count": 13,
       "source_quality": "HIGH",
-      "source_quality_score": 14.4,
+      "source_quality_score": 10.7,
       "sources": [
         "CNBC Indonesia",
         "achmadnurhidayat.id",
         "publika.id",
         "pdiperjuanganbali.id",
         "Tempo.co",
-        "investor.id",
         "Readers.id",
-        "MediaKompeten"
+        "MediaKompeten",
+        "beritajejakfakta.id"
       ],
       "status": "ACTIVE",
       "strength": "STRONG",
@@ -4523,6 +4527,7 @@
     "c0a95ceac0ba5637070bc954dcb30af054e44188df3c6a2de69b1cff09baf43c": "2026-08-14T10:15:00.868800+00:00",
     "c14b175dec3700ded77111f61fce168509b81587c704f456a1be950be00c6993": "2026-08-14T10:15:00.868800+00:00",
     "c9a599b7f347878d098ece2029c152ac0e4564049b3d9084470f451223872dda": "2026-08-14T10:15:00.868800+00:00",
+    "cc89201b1ef5fa9948d89f5df0c8d4a69617312572fb9f482be3993ad6f3ae6b": "2026-08-20T09:34:38.381195+00:00",
     "cf8495ae827ab999df368b8908223a20c78b625df900cc97355ea5b7a1dbec99": "2026-08-14T10:15:00.868800+00:00",
     "cf9826ba978f17fca37a3a329910bca511ebac845da948647b056854ce239ac0": "2026-08-17T12:01:07.243701+00:00",
     "d1dd9486c9f886705a4a376ae60d8eaaebfa99ef458cb1140aae1519cf246e55": "2026-08-14T10:15:00.868800+00:00",
