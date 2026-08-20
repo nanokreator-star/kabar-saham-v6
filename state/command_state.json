@@ -1,5 +1,5 @@
 {
-  "commands_processed": 132,
+  "commands_processed": 133,
   "duplicates_suppressed": 5,
   "initialized": true,
   "issuer_aliases": {
@@ -88,16 +88,13 @@
           "verified": true
         }
       ],
-      "owner_context_sources": 4,
+      "owner_context_sources": 1,
       "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
-      "owner_holder_resolution_level": "STRUCTURED_MAJOR_HOLDERS_V8",
       "owner_resolution_level": "OFFICIAL_CONTROLLER",
       "owner_v2_checked_utc": "2026-08-19T16:08:23.021612+00:00",
       "owner_v3_checked_utc": "2026-08-20T03:21:46.587478+00:00",
       "owner_v5_repaired_utc": "2026-08-20T09:39:57.598622+00:00",
       "owner_v5_safety_repairs": 7,
-      "owner_v6710_holder_checked_utc": "2026-08-20T12:28:30.949652+00:00",
-      "owner_v6710_holder_count": 2,
       "owner_v6_checked_utc": "2026-08-20T12:28:30.949480+00:00",
       "owner_v6_pages_fetched": 4,
       "owner_v6_source_urls": [
@@ -238,8 +235,8 @@
       "website": "https://www.wika.co.id"
     }
   },
-  "last_command_utc": "2026-08-20T12:28:31.708289+00:00",
-  "last_state_change_utc": "2026-08-20T12:28:31.708302+00:00",
+  "last_command_utc": "2026-08-20T12:29:14.249095+00:00",
+  "last_state_change_utc": "2026-08-20T12:29:14.249107+00:00",
   "lifecycle_history": {
     "AKSI|M&A / TAKEOVER": [
       {
@@ -465,7 +462,7 @@
       }
     ]
   },
-  "next_offset": 527719849,
+  "next_offset": 527719850,
   "recent_commands": {
     "26c528f9a7a61f30f3aa97ffb4fe03c4": 1787144505,
     "351d590a51b1fc322938538275d1124c": 1787227151,
@@ -473,11 +470,11 @@
     "7aeebfe21ee11cdd60d9b67b327b1578": 1787218646,
     "996b024487acda24e3f2617940d764bf": 1787147683,
     "bb942440ff783ef54ebb0d7cb1d3f483": 1787226679,
-    "c6966f933b77755baae49e0710dd8553": 1787227029,
+    "c6966f933b77755baae49e0710dd8553": 1787228919,
     "df42594ad243c54b915273725483bc7e": 1787228813
   },
   "schema_version": 12,
-  "updates_seen": 138,
+  "updates_seen": 139,
   "verified_official": {
     "DOOH": {
       "entries": [
