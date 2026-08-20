@@ -1,5 +1,5 @@
 {
-  "commands_processed": 114,
+  "commands_processed": 115,
   "duplicates_suppressed": 4,
   "initialized": true,
   "issuer_aliases": {
@@ -30,30 +30,15 @@
   "issuer_profiles": {
     "BYAN": {
       "business_activity": "PT Bayan Resources Tbk., together with its subsidiaries, engages in the open cut mining and sale of coal in Indonesia. It operates through Coal and Non-Coal segments.",
-      "controller": {
-        "basis": "OWNER_INTELLIGENCE_V4_EXPLICIT_ROLE",
-        "name": "GMS Announcement GMS Invitation GMS Minutes",
-        "source": "bayan.com.sg",
-        "source_url": "https://www.bayan.com.sg/shareholders-information",
-        "stake_pct": null,
-        "verification_level": "PRIMARY_COMPANY_CONTROLLER_V4",
-        "verified": true
-      },
+      "controller": null,
       "industry": "Thermal Coal",
       "issuer_name": "Bayan Resources",
-      "major_shareholders": [
-        {
-          "name": "GMS Announcement GMS Invitation GMS Minutes",
-          "source": "bayan.com.sg",
-          "source_url": "https://www.bayan.com.sg/shareholders-information",
-          "stake_pct": null,
-          "verified": true
-        }
-      ],
       "owner_context_sources": 1,
       "owner_resolution_level": "OFFICIAL_CONTROLLER",
       "owner_v2_checked_utc": "2026-08-19T16:08:23.021612+00:00",
       "owner_v3_checked_utc": "2026-08-20T03:21:46.587478+00:00",
+      "owner_v5_repaired_utc": "2026-08-20T06:51:00.469499+00:00",
+      "owner_v5_safety_repairs": 3,
       "profile_source": "Yahoo Finance",
       "profile_source_quality": "FALLBACK",
       "profile_source_url": null,
@@ -78,15 +63,8 @@
       },
       "industry": "Advertising Agencies",
       "issuer_name": "Era Media Sejahtera",
-      "major_shareholders": [
-        {
-          "name": "PT Sinergi Internasional Investama",
-          "source": "IDX + DEEP ARTICLE",
-          "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSWRNOVVfY0NhNXkwZkdZOUh3dkVsVFo3RGxSSXZYMkVMN3FYTDdnOTJiWmplSWdXVnU2X0xBVjIzTGUwaG9xWjQ2eFVTTkFhODdvVmVqUElScy1iMG9sZ3pFS1lCbWU3RlV3ZnVYTUo4aFNZREQyZVNPY25rSlQ0UzhlUHNKaDZxajFKYVNLczZHVXR6U3FhX1ZjWVFXVUNaV2JHWEhNLXRNVDdtRnQyTlhjZw?oc=5",
-          "stake_pct": 51.0,
-          "verified": true
-        }
-      ],
+      "owner_v5_repaired_utc": "2026-08-20T06:51:00.471193+00:00",
+      "owner_v5_safety_repairs": 2,
       "profile_source": "Yahoo Finance",
       "profile_source_quality": "FALLBACK",
       "profile_source_url": null,
@@ -102,7 +80,6 @@
       "controller": null,
       "industry": "Packaged Foods",
       "issuer_name": "Hassana Boga Sejahtera",
-      "major_shareholders": [],
       "profile_source": "Yahoo Finance",
       "profile_source_quality": "FALLBACK",
       "profile_source_url": null,
@@ -118,7 +95,6 @@
       "controller": null,
       "industry": "Packaging & Containers",
       "issuer_name": "Abadi Nusantara Hijau Investama",
-      "major_shareholders": [],
       "owner_context_sources": 0,
       "owner_discovery_method": "OFFICIAL_REGISTRY+PRIMARY_COMPANY_V4",
       "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
@@ -139,7 +115,6 @@
       "controller": null,
       "industry": "Engineering & Construction",
       "issuer_name": "Konsorsium KAI-WIKA di Whoosh",
-      "major_shareholders": [],
       "owner_v3_checked_utc": "2026-08-20T03:21:03.973084+00:00",
       "profile_source": "Yahoo Finance",
       "profile_source_quality": "FALLBACK",
@@ -152,8 +127,8 @@
       "website": "https://www.wika.co.id"
     }
   },
-  "last_command_utc": "2026-08-20T04:12:04.194025+00:00",
-  "last_state_change_utc": "2026-08-20T04:12:04.194037+00:00",
+  "last_command_utc": "2026-08-20T06:51:01.006621+00:00",
+  "last_state_change_utc": "2026-08-20T06:51:01.006652+00:00",
   "lifecycle_history": {
     "AKSI|M&A / TAKEOVER": [
       {
@@ -379,7 +354,7 @@
       }
     ]
   },
-  "next_offset": 527719830,
+  "next_offset": 527719831,
   "recent_commands": {
     "26c528f9a7a61f30f3aa97ffb4fe03c4": 1787144505,
     "351d590a51b1fc322938538275d1124c": 1787199087,
@@ -392,10 +367,10 @@
     "996b024487acda24e3f2617940d764bf": 1787147683,
     "af2ab547de6ccbfb8bf0100481961291": 1787138499,
     "c6966f933b77755baae49e0710dd8553": 1787198946,
-    "df42594ad243c54b915273725483bc7e": 1787198566
+    "df42594ad243c54b915273725483bc7e": 1787208626
   },
   "schema_version": 12,
-  "updates_seen": 119,
+  "updates_seen": 120,
   "verified_official": {
     "DOOH": {
       "entries": [
