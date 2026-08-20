@@ -1,5 +1,5 @@
 {
-  "commands_processed": 106,
+  "commands_processed": 107,
   "duplicates_suppressed": 4,
   "initialized": true,
   "issuer_aliases": {
@@ -10,7 +10,8 @@
       "Bayan (BYAN",
       "Bayan Resources",
       "oleh Haji Isam",
-      "Haji Isam"
+      "Haji Isam",
+      "Jadi Sorotan"
     ],
     "DOOH": [
       "Era Media Sejahtera"
@@ -128,8 +129,8 @@
       "website": "https://www.wika.co.id"
     }
   },
-  "last_command_utc": "2026-08-20T03:26:41.056852+00:00",
-  "last_state_change_utc": "2026-08-20T03:26:41.056865+00:00",
+  "last_command_utc": "2026-08-20T03:27:37.756285+00:00",
+  "last_state_change_utc": "2026-08-20T03:27:37.756298+00:00",
   "lifecycle_history": {
     "AKSI|M&A / TAKEOVER": [
       {
@@ -355,13 +356,13 @@
       }
     ]
   },
-  "next_offset": 527719822,
+  "next_offset": 527719823,
   "recent_commands": {
     "26c528f9a7a61f30f3aa97ffb4fe03c4": 1787144505,
     "351d590a51b1fc322938538275d1124c": 1787155754,
     "3ee4ef5cdf961718d1c0de120b3e6b70": 1787130779,
     "68d39bf599469cddc1581e334208edc4": 1787130890,
-    "6984e764300c6e62c21f0437624a34f7": 1787155662,
+    "6984e764300c6e62c21f0437624a34f7": 1787196422,
     "70e87047856595ea5f43f415bfdafb9b": 1787138779,
     "7aeebfe21ee11cdd60d9b67b327b1578": 1787155715,
     "98d99a90c807bac0ed84d9c87c74046b": 1787131594,
@@ -371,7 +372,7 @@
     "df42594ad243c54b915273725483bc7e": 1787195964
   },
   "schema_version": 12,
-  "updates_seen": 111,
+  "updates_seen": 112,
   "verified_official": {
     "DOOH": {
       "entries": [
