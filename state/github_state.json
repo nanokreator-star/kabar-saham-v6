@@ -1,5 +1,44 @@
 {
   "baseline_initialized": true,
+  "early_signal_alerts_sent": 0,
+  "early_signal_baseline_initialized": true,
+  "early_signal_duplicates_suppressed": 0,
+  "early_signal_last_scan_utc": "2026-08-20T14:53:02.533884+00:00",
+  "early_signal_memory": {
+    "BYAN": {
+      "change_pct": 3.35,
+      "combined": true,
+      "direction": "UP",
+      "last_alert_utc": null,
+      "last_seen_utc": "2026-08-20T14:53:01.800531+00:00",
+      "level": "HIGH",
+      "market_date": "2026-08-20",
+      "signature": "BYAN|2026-08-20|HIGH|UP|RUMOR|AKUISISI / TAKEOVER|TICKER|BYAN",
+      "volume_ratio": 231.18
+    },
+    "PACK": {
+      "change_pct": 10.0,
+      "combined": true,
+      "direction": "UP",
+      "last_alert_utc": null,
+      "last_seen_utc": "2026-08-20T14:53:02.533870+00:00",
+      "level": "MEDIUM",
+      "market_date": "2026-08-20",
+      "signature": "PACK|2026-08-20|MEDIUM|UP|RUMOR|STRATEGIC INVESTOR|TICKER|PACK",
+      "volume_ratio": 0.58
+    },
+    "PGUN": {
+      "change_pct": 15.29,
+      "combined": true,
+      "direction": "UP",
+      "last_alert_utc": null,
+      "last_seen_utc": "2026-08-20T14:53:02.353139+00:00",
+      "level": "HIGH",
+      "market_date": "2026-08-20",
+      "signature": "PGUN|2026-08-20|HIGH|UP|RUMOR|AKUISISI / TAKEOVER|TICKER|PGUN",
+      "volume_ratio": 21.42
+    }
+  },
   "event_duplicates_suppressed": 3,
   "event_memory": {
     "IPO|TITLE|BEI ADA CALON ANTRE DUA BERASAL SEKTOR": {
@@ -3941,7 +3980,7 @@
     }
   },
   "last_keepalive_utc": "2026-08-14T10:15:00.868800+00:00",
-  "last_state_change_utc": "2026-08-20T12:30:47.743504+00:00",
+  "last_state_change_utc": "2026-08-20T14:53:02.554354+00:00",
   "market_noise_suppressed": 1,
   "milestone_alerts": {},
   "rumor_alerts_sent": 2,
@@ -3953,22 +3992,23 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 0,
   "rumor_integrity_repairs": 6,
-  "rumor_last_scan_utc": "2026-08-20T12:30:47.608746+00:00",
+  "rumor_last_scan_utc": "2026-08-20T14:53:01.375943+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
       "company_name": "Bayan Resources",
-      "copy_duplicate_count": 9,
+      "copy_duplicate_count": 8,
       "credible_effective_independent_count": 3.0,
       "derivative_source_count": 7,
-      "detected_source_count": 13,
+      "detected_source_count": 12,
       "effective_independent_count": 5.4,
       "entity_aliases": [
         "Bayan (BYAN",
         "Bayan Resources",
         "oleh Haji Isam",
         "Haji Isam",
-        "Jadi Sorotan"
+        "Jadi Sorotan",
+        "Haji Isam Berbalik"
       ],
       "entity_resolution_source": "ISSUER_ALIAS_MEMORY+ISSUER_PROFILE_CACHE+RUMOR_EXPLICIT_TICKER",
       "first_seen_utc": "2026-08-18T02:41:36+00:00",
@@ -4071,7 +4111,7 @@
         "price_range": null,
         "underwriter": null
       },
-      "semantic_copy_count": 2,
+      "semantic_copy_count": 1,
       "source": "Tempo.co",
       "source_breakdown": [
         {
@@ -4161,12 +4201,12 @@
       "sources": [
         "CNBC Indonesia",
         "achmadnurhidayat.id",
-        "publika.id",
         "Tempo.co",
         "investor.id",
-        "Readers.id",
         "MediaKompeten",
-        "beritajejakfakta.id"
+        "Readers.id",
+        "beritajejakfakta.id",
+        "AsatuNews.co.id"
       ],
       "status": "ACTIVE",
       "strength": "STRONG",
