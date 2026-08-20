@@ -1,5 +1,5 @@
 {
-  "commands_processed": 118,
+  "commands_processed": 119,
   "duplicates_suppressed": 4,
   "initialized": true,
   "issuer_aliases": {
@@ -66,7 +66,7 @@
       },
       "industry": "Advertising Agencies",
       "issuer_name": "Era Media Sejahtera",
-      "owner_v5_repaired_utc": "2026-08-20T06:54:34.409413+00:00",
+      "owner_v5_repaired_utc": "2026-08-20T06:55:42.612962+00:00",
       "owner_v5_safety_repairs": 6,
       "profile_source": "Yahoo Finance",
       "profile_source_quality": "FALLBACK",
@@ -150,8 +150,8 @@
       "website": "https://www.wika.co.id"
     }
   },
-  "last_command_utc": "2026-08-20T06:54:35.098404+00:00",
-  "last_state_change_utc": "2026-08-20T06:54:35.098418+00:00",
+  "last_command_utc": "2026-08-20T06:55:44.420961+00:00",
+  "last_state_change_utc": "2026-08-20T06:55:44.420974+00:00",
   "lifecycle_history": {
     "AKSI|M&A / TAKEOVER": [
       {
@@ -377,10 +377,10 @@
       }
     ]
   },
-  "next_offset": 527719834,
+  "next_offset": 527719835,
   "recent_commands": {
     "26c528f9a7a61f30f3aa97ffb4fe03c4": 1787144505,
-    "351d590a51b1fc322938538275d1124c": 1787199087,
+    "351d590a51b1fc322938538275d1124c": 1787208906,
     "3ee4ef5cdf961718d1c0de120b3e6b70": 1787130779,
     "68d39bf599469cddc1581e334208edc4": 1787130890,
     "6984e764300c6e62c21f0437624a34f7": 1787208751,
@@ -393,7 +393,7 @@
     "df42594ad243c54b915273725483bc7e": 1787208626
   },
   "schema_version": 12,
-  "updates_seen": 123,
+  "updates_seen": 124,
   "verified_official": {
     "DOOH": {
       "entries": [
