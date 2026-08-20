@@ -3702,10 +3702,28 @@
   "issuer_profile_cache": {
     "BYAN": {
       "business_activity": "PT Bayan Resources Tbk., together with its subsidiaries, engages in the open cut mining and sale of coal in Indonesia. It operates through Coal and Non-Coal segments.",
-      "controller": null,
+      "controller": {
+        "basis": "OWNER_INTELLIGENCE_V4_EXPLICIT_ROLE",
+        "name": "GMS Announcement GMS Invitation GMS Minutes",
+        "source": "bayan.com.sg",
+        "source_url": "https://www.bayan.com.sg/shareholders-information",
+        "stake_pct": null,
+        "verification_level": "PRIMARY_COMPANY_CONTROLLER_V4",
+        "verified": true
+      },
       "industry": "Thermal Coal",
       "issuer_name": "Bayan Resources",
-      "major_shareholders": [],
+      "major_shareholders": [
+        {
+          "name": "GMS Announcement GMS Invitation GMS Minutes",
+          "source": "bayan.com.sg",
+          "source_url": "https://www.bayan.com.sg/shareholders-information",
+          "stake_pct": null,
+          "verified": true
+        }
+      ],
+      "owner_context_sources": 1,
+      "owner_resolution_level": "OFFICIAL_CONTROLLER",
       "owner_v2_checked_utc": "2026-08-19T16:08:23.021612+00:00",
       "owner_v3_checked_utc": "2026-08-20T03:21:46.587478+00:00",
       "profile_source": "Yahoo Finance",
@@ -3807,7 +3825,7 @@
     }
   },
   "last_keepalive_utc": "2026-08-14T10:15:00.868800+00:00",
-  "last_state_change_utc": "2026-08-20T04:06:56.157940+00:00",
+  "last_state_change_utc": "2026-08-20T04:21:46.373350+00:00",
   "market_noise_suppressed": 1,
   "milestone_alerts": {},
   "rumor_alerts_sent": 1,
@@ -3819,7 +3837,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 0,
   "rumor_integrity_repairs": 5,
-  "rumor_last_scan_utc": "2026-08-20T04:04:24.025545+00:00",
+  "rumor_last_scan_utc": "2026-08-20T04:21:46.327145+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -3914,7 +3932,7 @@
           "new_material": 1,
           "quality": "LOW",
           "semantic_copy": false,
-          "source": "asatunews.co.id",
+          "source": "AsatuNews.co.id",
           "tier": 1,
           "weight": 0.55
         },
