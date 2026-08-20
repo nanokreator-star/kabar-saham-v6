@@ -1,5 +1,5 @@
 {
-  "commands_processed": 128,
+  "commands_processed": 129,
   "duplicates_suppressed": 5,
   "initialized": true,
   "issuer_aliases": {
@@ -153,6 +153,26 @@
       "verified_at": "2026-08-20T04:04:02.909442+00:00",
       "website": "https://www.flexypack.com"
     },
+    "PGUN": {
+      "business_activity": "PT Pradiksi Gunatama Tbk operates as an oil palm plantation company in Indonesia. The company owns oil palm plantation area in Batu Engau District, Paser Regency, East Kalimantan Province.",
+      "controller": null,
+      "industry": "Farm Products",
+      "issuer_name": "Pradiksi Gunatama",
+      "owner_context_sources": 0,
+      "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
+      "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
+      "owner_v6_checked_utc": "2026-08-20T11:55:15.643238+00:00",
+      "owner_v6_pages_fetched": 0,
+      "profile_source": "Yahoo Finance",
+      "profile_source_quality": "FALLBACK",
+      "profile_source_url": null,
+      "sector": "Consumer Defensive",
+      "subindustry": null,
+      "subsector": null,
+      "ticker": "PGUN",
+      "verified_at": "2026-08-20T11:55:55.353311+00:00",
+      "website": "https://www.pradiksi.co.id"
+    },
     "WIKA": {
       "business_activity": "PT Wijaya Karya (Persero) Tbk operates as an integrated construction company in Indonesia and internationally. It operates through Infrastructure and Building, Energy and Industrial Plant, Industry, Hotel, Realty and Property, and Investmen",
       "controller": null,
@@ -170,8 +190,8 @@
       "website": "https://www.wika.co.id"
     }
   },
-  "last_command_utc": "2026-08-20T11:52:51.203230+00:00",
-  "last_state_change_utc": "2026-08-20T11:52:51.203242+00:00",
+  "last_command_utc": "2026-08-20T11:58:03.429657+00:00",
+  "last_state_change_utc": "2026-08-20T11:58:03.429668+00:00",
   "lifecycle_history": {
     "AKSI|M&A / TAKEOVER": [
       {
@@ -397,7 +417,7 @@
       }
     ]
   },
-  "next_offset": 527719845,
+  "next_offset": 527719846,
   "recent_commands": {
     "26c528f9a7a61f30f3aa97ffb4fe03c4": 1787144505,
     "351d590a51b1fc322938538275d1124c": 1787218696,
@@ -405,11 +425,11 @@
     "7aeebfe21ee11cdd60d9b67b327b1578": 1787218646,
     "996b024487acda24e3f2617940d764bf": 1787147683,
     "bb942440ff783ef54ebb0d7cb1d3f483": 1787226679,
-    "c6966f933b77755baae49e0710dd8553": 1787226632,
+    "c6966f933b77755baae49e0710dd8553": 1787227029,
     "df42594ad243c54b915273725483bc7e": 1787226443
   },
   "schema_version": 12,
-  "updates_seen": 134,
+  "updates_seen": 135,
   "verified_official": {
     "DOOH": {
       "entries": [
