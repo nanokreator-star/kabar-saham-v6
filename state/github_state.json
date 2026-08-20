@@ -2,15 +2,15 @@
   "baseline_initialized": true,
   "early_signal_alerts_sent": 2,
   "early_signal_baseline_initialized": true,
-  "early_signal_duplicates_suppressed": 63,
-  "early_signal_last_scan_utc": "2026-08-20T19:40:56.998830+00:00",
+  "early_signal_duplicates_suppressed": 65,
+  "early_signal_last_scan_utc": "2026-08-20T19:50:44.637175+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -9.41,
       "combined": true,
       "direction": "DOWN",
       "last_alert_utc": "2026-08-20T17:01:03.692653+00:00",
-      "last_seen_utc": "2026-08-20T19:40:56.748280+00:00",
+      "last_seen_utc": "2026-08-20T19:50:44.263635+00:00",
       "level": "HIGH",
       "market_date": "2026-08-19",
       "signature": "BYAN|2026-08-19|HIGH|DOWN|RUMOR|AKUISISI / TAKEOVER|TICKER|BYAN",
@@ -32,7 +32,7 @@
       "combined": true,
       "direction": "DOWN",
       "last_alert_utc": "2026-08-20T17:01:04.386872+00:00",
-      "last_seen_utc": "2026-08-20T19:40:56.865682+00:00",
+      "last_seen_utc": "2026-08-20T19:50:44.395617+00:00",
       "level": "HIGH",
       "market_date": "2026-08-19",
       "signature": "PGUN|2026-08-19|HIGH|DOWN|RUMOR|AKUISISI / TAKEOVER|TICKER|PGUN",
@@ -4025,7 +4025,7 @@
     }
   },
   "last_keepalive_utc": "2026-08-14T10:15:00.868800+00:00",
-  "last_state_change_utc": "2026-08-20T19:40:57.025047+00:00",
+  "last_state_change_utc": "2026-08-20T19:50:44.662997+00:00",
   "market_noise_suppressed": 1,
   "milestone_alerts": {},
   "rumor_alerts_sent": 2,
@@ -4037,7 +4037,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 0,
   "rumor_integrity_repairs": 6,
-  "rumor_last_scan_utc": "2026-08-20T19:40:56.253393+00:00",
+  "rumor_last_scan_utc": "2026-08-20T19:50:44.080423+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -4248,9 +4248,9 @@
         "achmadnurhidayat.id",
         "Tempo.co",
         "investor.id",
-        "beritajejakfakta.id",
         "MediaKompeten",
         "Readers.id",
+        "beritajejakfakta.id",
         "AsatuNews.co.id"
       ],
       "status": "ACTIVE",
