@@ -2,19 +2,19 @@
   "baseline_initialized": true,
   "early_signal_alerts_sent": 7,
   "early_signal_baseline_initialized": true,
-  "early_signal_duplicates_suppressed": 146,
-  "early_signal_last_scan_utc": "2026-08-21T03:01:02.413324+00:00",
+  "early_signal_duplicates_suppressed": 148,
+  "early_signal_last_scan_utc": "2026-08-21T03:10:54.853635+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -1.39,
       "combined": true,
       "direction": "DOWN",
       "last_alert_utc": "2026-08-21T02:20:44.379984+00:00",
-      "last_seen_utc": "2026-08-21T03:01:02.331693+00:00",
+      "last_seen_utc": "2026-08-21T03:10:54.700674+00:00",
       "level": "HIGH",
       "market_date": "2026-08-21",
       "signature": "BYAN|2026-08-21|HIGH|DOWN|RUMOR|AKUISISI / TAKEOVER|TICKER|BYAN",
-      "volume_ratio": 32.84
+      "volume_ratio": 34.05
     },
     "PACK": {
       "change_pct": 10.0,
@@ -28,18 +28,18 @@
       "volume_ratio": 0.58
     },
     "PGUN": {
-      "change_pct": 0.77,
+      "change_pct": 1.28,
       "combined": true,
       "direction": "UP",
       "last_alert_utc": "2026-08-21T02:40:52.238105+00:00",
-      "last_seen_utc": "2026-08-21T03:01:02.413302+00:00",
+      "last_seen_utc": "2026-08-21T03:10:54.853627+00:00",
       "level": "MEDIUM",
       "market_date": "2026-08-21",
       "signature": "PGUN|2026-08-21|MEDIUM|UP|RUMOR|AKUISISI / TAKEOVER|TICKER|PGUN",
-      "volume_ratio": 2.9
+      "volume_ratio": 3.28
     }
   },
-  "event_duplicates_suppressed": 3,
+  "event_duplicates_suppressed": 4,
   "event_memory": {
     "IPO|TITLE|BEI ADA CALON ANTRE DUA BERASAL SEKTOR": {
       "family": "IPO",
@@ -2185,11 +2185,11 @@
       "family": "RIGHTS ISSUE",
       "first_seen_utc": "2026-08-19T02:31:00.139252+00:00",
       "last_alert_utc": "2026-08-19T02:31:00.139247+00:00",
-      "last_seen_utc": "2026-08-19T02:31:00.139247+00:00",
+      "last_seen_utc": "2026-08-21T03:11:07.382935+00:00",
       "market_context": {
-        "change_pct": 0.5263,
-        "last_price": 382.0,
-        "market_date": "2026-08-19"
+        "change_pct": -1.087,
+        "last_price": 364.0,
+        "market_date": "2026-08-21"
       },
       "material_snapshot": {
         "acquirer": null,
@@ -3959,6 +3959,32 @@
       "verified_at": "2026-08-20T09:34:34.688015+00:00",
       "website": "https://www.sspace.id"
     },
+    "IRSX": {
+      "business_activity": "PT Folago Global Nusantara Tbk, together with its subsidiaries, engages in software publishing and digital product sales businesses in Indonesia. It operates through five segments: Digital Products, IRS Software, Advertisement, Commission, ",
+      "controller": null,
+      "industry": "Software - Application",
+      "issuer_name": "Folago Global Nusantara",
+      "owner_context_sources": 0,
+      "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
+      "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
+      "owner_v6_checked_utc": "2026-08-21T03:11:07.381766+00:00",
+      "owner_v6_pages_fetched": 4,
+      "owner_v6_source_urls": [
+        "https://folagocorp.com/investor-relations/#si",
+        "https://folagocorp.com/investor-relations/",
+        "https://folagocorp.com/investor-relations/#rp",
+        "https://folagocorp.com/investor-relations/#ids"
+      ],
+      "profile_source": "Yahoo Finance",
+      "profile_source_quality": "FALLBACK",
+      "profile_source_url": null,
+      "sector": "Technology",
+      "subindustry": null,
+      "subsector": null,
+      "ticker": "IRSX",
+      "verified_at": "2026-08-21T03:11:03.827680+00:00",
+      "website": "https://folagocorp.com"
+    },
     "JARR": {
       "business_activity": "PT Jhonlin Agro Raya Tbk engages in the oil palm plantation business in Indonesia. It operates through Biodiesel and Fresh Fruit Bunches.",
       "controller": null,
@@ -4061,8 +4087,8 @@
     }
   },
   "last_keepalive_utc": "2026-08-14T10:15:00.868800+00:00",
-  "last_state_change_utc": "2026-08-21T03:01:02.441259+00:00",
-  "market_noise_suppressed": 1,
+  "last_state_change_utc": "2026-08-21T03:11:07.383505+00:00",
+  "market_noise_suppressed": 2,
   "milestone_alerts": {},
   "rumor_alerts_sent": 2,
   "rumor_baseline_initialized": true,
@@ -4073,7 +4099,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 0,
   "rumor_integrity_repairs": 6,
-  "rumor_last_scan_utc": "2026-08-21T03:01:02.171710+00:00",
+  "rumor_last_scan_utc": "2026-08-21T03:10:54.497067+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -4825,6 +4851,7 @@
     "13ff8f383c56143ea2d2f8aec430d2dfc74bff133c3cb57bb8943a99f3ee71d3": "2026-08-14T10:15:00.868800+00:00",
     "14563a329d45a6520f39507f75c18800006c2babd88b2e11830fc4c851289149": "2026-08-20T21:31:02.854802+00:00",
     "14fd93f713d058496956d63c63bedcc60cf42e26af3b7c4e7d2056c25ca96365": "2026-08-14T10:15:00.868800+00:00",
+    "1b2cd9b2bd6a771ea2ea969e1c6bcc61201fb3dcf0db87227874ff9f76b3317b": "2026-08-21T03:11:07.382924+00:00",
     "1bd8f6063a72b9667300b2c7e4a2718aa76ff4b3c6e17a3abfbd739fb077503b": "2026-08-14T10:15:00.868800+00:00",
     "1f28efc71679b930bae7d69cd62095f2da32399d0c49f40dcc1a1d59c73c541a": "2026-08-17T12:30:59.740812+00:00",
     "1f4b5df05c871568ef7dc5de0368a9ac1b5e661f992affc3894eca51525a12c3": "2026-08-14T10:15:00.868800+00:00",
@@ -4879,6 +4906,7 @@
     "646b85801b59b7050b05830457080dbec683e7d99c6192fb3a280114460d7df8": "2026-08-14T10:15:00.868800+00:00",
     "6961e4412739374464ff56e1b4e06e5b6475ac1f443c928a76a26014d3ebbf38": "2026-08-14T10:15:00.868800+00:00",
     "6a55b369a5fb6e9c73fe0e2a2093ecf571ca173100bc25e1c091de3392c007b1": "2026-08-19T02:31:00.139231+00:00",
+    "6b9a0cd4024e7d053b960c2a373e09318a29661a0e7c67359c68fbb9fcd1622e": "2026-08-21T03:11:07.382924+00:00",
     "6bdad19c48883f375d8ee66130498bd919d86e168ebf0c2398442c45bea37308": "2026-08-14T10:15:00.868800+00:00",
     "6d54bb8221e40afd8a2bd6f7622b02933e1eca3a8fbe421d25d19102dfc1b064": "2026-08-14T10:15:00.868800+00:00",
     "7003b0d1af4222bb498db8d25d949c60a641ece80cd91fe782deb1edcdb7ef5a": "2026-08-14T10:15:00.868800+00:00",
