@@ -2,8 +2,8 @@
   "baseline_initialized": true,
   "early_signal_alerts_sent": 10,
   "early_signal_baseline_initialized": true,
-  "early_signal_duplicates_suppressed": 313,
-  "early_signal_last_scan_utc": "2026-08-21T19:10:46.475513+00:00",
+  "early_signal_duplicates_suppressed": 314,
+  "early_signal_last_scan_utc": "2026-08-21T19:21:13.252659+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -3.55,
@@ -32,7 +32,7 @@
       "combined": true,
       "direction": "UP",
       "last_alert_utc": "2026-08-21T17:01:02.628858+00:00",
-      "last_seen_utc": "2026-08-21T19:10:46.475503+00:00",
+      "last_seen_utc": "2026-08-21T19:21:13.252645+00:00",
       "level": "HIGH",
       "market_date": "2026-08-20",
       "signature": "PGUN|2026-08-20|HIGH|UP|RUMOR|AKUISISI / TAKEOVER|TICKER|PGUN",
@@ -4141,11 +4141,11 @@
       "industry": "Farm Products",
       "issuer_name": "Jhonlin Agro Raya",
       "owner_context_sources": 0,
-      "owner_discovery_method": "STRICT_OFFICIAL_SECTION_V5",
+      "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
       "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
       "owner_v5_checked_utc": "2026-08-20T06:52:14.456932+00:00",
       "owner_v5_pages_fetched": 1,
-      "owner_v6_checked_utc": "2026-08-21T07:10:57.020437+00:00",
+      "owner_v6_checked_utc": "2026-08-21T19:20:53.191079+00:00",
       "owner_v6_pages_fetched": 0,
       "profile_source": "Yahoo Finance",
       "profile_source_quality": "FALLBACK",
@@ -4154,7 +4154,7 @@
       "subindustry": null,
       "subsector": null,
       "ticker": "JARR",
-      "verified_at": "2026-08-21T13:10:51.045281+00:00",
+      "verified_at": "2026-08-21T19:20:54.253242+00:00",
       "website": "https://www.ptjar.com"
     },
     "NAYZ": {
@@ -4277,7 +4277,7 @@
     }
   },
   "last_keepalive_utc": "2026-08-14T10:15:00.868800+00:00",
-  "last_state_change_utc": "2026-08-21T19:10:46.499196+00:00",
+  "last_state_change_utc": "2026-08-21T19:21:13.597930+00:00",
   "market_noise_suppressed": 2,
   "milestone_alerts": {},
   "rumor_alerts_sent": 3,
@@ -4289,7 +4289,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 0,
   "rumor_integrity_repairs": 6,
-  "rumor_last_scan_utc": "2026-08-21T19:10:46.194136+00:00",
+  "rumor_last_scan_utc": "2026-08-21T19:21:13.005352+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -4438,7 +4438,7 @@
           "new_material": 1,
           "quality": "LOW",
           "semantic_copy": false,
-          "source": "AsatuNews.co.id",
+          "source": "asatunews.co.id",
           "tier": 1,
           "weight": 0.55
         },
@@ -4503,7 +4503,7 @@
         "MediaKompeten",
         "Readers.id",
         "beritajejakfakta.id",
-        "AsatuNews.co.id",
+        "asatunews.co.id",
         "Sawitku"
       ],
       "status": "ACTIVE",
@@ -4532,11 +4532,11 @@
         "industry": "Farm Products",
         "issuer_name": "Jhonlin Agro Raya",
         "owner_context_sources": 0,
-        "owner_discovery_method": "STRICT_OFFICIAL_SECTION_V5",
+        "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
         "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
         "owner_v5_checked_utc": "2026-08-20T06:52:14.456932+00:00",
         "owner_v5_pages_fetched": 1,
-        "owner_v6_checked_utc": "2026-08-21T07:10:57.020437+00:00",
+        "owner_v6_checked_utc": "2026-08-21T19:20:53.191079+00:00",
         "owner_v6_pages_fetched": 0,
         "profile_source": "Yahoo Finance",
         "profile_source_quality": "FALLBACK",
@@ -4545,7 +4545,7 @@
         "subindustry": null,
         "subsector": null,
         "ticker": "JARR",
-        "verified_at": "2026-08-21T13:10:51.045281+00:00",
+        "verified_at": "2026-08-21T19:20:54.253242+00:00",
         "website": "https://www.ptjar.com"
       },
       "key": "AKUISISI / TAKEOVER|TICKER|JARR",
@@ -4568,7 +4568,7 @@
       },
       "official_confirmation": null,
       "premium_source_count": 0,
-      "profile_refresh_utc": "2026-08-21T07:11:28.958962+00:00",
+      "profile_refresh_utc": "2026-08-21T19:21:13.000981+00:00",
       "published": "Thu, 20 Aug 2026 05:16:48 GMT",
       "rumor_details": {
         "ipo_price": null,
