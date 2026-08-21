@@ -2,15 +2,15 @@
   "baseline_initialized": true,
   "early_signal_alerts_sent": 9,
   "early_signal_baseline_initialized": true,
-  "early_signal_duplicates_suppressed": 262,
-  "early_signal_last_scan_utc": "2026-08-21T12:50:45.864295+00:00",
+  "early_signal_duplicates_suppressed": 264,
+  "early_signal_last_scan_utc": "2026-08-21T13:01:01.402857+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -3.55,
       "combined": true,
       "direction": "DOWN",
       "last_alert_utc": "2026-08-21T02:20:44.379984+00:00",
-      "last_seen_utc": "2026-08-21T12:50:45.763913+00:00",
+      "last_seen_utc": "2026-08-21T13:01:01.213818+00:00",
       "level": "HIGH",
       "market_date": "2026-08-21",
       "signature": "BYAN|2026-08-21|HIGH|DOWN|RUMOR|AKUISISI / TAKEOVER|TICKER|BYAN",
@@ -32,7 +32,7 @@
       "combined": true,
       "direction": "DOWN",
       "last_alert_utc": "2026-08-21T08:50:48.877216+00:00",
-      "last_seen_utc": "2026-08-21T12:50:45.864284+00:00",
+      "last_seen_utc": "2026-08-21T13:01:01.402847+00:00",
       "level": "HIGH",
       "market_date": "2026-08-21",
       "signature": "PGUN|2026-08-21|HIGH|DOWN|RUMOR|AKUISISI / TAKEOVER|TICKER|PGUN",
@@ -927,16 +927,16 @@
     "M&A / TAKEOVER|TICKER|PIPA": {
       "family": "M&A / TAKEOVER",
       "first_seen_utc": "2026-08-19T00:31:02.208969+00:00",
-      "last_alert_utc": "2026-08-19T00:31:02.208963+00:00",
-      "last_seen_utc": "2026-08-19T05:22:31.609062+00:00",
+      "last_alert_utc": "2026-08-21T13:01:30.058286+00:00",
+      "last_seen_utc": "2026-08-21T13:01:30.058286+00:00",
       "market_context": {
-        "change_pct": 2.4194,
-        "last_price": 127.0,
-        "market_date": "2026-08-19"
+        "change_pct": 16.9935,
+        "last_price": 179.0,
+        "market_date": "2026-08-21"
       },
       "material_snapshot": {
-        "acquirer": null,
-        "acquirer_confirmed": false,
+        "acquirer": "Saham Oxala (PIPA) Naik 40",
+        "acquirer_confirmed": true,
         "event_type": "AKUISISI",
         "execution_price": null,
         "ipo_single_price": null,
@@ -950,15 +950,17 @@
         "stage": "SPA / SIGNED",
         "stage_step": 4,
         "stage_total": 7,
-        "stake": [],
+        "stake": [
+          40.94,
+          16.99
+        ],
         "standby_buyer": null,
-        "target": null,
-        "target_confirmed": false,
+        "target": "Bisnis Gas",
+        "target_confirmed": true,
         "tender_price": null,
         "underwriter": null,
         "use_of_funds": [
-          "AKUISISI / INVESTASI",
-          "EKSPANSI / CAPEX"
+          "AKUISISI / INVESTASI"
         ]
       },
       "ticker": "PIPA"
@@ -4100,6 +4102,26 @@
       "verified_at": "2026-08-20T11:55:55.353311+00:00",
       "website": "https://www.pradiksi.co.id"
     },
+    "PIPA": {
+      "business_activity": "PT Oxala Energy International Tbk engages in the production and sale of polymer vinyl chloride (PVC)-based plastic in Indonesia. The company offers PVC pipes, HDPE pipes, Rubicon PVC fittings, PVC glue, PVC gutters, casting buckets, and oth",
+      "controller": null,
+      "industry": "Building Products & Equipment",
+      "issuer_name": "Oxala Energy International",
+      "owner_context_sources": 0,
+      "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
+      "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
+      "owner_v6_checked_utc": "2026-08-21T13:01:29.407109+00:00",
+      "owner_v6_pages_fetched": 0,
+      "profile_source": "Yahoo Finance",
+      "profile_source_quality": "FALLBACK",
+      "profile_source_url": null,
+      "sector": "Industrials",
+      "subindustry": null,
+      "subsector": null,
+      "ticker": "PIPA",
+      "verified_at": "2026-08-21T13:01:11.452974+00:00",
+      "website": "https://multimakmurlemindo.com"
+    },
     "SUPR": {
       "business_activity": "PT Solusi Tunas Pratama Tbk operates as an independent tower company in Indonesia. The company manages and leases base transceiver station towers.",
       "controller": null,
@@ -4143,7 +4165,7 @@
     }
   },
   "last_keepalive_utc": "2026-08-14T10:15:00.868800+00:00",
-  "last_state_change_utc": "2026-08-21T12:50:45.891216+00:00",
+  "last_state_change_utc": "2026-08-21T13:01:30.058989+00:00",
   "market_noise_suppressed": 2,
   "milestone_alerts": {},
   "rumor_alerts_sent": 2,
@@ -4155,7 +4177,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 0,
   "rumor_integrity_repairs": 6,
-  "rumor_last_scan_utc": "2026-08-21T12:50:45.585982+00:00",
+  "rumor_last_scan_utc": "2026-08-21T13:01:00.974252+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -5003,6 +5025,7 @@
     "4e440b65597626aeb9c337edac2f1103fb81d8886d5affb654ce547d687ff0c1": "2026-08-14T10:15:00.868800+00:00",
     "50ad4d7c9c039627d76169a49ab09b4d4e66fdfb5259614ccc6f0dd634aa5d46": "2026-08-14T10:15:00.868800+00:00",
     "545b06b3f1d4403eb1cdd1af9eadc9bf16b65070a95108d13313d06039310251": "2026-08-14T10:15:00.868800+00:00",
+    "5531875ed0b9be51815ca052b03d674b0a20b8a2f5337a068932188574711052": "2026-08-21T13:01:30.058267+00:00",
     "562524ce39b0ace06378da183171f5e396932cfd327cf72e7feabba80eda1c98": "2026-08-14T10:15:00.868800+00:00",
     "567cb3502a7367f757a41f71e44169a4b2cd0e1a75b5eadb8f788aad9d722741": "2026-08-14T10:15:00.868800+00:00",
     "5857fcb1a51610e48aa797a3eb1a64e8fffac1b2d2812c9cb580f2453e2dba9d": "2026-08-14T10:15:00.868800+00:00",
@@ -5084,6 +5107,7 @@
     "e33907a9fe904c50f06fe11b58b70b65be47742ec7f0a555fb1e52141661e12a": "2026-08-20T03:21:47.165417+00:00",
     "e43121d88f14cca7d84b58aa0e148b1506a557d0f3d159f7a08a27429f076efb": "2026-08-14T10:15:00.868800+00:00",
     "e454b21c7fd7f238db363cf91ec740e0cf0a757e7a4900279b78bc62a0b8ea9b": "2026-08-14T10:15:00.868800+00:00",
+    "e558e229daa7611bd54efaf57e7177bf991861def406546b59b3b6b0405cf6bd": "2026-08-21T13:01:30.058267+00:00",
     "e6ecb3d2002ace4b88aeb341a8fbe02419335242494b15dc4b7146461142cfdb": "2026-08-19T05:10:54.068710+00:00",
     "e7a14e7a29ac6843f16808b7f3642a1cb34fb40004cd444ae14be203d0c93cfb": "2026-08-20T03:21:47.165417+00:00",
     "e93e5d0c3d6b46be06568f45420d6336e6ca9b5279bc6f03d289eba0f76a4a3e": "2026-08-14T10:15:00.868800+00:00",
@@ -5093,6 +5117,7 @@
     "ebf9222f4fa81f5edccf19fa78a7822d62cbd89b327183d9253e3e780fab7da7": "2026-08-14T10:15:00.868800+00:00",
     "eeeb576b25a6317eb10cd22d2b5050abfc359a10722c68c62cec800026a13763": "2026-08-14T10:15:00.868800+00:00",
     "f029f6b94673c5cacdb8f9ccba97ce172cf53cc74451a8f95ba8e289d3b3703e": "2026-08-14T10:15:00.868800+00:00",
+    "f0386d9f94ef54bbd8c48be22b7763713dd07a604978b5da63f91177073fd2cf": "2026-08-21T13:01:30.058267+00:00",
     "f043a1365917b39fe63e49ec98f615b059af8ebeddb151b87c9bddc0e740bf95": "2026-08-14T10:15:00.868800+00:00",
     "f584f718a9664b3a17407a798e0136cd0fd2b2f69fff0f9869fc1673a16ac898": "2026-08-20T03:21:47.165417+00:00",
     "f68bffc1acd84fae237e431671e5a4ce8f03b6a0ec6df570afa0d6847c22ae5a": "2026-08-14T10:15:00.868800+00:00",
