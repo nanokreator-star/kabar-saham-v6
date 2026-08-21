@@ -2,19 +2,19 @@
   "baseline_initialized": true,
   "early_signal_alerts_sent": 7,
   "early_signal_baseline_initialized": true,
-  "early_signal_duplicates_suppressed": 142,
-  "early_signal_last_scan_utc": "2026-08-21T02:40:52.238124+00:00",
+  "early_signal_duplicates_suppressed": 144,
+  "early_signal_last_scan_utc": "2026-08-21T02:50:46.877060+00:00",
   "early_signal_memory": {
     "BYAN": {
-      "change_pct": -1.39,
+      "change_pct": -1.55,
       "combined": true,
       "direction": "DOWN",
       "last_alert_utc": "2026-08-21T02:20:44.379984+00:00",
-      "last_seen_utc": "2026-08-21T02:40:51.443985+00:00",
+      "last_seen_utc": "2026-08-21T02:50:46.723482+00:00",
       "level": "HIGH",
       "market_date": "2026-08-21",
       "signature": "BYAN|2026-08-21|HIGH|DOWN|RUMOR|AKUISISI / TAKEOVER|TICKER|BYAN",
-      "volume_ratio": 26.49
+      "volume_ratio": 29.54
     },
     "PACK": {
       "change_pct": 10.0,
@@ -32,11 +32,11 @@
       "combined": true,
       "direction": "FLAT",
       "last_alert_utc": "2026-08-21T02:40:52.238105+00:00",
-      "last_seen_utc": "2026-08-21T02:40:51.516744+00:00",
+      "last_seen_utc": "2026-08-21T02:50:46.877050+00:00",
       "level": "MEDIUM",
       "market_date": "2026-08-21",
       "signature": "PGUN|2026-08-21|MEDIUM|FLAT|RUMOR|AKUISISI / TAKEOVER|TICKER|PGUN",
-      "volume_ratio": 2.28
+      "volume_ratio": 2.56
     }
   },
   "event_duplicates_suppressed": 3,
@@ -4061,7 +4061,7 @@
     }
   },
   "last_keepalive_utc": "2026-08-14T10:15:00.868800+00:00",
-  "last_state_change_utc": "2026-08-21T02:40:52.264052+00:00",
+  "last_state_change_utc": "2026-08-21T02:50:46.900636+00:00",
   "market_noise_suppressed": 1,
   "milestone_alerts": {},
   "rumor_alerts_sent": 2,
@@ -4073,7 +4073,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 0,
   "rumor_integrity_repairs": 6,
-  "rumor_last_scan_utc": "2026-08-21T02:40:51.307736+00:00",
+  "rumor_last_scan_utc": "2026-08-21T02:50:46.531819+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
