@@ -2,8 +2,8 @@
   "baseline_initialized": true,
   "early_signal_alerts_sent": 9,
   "early_signal_baseline_initialized": true,
-  "early_signal_duplicates_suppressed": 292,
-  "early_signal_last_scan_utc": "2026-08-21T15:30:52.458997+00:00",
+  "early_signal_duplicates_suppressed": 293,
+  "early_signal_last_scan_utc": "2026-08-21T15:40:53.012504+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -3.55,
@@ -32,7 +32,7 @@
       "combined": true,
       "direction": "DOWN",
       "last_alert_utc": "2026-08-21T08:50:48.877216+00:00",
-      "last_seen_utc": "2026-08-21T15:30:52.458986+00:00",
+      "last_seen_utc": "2026-08-21T15:40:53.012494+00:00",
       "level": "HIGH",
       "market_date": "2026-08-21",
       "signature": "PGUN|2026-08-21|HIGH|DOWN|RUMOR|AKUISISI / TAKEOVER|TICKER|PGUN",
@@ -4239,7 +4239,7 @@
     }
   },
   "last_keepalive_utc": "2026-08-14T10:15:00.868800+00:00",
-  "last_state_change_utc": "2026-08-21T15:30:52.483176+00:00",
+  "last_state_change_utc": "2026-08-21T15:40:53.036188+00:00",
   "market_noise_suppressed": 2,
   "milestone_alerts": {},
   "rumor_alerts_sent": 3,
@@ -4247,20 +4247,20 @@
   "rumor_confirmed_count": 0,
   "rumor_confirmed_dedups": 0,
   "rumor_denied_count": 0,
-  "rumor_duplicates_suppressed": 7,
+  "rumor_duplicates_suppressed": 8,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 0,
   "rumor_integrity_repairs": 6,
-  "rumor_last_scan_utc": "2026-08-21T15:30:52.279811+00:00",
+  "rumor_last_scan_utc": "2026-08-21T15:40:52.847766+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
       "company_name": "Bayan Resources",
       "copy_duplicate_count": 8,
-      "credible_effective_independent_count": 2.0,
+      "credible_effective_independent_count": 3.0,
       "derivative_source_count": 7,
-      "detected_source_count": 11,
-      "effective_independent_count": 4.4,
+      "detected_source_count": 12,
+      "effective_independent_count": 5.4,
       "entity_aliases": [
         "Bayan (BYAN",
         "Bayan Resources",
@@ -4272,8 +4272,8 @@
       ],
       "entity_resolution_source": "ISSUER_ALIAS_MEMORY+ISSUER_PROFILE_CACHE+RUMOR_EXPLICIT_TICKER",
       "first_seen_utc": "2026-08-18T02:41:36+00:00",
-      "high_quality_source_count": 2,
-      "independent_story_count": 10,
+      "high_quality_source_count": 3,
+      "independent_story_count": 11,
       "issuer_profile": {
         "business_activity": "PT Bayan Resources Tbk., together with its subsidiaries, engages in the open cut mining and sale of coal in Indonesia. It operates through Coal and Non-Coal segments.",
         "controller": {
@@ -4360,7 +4360,7 @@
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWGlqS1pzejZxMHVaZGJVamJYaDNyQjdEZ2dXV2RaZ3ZtLVltbUJLVHVZYWFEZmFOSmFLUUNqTk55eDFwenRobG1xTzVURDNGNU9iNF9hZk5UYjgzdnZmeHkyazhvdjVMcC16T2J5OXBqRmRiR1RTZ2lWZjVNRjhqaHdZakxqX3lXYW9nMGpSdGluNFFsUWhpM0trdw?oc=5",
       "market_data": null,
       "official_confirmation": null,
-      "premium_source_count": 2,
+      "premium_source_count": 3,
       "profile_refresh_utc": "2026-08-20T03:21:46.587724+00:00",
       "published": "Wed, 19 Aug 2026 05:56:25 GMT",
       "rumor_details": {
@@ -4381,6 +4381,16 @@
           "quality": "HIGH",
           "semantic_copy": false,
           "source": "Tempo.co",
+          "tier": 4,
+          "weight": 1.0
+        },
+        {
+          "derivative": false,
+          "group": "investor.id",
+          "new_material": 0,
+          "quality": "HIGH",
+          "semantic_copy": false,
+          "source": "investor.id",
           "tier": 4,
           "weight": 1.0
         },
@@ -4443,30 +4453,20 @@
           "source": "Terkini24.id",
           "tier": 1,
           "weight": 0.25
-        },
-        {
-          "derivative": true,
-          "group": "sekbernews.id",
-          "new_material": 0,
-          "quality": "LOW",
-          "semantic_copy": false,
-          "source": "sekbernews.id",
-          "tier": 1,
-          "weight": 0.25
         }
       ],
       "source_count": 14,
       "source_quality": "HIGH",
-      "source_quality_score": 10.4,
+      "source_quality_score": 14.4,
       "sources": [
         "CNBC Indonesia",
         "achmadnurhidayat.id",
         "Tempo.co",
+        "investor.id",
         "MediaKompeten",
         "Readers.id",
         "beritajejakfakta.id",
-        "AsatuNews.co.id",
-        "Sawitku"
+        "AsatuNews.co.id"
       ],
       "status": "ACTIVE",
       "strength": "STRONG",
@@ -4479,15 +4479,15 @@
       "copy_duplicate_count": 0,
       "credible_effective_independent_count": 0,
       "derivative_source_count": 0,
-      "detected_source_count": 1,
-      "effective_independent_count": 0.6,
+      "detected_source_count": 2,
+      "effective_independent_count": 1.1,
       "entity_aliases": [
         "Jhonlin Agro Raya"
       ],
       "entity_resolution_source": null,
       "first_seen_utc": "2026-08-20T05:16:48+00:00",
       "high_quality_source_count": 0,
-      "independent_story_count": 1,
+      "independent_story_count": 2,
       "issuer_profile": {
         "business_activity": "PT Jhonlin Agro Raya Tbk engages in the oil palm plantation business in Indonesia. It operates through Biodiesel and Fresh Fruit Bunches.",
         "controller": null,
@@ -4512,8 +4512,8 @@
       },
       "key": "AKUISISI / TAKEOVER|TICKER|JARR",
       "last_alert_utc": "2026-08-21T13:10:57.926195+00:00",
-      "last_seen_utc": "2026-08-20T05:16:48+00:00",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5yaGpjbVB2blN4TGZFdlJRaW00SDlwQW9Kd1ZpNnZfSC05RGFRWW1HdTdmTnJUeDhnbzMxUmhsTjNsQWdLZnlza2tjU0RGUHZ5dXNNVnBfdXBETWFJTXV5eUxvYnlUSW45VHlEZ3FLaUhTUQ?oc=5",
+      "last_seen_utc": "2026-08-21T12:59:37+00:00",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBYdlFnaE1VaTNhTEhXOWRNSVY3bFd2eGZXbDVWN0NKT1BsVjNjTDM1YkdWaWk5TklmZXNtOGhJT2hOMFI4a0dteGVZOHBPSzBkQlZoUGVUVzMzNk5TVEhLU1hvZlJBV1UteDVN?oc=5",
       "market_data": {
         "change_pct": 3.3670033670033668,
         "fetched_at": "2026-08-21T13:10:56.455117+00:00",
@@ -4531,7 +4531,7 @@
       "official_confirmation": null,
       "premium_source_count": 0,
       "profile_refresh_utc": "2026-08-21T07:11:28.958962+00:00",
-      "published": "Thu, 20 Aug 2026 05:16:48 GMT",
+      "published": "Fri, 21 Aug 2026 12:59:37 GMT",
       "rumor_details": {
         "ipo_price": null,
         "listing_estimate": null,
@@ -4545,8 +4545,18 @@
         "underwriter": null
       },
       "semantic_copy_count": 0,
-      "source": "pdiperjuanganbali.id",
+      "source": "SuaraGarut.ID",
       "source_breakdown": [
+        {
+          "derivative": false,
+          "group": "suaragarut.id",
+          "new_material": 1,
+          "quality": "LOW",
+          "semantic_copy": false,
+          "source": "SuaraGarut.ID",
+          "tier": 1,
+          "weight": 0.55
+        },
         {
           "derivative": false,
           "group": "pdiperjuanganbali.id",
@@ -4560,15 +4570,15 @@
       ],
       "source_count": 2,
       "source_quality": "LOW",
-      "source_quality_score": 0.6,
+      "source_quality_score": 1.1,
       "sources": [
-        "pdiperjuanganbali.id",
-        "SuaraGarut.ID"
+        "SuaraGarut.ID",
+        "pdiperjuanganbali.id"
       ],
       "status": "DENIED",
       "strength": "WEAK",
       "ticker": "JARR",
-      "title": "JARR dan BYAN Bantah Rumor Akuisisi Saham Senilai Rp358 Triliun - pdiperjuanganbali.id"
+      "title": "JARR dan BYAN Tegaskan Tidak Ada Rencana Akuisisi Saham - SuaraGarut.ID"
     },
     "AKUISISI / TAKEOVER|TICKER|PGUN": {
       "category": "AKUISISI / TAKEOVER",
