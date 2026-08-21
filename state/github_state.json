@@ -2,19 +2,19 @@
   "baseline_initialized": true,
   "early_signal_alerts_sent": 7,
   "early_signal_baseline_initialized": true,
-  "early_signal_duplicates_suppressed": 150,
-  "early_signal_last_scan_utc": "2026-08-21T03:20:45.559364+00:00",
+  "early_signal_duplicates_suppressed": 152,
+  "early_signal_last_scan_utc": "2026-08-21T03:30:53.230278+00:00",
   "early_signal_memory": {
     "BYAN": {
-      "change_pct": -1.24,
+      "change_pct": -1.55,
       "combined": true,
       "direction": "DOWN",
       "last_alert_utc": "2026-08-21T02:20:44.379984+00:00",
-      "last_seen_utc": "2026-08-21T03:20:45.423507+00:00",
+      "last_seen_utc": "2026-08-21T03:30:53.132341+00:00",
       "level": "HIGH",
       "market_date": "2026-08-21",
       "signature": "BYAN|2026-08-21|HIGH|DOWN|RUMOR|AKUISISI / TAKEOVER|TICKER|BYAN",
-      "volume_ratio": 35.15
+      "volume_ratio": 36.06
     },
     "PACK": {
       "change_pct": 10.0,
@@ -28,15 +28,15 @@
       "volume_ratio": 0.58
     },
     "PGUN": {
-      "change_pct": 1.53,
+      "change_pct": 1.28,
       "combined": true,
       "direction": "UP",
       "last_alert_utc": "2026-08-21T02:40:52.238105+00:00",
-      "last_seen_utc": "2026-08-21T03:20:45.559354+00:00",
+      "last_seen_utc": "2026-08-21T03:30:53.230269+00:00",
       "level": "MEDIUM",
       "market_date": "2026-08-21",
       "signature": "PGUN|2026-08-21|MEDIUM|UP|RUMOR|AKUISISI / TAKEOVER|TICKER|PGUN",
-      "volume_ratio": 3.46
+      "volume_ratio": 3.56
     }
   },
   "event_duplicates_suppressed": 4,
@@ -4087,7 +4087,7 @@
     }
   },
   "last_keepalive_utc": "2026-08-14T10:15:00.868800+00:00",
-  "last_state_change_utc": "2026-08-21T03:20:45.583538+00:00",
+  "last_state_change_utc": "2026-08-21T03:30:53.250790+00:00",
   "market_noise_suppressed": 2,
   "milestone_alerts": {},
   "rumor_alerts_sent": 2,
@@ -4099,7 +4099,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 0,
   "rumor_integrity_repairs": 6,
-  "rumor_last_scan_utc": "2026-08-21T03:20:45.240258+00:00",
+  "rumor_last_scan_utc": "2026-08-21T03:30:52.963915+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
