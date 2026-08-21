@@ -2,8 +2,8 @@
   "baseline_initialized": true,
   "early_signal_alerts_sent": 10,
   "early_signal_baseline_initialized": true,
-  "early_signal_duplicates_suppressed": 302,
-  "early_signal_last_scan_utc": "2026-08-21T17:20:54.002146+00:00",
+  "early_signal_duplicates_suppressed": 303,
+  "early_signal_last_scan_utc": "2026-08-21T17:30:55.405647+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -3.55,
@@ -32,7 +32,7 @@
       "combined": true,
       "direction": "UP",
       "last_alert_utc": "2026-08-21T17:01:02.628858+00:00",
-      "last_seen_utc": "2026-08-21T17:20:54.002133+00:00",
+      "last_seen_utc": "2026-08-21T17:30:55.405635+00:00",
       "level": "HIGH",
       "market_date": "2026-08-20",
       "signature": "PGUN|2026-08-20|HIGH|UP|RUMOR|AKUISISI / TAKEOVER|TICKER|PGUN",
@@ -447,6 +447,44 @@
         "stake": [],
         "standby_buyer": null,
         "target": "Perusahaan Asing untuk Adopsi Teknologi",
+        "target_confirmed": true,
+        "tender_price": null,
+        "underwriter": null,
+        "use_of_funds": [
+          "AKUISISI / INVESTASI"
+        ]
+      },
+      "ticker": ""
+    },
+    "M&A / TAKEOVER|PARTIES|SAHAM OXALA ENERGY MELESAT DI TENGAH RENCANA|PERUSAHAAN GAS": {
+      "family": "M&A / TAKEOVER",
+      "first_seen_utc": "2026-08-21T17:30:58.212773+00:00",
+      "last_alert_utc": "2026-08-21T17:30:58.212767+00:00",
+      "last_seen_utc": "2026-08-21T17:30:58.212767+00:00",
+      "market_context": {
+        "change_pct": null,
+        "last_price": null,
+        "market_date": null
+      },
+      "material_snapshot": {
+        "acquirer": "Saham Oxala Energy Melesat di Tengah Rencana",
+        "acquirer_confirmed": true,
+        "event_type": "AKUISISI",
+        "execution_price": null,
+        "ipo_single_price": null,
+        "money": [],
+        "official_authority": null,
+        "official_kind": null,
+        "price_range": null,
+        "ratio": null,
+        "schedule": {},
+        "share_count": null,
+        "stage": "RENCANA",
+        "stage_step": 2,
+        "stage_total": 7,
+        "stake": [],
+        "standby_buyer": null,
+        "target": "Perusahaan Gas",
         "target_confirmed": true,
         "tender_price": null,
         "underwriter": null,
@@ -4239,7 +4277,7 @@
     }
   },
   "last_keepalive_utc": "2026-08-14T10:15:00.868800+00:00",
-  "last_state_change_utc": "2026-08-21T17:20:54.031229+00:00",
+  "last_state_change_utc": "2026-08-21T17:30:58.213491+00:00",
   "market_noise_suppressed": 2,
   "milestone_alerts": {},
   "rumor_alerts_sent": 3,
@@ -4251,7 +4289,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 0,
   "rumor_integrity_repairs": 6,
-  "rumor_last_scan_utc": "2026-08-21T17:20:53.691627+00:00",
+  "rumor_last_scan_utc": "2026-08-21T17:30:55.291275+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -5091,6 +5129,7 @@
     "29b2e6544ed04a61ab67968c9aef85d441980e11e65c75365c5c06d97efed2ef": "2026-08-14T10:15:00.868800+00:00",
     "2c69986dbe12c3be8edfed07f69b6743a10a95c4662f730ffdc59c911f7a3261": "2026-08-14T10:15:00.868800+00:00",
     "2c87bddd2e7eaa064e382c8db0da87259e0e5cc576a790996040808581e013b1": "2026-08-14T10:15:00.868800+00:00",
+    "2d3d6cebc4800532235847ee4516d849b652a5f1ed2e59a1c6747d2402662ffd": "2026-08-21T17:30:58.212750+00:00",
     "2db8a4a60be75fde755110772dd5602169a2bee70a569ee958553f96fe212a26": "2026-08-14T10:15:00.868800+00:00",
     "2f5eda602204daafb29695f8c8a2f76211cc1929371765dc19765e91b9d7d1e6": "2026-08-14T10:15:00.868800+00:00",
     "2f635c686abb45a9914b5c32e19214749de08da89fb5a7719085e877d22d9cb6": "2026-08-14T10:15:00.868800+00:00",
