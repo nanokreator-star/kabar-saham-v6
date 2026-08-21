@@ -2,15 +2,15 @@
   "baseline_initialized": true,
   "early_signal_alerts_sent": 9,
   "early_signal_baseline_initialized": true,
-  "early_signal_duplicates_suppressed": 264,
-  "early_signal_last_scan_utc": "2026-08-21T13:01:01.402857+00:00",
+  "early_signal_duplicates_suppressed": 266,
+  "early_signal_last_scan_utc": "2026-08-21T13:10:58.137375+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -3.55,
       "combined": true,
       "direction": "DOWN",
       "last_alert_utc": "2026-08-21T02:20:44.379984+00:00",
-      "last_seen_utc": "2026-08-21T13:01:01.213818+00:00",
+      "last_seen_utc": "2026-08-21T13:10:58.053130+00:00",
       "level": "HIGH",
       "market_date": "2026-08-21",
       "signature": "BYAN|2026-08-21|HIGH|DOWN|RUMOR|AKUISISI / TAKEOVER|TICKER|BYAN",
@@ -32,7 +32,7 @@
       "combined": true,
       "direction": "DOWN",
       "last_alert_utc": "2026-08-21T08:50:48.877216+00:00",
-      "last_seen_utc": "2026-08-21T13:01:01.402847+00:00",
+      "last_seen_utc": "2026-08-21T13:10:58.137366+00:00",
       "level": "HIGH",
       "market_date": "2026-08-21",
       "signature": "PGUN|2026-08-21|HIGH|DOWN|RUMOR|AKUISISI / TAKEOVER|TICKER|PGUN",
@@ -262,6 +262,44 @@
         "use_of_funds": [
           "AKUISISI / INVESTASI",
           "EKSPANSI / CAPEX"
+        ]
+      },
+      "ticker": ""
+    },
+    "M&A / TAKEOVER|PARTIES|JARR DAN BYAN TEGASKAN TIDAK ADA RENCANA|": {
+      "family": "M&A / TAKEOVER",
+      "first_seen_utc": "2026-08-21T13:10:58.875863+00:00",
+      "last_alert_utc": "2026-08-21T13:10:58.875852+00:00",
+      "last_seen_utc": "2026-08-21T13:10:58.875852+00:00",
+      "market_context": {
+        "change_pct": null,
+        "last_price": null,
+        "market_date": null
+      },
+      "material_snapshot": {
+        "acquirer": "JARR dan BYAN Tegaskan Tidak Ada Rencana",
+        "acquirer_confirmed": true,
+        "event_type": "AKUISISI",
+        "execution_price": null,
+        "ipo_single_price": null,
+        "money": [],
+        "official_authority": null,
+        "official_kind": null,
+        "price_range": null,
+        "ratio": null,
+        "schedule": {},
+        "share_count": null,
+        "stage": "RENCANA",
+        "stage_step": 2,
+        "stage_total": 7,
+        "stake": [],
+        "standby_buyer": null,
+        "target": null,
+        "target_confirmed": false,
+        "tender_price": null,
+        "underwriter": null,
+        "use_of_funds": [
+          "AKUISISI / INVESTASI"
         ]
       },
       "ticker": ""
@@ -4042,7 +4080,7 @@
       "subindustry": null,
       "subsector": null,
       "ticker": "JARR",
-      "verified_at": "2026-08-21T07:10:58.046642+00:00",
+      "verified_at": "2026-08-21T13:10:51.045281+00:00",
       "website": "https://www.ptjar.com"
     },
     "NAYZ": {
@@ -4165,10 +4203,10 @@
     }
   },
   "last_keepalive_utc": "2026-08-14T10:15:00.868800+00:00",
-  "last_state_change_utc": "2026-08-21T13:01:30.058989+00:00",
+  "last_state_change_utc": "2026-08-21T13:10:58.876495+00:00",
   "market_noise_suppressed": 2,
   "milestone_alerts": {},
-  "rumor_alerts_sent": 2,
+  "rumor_alerts_sent": 3,
   "rumor_baseline_initialized": true,
   "rumor_confirmed_count": 0,
   "rumor_confirmed_dedups": 0,
@@ -4177,7 +4215,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 0,
   "rumor_integrity_repairs": 6,
-  "rumor_last_scan_utc": "2026-08-21T13:01:00.974252+00:00",
+  "rumor_last_scan_utc": "2026-08-21T13:10:57.930883+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -4405,22 +4443,22 @@
       "copy_duplicate_count": 0,
       "credible_effective_independent_count": 0,
       "derivative_source_count": 0,
-      "detected_source_count": 1,
-      "effective_independent_count": 0.6,
+      "detected_source_count": 2,
+      "effective_independent_count": 1.1,
       "entity_aliases": [
         "Jhonlin Agro Raya"
       ],
       "entity_resolution_source": null,
       "first_seen_utc": "2026-08-20T05:16:48+00:00",
       "high_quality_source_count": 0,
-      "independent_story_count": 1,
+      "independent_story_count": 2,
       "issuer_profile": {
         "business_activity": "PT Jhonlin Agro Raya Tbk engages in the oil palm plantation business in Indonesia. It operates through Biodiesel and Fresh Fruit Bunches.",
         "controller": null,
         "industry": "Farm Products",
         "issuer_name": "Jhonlin Agro Raya",
         "owner_context_sources": 0,
-        "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
+        "owner_discovery_method": "STRICT_OFFICIAL_SECTION_V5",
         "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
         "owner_v5_checked_utc": "2026-08-20T06:52:14.456932+00:00",
         "owner_v5_pages_fetched": 1,
@@ -4433,17 +4471,31 @@
         "subindustry": null,
         "subsector": null,
         "ticker": "JARR",
-        "verified_at": "2026-08-21T07:10:58.046642+00:00",
+        "verified_at": "2026-08-21T13:10:51.045281+00:00",
         "website": "https://www.ptjar.com"
       },
       "key": "AKUISISI / TAKEOVER|TICKER|JARR",
-      "last_seen_utc": "2026-08-20T05:16:48+00:00",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5yaGpjbVB2blN4TGZFdlJRaW00SDlwQW9Kd1ZpNnZfSC05RGFRWW1HdTdmTnJUeDhnbzMxUmhsTjNsQWdLZnlza2tjU0RGUHZ5dXNNVnBfdXBETWFJTXV5eUxvYnlUSW45VHlEZ3FLaUhTUQ?oc=5",
-      "market_data": null,
+      "last_alert_utc": "2026-08-21T13:10:57.926195+00:00",
+      "last_seen_utc": "2026-08-21T12:59:37+00:00",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBYdlFnaE1VaTNhTEhXOWRNSVY3bFd2eGZXbDVWN0NKT1BsVjNjTDM1YkdWaWk5TklmZXNtOGhJT2hOMFI4a0dteGVZOHBPSzBkQlZoUGVUVzMzNk5TVEhLU1hvZlJBV1UteDVN?oc=5",
+      "market_data": {
+        "change_pct": 3.3670033670033668,
+        "fetched_at": "2026-08-21T13:10:56.455117+00:00",
+        "last_price": 3070.0,
+        "market_date": "2026-08-21",
+        "previous_close": 2970.0,
+        "source": "Yahoo Finance via yfinance",
+        "symbol": "JARR.JK",
+        "ticker": "JARR",
+        "volume": 44825500,
+        "volume_avg_20d": 7999540.0,
+        "volume_median_20d": 1232000.0,
+        "volume_ratio": 36.38433441558441
+      },
       "official_confirmation": null,
       "premium_source_count": 0,
       "profile_refresh_utc": "2026-08-21T07:11:28.958962+00:00",
-      "published": "Thu, 20 Aug 2026 05:16:48 GMT",
+      "published": "Fri, 21 Aug 2026 12:59:37 GMT",
       "rumor_details": {
         "ipo_price": null,
         "listing_estimate": null,
@@ -4452,13 +4504,23 @@
         ],
         "percentages": [],
         "price_range": null,
-        "rumored_party": null,
+        "rumored_party": "JARR dan BYAN Tegaskan Tidak Ada Rencana",
         "share_count": null,
         "underwriter": null
       },
       "semantic_copy_count": 0,
-      "source": "pdiperjuanganbali.id",
+      "source": "SuaraGarut.ID",
       "source_breakdown": [
+        {
+          "derivative": false,
+          "group": "suaragarut.id",
+          "new_material": 1,
+          "quality": "LOW",
+          "semantic_copy": false,
+          "source": "SuaraGarut.ID",
+          "tier": 1,
+          "weight": 0.55
+        },
         {
           "derivative": false,
           "group": "pdiperjuanganbali.id",
@@ -4470,16 +4532,17 @@
           "weight": 0.55
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_quality": "LOW",
-      "source_quality_score": 0.6,
+      "source_quality_score": 1.1,
       "sources": [
+        "SuaraGarut.ID",
         "pdiperjuanganbali.id"
       ],
       "status": "DENIED",
       "strength": "WEAK",
       "ticker": "JARR",
-      "title": "JARR dan BYAN Bantah Rumor Akuisisi Saham Senilai Rp358 Triliun - pdiperjuanganbali.id"
+      "title": "JARR dan BYAN Tegaskan Tidak Ada Rencana Akuisisi Saham - SuaraGarut.ID"
     },
     "AKUISISI / TAKEOVER|TICKER|PGUN": {
       "category": "AKUISISI / TAKEOVER",
@@ -5055,6 +5118,7 @@
     "7c9caf4f3b18455a826e93f3c65547357574575fc3c87faeaed414b561e482a3": "2026-08-14T10:15:00.868800+00:00",
     "7e65651c2e4c9e0ac7012bb00c5f2cf68d72dd43a7e004f5df92db9aad7107d2": "2026-08-14T10:15:00.868800+00:00",
     "81811644b800d39836b917bda6c75d1d71ce1caf280821960e41cc853ca02fb3": "2026-08-14T10:15:00.868800+00:00",
+    "8187ca3a1a85953e9811de50f37e6e7b689e376a13351d6d7bda525121b656ca": "2026-08-21T13:10:58.875826+00:00",
     "81bd0ccaca7a4e66e29732beb8e488cddb3ab5df0058ef5dc35f4d7ec3230dc3": "2026-08-20T03:21:47.165417+00:00",
     "829208e58c2d483ac29c3a3a4a05e50f550bc2ffc862059458139428038b4b54": "2026-08-14T10:15:00.868800+00:00",
     "830ef1668388081191c8687508173c3815158d8cf7bb5316d542d87beec83270": "2026-08-14T10:15:00.868800+00:00",
