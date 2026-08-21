@@ -2,8 +2,8 @@
   "baseline_initialized": true,
   "early_signal_alerts_sent": 10,
   "early_signal_baseline_initialized": true,
-  "early_signal_duplicates_suppressed": 315,
-  "early_signal_last_scan_utc": "2026-08-21T19:30:53.765411+00:00",
+  "early_signal_duplicates_suppressed": 316,
+  "early_signal_last_scan_utc": "2026-08-21T19:40:41.745830+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -3.55,
@@ -32,7 +32,7 @@
       "combined": true,
       "direction": "UP",
       "last_alert_utc": "2026-08-21T17:01:02.628858+00:00",
-      "last_seen_utc": "2026-08-21T19:30:53.765400+00:00",
+      "last_seen_utc": "2026-08-21T19:40:41.745818+00:00",
       "level": "HIGH",
       "market_date": "2026-08-20",
       "signature": "PGUN|2026-08-20|HIGH|UP|RUMOR|AKUISISI / TAKEOVER|TICKER|PGUN",
@@ -4277,7 +4277,7 @@
     }
   },
   "last_keepalive_utc": "2026-08-14T10:15:00.868800+00:00",
-  "last_state_change_utc": "2026-08-21T19:30:53.792273+00:00",
+  "last_state_change_utc": "2026-08-21T19:40:41.773872+00:00",
   "market_noise_suppressed": 2,
   "milestone_alerts": {},
   "rumor_alerts_sent": 3,
@@ -4289,16 +4289,16 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 0,
   "rumor_integrity_repairs": 6,
-  "rumor_last_scan_utc": "2026-08-21T19:30:53.502406+00:00",
+  "rumor_last_scan_utc": "2026-08-21T19:40:41.593196+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
       "company_name": "Bayan Resources",
       "copy_duplicate_count": 8,
-      "credible_effective_independent_count": 3.0,
+      "credible_effective_independent_count": 2.0,
       "derivative_source_count": 7,
-      "detected_source_count": 12,
-      "effective_independent_count": 5.4,
+      "detected_source_count": 11,
+      "effective_independent_count": 4.4,
       "entity_aliases": [
         "Bayan (BYAN",
         "Bayan Resources",
@@ -4310,8 +4310,8 @@
       ],
       "entity_resolution_source": "ISSUER_ALIAS_MEMORY+ISSUER_PROFILE_CACHE+RUMOR_EXPLICIT_TICKER",
       "first_seen_utc": "2026-08-18T02:41:36+00:00",
-      "high_quality_source_count": 3,
-      "independent_story_count": 11,
+      "high_quality_source_count": 2,
+      "independent_story_count": 10,
       "issuer_profile": {
         "business_activity": "PT Bayan Resources Tbk., together with its subsidiaries, engages in the open cut mining and sale of coal in Indonesia. It operates through Coal and Non-Coal segments.",
         "controller": {
@@ -4398,7 +4398,7 @@
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWGlqS1pzejZxMHVaZGJVamJYaDNyQjdEZ2dXV2RaZ3ZtLVltbUJLVHVZYWFEZmFOSmFLUUNqTk55eDFwenRobG1xTzVURDNGNU9iNF9hZk5UYjgzdnZmeHkyazhvdjVMcC16T2J5OXBqRmRiR1RTZ2lWZjVNRjhqaHdZakxqX3lXYW9nMGpSdGluNFFsUWhpM0trdw?oc=5",
       "market_data": null,
       "official_confirmation": null,
-      "premium_source_count": 3,
+      "premium_source_count": 2,
       "profile_refresh_utc": "2026-08-20T03:21:46.587724+00:00",
       "published": "Wed, 19 Aug 2026 05:56:25 GMT",
       "rumor_details": {
@@ -4419,16 +4419,6 @@
           "quality": "HIGH",
           "semantic_copy": false,
           "source": "Tempo.co",
-          "tier": 4,
-          "weight": 1.0
-        },
-        {
-          "derivative": false,
-          "group": "investor.id",
-          "new_material": 0,
-          "quality": "HIGH",
-          "semantic_copy": false,
-          "source": "investor.id",
           "tier": 4,
           "weight": 1.0
         },
@@ -4491,20 +4481,30 @@
           "source": "Terkini24.id",
           "tier": 1,
           "weight": 0.25
+        },
+        {
+          "derivative": true,
+          "group": "sekbernews.id",
+          "new_material": 0,
+          "quality": "LOW",
+          "semantic_copy": false,
+          "source": "sekbernews.id",
+          "tier": 1,
+          "weight": 0.25
         }
       ],
       "source_count": 14,
       "source_quality": "HIGH",
-      "source_quality_score": 14.4,
+      "source_quality_score": 10.4,
       "sources": [
         "CNBC Indonesia",
         "achmadnurhidayat.id",
         "Tempo.co",
-        "investor.id",
         "MediaKompeten",
         "Readers.id",
         "beritajejakfakta.id",
-        "asatunews.co.id"
+        "asatunews.co.id",
+        "Sawitku"
       ],
       "status": "ACTIVE",
       "strength": "STRONG",
