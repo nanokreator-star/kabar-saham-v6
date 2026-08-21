@@ -2,15 +2,15 @@
   "baseline_initialized": true,
   "early_signal_alerts_sent": 9,
   "early_signal_baseline_initialized": true,
-  "early_signal_duplicates_suppressed": 234,
-  "early_signal_last_scan_utc": "2026-08-21T10:30:47.545699+00:00",
+  "early_signal_duplicates_suppressed": 236,
+  "early_signal_last_scan_utc": "2026-08-21T10:40:44.485821+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -3.55,
       "combined": true,
       "direction": "DOWN",
       "last_alert_utc": "2026-08-21T02:20:44.379984+00:00",
-      "last_seen_utc": "2026-08-21T10:30:47.424881+00:00",
+      "last_seen_utc": "2026-08-21T10:40:44.399648+00:00",
       "level": "HIGH",
       "market_date": "2026-08-21",
       "signature": "BYAN|2026-08-21|HIGH|DOWN|RUMOR|AKUISISI / TAKEOVER|TICKER|BYAN",
@@ -32,7 +32,7 @@
       "combined": true,
       "direction": "DOWN",
       "last_alert_utc": "2026-08-21T08:50:48.877216+00:00",
-      "last_seen_utc": "2026-08-21T10:30:47.545691+00:00",
+      "last_seen_utc": "2026-08-21T10:40:44.485812+00:00",
       "level": "HIGH",
       "market_date": "2026-08-21",
       "signature": "PGUN|2026-08-21|HIGH|DOWN|RUMOR|AKUISISI / TAKEOVER|TICKER|PGUN",
@@ -4143,7 +4143,7 @@
     }
   },
   "last_keepalive_utc": "2026-08-14T10:15:00.868800+00:00",
-  "last_state_change_utc": "2026-08-21T10:31:03.694776+00:00",
+  "last_state_change_utc": "2026-08-21T10:40:44.523516+00:00",
   "market_noise_suppressed": 2,
   "milestone_alerts": {},
   "rumor_alerts_sent": 2,
@@ -4155,15 +4155,15 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 0,
   "rumor_integrity_repairs": 6,
-  "rumor_last_scan_utc": "2026-08-21T10:30:47.257917+00:00",
+  "rumor_last_scan_utc": "2026-08-21T10:40:44.270360+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
       "company_name": "Bayan Resources",
-      "copy_duplicate_count": 8,
+      "copy_duplicate_count": 9,
       "credible_effective_independent_count": 3.0,
       "derivative_source_count": 7,
-      "detected_source_count": 12,
+      "detected_source_count": 13,
       "effective_independent_count": 5.4,
       "entity_aliases": [
         "Bayan (BYAN",
@@ -4275,7 +4275,7 @@
         "price_range": null,
         "underwriter": null
       },
-      "semantic_copy_count": 1,
+      "semantic_copy_count": 2,
       "source": "Tempo.co",
       "source_breakdown": [
         {
@@ -4365,12 +4365,12 @@
       "sources": [
         "CNBC Indonesia",
         "achmadnurhidayat.id",
+        "publika.id",
         "Tempo.co",
         "investor.id",
         "MediaKompeten",
         "Readers.id",
-        "beritajejakfakta.id",
-        "AsatuNews.co.id"
+        "beritajejakfakta.id"
       ],
       "status": "ACTIVE",
       "strength": "STRONG",
