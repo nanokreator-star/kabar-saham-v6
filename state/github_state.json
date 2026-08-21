@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 10,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 326,
-  "early_signal_last_scan_utc": "2026-08-21T21:20:47.146209+00:00",
+  "early_signal_last_scan_utc": "2026-08-21T23:40:56.447765+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -3.55,
@@ -1778,6 +1778,42 @@
         "use_of_funds": []
       },
       "ticker": "SUPR"
+    },
+    "M&A / TAKEOVER|TITLE|PROTELINDO PERPANJANG SUPR SINYAL KUAT GO PRIVATE": {
+      "family": "M&A / TAKEOVER",
+      "first_seen_utc": "2026-08-21T23:41:22.898637+00:00",
+      "last_alert_utc": "2026-08-21T23:41:22.898631+00:00",
+      "last_seen_utc": "2026-08-21T23:41:22.898631+00:00",
+      "market_context": {
+        "change_pct": null,
+        "last_price": null,
+        "market_date": null
+      },
+      "material_snapshot": {
+        "acquirer": null,
+        "acquirer_confirmed": false,
+        "event_type": "TENDER OFFER",
+        "execution_price": null,
+        "ipo_single_price": null,
+        "money": [],
+        "official_authority": null,
+        "official_kind": null,
+        "price_range": null,
+        "ratio": null,
+        "schedule": {},
+        "share_count": null,
+        "stage": "TENDER OFFER",
+        "stage_step": 6,
+        "stage_total": 7,
+        "stake": [],
+        "standby_buyer": null,
+        "target": null,
+        "target_confirmed": false,
+        "tender_price": null,
+        "underwriter": null,
+        "use_of_funds": []
+      },
+      "ticker": ""
     },
     "M&A / TAKEOVER|TITLE|PROTELINDO SUPR HARGA RP 45 000 PER": {
       "family": "M&A / TAKEOVER",
@@ -4277,7 +4313,7 @@
     }
   },
   "last_keepalive_utc": "2026-08-14T10:15:00.868800+00:00",
-  "last_state_change_utc": "2026-08-21T21:20:47.170368+00:00",
+  "last_state_change_utc": "2026-08-21T23:41:22.899354+00:00",
   "market_noise_suppressed": 2,
   "milestone_alerts": {},
   "rumor_alerts_sent": 3,
@@ -4289,15 +4325,15 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 0,
   "rumor_integrity_repairs": 6,
-  "rumor_last_scan_utc": "2026-08-21T21:20:46.905154+00:00",
+  "rumor_last_scan_utc": "2026-08-21T23:40:56.435477+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
       "company_name": "Bayan Resources",
-      "copy_duplicate_count": 8,
+      "copy_duplicate_count": 9,
       "credible_effective_independent_count": 2.0,
       "derivative_source_count": 7,
-      "detected_source_count": 11,
+      "detected_source_count": 12,
       "effective_independent_count": 4.4,
       "entity_aliases": [
         "Bayan (BYAN",
@@ -4409,7 +4445,7 @@
         "price_range": null,
         "underwriter": null
       },
-      "semantic_copy_count": 1,
+      "semantic_copy_count": 2,
       "source": "Tempo.co",
       "source_breakdown": [
         {
@@ -4499,12 +4535,12 @@
       "sources": [
         "CNBC Indonesia",
         "achmadnurhidayat.id",
+        "publika.id",
         "Tempo.co",
         "MediaKompeten",
         "Readers.id",
         "beritajejakfakta.id",
-        "asatunews.co.id",
-        "Sawitku"
+        "asatunews.co.id"
       ],
       "status": "ACTIVE",
       "strength": "STRONG",
@@ -5204,6 +5240,7 @@
     "a2ca1e0da9ffb3edfc2af75bfbbc98cc266e3253042b9de9cced630247084add": "2026-08-14T10:15:00.868800+00:00",
     "a3864ebea6aaac013de22cc1b986f34e671379ce0e1be0fc53773f378a0ff38b": "2026-08-17T12:10:53.623227+00:00",
     "a94b0bbc1979e298a743888ce52f49dfb8d1ae6ebfe55bddeaf6c45a0380f32f": "2026-08-14T10:15:00.868800+00:00",
+    "aa163f83d516de210df09af02d4f15f4934b3a6c371ec8fffcc1f508b34ed7db": "2026-08-21T23:41:22.898611+00:00",
     "aa60b605d22f05be11990379b4d61736f85b0031ce392c27095e972714c68b72": "2026-08-14T10:15:00.868800+00:00",
     "aac9c74478cb2769539bab9a3e7139138f5672861b5be9e8fbbf962b487b7f21": "2026-08-21T14:40:55.316472+00:00",
     "ab55c1c087e0bd13a04443a236414c4cb9378bed12a1d932ddc0cfb378046ca0": "2026-08-14T10:15:00.868800+00:00",
