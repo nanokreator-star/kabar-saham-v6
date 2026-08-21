@@ -2,19 +2,19 @@
   "baseline_initialized": true,
   "early_signal_alerts_sent": 8,
   "early_signal_baseline_initialized": true,
-  "early_signal_duplicates_suppressed": 195,
-  "early_signal_last_scan_utc": "2026-08-21T07:11:29.119301+00:00",
+  "early_signal_duplicates_suppressed": 197,
+  "early_signal_last_scan_utc": "2026-08-21T07:20:51.465233+00:00",
   "early_signal_memory": {
     "BYAN": {
-      "change_pct": -1.39,
+      "change_pct": -1.7,
       "combined": true,
       "direction": "DOWN",
       "last_alert_utc": "2026-08-21T02:20:44.379984+00:00",
-      "last_seen_utc": "2026-08-21T07:11:28.977890+00:00",
+      "last_seen_utc": "2026-08-21T07:20:51.362465+00:00",
       "level": "HIGH",
       "market_date": "2026-08-21",
       "signature": "BYAN|2026-08-21|HIGH|DOWN|RUMOR|AKUISISI / TAKEOVER|TICKER|BYAN",
-      "volume_ratio": 48.11
+      "volume_ratio": 53.28
     },
     "PACK": {
       "change_pct": 10.0,
@@ -32,11 +32,11 @@
       "combined": true,
       "direction": "UP",
       "last_alert_utc": "2026-08-21T03:45:20.995071+00:00",
-      "last_seen_utc": "2026-08-21T07:11:29.119289+00:00",
+      "last_seen_utc": "2026-08-21T07:20:51.465222+00:00",
       "level": "HIGH",
       "market_date": "2026-08-21",
       "signature": "PGUN|2026-08-21|HIGH|UP|RUMOR|AKUISISI / TAKEOVER|TICKER|PGUN",
-      "volume_ratio": 8.66
+      "volume_ratio": 8.82
     }
   },
   "event_duplicates_suppressed": 4,
@@ -3991,7 +3991,7 @@
       "industry": "Farm Products",
       "issuer_name": "Jhonlin Agro Raya",
       "owner_context_sources": 0,
-      "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
+      "owner_discovery_method": "STRICT_OFFICIAL_SECTION_V5",
       "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
       "owner_v5_checked_utc": "2026-08-20T06:52:14.456932+00:00",
       "owner_v5_pages_fetched": 1,
@@ -4087,7 +4087,7 @@
     }
   },
   "last_keepalive_utc": "2026-08-14T10:15:00.868800+00:00",
-  "last_state_change_utc": "2026-08-21T07:11:29.146067+00:00",
+  "last_state_change_utc": "2026-08-21T07:20:51.492993+00:00",
   "market_noise_suppressed": 2,
   "milestone_alerts": {},
   "rumor_alerts_sent": 2,
@@ -4099,7 +4099,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 0,
   "rumor_integrity_repairs": 6,
-  "rumor_last_scan_utc": "2026-08-21T07:11:28.965092+00:00",
+  "rumor_last_scan_utc": "2026-08-21T07:20:51.201557+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
