@@ -2,8 +2,8 @@
   "baseline_initialized": true,
   "early_signal_alerts_sent": 10,
   "early_signal_baseline_initialized": true,
-  "early_signal_duplicates_suppressed": 321,
-  "early_signal_last_scan_utc": "2026-08-21T20:30:48.099781+00:00",
+  "early_signal_duplicates_suppressed": 322,
+  "early_signal_last_scan_utc": "2026-08-21T20:40:48.511198+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -3.55,
@@ -32,7 +32,7 @@
       "combined": true,
       "direction": "UP",
       "last_alert_utc": "2026-08-21T17:01:02.628858+00:00",
-      "last_seen_utc": "2026-08-21T20:30:48.099769+00:00",
+      "last_seen_utc": "2026-08-21T20:40:48.511189+00:00",
       "level": "HIGH",
       "market_date": "2026-08-20",
       "signature": "PGUN|2026-08-20|HIGH|UP|RUMOR|AKUISISI / TAKEOVER|TICKER|PGUN",
@@ -4277,7 +4277,7 @@
     }
   },
   "last_keepalive_utc": "2026-08-14T10:15:00.868800+00:00",
-  "last_state_change_utc": "2026-08-21T20:30:48.122260+00:00",
+  "last_state_change_utc": "2026-08-21T20:40:48.541158+00:00",
   "market_noise_suppressed": 2,
   "milestone_alerts": {},
   "rumor_alerts_sent": 3,
@@ -4289,7 +4289,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 0,
   "rumor_integrity_repairs": 6,
-  "rumor_last_scan_utc": "2026-08-21T20:30:47.828165+00:00",
+  "rumor_last_scan_utc": "2026-08-21T20:40:48.270868+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -4308,7 +4308,7 @@
         "Haji Isam Berbalik",
         "Batu Bara Low Tuck Kwong"
       ],
-      "entity_resolution_source": "CORPORATE_ACTION_BATCH+ISSUER_ALIAS_MEMORY+ISSUER_PROFILE_CACHE",
+      "entity_resolution_source": "ISSUER_ALIAS_MEMORY+ISSUER_PROFILE_CACHE+RUMOR_EXPLICIT_TICKER",
       "first_seen_utc": "2026-08-18T02:41:36+00:00",
       "high_quality_source_count": 2,
       "independent_story_count": 10,
