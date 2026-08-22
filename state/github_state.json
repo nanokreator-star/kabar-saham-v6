@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 10,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 326,
-  "early_signal_last_scan_utc": "2026-08-22T03:40:47.093587+00:00",
+  "early_signal_last_scan_utc": "2026-08-22T03:50:53.220480+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -3.55,
@@ -4313,7 +4313,7 @@
     }
   },
   "last_keepalive_utc": "2026-08-14T10:15:00.868800+00:00",
-  "last_state_change_utc": "2026-08-22T03:40:47.119133+00:00",
+  "last_state_change_utc": "2026-08-22T03:50:53.248933+00:00",
   "market_noise_suppressed": 2,
   "milestone_alerts": {},
   "rumor_alerts_sent": 3,
@@ -4321,11 +4321,11 @@
   "rumor_confirmed_count": 0,
   "rumor_confirmed_dedups": 0,
   "rumor_denied_count": 0,
-  "rumor_duplicates_suppressed": 15,
+  "rumor_duplicates_suppressed": 16,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 0,
   "rumor_integrity_repairs": 6,
-  "rumor_last_scan_utc": "2026-08-22T03:40:47.081890+00:00",
+  "rumor_last_scan_utc": "2026-08-22T03:50:53.208176+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -4553,15 +4553,15 @@
       "copy_duplicate_count": 0,
       "credible_effective_independent_count": 0,
       "derivative_source_count": 0,
-      "detected_source_count": 1,
-      "effective_independent_count": 0.6,
+      "detected_source_count": 2,
+      "effective_independent_count": 1.1,
       "entity_aliases": [
         "Jhonlin Agro Raya"
       ],
       "entity_resolution_source": null,
       "first_seen_utc": "2026-08-20T05:16:48+00:00",
       "high_quality_source_count": 0,
-      "independent_story_count": 1,
+      "independent_story_count": 2,
       "issuer_profile": {
         "business_activity": "PT Jhonlin Agro Raya Tbk engages in the oil palm plantation business in Indonesia. It operates through Biodiesel and Fresh Fruit Bunches.",
         "controller": null,
@@ -4586,8 +4586,8 @@
       },
       "key": "AKUISISI / TAKEOVER|TICKER|JARR",
       "last_alert_utc": "2026-08-21T13:10:57.926195+00:00",
-      "last_seen_utc": "2026-08-20T05:16:48+00:00",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5yaGpjbVB2blN4TGZFdlJRaW00SDlwQW9Kd1ZpNnZfSC05RGFRWW1HdTdmTnJUeDhnbzMxUmhsTjNsQWdLZnlza2tjU0RGUHZ5dXNNVnBfdXBETWFJTXV5eUxvYnlUSW45VHlEZ3FLaUhTUQ?oc=5",
+      "last_seen_utc": "2026-08-21T12:59:37+00:00",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBYdlFnaE1VaTNhTEhXOWRNSVY3bFd2eGZXbDVWN0NKT1BsVjNjTDM1YkdWaWk5TklmZXNtOGhJT2hOMFI4a0dteGVZOHBPSzBkQlZoUGVUVzMzNk5TVEhLU1hvZlJBV1UteDVN?oc=5",
       "market_data": {
         "change_pct": 3.3670033670033668,
         "fetched_at": "2026-08-21T13:10:56.455117+00:00",
@@ -4605,7 +4605,7 @@
       "official_confirmation": null,
       "premium_source_count": 0,
       "profile_refresh_utc": "2026-08-21T19:21:13.000981+00:00",
-      "published": "Thu, 20 Aug 2026 05:16:48 GMT",
+      "published": "Fri, 21 Aug 2026 12:59:37 GMT",
       "rumor_details": {
         "ipo_price": null,
         "listing_estimate": null,
@@ -4619,8 +4619,18 @@
         "underwriter": null
       },
       "semantic_copy_count": 0,
-      "source": "pdiperjuanganbali.id",
+      "source": "SuaraGarut.ID",
       "source_breakdown": [
+        {
+          "derivative": false,
+          "group": "suaragarut.id",
+          "new_material": 1,
+          "quality": "LOW",
+          "semantic_copy": false,
+          "source": "SuaraGarut.ID",
+          "tier": 1,
+          "weight": 0.55
+        },
         {
           "derivative": false,
           "group": "pdiperjuanganbali.id",
@@ -4634,15 +4644,15 @@
       ],
       "source_count": 2,
       "source_quality": "LOW",
-      "source_quality_score": 0.6,
+      "source_quality_score": 1.1,
       "sources": [
-        "pdiperjuanganbali.id",
-        "SuaraGarut.ID"
+        "SuaraGarut.ID",
+        "pdiperjuanganbali.id"
       ],
       "status": "DENIED",
       "strength": "WEAK",
       "ticker": "JARR",
-      "title": "JARR dan BYAN Bantah Rumor Akuisisi Saham Senilai Rp358 Triliun - pdiperjuanganbali.id"
+      "title": "JARR dan BYAN Tegaskan Tidak Ada Rencana Akuisisi Saham - SuaraGarut.ID"
     },
     "AKUISISI / TAKEOVER|TICKER|PGUN": {
       "category": "AKUISISI / TAKEOVER",
