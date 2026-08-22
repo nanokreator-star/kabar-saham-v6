@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 10,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 326,
-  "early_signal_last_scan_utc": "2026-08-22T04:50:45.188319+00:00",
+  "early_signal_last_scan_utc": "2026-08-22T07:41:01.045145+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -3.55,
@@ -4177,11 +4177,11 @@
       "industry": "Farm Products",
       "issuer_name": "Jhonlin Agro Raya",
       "owner_context_sources": 0,
-      "owner_discovery_method": "STRICT_OFFICIAL_SECTION_V5",
+      "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
       "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
       "owner_v5_checked_utc": "2026-08-20T06:52:14.456932+00:00",
       "owner_v5_pages_fetched": 1,
-      "owner_v6_checked_utc": "2026-08-21T19:20:53.191079+00:00",
+      "owner_v6_checked_utc": "2026-08-22T07:40:53.632751+00:00",
       "owner_v6_pages_fetched": 0,
       "profile_source": "Yahoo Finance",
       "profile_source_quality": "FALLBACK",
@@ -4190,7 +4190,7 @@
       "subindustry": null,
       "subsector": null,
       "ticker": "JARR",
-      "verified_at": "2026-08-21T19:20:54.253242+00:00",
+      "verified_at": "2026-08-22T07:40:54.345389+00:00",
       "website": "https://www.ptjar.com"
     },
     "NAYZ": {
@@ -4313,7 +4313,7 @@
     }
   },
   "last_keepalive_utc": "2026-08-14T10:15:00.868800+00:00",
-  "last_state_change_utc": "2026-08-22T04:50:45.265610+00:00",
+  "last_state_change_utc": "2026-08-22T07:41:01.069434+00:00",
   "market_noise_suppressed": 2,
   "milestone_alerts": {},
   "rumor_alerts_sent": 3,
@@ -4325,16 +4325,16 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 0,
   "rumor_integrity_repairs": 6,
-  "rumor_last_scan_utc": "2026-08-22T04:50:45.178369+00:00",
+  "rumor_last_scan_utc": "2026-08-22T07:41:01.032691+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
       "company_name": "Bayan Resources",
-      "copy_duplicate_count": 9,
+      "copy_duplicate_count": 8,
       "credible_effective_independent_count": 2.0,
-      "derivative_source_count": 7,
-      "detected_source_count": 12,
-      "effective_independent_count": 4.4,
+      "derivative_source_count": 6,
+      "detected_source_count": 11,
+      "effective_independent_count": 4.2,
       "entity_aliases": [
         "Bayan (BYAN",
         "Bayan Resources",
@@ -4347,7 +4347,7 @@
       "entity_resolution_source": "ISSUER_ALIAS_MEMORY+ISSUER_PROFILE_CACHE+RUMOR_EXPLICIT_TICKER",
       "first_seen_utc": "2026-08-18T02:41:36+00:00",
       "high_quality_source_count": 2,
-      "independent_story_count": 10,
+      "independent_story_count": 9,
       "issuer_profile": {
         "business_activity": "PT Bayan Resources Tbk., together with its subsidiaries, engages in the open cut mining and sale of coal in Indonesia. It operates through Coal and Non-Coal segments.",
         "controller": {
@@ -4531,16 +4531,16 @@
       ],
       "source_count": 14,
       "source_quality": "HIGH",
-      "source_quality_score": 10.4,
+      "source_quality_score": 10.2,
       "sources": [
         "CNBC Indonesia",
         "achmadnurhidayat.id",
         "publika.id",
         "Tempo.co",
         "MediaKompeten",
-        "Readers.id",
         "beritajejakfakta.id",
-        "asatunews.co.id"
+        "Sawitku",
+        "Periskop.id"
       ],
       "status": "ACTIVE",
       "strength": "STRONG",
@@ -4572,7 +4572,7 @@
         "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
         "owner_v5_checked_utc": "2026-08-20T06:52:14.456932+00:00",
         "owner_v5_pages_fetched": 1,
-        "owner_v6_checked_utc": "2026-08-21T19:20:53.191079+00:00",
+        "owner_v6_checked_utc": "2026-08-22T07:40:53.632751+00:00",
         "owner_v6_pages_fetched": 0,
         "profile_source": "Yahoo Finance",
         "profile_source_quality": "FALLBACK",
@@ -4581,7 +4581,7 @@
         "subindustry": null,
         "subsector": null,
         "ticker": "JARR",
-        "verified_at": "2026-08-21T19:20:54.253242+00:00",
+        "verified_at": "2026-08-22T07:40:54.345389+00:00",
         "website": "https://www.ptjar.com"
       },
       "key": "AKUISISI / TAKEOVER|TICKER|JARR",
@@ -4604,7 +4604,7 @@
       },
       "official_confirmation": null,
       "premium_source_count": 0,
-      "profile_refresh_utc": "2026-08-21T19:21:13.000981+00:00",
+      "profile_refresh_utc": "2026-08-22T07:41:01.026980+00:00",
       "published": "Fri, 21 Aug 2026 12:59:37 GMT",
       "rumor_details": {
         "ipo_price": null,
