@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 10,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 326,
-  "early_signal_last_scan_utc": "2026-08-22T07:41:01.045145+00:00",
+  "early_signal_last_scan_utc": "2026-08-22T07:50:46.758468+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -3.55,
@@ -4177,7 +4177,7 @@
       "industry": "Farm Products",
       "issuer_name": "Jhonlin Agro Raya",
       "owner_context_sources": 0,
-      "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
+      "owner_discovery_method": "STRICT_OFFICIAL_SECTION_V5",
       "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
       "owner_v5_checked_utc": "2026-08-20T06:52:14.456932+00:00",
       "owner_v5_pages_fetched": 1,
@@ -4313,7 +4313,7 @@
     }
   },
   "last_keepalive_utc": "2026-08-14T10:15:00.868800+00:00",
-  "last_state_change_utc": "2026-08-22T07:41:01.069434+00:00",
+  "last_state_change_utc": "2026-08-22T07:50:47.189456+00:00",
   "market_noise_suppressed": 2,
   "milestone_alerts": {},
   "rumor_alerts_sent": 3,
@@ -4325,7 +4325,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 0,
   "rumor_integrity_repairs": 6,
-  "rumor_last_scan_utc": "2026-08-22T07:41:01.032691+00:00",
+  "rumor_last_scan_utc": "2026-08-22T07:50:46.748289+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -4533,9 +4533,9 @@
       "source_quality": "HIGH",
       "source_quality_score": 10.2,
       "sources": [
-        "CNBC Indonesia",
         "achmadnurhidayat.id",
         "publika.id",
+        "CNBC Indonesia",
         "Tempo.co",
         "MediaKompeten",
         "beritajejakfakta.id",
