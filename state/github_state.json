@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 10,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 326,
-  "early_signal_last_scan_utc": "2026-08-22T07:50:46.758468+00:00",
+  "early_signal_last_scan_utc": "2026-08-22T11:51:19.226766+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -3.55,
@@ -4238,7 +4238,7 @@
       "owner_context_sources": 0,
       "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
       "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-      "owner_v6_checked_utc": "2026-08-20T11:55:15.643238+00:00",
+      "owner_v6_checked_utc": "2026-08-22T11:50:59.037231+00:00",
       "owner_v6_pages_fetched": 0,
       "profile_source": "Yahoo Finance",
       "profile_source_quality": "FALLBACK",
@@ -4247,7 +4247,7 @@
       "subindustry": null,
       "subsector": null,
       "ticker": "PGUN",
-      "verified_at": "2026-08-20T11:55:55.353311+00:00",
+      "verified_at": "2026-08-22T11:50:59.500563+00:00",
       "website": "https://www.pradiksi.co.id"
     },
     "PIPA": {
@@ -4313,7 +4313,7 @@
     }
   },
   "last_keepalive_utc": "2026-08-14T10:15:00.868800+00:00",
-  "last_state_change_utc": "2026-08-22T07:50:47.189456+00:00",
+  "last_state_change_utc": "2026-08-22T11:51:19.251050+00:00",
   "market_noise_suppressed": 2,
   "milestone_alerts": {},
   "rumor_alerts_sent": 3,
@@ -4325,15 +4325,15 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 0,
   "rumor_integrity_repairs": 6,
-  "rumor_last_scan_utc": "2026-08-22T07:50:46.748289+00:00",
+  "rumor_last_scan_utc": "2026-08-22T11:51:19.215483+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
       "company_name": "Bayan Resources",
-      "copy_duplicate_count": 8,
+      "copy_duplicate_count": 1,
       "credible_effective_independent_count": 2.0,
-      "derivative_source_count": 6,
-      "detected_source_count": 11,
+      "derivative_source_count": 0,
+      "detected_source_count": 9,
       "effective_independent_count": 4.2,
       "entity_aliases": [
         "Bayan (BYAN",
@@ -4347,7 +4347,7 @@
       "entity_resolution_source": "ISSUER_ALIAS_MEMORY+ISSUER_PROFILE_CACHE+RUMOR_EXPLICIT_TICKER",
       "first_seen_utc": "2026-08-18T02:41:36+00:00",
       "high_quality_source_count": 2,
-      "independent_story_count": 9,
+      "independent_story_count": 8,
       "issuer_profile": {
         "business_activity": "PT Bayan Resources Tbk., together with its subsidiaries, engages in the open cut mining and sale of coal in Indonesia. It operates through Coal and Non-Coal segments.",
         "controller": {
@@ -4445,7 +4445,7 @@
         "price_range": null,
         "underwriter": null
       },
-      "semantic_copy_count": 2,
+      "semantic_copy_count": 1,
       "source": "Tempo.co",
       "source_breakdown": [
         {
@@ -4470,63 +4470,63 @@
         },
         {
           "derivative": false,
-          "group": "asatunews.co.id",
-          "new_material": 1,
-          "quality": "LOW",
-          "semantic_copy": false,
-          "source": "asatunews.co.id",
-          "tier": 1,
-          "weight": 0.55
-        },
-        {
-          "derivative": true,
           "group": "sawitku",
           "new_material": 0,
           "quality": "LOW",
           "semantic_copy": false,
           "source": "Sawitku",
           "tier": 1,
-          "weight": 0.25
+          "weight": 0.35
         },
         {
-          "derivative": true,
-          "group": "periskop.id",
-          "new_material": 0,
-          "quality": "LOW",
-          "semantic_copy": false,
-          "source": "Periskop.id",
-          "tier": 1,
-          "weight": 0.25
-        },
-        {
-          "derivative": true,
-          "group": "mediakompeten",
-          "new_material": 0,
-          "quality": "LOW",
-          "semantic_copy": false,
-          "source": "MediaKompeten",
-          "tier": 1,
-          "weight": 0.25
-        },
-        {
-          "derivative": true,
-          "group": "terkini24.id",
-          "new_material": 0,
-          "quality": "LOW",
-          "semantic_copy": false,
-          "source": "Terkini24.id",
-          "tier": 1,
-          "weight": 0.25
-        },
-        {
-          "derivative": true,
+          "derivative": false,
           "group": "sekbernews.id",
           "new_material": 0,
           "quality": "LOW",
           "semantic_copy": false,
           "source": "sekbernews.id",
           "tier": 1,
-          "weight": 0.25
+          "weight": 0.35
+        },
+        {
+          "derivative": false,
+          "group": "periskop.id",
+          "new_material": 0,
+          "quality": "LOW",
+          "semantic_copy": false,
+          "source": "Periskop.id",
+          "tier": 1,
+          "weight": 0.35
+        },
+        {
+          "derivative": false,
+          "group": "mediakompeten",
+          "new_material": 0,
+          "quality": "LOW",
+          "semantic_copy": false,
+          "source": "MediaKompeten",
+          "tier": 1,
+          "weight": 0.35
+        },
+        {
+          "derivative": false,
+          "group": "terkini24.id",
+          "new_material": 0,
+          "quality": "LOW",
+          "semantic_copy": false,
+          "source": "Terkini24.id",
+          "tier": 1,
+          "weight": 0.35
+        },
+        {
+          "derivative": false,
+          "group": "achmadnurhidayat.id",
+          "new_material": 0,
+          "quality": "LOW",
+          "semantic_copy": false,
+          "source": "achmadnurhidayat.id",
+          "tier": 1,
+          "weight": 0.35
         }
       ],
       "source_count": 14,
@@ -4534,13 +4534,13 @@
       "source_quality_score": 10.2,
       "sources": [
         "achmadnurhidayat.id",
-        "publika.id",
         "CNBC Indonesia",
         "Tempo.co",
         "MediaKompeten",
         "beritajejakfakta.id",
         "Sawitku",
-        "Periskop.id"
+        "Periskop.id",
+        "sekbernews.id"
       ],
       "status": "ACTIVE",
       "strength": "STRONG",
@@ -4677,7 +4677,7 @@
         "owner_context_sources": 0,
         "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
         "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-        "owner_v6_checked_utc": "2026-08-20T11:55:15.643238+00:00",
+        "owner_v6_checked_utc": "2026-08-22T11:50:59.037231+00:00",
         "owner_v6_pages_fetched": 0,
         "profile_source": "Yahoo Finance",
         "profile_source_quality": "FALLBACK",
@@ -4686,7 +4686,7 @@
         "subindustry": null,
         "subsector": null,
         "ticker": "PGUN",
-        "verified_at": "2026-08-20T11:55:55.353311+00:00",
+        "verified_at": "2026-08-22T11:50:59.500563+00:00",
         "website": "https://www.pradiksi.co.id"
       },
       "key": "AKUISISI / TAKEOVER|TICKER|PGUN",
@@ -4706,7 +4706,7 @@
       },
       "official_confirmation": null,
       "premium_source_count": 1,
-      "profile_refresh_utc": "2026-08-20T11:55:40.576862+00:00",
+      "profile_refresh_utc": "2026-08-22T11:51:19.213415+00:00",
       "published": "Thu, 20 Aug 2026 09:22:21 GMT",
       "rumor_details": {
         "ipo_price": null,
