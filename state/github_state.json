@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 10,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 326,
-  "early_signal_last_scan_utc": "2026-08-22T03:50:53.220480+00:00",
+  "early_signal_last_scan_utc": "2026-08-22T04:06:54.809299+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -3.55,
@@ -4299,7 +4299,7 @@
       "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
       "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
       "owner_v3_checked_utc": "2026-08-20T03:21:03.973084+00:00",
-      "owner_v6_checked_utc": "2026-08-20T15:33:12.838742+00:00",
+      "owner_v6_checked_utc": "2026-08-22T04:04:30.435528+00:00",
       "owner_v6_pages_fetched": 0,
       "profile_source": "Yahoo Finance",
       "profile_source_quality": "FALLBACK",
@@ -4308,12 +4308,12 @@
       "subindustry": null,
       "subsector": null,
       "ticker": "WIKA",
-      "verified_at": "2026-08-21T15:53:19.571571+00:00",
+      "verified_at": "2026-08-22T04:04:31.090942+00:00",
       "website": "https://www.wika.co.id"
     }
   },
   "last_keepalive_utc": "2026-08-14T10:15:00.868800+00:00",
-  "last_state_change_utc": "2026-08-22T03:50:53.248933+00:00",
+  "last_state_change_utc": "2026-08-22T04:06:54.837563+00:00",
   "market_noise_suppressed": 2,
   "milestone_alerts": {},
   "rumor_alerts_sent": 3,
@@ -4325,7 +4325,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 0,
   "rumor_integrity_repairs": 6,
-  "rumor_last_scan_utc": "2026-08-22T03:50:53.208176+00:00",
+  "rumor_last_scan_utc": "2026-08-22T04:06:54.797011+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -5003,7 +5003,7 @@
         "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
         "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
         "owner_v3_checked_utc": "2026-08-20T03:21:03.973084+00:00",
-        "owner_v6_checked_utc": "2026-08-21T15:53:18.372176+00:00",
+        "owner_v6_checked_utc": "2026-08-22T04:04:30.435528+00:00",
         "owner_v6_pages_fetched": 0,
         "profile_source": "Yahoo Finance",
         "profile_source_quality": "FALLBACK",
@@ -5012,7 +5012,7 @@
         "subindustry": null,
         "subsector": null,
         "ticker": "WIKA",
-        "verified_at": "2026-08-21T15:53:19.571571+00:00",
+        "verified_at": "2026-08-22T04:04:31.090942+00:00",
         "website": "https://www.wika.co.id"
       },
       "key": "SPIN-OFF / RESTRUCTURING|TICKER|WIKA",
@@ -5022,7 +5022,7 @@
       "market_data": null,
       "official_confirmation": null,
       "premium_source_count": 1,
-      "profile_refresh_utc": "2026-08-21T15:55:46.187593+00:00",
+      "profile_refresh_utc": "2026-08-22T04:06:54.790176+00:00",
       "published": "Tue, 18 Aug 2026 23:32:57 GMT",
       "rumor_details": {
         "ipo_price": null,
