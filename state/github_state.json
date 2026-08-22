@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 10,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 326,
-  "early_signal_last_scan_utc": "2026-08-22T04:10:44.987540+00:00",
+  "early_signal_last_scan_utc": "2026-08-22T04:40:55.677921+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -3.55,
@@ -4214,11 +4214,11 @@
       "industry": "Packaging & Containers",
       "issuer_name": "Abadi Nusantara Hijau Investama",
       "owner_context_sources": 0,
-      "owner_discovery_method": "OFFICIAL_REGISTRY+PRIMARY_COMPANY_V4",
+      "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
       "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
       "owner_v4_checked_utc": "2026-08-20T04:04:24.024668+00:00",
       "owner_v4_pages_fetched": 0,
-      "owner_v6_checked_utc": "2026-08-20T16:10:48.543332+00:00",
+      "owner_v6_checked_utc": "2026-08-22T04:40:48.095943+00:00",
       "owner_v6_pages_fetched": 0,
       "profile_source": "Yahoo Finance",
       "profile_source_quality": "FALLBACK",
@@ -4227,7 +4227,7 @@
       "subindustry": null,
       "subsector": null,
       "ticker": "PACK",
-      "verified_at": "2026-08-21T16:30:58.607669+00:00",
+      "verified_at": "2026-08-22T04:40:49.163205+00:00",
       "website": "https://www.flexypack.com"
     },
     "PGUN": {
@@ -4313,7 +4313,7 @@
     }
   },
   "last_keepalive_utc": "2026-08-14T10:15:00.868800+00:00",
-  "last_state_change_utc": "2026-08-22T04:10:45.011267+00:00",
+  "last_state_change_utc": "2026-08-22T04:40:55.697659+00:00",
   "market_noise_suppressed": 2,
   "milestone_alerts": {},
   "rumor_alerts_sent": 3,
@@ -4325,16 +4325,16 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 0,
   "rumor_integrity_repairs": 6,
-  "rumor_last_scan_utc": "2026-08-22T04:10:44.976763+00:00",
+  "rumor_last_scan_utc": "2026-08-22T04:40:55.669367+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
       "company_name": "Bayan Resources",
-      "copy_duplicate_count": 10,
+      "copy_duplicate_count": 9,
       "credible_effective_independent_count": 2.0,
-      "derivative_source_count": 8,
-      "detected_source_count": 13,
-      "effective_independent_count": 4.7,
+      "derivative_source_count": 7,
+      "detected_source_count": 12,
+      "effective_independent_count": 4.4,
       "entity_aliases": [
         "Bayan (BYAN",
         "Bayan Resources",
@@ -4347,7 +4347,7 @@
       "entity_resolution_source": "ISSUER_ALIAS_MEMORY+ISSUER_PROFILE_CACHE+RUMOR_EXPLICIT_TICKER",
       "first_seen_utc": "2026-08-18T02:41:36+00:00",
       "high_quality_source_count": 2,
-      "independent_story_count": 11,
+      "independent_story_count": 10,
       "issuer_profile": {
         "business_activity": "PT Bayan Resources Tbk., together with its subsidiaries, engages in the open cut mining and sale of coal in Indonesia. It operates through Coal and Non-Coal segments.",
         "controller": {
@@ -4520,27 +4520,27 @@
         },
         {
           "derivative": true,
-          "group": "pdiperjuanganbali.id",
+          "group": "sekbernews.id",
           "new_material": 0,
           "quality": "LOW",
           "semantic_copy": false,
-          "source": "pdiperjuanganbali.id",
+          "source": "sekbernews.id",
           "tier": 1,
           "weight": 0.25
         }
       ],
       "source_count": 14,
       "source_quality": "HIGH",
-      "source_quality_score": 10.7,
+      "source_quality_score": 10.4,
       "sources": [
         "CNBC Indonesia",
         "achmadnurhidayat.id",
         "publika.id",
-        "pdiperjuanganbali.id",
         "Tempo.co",
         "MediaKompeten",
         "Readers.id",
-        "beritajejakfakta.id"
+        "beritajejakfakta.id",
+        "asatunews.co.id"
       ],
       "status": "ACTIVE",
       "strength": "STRONG",
@@ -5080,7 +5080,7 @@
         "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
         "owner_v4_checked_utc": "2026-08-20T04:04:24.024668+00:00",
         "owner_v4_pages_fetched": 0,
-        "owner_v6_checked_utc": "2026-08-21T16:30:57.654687+00:00",
+        "owner_v6_checked_utc": "2026-08-22T04:40:48.095943+00:00",
         "owner_v6_pages_fetched": 0,
         "profile_source": "Yahoo Finance",
         "profile_source_quality": "FALLBACK",
@@ -5089,7 +5089,7 @@
         "subindustry": null,
         "subsector": null,
         "ticker": "PACK",
-        "verified_at": "2026-08-21T16:30:58.607669+00:00",
+        "verified_at": "2026-08-22T04:40:49.163205+00:00",
         "website": "https://www.flexypack.com"
       },
       "key": "STRATEGIC INVESTOR|TICKER|PACK",
@@ -5099,7 +5099,7 @@
       "market_data": null,
       "official_confirmation": null,
       "premium_source_count": 1,
-      "profile_refresh_utc": "2026-08-21T16:31:04.596440+00:00",
+      "profile_refresh_utc": "2026-08-22T04:40:55.668196+00:00",
       "published": "Wed, 19 Aug 2026 09:54:52 GMT",
       "rumor_details": {
         "ipo_price": null,
