@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 10,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 326,
-  "early_signal_last_scan_utc": "2026-08-23T12:20:53.697979+00:00",
+  "early_signal_last_scan_utc": "2026-08-23T17:50:43.709682+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -3.55,
@@ -178,6 +178,42 @@
         "share_count": null,
         "stage": "IPO INFO",
         "stage_step": 1,
+        "stage_total": 5,
+        "stake": [],
+        "standby_buyer": null,
+        "target": null,
+        "target_confirmed": false,
+        "tender_price": null,
+        "underwriter": null,
+        "use_of_funds": []
+      },
+      "ticker": ""
+    },
+    "IPO|TITLE|PROSPEKTUS AWAL PT SWAYASA PRAKARSA TBK CO": {
+      "family": "IPO",
+      "first_seen_utc": "2026-08-23T17:50:45.664125+00:00",
+      "last_alert_utc": "2026-08-23T17:50:45.664119+00:00",
+      "last_seen_utc": "2026-08-23T17:50:45.664119+00:00",
+      "market_context": {
+        "change_pct": null,
+        "last_price": null,
+        "market_date": null
+      },
+      "material_snapshot": {
+        "acquirer": null,
+        "acquirer_confirmed": false,
+        "event_type": "IPO",
+        "execution_price": null,
+        "ipo_single_price": null,
+        "money": [],
+        "official_authority": "e-IPO",
+        "official_kind": "PRIMARY",
+        "price_range": null,
+        "ratio": null,
+        "schedule": {},
+        "share_count": null,
+        "stage": "RENCANA / PROSPEKTUS",
+        "stage_step": 2,
         "stage_total": 5,
         "stake": [],
         "standby_buyer": null,
@@ -4353,7 +4389,7 @@
     }
   },
   "last_keepalive_utc": "2026-08-14T10:15:00.868800+00:00",
-  "last_state_change_utc": "2026-08-23T12:20:53.722648+00:00",
+  "last_state_change_utc": "2026-08-23T17:50:45.664894+00:00",
   "market_noise_suppressed": 2,
   "milestone_alerts": {},
   "rumor_alerts_sent": 4,
@@ -4361,11 +4397,11 @@
   "rumor_confirmed_count": 0,
   "rumor_confirmed_dedups": 0,
   "rumor_denied_count": 0,
-  "rumor_duplicates_suppressed": 18,
+  "rumor_duplicates_suppressed": 19,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 0,
   "rumor_integrity_repairs": 6,
-  "rumor_last_scan_utc": "2026-08-23T12:20:53.688701+00:00",
+  "rumor_last_scan_utc": "2026-08-23T17:50:43.701067+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -4373,8 +4409,8 @@
       "copy_duplicate_count": 0,
       "credible_effective_independent_count": 1.0,
       "derivative_source_count": 0,
-      "detected_source_count": 2,
-      "effective_independent_count": 1.4,
+      "detected_source_count": 1,
+      "effective_independent_count": 1.0,
       "entity_aliases": [
         "Bayan (BYAN",
         "Bayan Resources",
@@ -4387,7 +4423,7 @@
       "entity_resolution_source": "ISSUER_ALIAS_MEMORY+ISSUER_PROFILE_CACHE+RUMOR_EXPLICIT_TICKER",
       "first_seen_utc": "2026-08-18T02:41:36+00:00",
       "high_quality_source_count": 1,
-      "independent_story_count": 2,
+      "independent_story_count": 1,
       "issuer_profile": {
         "business_activity": "PT Bayan Resources Tbk., together with its subsidiaries, engages in the open cut mining and sale of coal in Indonesia. It operates through Coal and Non-Coal segments.",
         "controller": {
@@ -4512,21 +4548,11 @@
           "source": "CNBC Indonesia",
           "tier": 4,
           "weight": 1.0
-        },
-        {
-          "derivative": false,
-          "group": "sawitku",
-          "new_material": 0,
-          "quality": "LOW",
-          "semantic_copy": false,
-          "source": "Sawitku",
-          "tier": 1,
-          "weight": 0.35
         }
       ],
       "source_count": 14,
       "source_quality": "MEDIUM",
-      "source_quality_score": 4.3,
+      "source_quality_score": 4.0,
       "sources": [
         "CNBC Indonesia",
         "Sawitku",
@@ -4538,7 +4564,7 @@
         "Terkini24.id"
       ],
       "status": "ACTIVE",
-      "strength": "MEDIUM",
+      "strength": "WEAK",
       "ticker": "BYAN",
       "title": "Diterpa Isu Akuisisi Bayan (BYAN), Emiten Milik Haji Isam Buka Suara - CNBC Indonesia"
     },
@@ -5258,6 +5284,7 @@
     "b9fef1c2d035bcc97d779563585897fe64b72824ee5100e87cd126c48d3fa8e3": "2026-08-19T00:31:02.208943+00:00",
     "bbe884fbc449fb10cb942b000c191836b7bec3feaead9d86e3532289a87bfdbe": "2026-08-14T10:15:00.868800+00:00",
     "bcaf8aeff9fc756fd5abefaad9112e31066f5be443285a41d6bde543232d7c2b": "2026-08-14T10:15:00.868800+00:00",
+    "bd9e42183a955c0cf3c97da106e239a125aac5629b37096f70a70aceacb18d61": "2026-08-23T17:50:45.664101+00:00",
     "c07e3c51a5c10cda6156604e413ed536b871e8cb7c98e47ece24dc30d43c980d": "2026-08-14T10:15:00.868800+00:00",
     "c0a95ceac0ba5637070bc954dcb30af054e44188df3c6a2de69b1cff09baf43c": "2026-08-14T10:15:00.868800+00:00",
     "c14b175dec3700ded77111f61fce168509b81587c704f456a1be950be00c6993": "2026-08-14T10:15:00.868800+00:00",
