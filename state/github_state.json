@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 10,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 326,
-  "early_signal_last_scan_utc": "2026-08-23T20:30:52.703252+00:00",
+  "early_signal_last_scan_utc": "2026-08-23T23:21:23.916561+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -3.55,
@@ -4422,6 +4422,26 @@
       "verified_at": "2026-08-21T10:31:00.429680+00:00",
       "website": "https://stptower.com"
     },
+    "SWAP": {
+      "business_activity": null,
+      "controller": null,
+      "industry": null,
+      "issuer_name": "SWAP",
+      "owner_context_sources": 0,
+      "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
+      "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
+      "owner_v6_checked_utc": "2026-08-23T23:20:44.403085+00:00",
+      "owner_v6_pages_fetched": 0,
+      "profile_source": "Yahoo Finance",
+      "profile_source_quality": "FALLBACK",
+      "profile_source_url": null,
+      "sector": null,
+      "subindustry": null,
+      "subsector": null,
+      "ticker": "SWAP",
+      "verified_at": "2026-08-23T23:21:05.852963+00:00",
+      "website": null
+    },
     "WIKA": {
       "business_activity": "PT Wijaya Karya (Persero) Tbk operates as an integrated construction company in Indonesia and internationally. It operates through Infrastructure and Building, Energy and Industrial Plant, Industry, Hotel, Realty and Property, and Investmen",
       "controller": null,
@@ -4445,10 +4465,10 @@
     }
   },
   "last_keepalive_utc": "2026-08-14T10:15:00.868800+00:00",
-  "last_state_change_utc": "2026-08-23T20:30:52.728904+00:00",
+  "last_state_change_utc": "2026-08-23T23:21:23.934419+00:00",
   "market_noise_suppressed": 2,
   "milestone_alerts": {},
-  "rumor_alerts_sent": 5,
+  "rumor_alerts_sent": 6,
   "rumor_baseline_initialized": true,
   "rumor_confirmed_count": 0,
   "rumor_confirmed_dedups": 0,
@@ -4457,7 +4477,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 0,
   "rumor_integrity_repairs": 6,
-  "rumor_last_scan_utc": "2026-08-23T20:30:52.693753+00:00",
+  "rumor_last_scan_utc": "2026-08-23T23:21:23.909130+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -4996,6 +5016,87 @@
       "strength": "CONFIRMED OFFICIAL",
       "ticker": null,
       "title": "PRDA_KI- Rencana Buyback 2026.docx - PT Bursa Efek Indonesia"
+    },
+    "IPO|TICKER|SWAP": {
+      "category": "IPO",
+      "company_name": "Perusahaan Hilirisasi Riset UGM (SWAP)",
+      "copy_duplicate_count": 0,
+      "credible_effective_independent_count": 0,
+      "derivative_source_count": 0,
+      "detected_source_count": 1,
+      "effective_independent_count": 0.6,
+      "entity_aliases": [
+        "Hilirisasi Riset UGM (SWAP"
+      ],
+      "entity_resolution_source": null,
+      "first_seen_utc": "2026-08-23T22:52:00+00:00",
+      "high_quality_source_count": 0,
+      "independent_story_count": 1,
+      "issuer_profile": {
+        "business_activity": null,
+        "controller": null,
+        "industry": null,
+        "issuer_name": "SWAP",
+        "owner_context_sources": 0,
+        "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
+        "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
+        "owner_v6_checked_utc": "2026-08-23T23:20:44.403085+00:00",
+        "owner_v6_pages_fetched": 0,
+        "profile_source": "Yahoo Finance",
+        "profile_source_quality": "FALLBACK",
+        "profile_source_url": null,
+        "sector": null,
+        "subindustry": null,
+        "subsector": null,
+        "ticker": "SWAP",
+        "verified_at": "2026-08-23T23:21:05.852963+00:00",
+        "website": null
+      },
+      "key": "IPO|TICKER|SWAP",
+      "last_alert_utc": "2026-08-23T23:21:23.908434+00:00",
+      "last_seen_utc": "2026-08-23T22:52:00+00:00",
+      "link": "https://swa.co.id/read/476406/perusahaan-hilirisasi-riset-ugm-swap-bakal-ipo-book-building-2427-agustus",
+      "market_data": null,
+      "official_confirmation": null,
+      "premium_source_count": 0,
+      "profile_refresh_utc": "2026-08-23T23:20:59.636490+00:00",
+      "published": "Sun, 23 Aug 2026 22:52:00 GMT",
+      "rumor_details": {
+        "ipo_price": null,
+        "listing_estimate": null,
+        "money": [
+          "Rp45,22 miliar"
+        ],
+        "percentages": [],
+        "price_range": "Rp130\u2013Rp140",
+        "rumored_party": null,
+        "share_count": "323 juta saham",
+        "underwriter": null
+      },
+      "semantic_copy_count": 0,
+      "source": "SWA.co.id",
+      "source_breakdown": [
+        {
+          "derivative": false,
+          "group": "swa.co.id",
+          "new_material": 3,
+          "quality": "LOW",
+          "semantic_copy": false,
+          "source": "SWA.co.id",
+          "tier": 1,
+          "weight": 0.55
+        }
+      ],
+      "source_count": 1,
+      "source_quality": "LOW",
+      "source_quality_score": 0.6,
+      "sources": [
+        "SWA.co.id"
+      ],
+      "status": "ACTIVE",
+      "strength": "WEAK",
+      "ticker": "SWAP",
+      "title": "Perusahaan Hilirisasi Riset UGM (SWAP) Bakal IPO, Book Building 24\u201327 Agustus - SWA.co.id"
     },
     "IPO|TITLE|MENIMBANG WACANA PELINDO INVESTOR ID": {
       "category": "IPO",
