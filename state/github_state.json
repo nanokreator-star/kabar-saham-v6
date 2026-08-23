@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 10,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 326,
-  "early_signal_last_scan_utc": "2026-08-23T17:50:43.709682+00:00",
+  "early_signal_last_scan_utc": "2026-08-23T18:00:58.593458+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -3.55,
@@ -2000,6 +2000,42 @@
         "use_of_funds": []
       },
       "ticker": ""
+    },
+    "M&A / TAKEOVER|TITLE|TRACK RECORD MENYELISIK JEJAK PENGENDALI BARU BIKE": {
+      "family": "M&A / TAKEOVER",
+      "first_seen_utc": "2026-08-23T18:01:17.078414+00:00",
+      "last_alert_utc": "2026-08-23T18:01:17.078408+00:00",
+      "last_seen_utc": "2026-08-23T18:01:17.078408+00:00",
+      "market_context": {
+        "change_pct": 0.0,
+        "last_price": 510.0,
+        "market_date": "2026-08-21"
+      },
+      "material_snapshot": {
+        "acquirer": null,
+        "acquirer_confirmed": false,
+        "event_type": "TAKEOVER",
+        "execution_price": null,
+        "ipo_single_price": null,
+        "money": [],
+        "official_authority": null,
+        "official_kind": null,
+        "price_range": null,
+        "ratio": null,
+        "schedule": {},
+        "share_count": null,
+        "stage": "CHANGE OF CONTROL",
+        "stage_step": 5,
+        "stage_total": 7,
+        "stake": [],
+        "standby_buyer": null,
+        "target": null,
+        "target_confirmed": false,
+        "tender_price": null,
+        "underwriter": null,
+        "use_of_funds": []
+      },
+      "ticker": "BIKE"
     },
     "M&A / TAKEOVER|TITLE|TUNTAS GELAR WAJIB INET PADA MELONJAK JADI": {
       "family": "M&A / TAKEOVER",
@@ -4109,6 +4145,26 @@
     }
   },
   "issuer_profile_cache": {
+    "BIKE": {
+      "business_activity": "PT Sepeda Bersama Indonesia Tbk engages in the trading of bicycles, electric motorcycle, baby stroller, and others in Indonesia. The company is involved in wholesale of sports equipment, land transportation equipment, and spare parts and eq",
+      "controller": null,
+      "industry": "Leisure",
+      "issuer_name": "Sepeda Bersama Indonesia",
+      "owner_context_sources": 0,
+      "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
+      "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
+      "owner_v6_checked_utc": "2026-08-23T18:01:16.545360+00:00",
+      "owner_v6_pages_fetched": 0,
+      "profile_source": "Yahoo Finance",
+      "profile_source_quality": "FALLBACK",
+      "profile_source_url": null,
+      "sector": "Consumer Cyclical",
+      "subindustry": null,
+      "subsector": null,
+      "ticker": "BIKE",
+      "verified_at": "2026-08-23T18:01:09.235455+00:00",
+      "website": "https://sepedabersamaindonesia.co.id"
+    },
     "BYAN": {
       "business_activity": "PT Bayan Resources Tbk., together with its subsidiaries, engages in the open cut mining and sale of coal in Indonesia. It operates through Coal and Non-Coal segments.",
       "controller": {
@@ -4389,10 +4445,10 @@
     }
   },
   "last_keepalive_utc": "2026-08-14T10:15:00.868800+00:00",
-  "last_state_change_utc": "2026-08-23T17:50:45.664894+00:00",
+  "last_state_change_utc": "2026-08-23T18:01:17.079103+00:00",
   "market_noise_suppressed": 2,
   "milestone_alerts": {},
-  "rumor_alerts_sent": 4,
+  "rumor_alerts_sent": 5,
   "rumor_baseline_initialized": true,
   "rumor_confirmed_count": 0,
   "rumor_confirmed_dedups": 0,
@@ -4401,7 +4457,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 0,
   "rumor_integrity_repairs": 6,
-  "rumor_last_scan_utc": "2026-08-23T17:50:43.701067+00:00",
+  "rumor_last_scan_utc": "2026-08-23T18:00:58.582509+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -4409,8 +4465,8 @@
       "copy_duplicate_count": 0,
       "credible_effective_independent_count": 1.0,
       "derivative_source_count": 0,
-      "detected_source_count": 1,
-      "effective_independent_count": 1.0,
+      "detected_source_count": 2,
+      "effective_independent_count": 1.4,
       "entity_aliases": [
         "Bayan (BYAN",
         "Bayan Resources",
@@ -4423,7 +4479,7 @@
       "entity_resolution_source": "ISSUER_ALIAS_MEMORY+ISSUER_PROFILE_CACHE+RUMOR_EXPLICIT_TICKER",
       "first_seen_utc": "2026-08-18T02:41:36+00:00",
       "high_quality_source_count": 1,
-      "independent_story_count": 1,
+      "independent_story_count": 2,
       "issuer_profile": {
         "business_activity": "PT Bayan Resources Tbk., together with its subsidiaries, engages in the open cut mining and sale of coal in Indonesia. It operates through Coal and Non-Coal segments.",
         "controller": {
@@ -4507,12 +4563,12 @@
         "website": "https://www.bayan.com.sg"
       },
       "key": "AKUISISI / TAKEOVER|TICKER|BYAN",
-      "last_alert_utc": "2026-08-23T08:10:59.272422+00:00",
+      "last_alert_utc": "2026-08-23T18:00:58.581637+00:00",
       "last_seen_utc": "2026-08-20T03:15:36+00:00",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOb3F6aEkyeTJQc08tVU5YVTdPZDMxeTRwVF90ajlfeGx3Nml6OWxOZ3JzaXFNbjJIVkFtMUd6VF9JMHoxS3A0SFJHM054ZmcxcllvZkZXdzhEMHNEWjZCQ1RhU3BmQVpKZG0zajR6UTFJR0g3ZHpweDFWQV9FcEp0Y29fUmlCVmFaV1R0OXhMUDdOTGdIcWJUZm53Z3ZlLTdwbzRUSUlsZGNBemc1cXRzbW45OWd6QlRJSER3SVhEcVBKNTIwc1JYa9IBzgFBVV95cUxPby1DZXlLTWxoa3c1NXhhdWdqZHNMVWhzZmROV3RnZXZ2dDFpd3BlWlJBSUh0ZUxqcm56MmZKZ2dtNmczLUZVUTdsX1VkT3J1YTExYXFBS3FVSTg3aGVNaV80QmxPem1pSXNrV0xaSUlkM2liNVFLUVpIcGpwbkRmd2lIbnp0STBCRmVrdjkta0paYVNsck1hSmNnandIeWFOOUtrV09YcE5nQlloVVZCUHBCWW1vX3I3RnpqYUd0dXp1QUdLclUzdDNuN044Zw?oc=5",
+      "link": "https://www.cnbcindonesia.com/market/20260820094136-17-760827/diterpa-isu-akuisisi-bayan--byan--emiten-milik-haji-isam-buka-suara",
       "market_data": {
         "change_pct": -3.554868624420402,
-        "fetched_at": "2026-08-23T08:10:58.520442+00:00",
+        "fetched_at": "2026-08-23T18:00:58.014564+00:00",
         "last_price": 15600.0,
         "market_date": "2026-08-21",
         "previous_close": 16175.0,
@@ -4548,11 +4604,21 @@
           "source": "CNBC Indonesia",
           "tier": 4,
           "weight": 1.0
+        },
+        {
+          "derivative": false,
+          "group": "sawitku",
+          "new_material": 0,
+          "quality": "LOW",
+          "semantic_copy": false,
+          "source": "Sawitku",
+          "tier": 1,
+          "weight": 0.35
         }
       ],
       "source_count": 14,
       "source_quality": "MEDIUM",
-      "source_quality_score": 4.0,
+      "source_quality_score": 4.3,
       "sources": [
         "CNBC Indonesia",
         "Sawitku",
@@ -4564,7 +4630,7 @@
         "Terkini24.id"
       ],
       "status": "ACTIVE",
-      "strength": "WEAK",
+      "strength": "MEDIUM",
       "ticker": "BYAN",
       "title": "Diterpa Isu Akuisisi Bayan (BYAN), Emiten Milik Haji Isam Buka Suara - CNBC Indonesia"
     },
@@ -5235,6 +5301,7 @@
     "610cf7988199cbb055aa0ae4fe1c44aab9ec9d0a0f0d348ee81b108f43f37ef0": "2026-08-14T10:15:00.868800+00:00",
     "616989ebd24b7809db1cec6e92cdccfa251fb5b0dd665767864ef0d758d8e7e6": "2026-08-14T10:15:00.868800+00:00",
     "646b85801b59b7050b05830457080dbec683e7d99c6192fb3a280114460d7df8": "2026-08-14T10:15:00.868800+00:00",
+    "6954cec496e573e783ac044e5406aa21e590046c6ce3fc9626acec0a40a9e9f9": "2026-08-23T18:01:17.078390+00:00",
     "6961e4412739374464ff56e1b4e06e5b6475ac1f443c928a76a26014d3ebbf38": "2026-08-14T10:15:00.868800+00:00",
     "6a55b369a5fb6e9c73fe0e2a2093ecf571ca173100bc25e1c091de3392c007b1": "2026-08-19T02:31:00.139231+00:00",
     "6b9a0cd4024e7d053b960c2a373e09318a29661a0e7c67359c68fbb9fcd1622e": "2026-08-21T03:11:07.382924+00:00",
