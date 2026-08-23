@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 10,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 326,
-  "early_signal_last_scan_utc": "2026-08-23T00:10:54.516056+00:00",
+  "early_signal_last_scan_utc": "2026-08-23T05:01:10.043796+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -3.55,
@@ -4254,11 +4254,11 @@
       "industry": "Packaging & Containers",
       "issuer_name": "Abadi Nusantara Hijau Investama",
       "owner_context_sources": 0,
-      "owner_discovery_method": "OFFICIAL_REGISTRY+PRIMARY_COMPANY_V4",
+      "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
       "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
       "owner_v4_checked_utc": "2026-08-20T04:04:24.024668+00:00",
       "owner_v4_pages_fetched": 0,
-      "owner_v6_checked_utc": "2026-08-20T16:10:48.543332+00:00",
+      "owner_v6_checked_utc": "2026-08-23T05:01:04.944723+00:00",
       "owner_v6_pages_fetched": 0,
       "profile_source": "Yahoo Finance",
       "profile_source_quality": "FALLBACK",
@@ -4267,7 +4267,7 @@
       "subindustry": null,
       "subsector": null,
       "ticker": "PACK",
-      "verified_at": "2026-08-22T17:00:53.105852+00:00",
+      "verified_at": "2026-08-23T05:01:05.574031+00:00",
       "website": "https://www.flexypack.com"
     },
     "PGUN": {
@@ -4353,7 +4353,7 @@
     }
   },
   "last_keepalive_utc": "2026-08-14T10:15:00.868800+00:00",
-  "last_state_change_utc": "2026-08-23T00:10:54.540236+00:00",
+  "last_state_change_utc": "2026-08-23T05:01:10.067707+00:00",
   "market_noise_suppressed": 2,
   "milestone_alerts": {},
   "rumor_alerts_sent": 3,
@@ -4365,16 +4365,16 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 0,
   "rumor_integrity_repairs": 6,
-  "rumor_last_scan_utc": "2026-08-23T00:10:54.505105+00:00",
+  "rumor_last_scan_utc": "2026-08-23T05:01:10.032619+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
       "company_name": "Bayan Resources",
       "copy_duplicate_count": 0,
-      "credible_effective_independent_count": 3.0,
+      "credible_effective_independent_count": 2.0,
       "derivative_source_count": 0,
-      "detected_source_count": 8,
-      "effective_independent_count": 4.7,
+      "detected_source_count": 5,
+      "effective_independent_count": 3.1,
       "entity_aliases": [
         "Bayan (BYAN",
         "Bayan Resources",
@@ -4386,8 +4386,8 @@
       ],
       "entity_resolution_source": "ISSUER_ALIAS_MEMORY+ISSUER_PROFILE_CACHE+RUMOR_EXPLICIT_TICKER",
       "first_seen_utc": "2026-08-18T02:41:36+00:00",
-      "high_quality_source_count": 3,
-      "independent_story_count": 8,
+      "high_quality_source_count": 2,
+      "independent_story_count": 5,
       "issuer_profile": {
         "business_activity": "PT Bayan Resources Tbk., together with its subsidiaries, engages in the open cut mining and sale of coal in Indonesia. It operates through Coal and Non-Coal segments.",
         "controller": {
@@ -4474,7 +4474,7 @@
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWGlqS1pzejZxMHVaZGJVamJYaDNyQjdEZ2dXV2RaZ3ZtLVltbUJLVHVZYWFEZmFOSmFLUUNqTk55eDFwenRobG1xTzVURDNGNU9iNF9hZk5UYjgzdnZmeHkyazhvdjVMcC16T2J5OXBqRmRiR1RTZ2lWZjVNRjhqaHdZakxqX3lXYW9nMGpSdGluNFFsUWhpM0trdw?oc=5",
       "market_data": null,
       "official_confirmation": null,
-      "premium_source_count": 3,
+      "premium_source_count": 2,
       "profile_refresh_utc": "2026-08-20T03:21:46.587724+00:00",
       "published": "Wed, 19 Aug 2026 05:56:25 GMT",
       "rumor_details": {
@@ -4510,16 +4510,6 @@
         },
         {
           "derivative": false,
-          "group": "investor.id",
-          "new_material": 0,
-          "quality": "HIGH",
-          "semantic_copy": false,
-          "source": "investor.id",
-          "tier": 4,
-          "weight": 1.0
-        },
-        {
-          "derivative": false,
           "group": "sawitku",
           "new_material": 0,
           "quality": "LOW",
@@ -4547,39 +4537,19 @@
           "source": "Periskop.id",
           "tier": 1,
           "weight": 0.35
-        },
-        {
-          "derivative": false,
-          "group": "mediakompeten",
-          "new_material": 0,
-          "quality": "LOW",
-          "semantic_copy": false,
-          "source": "MediaKompeten",
-          "tier": 1,
-          "weight": 0.35
-        },
-        {
-          "derivative": false,
-          "group": "terkini24.id",
-          "new_material": 0,
-          "quality": "LOW",
-          "semantic_copy": false,
-          "source": "Terkini24.id",
-          "tier": 1,
-          "weight": 0.35
         }
       ],
       "source_count": 14,
       "source_quality": "HIGH",
-      "source_quality_score": 13.7,
+      "source_quality_score": 9.0,
       "sources": [
         "CNBC Indonesia",
         "Tempo.co",
-        "investor.id",
-        "MediaKompeten",
         "Sawitku",
         "Periskop.id",
         "sekbernews.id",
+        "investor.id",
+        "MediaKompeten",
         "Terkini24.id"
       ],
       "status": "ACTIVE",
@@ -5120,7 +5090,7 @@
         "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
         "owner_v4_checked_utc": "2026-08-20T04:04:24.024668+00:00",
         "owner_v4_pages_fetched": 0,
-        "owner_v6_checked_utc": "2026-08-22T17:00:52.512292+00:00",
+        "owner_v6_checked_utc": "2026-08-23T05:01:04.944723+00:00",
         "owner_v6_pages_fetched": 0,
         "profile_source": "Yahoo Finance",
         "profile_source_quality": "FALLBACK",
@@ -5129,7 +5099,7 @@
         "subindustry": null,
         "subsector": null,
         "ticker": "PACK",
-        "verified_at": "2026-08-22T17:00:53.105852+00:00",
+        "verified_at": "2026-08-23T05:01:05.574031+00:00",
         "website": "https://www.flexypack.com"
       },
       "key": "STRATEGIC INVESTOR|TICKER|PACK",
@@ -5139,7 +5109,7 @@
       "market_data": null,
       "official_confirmation": null,
       "premium_source_count": 1,
-      "profile_refresh_utc": "2026-08-22T17:00:57.505833+00:00",
+      "profile_refresh_utc": "2026-08-23T05:01:10.030969+00:00",
       "published": "Wed, 19 Aug 2026 09:54:52 GMT",
       "rumor_details": {
         "ipo_price": null,
