@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 10,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 326,
-  "early_signal_last_scan_utc": "2026-08-24T00:30:47.830180+00:00",
+  "early_signal_last_scan_utc": "2026-08-24T00:40:48.347822+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -3.55,
@@ -4465,7 +4465,7 @@
     }
   },
   "last_keepalive_utc": "2026-08-14T10:15:00.868800+00:00",
-  "last_state_change_utc": "2026-08-24T00:30:47.848978+00:00",
+  "last_state_change_utc": "2026-08-24T00:40:48.372037+00:00",
   "market_noise_suppressed": 2,
   "milestone_alerts": {},
   "rumor_alerts_sent": 6,
@@ -4473,11 +4473,11 @@
   "rumor_confirmed_count": 0,
   "rumor_confirmed_dedups": 0,
   "rumor_denied_count": 0,
-  "rumor_duplicates_suppressed": 19,
+  "rumor_duplicates_suppressed": 20,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 0,
-  "rumor_integrity_repairs": 11,
-  "rumor_last_scan_utc": "2026-08-24T00:30:46.257493+00:00",
+  "rumor_integrity_repairs": 12,
+  "rumor_last_scan_utc": "2026-08-24T00:40:47.508237+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -4485,8 +4485,8 @@
       "copy_duplicate_count": 0,
       "credible_effective_independent_count": 1.0,
       "derivative_source_count": 0,
-      "detected_source_count": 2,
-      "effective_independent_count": 1.4,
+      "detected_source_count": 1,
+      "effective_independent_count": 1.0,
       "entity_aliases": [
         "Bayan (BYAN",
         "Bayan Resources",
@@ -4499,7 +4499,7 @@
       "entity_resolution_source": "ISSUER_ALIAS_MEMORY+ISSUER_PROFILE_CACHE+RUMOR_EXPLICIT_TICKER",
       "first_seen_utc": "2026-08-18T02:41:36+00:00",
       "high_quality_source_count": 1,
-      "independent_story_count": 2,
+      "independent_story_count": 1,
       "issuer_profile": {
         "business_activity": "PT Bayan Resources Tbk., together with its subsidiaries, engages in the open cut mining and sale of coal in Indonesia. It operates through Coal and Non-Coal segments.",
         "controller": {
@@ -4624,21 +4624,11 @@
           "source": "CNBC Indonesia",
           "tier": 4,
           "weight": 1.0
-        },
-        {
-          "derivative": false,
-          "group": "sawitku",
-          "new_material": 0,
-          "quality": "LOW",
-          "semantic_copy": false,
-          "source": "Sawitku",
-          "tier": 1,
-          "weight": 0.35
         }
       ],
       "source_count": 14,
       "source_quality": "MEDIUM",
-      "source_quality_score": 4.3,
+      "source_quality_score": 4.0,
       "sources": [
         "CNBC Indonesia",
         "Sawitku",
@@ -4650,7 +4640,7 @@
         "Terkini24.id"
       ],
       "status": "ACTIVE",
-      "strength": "MEDIUM",
+      "strength": "WEAK",
       "ticker": "BYAN",
       "title": "Diterpa Isu Akuisisi Bayan (BYAN), Emiten Milik Haji Isam Buka Suara - CNBC Indonesia"
     },
