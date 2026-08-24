@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 10,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 326,
-  "early_signal_last_scan_utc": "2026-08-24T06:20:57.319443+00:00",
+  "early_signal_last_scan_utc": "2026-08-24T06:30:59.266331+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -3.55,
@@ -4201,6 +4201,26 @@
       "verified_at": "2026-08-24T03:31:07.568296+00:00",
       "website": null
     },
+    "AWAL": {
+      "business_activity": null,
+      "controller": null,
+      "industry": null,
+      "issuer_name": "AWAL",
+      "owner_context_sources": 0,
+      "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
+      "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
+      "owner_v6_checked_utc": "2026-08-24T06:30:51.168251+00:00",
+      "owner_v6_pages_fetched": 0,
+      "profile_source": "Yahoo Finance",
+      "profile_source_quality": "FALLBACK",
+      "profile_source_url": null,
+      "sector": null,
+      "subindustry": null,
+      "subsector": null,
+      "ticker": "AWAL",
+      "verified_at": "2026-08-24T06:30:52.157017+00:00",
+      "website": null
+    },
     "BIKE": {
       "business_activity": "PT Sepeda Bersama Indonesia Tbk engages in the trading of bicycles, electric motorcycle, baby stroller, and others in Indonesia. The company is involved in wholesale of sports equipment, land transportation equipment, and spare parts and eq",
       "controller": null,
@@ -4521,7 +4541,7 @@
     }
   },
   "last_keepalive_utc": "2026-08-14T10:15:00.868800+00:00",
-  "last_state_change_utc": "2026-08-24T06:21:11.406986+00:00",
+  "last_state_change_utc": "2026-08-24T06:30:59.286585+00:00",
   "market_noise_suppressed": 2,
   "milestone_alerts": {},
   "rumor_alerts_sent": 7,
@@ -4532,8 +4552,8 @@
   "rumor_duplicates_suppressed": 20,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 0,
-  "rumor_integrity_repairs": 63,
-  "rumor_last_scan_utc": "2026-08-24T06:20:55.215825+00:00",
+  "rumor_integrity_repairs": 65,
+  "rumor_last_scan_utc": "2026-08-24T06:30:57.002334+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -5131,6 +5151,89 @@
       "strength": "MEDIUM",
       "ticker": "ANAK",
       "title": "Anak Usaha Holding UGM Akan IPO di Bursa Efek - Tempo.co"
+    },
+    "IPO|TICKER|AWAL": {
+      "category": "IPO",
+      "company_name": "PT SWAYASA PRAKARSA TBK",
+      "copy_duplicate_count": 0,
+      "credible_effective_independent_count": 1.1,
+      "derivative_source_count": 0,
+      "detected_source_count": 1,
+      "effective_independent_count": 1.1,
+      "entity_aliases": [
+        "SWAYASA PRAKARSA"
+      ],
+      "entity_resolution_source": null,
+      "first_seen_utc": "2026-08-22T07:00:00+00:00",
+      "high_quality_source_count": 1,
+      "independent_story_count": 1,
+      "issuer_profile": {
+        "business_activity": null,
+        "controller": null,
+        "industry": null,
+        "issuer_name": "AWAL",
+        "owner_context_sources": 0,
+        "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
+        "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
+        "owner_v6_checked_utc": "2026-08-24T06:30:51.168251+00:00",
+        "owner_v6_pages_fetched": 0,
+        "profile_source": "Yahoo Finance",
+        "profile_source_quality": "FALLBACK",
+        "profile_source_url": null,
+        "sector": null,
+        "subindustry": null,
+        "subsector": null,
+        "ticker": "AWAL",
+        "verified_at": "2026-08-24T06:30:52.157017+00:00",
+        "website": null
+      },
+      "key": "IPO|TICKER|AWAL",
+      "last_seen_utc": "2026-08-22T07:00:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8tdGhjQUd4bWp5dTVqNlZGVnBibkNpWFF1aVhkU0pobnF2eHJDRnhVaGp1ZVE4b2RvRk90UmprYjUxcWJvUmlTQWhMMWdCNEpfWU56TzFNckVnMWlOT21ZV2tLcWh6MjlXcmF6NHpLNlI?oc=5",
+      "market_data": null,
+      "official_confirmation": {
+        "event_type": "IPO",
+        "official_reference": null,
+        "stage": "RENCANA / PROSPEKTUS",
+        "title": "PROSPEKTUS AWAL - PT SWAYASA PRAKARSA TBK - e-IPO.co.id"
+      },
+      "premium_source_count": 1,
+      "profile_refresh_utc": "2026-08-24T06:30:56.999173+00:00",
+      "published": "Sat, 22 Aug 2026 07:00:00 GMT",
+      "rumor_details": {
+        "ipo_price": null,
+        "listing_estimate": null,
+        "money": [],
+        "percentages": [],
+        "price_range": null,
+        "rumored_party": null,
+        "share_count": null,
+        "underwriter": null
+      },
+      "semantic_copy_count": 0,
+      "source": "e-IPO.co.id",
+      "source_breakdown": [
+        {
+          "derivative": false,
+          "group": "e-ipo.co.id",
+          "new_material": 0,
+          "quality": "OFFICIAL",
+          "semantic_copy": false,
+          "source": "e-IPO.co.id",
+          "tier": 5,
+          "weight": 1.1
+        }
+      ],
+      "source_count": 1,
+      "source_quality": "MEDIUM",
+      "source_quality_score": 5.5,
+      "sources": [
+        "e-IPO.co.id"
+      ],
+      "status": "CONFIRMED OFFICIAL",
+      "strength": "CONFIRMED OFFICIAL",
+      "ticker": "AWAL",
+      "title": "PROSPEKTUS AWAL - PT SWAYASA PRAKARSA TBK - e-IPO.co.id"
     },
     "IPO|TICKER|SWAP": {
       "category": "IPO",
