@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 10,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 326,
-  "early_signal_last_scan_utc": "2026-08-24T21:40:50.341223+00:00",
+  "early_signal_last_scan_utc": "2026-08-24T21:50:49.720311+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -3.55,
@@ -2604,6 +2604,44 @@
       },
       "ticker": "IRSX"
     },
+    "RIGHTS ISSUE|TICKER|JGLE": {
+      "family": "RIGHTS ISSUE",
+      "first_seen_utc": "2026-08-24T21:51:20.210093+00:00",
+      "last_alert_utc": "2026-08-24T21:51:20.210086+00:00",
+      "last_seen_utc": "2026-08-24T21:51:20.210086+00:00",
+      "market_context": {
+        "change_pct": -2.1978,
+        "last_price": 89.0,
+        "market_date": "2026-08-21"
+      },
+      "material_snapshot": {
+        "acquirer": null,
+        "acquirer_confirmed": false,
+        "event_type": "RIGHTS ISSUE",
+        "execution_price": null,
+        "ipo_single_price": null,
+        "money": [],
+        "official_authority": null,
+        "official_kind": null,
+        "price_range": null,
+        "ratio": null,
+        "schedule": {},
+        "share_count": null,
+        "stage": "RENCANA",
+        "stage_step": 2,
+        "stage_total": 6,
+        "stake": [],
+        "standby_buyer": null,
+        "target": null,
+        "target_confirmed": false,
+        "tender_price": null,
+        "underwriter": null,
+        "use_of_funds": [
+          "EKSPANSI / CAPEX"
+        ]
+      },
+      "ticker": "JGLE"
+    },
     "RIGHTS ISSUE|TICKER|MGLV": {
       "family": "RIGHTS ISSUE",
       "first_seen_utc": "2026-08-14T10:15:00.868800+00:00",
@@ -4468,6 +4506,26 @@
       "verified_at": "2026-08-24T20:40:57.480318+00:00",
       "website": "https://www.ptjar.com"
     },
+    "JGLE": {
+      "business_activity": "PT Graha Andrasentra Propertindo Tbk engages in the development and management of recreational parks in Indonesia. It operates through four divisions: Hotel and Condotel, Real Estate, Recreation Park, and Others.",
+      "controller": null,
+      "industry": "Leisure",
+      "issuer_name": "Graha Andrasentra Propertindo",
+      "owner_context_sources": 0,
+      "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
+      "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
+      "owner_v6_checked_utc": "2026-08-24T21:51:19.551045+00:00",
+      "owner_v6_pages_fetched": 0,
+      "profile_source": "Yahoo Finance",
+      "profile_source_quality": "FALLBACK",
+      "profile_source_url": null,
+      "sector": "Consumer Cyclical",
+      "subindustry": null,
+      "subsector": null,
+      "ticker": "JGLE",
+      "verified_at": "2026-08-24T21:51:01.139179+00:00",
+      "website": "https://www.jungleseries.co.id"
+    },
     "NAYZ": {
       "business_activity": "PT Hassana Boga Sejahtera Tbk engages in the production and sale of food products in Indonesia. It operates through two segments: Organic Baby Food and Rice and Business Tools.",
       "controller": null,
@@ -4608,7 +4666,7 @@
     }
   },
   "last_keepalive_utc": "2026-08-14T10:15:00.868800+00:00",
-  "last_state_change_utc": "2026-08-24T21:40:50.364995+00:00",
+  "last_state_change_utc": "2026-08-24T21:51:20.210881+00:00",
   "market_noise_suppressed": 2,
   "milestone_alerts": {},
   "rumor_alerts_sent": 7,
@@ -4619,8 +4677,8 @@
   "rumor_duplicates_suppressed": 34,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 0,
-  "rumor_integrity_repairs": 248,
-  "rumor_last_scan_utc": "2026-08-24T21:40:48.856471+00:00",
+  "rumor_integrity_repairs": 250,
+  "rumor_last_scan_utc": "2026-08-24T21:50:48.127532+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -5847,6 +5905,7 @@
     "e6ecb3d2002ace4b88aeb341a8fbe02419335242494b15dc4b7146461142cfdb": "2026-08-19T05:10:54.068710+00:00",
     "e7a14e7a29ac6843f16808b7f3642a1cb34fb40004cd444ae14be203d0c93cfb": "2026-08-20T03:21:47.165417+00:00",
     "e93e5d0c3d6b46be06568f45420d6336e6ca9b5279bc6f03d289eba0f76a4a3e": "2026-08-14T10:15:00.868800+00:00",
+    "e9ac5621abccdacf7d20863612e836c96881aff9f06ffe212d01b2cb5c47a5a7": "2026-08-24T21:51:20.210067+00:00",
     "ea1d49ec1236faf345355f86b1cdbed9030eccbb0655cb8ba4064f4984722fbe": "2026-08-14T10:15:00.868800+00:00",
     "ea5b49df6429cc6c8767991395bc48756a1c9e8d933e341a8141ed16a7888fad": "2026-08-14T23:40:54.238301+00:00",
     "ead38d8001275dd0ffb5706c852bd632a4a09fbc9c7139e273478199e46af600": "2026-08-14T10:15:00.868800+00:00",
