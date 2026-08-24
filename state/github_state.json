@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 10,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 326,
-  "early_signal_last_scan_utc": "2026-08-24T00:21:21.455160+00:00",
+  "early_signal_last_scan_utc": "2026-08-24T00:30:47.830180+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -3.55,
@@ -4370,7 +4370,7 @@
       "owner_context_sources": 0,
       "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
       "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-      "owner_v6_checked_utc": "2026-08-24T00:20:56.443244+00:00",
+      "owner_v6_checked_utc": "2026-08-20T11:55:15.643238+00:00",
       "owner_v6_pages_fetched": 0,
       "profile_source": "Yahoo Finance",
       "profile_source_quality": "FALLBACK",
@@ -4465,7 +4465,7 @@
     }
   },
   "last_keepalive_utc": "2026-08-14T10:15:00.868800+00:00",
-  "last_state_change_utc": "2026-08-24T00:21:21.477088+00:00",
+  "last_state_change_utc": "2026-08-24T00:30:47.848978+00:00",
   "market_noise_suppressed": 2,
   "milestone_alerts": {},
   "rumor_alerts_sent": 6,
@@ -4476,8 +4476,8 @@
   "rumor_duplicates_suppressed": 19,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 0,
-  "rumor_integrity_repairs": 10,
-  "rumor_last_scan_utc": "2026-08-24T00:21:20.845876+00:00",
+  "rumor_integrity_repairs": 11,
+  "rumor_last_scan_utc": "2026-08-24T00:30:46.257493+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
