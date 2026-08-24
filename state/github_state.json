@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 10,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 326,
-  "early_signal_last_scan_utc": "2026-08-24T07:01:53.431150+00:00",
+  "early_signal_last_scan_utc": "2026-08-24T07:10:50.161955+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -3.55,
@@ -41,6 +41,57 @@
   },
   "event_duplicates_suppressed": 4,
   "event_memory": {
+    "IPO|TICKER|SWAP": {
+      "family": "IPO",
+      "first_seen_utc": "2026-08-24T07:11:05.738548+00:00",
+      "last_alert_utc": "2026-08-24T07:11:05.738542+00:00",
+      "last_seen_utc": "2026-08-24T07:11:05.738542+00:00",
+      "market_context": {
+        "change_pct": null,
+        "last_price": null,
+        "market_date": null
+      },
+      "material_snapshot": {
+        "acquirer": null,
+        "acquirer_confirmed": false,
+        "event_type": "IPO",
+        "execution_price": null,
+        "ipo_single_price": "Rp130",
+        "money": [
+          "Rp15,8 miliar",
+          "Rp12,2 miliar",
+          "Rp45,22 miliar",
+          "Rp12 miliar",
+          "Rp2,39 triliun"
+        ],
+        "official_authority": null,
+        "official_kind": null,
+        "price_range": "Rp130\u2013Rp140",
+        "ratio": null,
+        "schedule": {
+          "allotment": "8 September 2026",
+          "bookbuilding": "27 Agustus 2026",
+          "distribution": "9 September 2026",
+          "listing": "10 September 2026",
+          "offering": "8 September 2026"
+        },
+        "share_count": "323 Juta saham",
+        "stage": "OFFERING",
+        "stage_step": 4,
+        "stage_total": 5,
+        "stake": [],
+        "standby_buyer": null,
+        "target": null,
+        "target_confirmed": false,
+        "tender_price": null,
+        "underwriter": null,
+        "use_of_funds": [
+          "EKSPANSI / CAPEX",
+          "MODAL KERJA"
+        ]
+      },
+      "ticker": "SWAP"
+    },
     "IPO|TITLE|BEI ADA CALON ANTRE DUA BERASAL SEKTOR": {
       "family": "IPO",
       "first_seen_utc": "2026-08-14T10:15:00.868800+00:00",
@@ -4541,7 +4592,7 @@
     }
   },
   "last_keepalive_utc": "2026-08-14T10:15:00.868800+00:00",
-  "last_state_change_utc": "2026-08-24T07:01:53.431843+00:00",
+  "last_state_change_utc": "2026-08-24T07:11:05.739255+00:00",
   "market_noise_suppressed": 2,
   "milestone_alerts": {},
   "rumor_alerts_sent": 7,
@@ -4553,7 +4604,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 0,
   "rumor_integrity_repairs": 74,
-  "rumor_last_scan_utc": "2026-08-24T07:01:52.146490+00:00",
+  "rumor_last_scan_utc": "2026-08-24T07:10:48.937812+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -5075,7 +5126,7 @@
     },
     "IPO|TICKER|ANAK": {
       "category": "IPO",
-      "company_name": "ANAK",
+      "company_name": "Anak Usaha Holding UGM",
       "copy_duplicate_count": 0,
       "credible_effective_independent_count": 1.0,
       "derivative_source_count": 0,
@@ -5154,7 +5205,7 @@
     },
     "IPO|TICKER|AWAL": {
       "category": "IPO",
-      "company_name": "AWAL",
+      "company_name": "PT SWAYASA PRAKARSA TBK",
       "copy_duplicate_count": 0,
       "credible_effective_independent_count": 1.1,
       "derivative_source_count": 0,
@@ -5237,7 +5288,7 @@
     },
     "IPO|TICKER|SWAP": {
       "category": "IPO",
-      "company_name": "SWAP",
+      "company_name": "Perusahaan Hilirisasi Riset UGM (SWAP)",
       "copy_duplicate_count": 0,
       "credible_effective_independent_count": 0,
       "derivative_source_count": 0,
@@ -5601,6 +5652,7 @@
     "45beca7738c9133f975c545cd682b0704c633b21a3b90e2c06f6e9f162373e45": "2026-08-20T03:21:47.165417+00:00",
     "464a20bba82985eb77ce70d1c30daa691c2b1a20af5dfeff2e45adc48c48fa9b": "2026-08-18T02:50:54.706608+00:00",
     "476d0f3eccd6d3ee387f32cdcaa15e804cc8f0ffc5fa48602544f0d233749f07": "2026-08-14T10:15:00.868800+00:00",
+    "4c3e55e60c546b9aa3b7f895e7d064df342650b458b7d41f19bd5607aa2ada25": "2026-08-24T07:11:05.738523+00:00",
     "4db158fa131d9bdb7e06da8ba6759fe5073e4e9c9bac3496a711b3431d107ebd": "2026-08-14T10:15:00.868800+00:00",
     "4e440b65597626aeb9c337edac2f1103fb81d8886d5affb654ce547d687ff0c1": "2026-08-14T10:15:00.868800+00:00",
     "50ad4d7c9c039627d76169a49ab09b4d4e66fdfb5259614ccc6f0dd634aa5d46": "2026-08-14T10:15:00.868800+00:00",
@@ -5663,6 +5715,7 @@
     "ab55c1c087e0bd13a04443a236414c4cb9378bed12a1d932ddc0cfb378046ca0": "2026-08-14T10:15:00.868800+00:00",
     "ab6b0a28bba2940698074464521b8f48f25fc4ca5c896c76eabcb22e0d930d9b": "2026-08-14T10:15:00.868800+00:00",
     "ab8a753768f1d230d4a516be72753d21bbfa92370053a4ab72d50a05d707ad8e": "2026-08-14T10:15:00.868800+00:00",
+    "ac0f81ec5b124055a4f52336e4599421ac686ff8ec8de6dde98263bf40948a64": "2026-08-24T07:11:05.738523+00:00",
     "acb72e87943af90a14485f30f1044d5d2acde6387f81233cdba01c039de9385d": "2026-08-14T10:15:00.868800+00:00",
     "b7bd20f30f796bf190b07fa5f4ebe9ffd23fd9fef600842cc82874aa15d28fab": "2026-08-19T05:22:31.609048+00:00",
     "b7e2dd72313f82062863e8a488cb6ab2caa15d261ef46487e0f04598f08bf542": "2026-08-14T10:15:00.868800+00:00",
