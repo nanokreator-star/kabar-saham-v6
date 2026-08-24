@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 10,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 326,
-  "early_signal_last_scan_utc": "2026-08-24T14:20:50.099611+00:00",
+  "early_signal_last_scan_utc": "2026-08-24T14:35:33.291361+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -3.55,
@@ -4228,6 +4228,26 @@
     }
   },
   "issuer_profile_cache": {
+    "ADHI": {
+      "business_activity": "PT Adhi Karya (Persero) Tbk engages in the construction service businesses in Indonesia. It operates through The Engineering and Construction; Property and Hospitality; Manufacturing; and Investments and Concessions segments.",
+      "controller": null,
+      "industry": "Engineering & Construction",
+      "issuer_name": "Adhi Karya (Persero",
+      "owner_context_sources": 0,
+      "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
+      "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
+      "owner_v6_checked_utc": "2026-08-24T14:33:09.276524+00:00",
+      "owner_v6_pages_fetched": 0,
+      "profile_source": "Yahoo Finance",
+      "profile_source_quality": "FALLBACK",
+      "profile_source_url": null,
+      "sector": "Industrials",
+      "subindustry": null,
+      "subsector": null,
+      "ticker": "ADHI",
+      "verified_at": "2026-08-24T14:33:10.352591+00:00",
+      "website": "https://adhi.co.id"
+    },
     "ANAK": {
       "business_activity": null,
       "controller": null,
@@ -4588,7 +4608,7 @@
     }
   },
   "last_keepalive_utc": "2026-08-14T10:15:00.868800+00:00",
-  "last_state_change_utc": "2026-08-24T14:20:50.121859+00:00",
+  "last_state_change_utc": "2026-08-24T14:35:33.316478+00:00",
   "market_noise_suppressed": 2,
   "milestone_alerts": {},
   "rumor_alerts_sent": 7,
@@ -4599,8 +4619,8 @@
   "rumor_duplicates_suppressed": 32,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 0,
-  "rumor_integrity_repairs": 163,
-  "rumor_last_scan_utc": "2026-08-24T14:20:47.900641+00:00",
+  "rumor_integrity_repairs": 165,
+  "rumor_last_scan_utc": "2026-08-24T14:35:30.799437+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -5432,6 +5452,82 @@
       "strength": "WEAK",
       "ticker": null,
       "title": "Menimbang Wacana IPO Pelindo - investor.id"
+    },
+    "SPIN-OFF / RESTRUCTURING|TICKER|ADHI": {
+      "category": "SPIN-OFF / RESTRUCTURING",
+      "company_name": "PT Adh",
+      "copy_duplicate_count": 0,
+      "credible_effective_independent_count": 1.1,
+      "derivative_source_count": 0,
+      "detected_source_count": 1,
+      "effective_independent_count": 1.1,
+      "entity_aliases": [],
+      "entity_resolution_source": null,
+      "first_seen_utc": "2026-08-21T07:00:00+00:00",
+      "high_quality_source_count": 1,
+      "independent_story_count": 1,
+      "issuer_profile": {
+        "business_activity": "PT Adhi Karya (Persero) Tbk engages in the construction service businesses in Indonesia. It operates through The Engineering and Construction; Property and Hospitality; Manufacturing; and Investments and Concessions segments.",
+        "controller": null,
+        "industry": "Engineering & Construction",
+        "issuer_name": "Adhi Karya (Persero",
+        "owner_context_sources": 0,
+        "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
+        "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
+        "owner_v6_checked_utc": "2026-08-24T14:33:09.276524+00:00",
+        "owner_v6_pages_fetched": 0,
+        "profile_source": "Yahoo Finance",
+        "profile_source_quality": "FALLBACK",
+        "profile_source_url": null,
+        "sector": "Industrials",
+        "subindustry": null,
+        "subsector": null,
+        "ticker": "ADHI",
+        "verified_at": "2026-08-24T14:33:10.352591+00:00",
+        "website": "https://adhi.co.id"
+      },
+      "key": "SPIN-OFF / RESTRUCTURING|TICKER|ADHI",
+      "last_seen_utc": "2026-08-24T13:17:04+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOa2psYUtJQjJZWVNBUzhJSXlqV016WFE4aGMzU1diVDVjV2tsaXU5aGVOeUdCZk91c0NFZGd4REpZQzlrNkh0Q0lNQkRmTG4tRlFYdFp6V0FDS1ZFVXhxcUdCQWZvOWMxYmkxLWlkN21ROG9UUDFzb0kyZEl3X240d0JOcDFpV2ZLWUJYNURpR2xTNzBrMjRDaVVFdm1kVXg0YzFGa2JaTVhUelgzZkhtcWRXOA?oc=5",
+      "market_data": null,
+      "official_confirmation": null,
+      "premium_source_count": 1,
+      "profile_refresh_utc": "2026-08-24T14:35:30.797301+00:00",
+      "published": "Mon, 24 Aug 2026 13:17:04 GMT",
+      "rumor_details": {
+        "ipo_price": null,
+        "listing_estimate": null,
+        "money": [],
+        "percentages": [],
+        "price_range": null,
+        "rumored_party": null,
+        "share_count": null,
+        "underwriter": null
+      },
+      "semantic_copy_count": 0,
+      "source": "PT Bursa Efek Indonesia",
+      "source_breakdown": [
+        {
+          "derivative": false,
+          "group": "pt bursa efek indonesia",
+          "new_material": 0,
+          "quality": "OFFICIAL",
+          "semantic_copy": false,
+          "source": "PT Bursa Efek Indonesia",
+          "tier": 5,
+          "weight": 1.1
+        }
+      ],
+      "source_count": 1,
+      "source_quality": "MEDIUM",
+      "source_quality_score": 5.5,
+      "sources": [
+        "PT Bursa Efek Indonesia"
+      ],
+      "status": "CONFIRMED OFFICIAL",
+      "strength": "CONFIRMED OFFICIAL",
+      "ticker": "ADHI",
+      "title": "PENGUMUMAN Restrukturisasi Obligasi PT Adhi Karya (Persero) Tbk (ADHI) Tercatat di Papan: Utama No.: Peng-P-00956/BEI.PP2/08-202 - PT Bursa Efek Indonesia"
     },
     "SPIN-OFF / RESTRUCTURING|TICKER|WIKA": {
       "category": "SPIN-OFF / RESTRUCTURING",
