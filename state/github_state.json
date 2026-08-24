@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 10,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 326,
-  "early_signal_last_scan_utc": "2026-08-24T20:30:59.056801+00:00",
+  "early_signal_last_scan_utc": "2026-08-24T20:41:04.328095+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -3.55,
@@ -4452,11 +4452,11 @@
       "industry": "Farm Products",
       "issuer_name": "Jhonlin Agro Raya",
       "owner_context_sources": 0,
-      "owner_discovery_method": "STRICT_OFFICIAL_SECTION_V5",
+      "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
       "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
       "owner_v5_checked_utc": "2026-08-20T06:52:14.456932+00:00",
       "owner_v5_pages_fetched": 1,
-      "owner_v6_checked_utc": "2026-08-24T08:30:56.660941+00:00",
+      "owner_v6_checked_utc": "2026-08-24T20:40:56.753485+00:00",
       "owner_v6_pages_fetched": 0,
       "profile_source": "Yahoo Finance",
       "profile_source_quality": "FALLBACK",
@@ -4465,7 +4465,7 @@
       "subindustry": null,
       "subsector": null,
       "ticker": "JARR",
-      "verified_at": "2026-08-24T08:30:58.056670+00:00",
+      "verified_at": "2026-08-24T20:40:57.480318+00:00",
       "website": "https://www.ptjar.com"
     },
     "NAYZ": {
@@ -4608,7 +4608,7 @@
     }
   },
   "last_keepalive_utc": "2026-08-14T10:15:00.868800+00:00",
-  "last_state_change_utc": "2026-08-24T20:30:59.078480+00:00",
+  "last_state_change_utc": "2026-08-24T20:41:04.354563+00:00",
   "market_noise_suppressed": 2,
   "milestone_alerts": {},
   "rumor_alerts_sent": 7,
@@ -4619,8 +4619,8 @@
   "rumor_duplicates_suppressed": 34,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 0,
-  "rumor_integrity_repairs": 234,
-  "rumor_last_scan_utc": "2026-08-24T20:30:57.627523+00:00",
+  "rumor_integrity_repairs": 236,
+  "rumor_last_scan_utc": "2026-08-24T20:41:03.531009+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -4812,7 +4812,7 @@
         "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
         "owner_v5_checked_utc": "2026-08-20T06:52:14.456932+00:00",
         "owner_v5_pages_fetched": 1,
-        "owner_v6_checked_utc": "2026-08-24T08:30:56.660941+00:00",
+        "owner_v6_checked_utc": "2026-08-24T20:40:56.753485+00:00",
         "owner_v6_pages_fetched": 0,
         "profile_source": "Yahoo Finance",
         "profile_source_quality": "FALLBACK",
@@ -4821,7 +4821,7 @@
         "subindustry": null,
         "subsector": null,
         "ticker": "JARR",
-        "verified_at": "2026-08-24T08:30:58.056670+00:00",
+        "verified_at": "2026-08-24T20:40:57.480318+00:00",
         "website": "https://www.ptjar.com"
       },
       "key": "AKUISISI / TAKEOVER|TICKER|JARR",
@@ -4844,7 +4844,7 @@
       },
       "official_confirmation": null,
       "premium_source_count": 0,
-      "profile_refresh_utc": "2026-08-24T08:31:06.501872+00:00",
+      "profile_refresh_utc": "2026-08-24T20:41:03.528219+00:00",
       "published": "Fri, 21 Aug 2026 12:59:37 GMT",
       "rumor_details": {
         "ipo_price": null,
