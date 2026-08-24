@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 10,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 326,
-  "early_signal_last_scan_utc": "2026-08-24T11:20:53.495847+00:00",
+  "early_signal_last_scan_utc": "2026-08-24T11:31:10.044583+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -3.55,
@@ -4553,7 +4553,7 @@
       "owner_context_sources": 0,
       "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
       "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-      "owner_v6_checked_utc": "2026-08-23T23:20:44.403085+00:00",
+      "owner_v6_checked_utc": "2026-08-24T11:30:55.805710+00:00",
       "owner_v6_pages_fetched": 0,
       "profile_source": "Yahoo Finance",
       "profile_source_quality": "FALLBACK",
@@ -4562,7 +4562,7 @@
       "subindustry": null,
       "subsector": null,
       "ticker": "SWAP",
-      "verified_at": "2026-08-23T23:21:05.852963+00:00",
+      "verified_at": "2026-08-24T11:30:56.734571+00:00",
       "website": null
     },
     "WIKA": {
@@ -4588,7 +4588,7 @@
     }
   },
   "last_keepalive_utc": "2026-08-14T10:15:00.868800+00:00",
-  "last_state_change_utc": "2026-08-24T11:20:53.516651+00:00",
+  "last_state_change_utc": "2026-08-24T11:31:10.071005+00:00",
   "market_noise_suppressed": 2,
   "milestone_alerts": {},
   "rumor_alerts_sent": 7,
@@ -4599,8 +4599,8 @@
   "rumor_duplicates_suppressed": 32,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 0,
-  "rumor_integrity_repairs": 128,
-  "rumor_last_scan_utc": "2026-08-24T11:20:50.279202+00:00",
+  "rumor_integrity_repairs": 130,
+  "rumor_last_scan_utc": "2026-08-24T11:31:09.024371+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -5284,7 +5284,7 @@
     },
     "IPO|TICKER|SWAP": {
       "category": "IPO",
-      "company_name": "Perusahaan Hilirisasi Riset UGM (SWAP)",
+      "company_name": "SWAP",
       "copy_duplicate_count": 0,
       "credible_effective_independent_count": 0,
       "derivative_source_count": 0,
@@ -5305,7 +5305,7 @@
         "owner_context_sources": 0,
         "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
         "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-        "owner_v6_checked_utc": "2026-08-23T23:20:44.403085+00:00",
+        "owner_v6_checked_utc": "2026-08-24T11:30:55.805710+00:00",
         "owner_v6_pages_fetched": 0,
         "profile_source": "Yahoo Finance",
         "profile_source_quality": "FALLBACK",
@@ -5314,7 +5314,7 @@
         "subindustry": null,
         "subsector": null,
         "ticker": "SWAP",
-        "verified_at": "2026-08-23T23:21:05.852963+00:00",
+        "verified_at": "2026-08-24T11:30:56.734571+00:00",
         "website": null
       },
       "key": "IPO|TICKER|SWAP",
@@ -5324,7 +5324,7 @@
       "market_data": null,
       "official_confirmation": null,
       "premium_source_count": 0,
-      "profile_refresh_utc": "2026-08-23T23:20:59.636490+00:00",
+      "profile_refresh_utc": "2026-08-24T11:31:09.023288+00:00",
       "published": "Sun, 23 Aug 2026 22:52:00 GMT",
       "rumor_details": {
         "ipo_price": null,
