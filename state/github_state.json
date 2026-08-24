@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 10,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 326,
-  "early_signal_last_scan_utc": "2026-08-24T00:01:53.926148+00:00",
+  "early_signal_last_scan_utc": "2026-08-24T00:21:21.455160+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -3.55,
@@ -4370,7 +4370,7 @@
       "owner_context_sources": 0,
       "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
       "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-      "owner_v6_checked_utc": "2026-08-20T11:55:15.643238+00:00",
+      "owner_v6_checked_utc": "2026-08-24T00:20:56.443244+00:00",
       "owner_v6_pages_fetched": 0,
       "profile_source": "Yahoo Finance",
       "profile_source_quality": "FALLBACK",
@@ -4379,7 +4379,7 @@
       "subindustry": null,
       "subsector": null,
       "ticker": "PGUN",
-      "verified_at": "2026-08-23T12:10:54.807604+00:00",
+      "verified_at": "2026-08-24T00:20:57.327559+00:00",
       "website": "https://www.pradiksi.co.id"
     },
     "PIPA": {
@@ -4465,7 +4465,7 @@
     }
   },
   "last_keepalive_utc": "2026-08-14T10:15:00.868800+00:00",
-  "last_state_change_utc": "2026-08-24T00:01:53.926761+00:00",
+  "last_state_change_utc": "2026-08-24T00:21:21.477088+00:00",
   "market_noise_suppressed": 2,
   "milestone_alerts": {},
   "rumor_alerts_sent": 6,
@@ -4477,7 +4477,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 0,
   "rumor_integrity_repairs": 10,
-  "rumor_last_scan_utc": "2026-08-24T00:01:52.515194+00:00",
+  "rumor_last_scan_utc": "2026-08-24T00:21:20.845876+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -4784,7 +4784,7 @@
         "owner_context_sources": 0,
         "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
         "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-        "owner_v6_checked_utc": "2026-08-23T12:10:53.996752+00:00",
+        "owner_v6_checked_utc": "2026-08-24T00:20:56.443244+00:00",
         "owner_v6_pages_fetched": 0,
         "profile_source": "Yahoo Finance",
         "profile_source_quality": "FALLBACK",
@@ -4793,7 +4793,7 @@
         "subindustry": null,
         "subsector": null,
         "ticker": "PGUN",
-        "verified_at": "2026-08-23T12:10:54.807604+00:00",
+        "verified_at": "2026-08-24T00:20:57.327559+00:00",
         "website": "https://www.pradiksi.co.id"
       },
       "key": "AKUISISI / TAKEOVER|TICKER|PGUN",
@@ -4813,7 +4813,7 @@
       },
       "official_confirmation": null,
       "premium_source_count": 1,
-      "profile_refresh_utc": "2026-08-23T12:11:18.632714+00:00",
+      "profile_refresh_utc": "2026-08-24T00:21:20.844789+00:00",
       "published": "Thu, 20 Aug 2026 09:22:21 GMT",
       "rumor_details": {
         "ipo_price": null,
@@ -5019,7 +5019,7 @@
     },
     "IPO|TICKER|SWAP": {
       "category": "IPO",
-      "company_name": "SWAP",
+      "company_name": "Perusahaan Hilirisasi Riset UGM (SWAP)",
       "copy_duplicate_count": 0,
       "credible_effective_independent_count": 0,
       "derivative_source_count": 0,
