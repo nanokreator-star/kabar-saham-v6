@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 10,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 326,
-  "early_signal_last_scan_utc": "2026-08-24T07:50:42.857091+00:00",
+  "early_signal_last_scan_utc": "2026-08-24T08:01:02.315197+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -3.55,
@@ -39,13 +39,13 @@
       "volume_ratio": 10.98
     }
   },
-  "event_duplicates_suppressed": 4,
+  "event_duplicates_suppressed": 5,
   "event_memory": {
     "IPO|TICKER|SWAP": {
       "family": "IPO",
       "first_seen_utc": "2026-08-24T07:11:05.738548+00:00",
       "last_alert_utc": "2026-08-24T07:11:05.738542+00:00",
-      "last_seen_utc": "2026-08-24T07:11:05.738542+00:00",
+      "last_seen_utc": "2026-08-24T08:01:17.664958+00:00",
       "market_context": {
         "change_pct": null,
         "last_price": null,
@@ -4592,7 +4592,7 @@
     }
   },
   "last_keepalive_utc": "2026-08-14T10:15:00.868800+00:00",
-  "last_state_change_utc": "2026-08-24T07:50:42.875188+00:00",
+  "last_state_change_utc": "2026-08-24T08:01:17.665627+00:00",
   "market_noise_suppressed": 2,
   "milestone_alerts": {},
   "rumor_alerts_sent": 7,
@@ -4600,11 +4600,11 @@
   "rumor_confirmed_count": 0,
   "rumor_confirmed_dedups": 0,
   "rumor_denied_count": 0,
-  "rumor_duplicates_suppressed": 23,
+  "rumor_duplicates_suppressed": 24,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 0,
-  "rumor_integrity_repairs": 86,
-  "rumor_last_scan_utc": "2026-08-24T07:50:41.526283+00:00",
+  "rumor_integrity_repairs": 89,
+  "rumor_last_scan_utc": "2026-08-24T08:00:59.917547+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -5323,13 +5323,13 @@
       },
       "key": "IPO|TICKER|SWAP",
       "last_alert_utc": "2026-08-23T23:21:23.908434+00:00",
-      "last_seen_utc": "2026-08-23T22:47:19+00:00",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQckYyT3RqRkZVUHl3NmNPbkZEYTlpSGQ5RWNFMnNYYk5kbUliUjVZc0hsQTU0ejM0N1BnYW5NSC1ZQnZCNWFzLVhiSndrdk5jbERja3M0czV2eFNUNzJqUmxjY052VHI0Y1p3TzNiQlg2SHFsZlIwZWotMnBGYUlVandJemlleDlTT0k0S0pycjk2SlFBZ204QUhlSFFqV0g5aVZ5bENLclNCbDg?oc=5",
+      "last_seen_utc": "2026-08-23T22:52:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSVg2T1J6M0tHV3pESHh5UWhKSzV0Q1BXUV9vcFJuX1J4N0xmYmVBOE5yOW9LUUdPaXAzMTRpUWpISkM1djNLUUplV3ZaTVVicGc0UG9lMWotbThyVVJib2xwbk4wMzZTZGR1VVFGcGRiYXp5QnJ3SFdTcUYtRW5ZSUNFUWg2NTA5Rzd6b2tMeDhvZ1BwaTZmUm8zMUtNUGM1WUhXRDR3?oc=5",
       "market_data": null,
       "official_confirmation": null,
       "premium_source_count": 0,
       "profile_refresh_utc": "2026-08-23T23:20:59.636490+00:00",
-      "published": "Sun, 23 Aug 2026 22:47:19 GMT",
+      "published": "Sun, 23 Aug 2026 22:52:00 GMT",
       "rumor_details": {
         "ipo_price": null,
         "listing_estimate": null,
@@ -5717,6 +5717,7 @@
     "ab8a753768f1d230d4a516be72753d21bbfa92370053a4ab72d50a05d707ad8e": "2026-08-14T10:15:00.868800+00:00",
     "ac0f81ec5b124055a4f52336e4599421ac686ff8ec8de6dde98263bf40948a64": "2026-08-24T07:11:05.738523+00:00",
     "acb72e87943af90a14485f30f1044d5d2acde6387f81233cdba01c039de9385d": "2026-08-14T10:15:00.868800+00:00",
+    "afb2a4f2f71e71bc46e76736b72e57eb28b084a7f27574f22995bd97f8473ca4": "2026-08-24T08:01:17.664942+00:00",
     "b7bd20f30f796bf190b07fa5f4ebe9ffd23fd9fef600842cc82874aa15d28fab": "2026-08-19T05:22:31.609048+00:00",
     "b7e2dd72313f82062863e8a488cb6ab2caa15d261ef46487e0f04598f08bf542": "2026-08-14T10:15:00.868800+00:00",
     "b9a491ff0723d4b28dea6cce10f88216b577a97545819aee9db14c9e339dab0f": "2026-08-14T10:15:00.868800+00:00",
