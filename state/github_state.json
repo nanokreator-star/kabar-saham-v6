@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 10,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 326,
-  "early_signal_last_scan_utc": "2026-08-24T18:30:45.346554+00:00",
+  "early_signal_last_scan_utc": "2026-08-24T18:40:55.878239+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -3.55,
@@ -39,13 +39,13 @@
       "volume_ratio": 10.98
     }
   },
-  "event_duplicates_suppressed": 6,
+  "event_duplicates_suppressed": 7,
   "event_memory": {
     "IPO|TICKER|SWAP": {
       "family": "IPO",
       "first_seen_utc": "2026-08-24T07:11:05.738548+00:00",
-      "last_alert_utc": "2026-08-24T13:41:05.283240+00:00",
-      "last_seen_utc": "2026-08-24T13:41:05.283240+00:00",
+      "last_alert_utc": "2026-08-24T18:40:58.818856+00:00",
+      "last_seen_utc": "2026-08-24T18:40:58.818856+00:00",
       "market_context": {
         "change_pct": null,
         "last_price": null,
@@ -58,8 +58,8 @@
         "execution_price": null,
         "ipo_single_price": "Rp130",
         "money": [
-          "Rp12 miliar",
-          "Rp45,22 miliar"
+          "Rp45,22 miliar",
+          "Rp12 miliar"
         ],
         "official_authority": null,
         "official_kind": null,
@@ -2088,11 +2088,11 @@
       "family": "M&A / TAKEOVER",
       "first_seen_utc": "2026-08-23T18:01:17.078414+00:00",
       "last_alert_utc": "2026-08-23T18:01:17.078408+00:00",
-      "last_seen_utc": "2026-08-23T18:01:17.078408+00:00",
+      "last_seen_utc": "2026-08-24T18:41:06.877036+00:00",
       "market_context": {
-        "change_pct": 0.0,
-        "last_price": 510.0,
-        "market_date": "2026-08-21"
+        "change_pct": null,
+        "last_price": null,
+        "market_date": null
       },
       "material_snapshot": {
         "acquirer": null,
@@ -2118,7 +2118,7 @@
         "underwriter": null,
         "use_of_funds": []
       },
-      "ticker": "BIKE"
+      "ticker": ""
     },
     "M&A / TAKEOVER|TITLE|TUNTAS GELAR WAJIB INET PADA MELONJAK JADI": {
       "family": "M&A / TAKEOVER",
@@ -4608,7 +4608,7 @@
     }
   },
   "last_keepalive_utc": "2026-08-14T10:15:00.868800+00:00",
-  "last_state_change_utc": "2026-08-24T18:30:45.368664+00:00",
+  "last_state_change_utc": "2026-08-24T18:41:06.877781+00:00",
   "market_noise_suppressed": 2,
   "milestone_alerts": {},
   "rumor_alerts_sent": 7,
@@ -4619,8 +4619,8 @@
   "rumor_duplicates_suppressed": 34,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 0,
-  "rumor_integrity_repairs": 210,
-  "rumor_last_scan_utc": "2026-08-24T18:30:43.683671+00:00",
+  "rumor_integrity_repairs": 212,
+  "rumor_last_scan_utc": "2026-08-24T18:40:53.919429+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -5703,6 +5703,7 @@
     "0bd81597f759c20cc8c802928a344b88c585b60223a6a234f8b0f6a0f397b4c0": "2026-08-20T03:21:47.165417+00:00",
     "0ebaf4580944fcfc5be448a9dc5d4bb3eaed38e167d01e95b5350bbdfb9a8a75": "2026-08-18T03:31:02.730821+00:00",
     "0f45ebcc704bd30869f708889cd24a6729bb470886b5ee3c4b27bd93f6c6e0ea": "2026-08-14T10:15:00.868800+00:00",
+    "0fc3314cafd6225f34e24e2cb82de536fcdb7a7444c7cd8a165b687626fa11d3": "2026-08-24T18:41:06.877019+00:00",
     "11251952642978483e7fc9539628f0695211e38e8f80cec519a59bfb86ad7dd0": "2026-08-14T10:15:00.868800+00:00",
     "1168b14369fbc8ee7eb4b60c1e8abba366dfdded5e83960e855dd78bbcae8bec": "2026-08-14T10:15:00.868800+00:00",
     "13ff8f383c56143ea2d2f8aec430d2dfc74bff133c3cb57bb8943a99f3ee71d3": "2026-08-14T10:15:00.868800+00:00",
@@ -5748,6 +5749,7 @@
     "4c3e55e60c546b9aa3b7f895e7d064df342650b458b7d41f19bd5607aa2ada25": "2026-08-24T07:11:05.738523+00:00",
     "4db158fa131d9bdb7e06da8ba6759fe5073e4e9c9bac3496a711b3431d107ebd": "2026-08-14T10:15:00.868800+00:00",
     "4e440b65597626aeb9c337edac2f1103fb81d8886d5affb654ce547d687ff0c1": "2026-08-14T10:15:00.868800+00:00",
+    "506893ebda30af93e087aec77e99484f293d111128bdf15aaf17dbe027e48693": "2026-08-24T18:40:58.818833+00:00",
     "50ad4d7c9c039627d76169a49ab09b4d4e66fdfb5259614ccc6f0dd634aa5d46": "2026-08-14T10:15:00.868800+00:00",
     "545b06b3f1d4403eb1cdd1af9eadc9bf16b65070a95108d13313d06039310251": "2026-08-14T10:15:00.868800+00:00",
     "5531875ed0b9be51815ca052b03d674b0a20b8a2f5337a068932188574711052": "2026-08-21T13:01:30.058267+00:00",
