@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 10,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 326,
-  "early_signal_last_scan_utc": "2026-08-24T05:10:50.504040+00:00",
+  "early_signal_last_scan_utc": "2026-08-24T05:20:49.465157+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -3.55,
@@ -4485,7 +4485,7 @@
     }
   },
   "last_keepalive_utc": "2026-08-14T10:15:00.868800+00:00",
-  "last_state_change_utc": "2026-08-24T05:10:50.526256+00:00",
+  "last_state_change_utc": "2026-08-24T05:20:49.487268+00:00",
   "market_noise_suppressed": 2,
   "milestone_alerts": {},
   "rumor_alerts_sent": 7,
@@ -4496,8 +4496,8 @@
   "rumor_duplicates_suppressed": 20,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 0,
-  "rumor_integrity_repairs": 49,
-  "rumor_last_scan_utc": "2026-08-24T05:10:49.221516+00:00",
+  "rumor_integrity_repairs": 51,
+  "rumor_last_scan_utc": "2026-08-24T05:20:48.280918+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -4670,15 +4670,15 @@
       "copy_duplicate_count": 0,
       "credible_effective_independent_count": 0,
       "derivative_source_count": 0,
-      "detected_source_count": 2,
-      "effective_independent_count": 1.1,
+      "detected_source_count": 1,
+      "effective_independent_count": 0.6,
       "entity_aliases": [
         "Jhonlin Agro Raya"
       ],
       "entity_resolution_source": null,
       "first_seen_utc": "2026-08-20T05:16:48+00:00",
       "high_quality_source_count": 0,
-      "independent_story_count": 2,
+      "independent_story_count": 1,
       "issuer_profile": {
         "business_activity": "PT Jhonlin Agro Raya Tbk engages in the oil palm plantation business in Indonesia. It operates through Biodiesel and Fresh Fruit Bunches.",
         "controller": null,
@@ -4747,21 +4747,11 @@
           "source": "SuaraGarut.ID",
           "tier": 1,
           "weight": 0.55
-        },
-        {
-          "derivative": false,
-          "group": "pdiperjuanganbali.id",
-          "new_material": 1,
-          "quality": "LOW",
-          "semantic_copy": false,
-          "source": "pdiperjuanganbali.id",
-          "tier": 1,
-          "weight": 0.55
         }
       ],
       "source_count": 2,
       "source_quality": "LOW",
-      "source_quality_score": 1.1,
+      "source_quality_score": 0.6,
       "sources": [
         "SuaraGarut.ID",
         "pdiperjuanganbali.id"
