@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 10,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 326,
-  "early_signal_last_scan_utc": "2026-08-24T09:10:53.757624+00:00",
+  "early_signal_last_scan_utc": "2026-08-24T09:20:48.821153+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -3.55,
@@ -44,8 +44,8 @@
     "IPO|TICKER|SWAP": {
       "family": "IPO",
       "first_seen_utc": "2026-08-24T07:11:05.738548+00:00",
-      "last_alert_utc": "2026-08-24T07:11:05.738542+00:00",
-      "last_seen_utc": "2026-08-24T08:01:17.664958+00:00",
+      "last_alert_utc": "2026-08-24T09:21:00.218663+00:00",
+      "last_seen_utc": "2026-08-24T09:21:00.218663+00:00",
       "market_context": {
         "change_pct": null,
         "last_price": null,
@@ -58,11 +58,7 @@
         "execution_price": null,
         "ipo_single_price": "Rp130",
         "money": [
-          "Rp15,8 miliar",
-          "Rp12,2 miliar",
-          "Rp45,22 miliar",
-          "Rp12 miliar",
-          "Rp2,39 triliun"
+          "Rp45,22 miliar"
         ],
         "official_authority": null,
         "official_kind": null,
@@ -4592,7 +4588,7 @@
     }
   },
   "last_keepalive_utc": "2026-08-14T10:15:00.868800+00:00",
-  "last_state_change_utc": "2026-08-24T09:10:53.779711+00:00",
+  "last_state_change_utc": "2026-08-24T09:21:00.219404+00:00",
   "market_noise_suppressed": 2,
   "milestone_alerts": {},
   "rumor_alerts_sent": 7,
@@ -4603,8 +4599,8 @@
   "rumor_duplicates_suppressed": 29,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 0,
-  "rumor_integrity_repairs": 107,
-  "rumor_last_scan_utc": "2026-08-24T09:10:51.477792+00:00",
+  "rumor_integrity_repairs": 110,
+  "rumor_last_scan_utc": "2026-08-24T09:20:46.793777+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -5205,7 +5201,7 @@
     },
     "IPO|TICKER|AWAL": {
       "category": "IPO",
-      "company_name": "PT SWAYASA PRAKARSA TBK",
+      "company_name": "AWAL",
       "copy_duplicate_count": 0,
       "credible_effective_independent_count": 1.1,
       "derivative_source_count": 0,
@@ -5623,6 +5619,7 @@
     "201cf77a86ce6457775cfd97c1ccb044610671ab3dd6955a5a4ad7235dc2f538": "2026-08-14T10:15:00.868800+00:00",
     "21a67ed64ec7f0464e5f657cab58624d287f7467137cc3796ee1b1cb233b6969": "2026-08-18T10:41:00.074050+00:00",
     "227886cc07bab0f58145bba9b78623dc7b4178bfc7164e301676060caaeda962": "2026-08-14T10:15:00.868800+00:00",
+    "23fa35aa38f62afefc77fe3fa2c34f86bb8a4acd22de199c0ad1aeb46fbaa0e1": "2026-08-24T09:21:00.218640+00:00",
     "24c3f86abf09c13899d6aa5e0c7ff1240908e4d8e2f0f5f1b0e0d6eabd465eeb": "2026-08-20T11:56:54.702749+00:00",
     "2509b9d74e72beba4f0773f976e7cadb2a4b1fa149e824df6c839712e37ba7e2": "2026-08-14T10:15:00.868800+00:00",
     "254c500915afa0c07572e1269d8fe55758b52d547473a5368a65e9fac288b9f9": "2026-08-14T10:15:00.868800+00:00",
