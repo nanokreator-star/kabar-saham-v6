@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 10,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 326,
-  "early_signal_last_scan_utc": "2026-08-25T03:30:55.109828+00:00",
+  "early_signal_last_scan_utc": "2026-08-25T03:40:41.439801+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -3.55,
@@ -44,8 +44,8 @@
     "IPO|TICKER|SWAP": {
       "family": "IPO",
       "first_seen_utc": "2026-08-24T07:11:05.738548+00:00",
-      "last_alert_utc": "2026-08-25T02:20:52.960622+00:00",
-      "last_seen_utc": "2026-08-25T02:20:52.960622+00:00",
+      "last_alert_utc": "2026-08-25T03:40:44.114777+00:00",
+      "last_seen_utc": "2026-08-25T03:40:44.114777+00:00",
       "market_context": {
         "change_pct": null,
         "last_price": null,
@@ -83,8 +83,6 @@
         "tender_price": null,
         "underwriter": null,
         "use_of_funds": [
-          "EKSPANSI / CAPEX",
-          "MODAL KERJA",
           "PELUNASAN UTANG"
         ]
       },
@@ -4706,7 +4704,7 @@
     }
   },
   "last_keepalive_utc": "2026-08-14T10:15:00.868800+00:00",
-  "last_state_change_utc": "2026-08-25T03:30:55.132218+00:00",
+  "last_state_change_utc": "2026-08-25T03:40:44.115531+00:00",
   "market_noise_suppressed": 2,
   "milestone_alerts": {},
   "rumor_alerts_sent": 7,
@@ -4717,8 +4715,8 @@
   "rumor_duplicates_suppressed": 34,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 0,
-  "rumor_integrity_repairs": 315,
-  "rumor_last_scan_utc": "2026-08-25T03:30:53.670957+00:00",
+  "rumor_integrity_repairs": 318,
+  "rumor_last_scan_utc": "2026-08-25T03:40:40.085912+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -5319,7 +5317,7 @@
     },
     "IPO|TICKER|AWAL": {
       "category": "IPO",
-      "company_name": "PT SWAYASA PRAKARSA TBK",
+      "company_name": "AWAL",
       "copy_duplicate_count": 0,
       "credible_effective_independent_count": 1.1,
       "derivative_source_count": 0,
@@ -5857,6 +5855,7 @@
     "5857fcb1a51610e48aa797a3eb1a64e8fffac1b2d2812c9cb580f2453e2dba9d": "2026-08-14T10:15:00.868800+00:00",
     "588ad493797c372d05a9b74a128bb94595439789e63e64e83e02d62a5c0e95ff": "2026-08-14T10:15:00.868800+00:00",
     "58eff29ec5e4d01bedd3be6c07f8939acaf478b8ecd111fa9af2cbceba007833": "2026-08-14T10:15:00.868800+00:00",
+    "5b3542b98065b00c16b28b44a087fb7bf627a8a36ae09581bde630cf44911a3f": "2026-08-25T03:40:44.114758+00:00",
     "5cd105a4ed2ea5fe1e967881f73bfd94447ddb769e7066aad8f39244514f5978": "2026-08-14T10:15:00.868800+00:00",
     "5cda5303b6465e333d973fc1d6f8b388cfbf6598701e5ba3c283da0726959d19": "2026-08-14T10:15:00.868800+00:00",
     "5dd1b0dd890a31bb7019ac7d37f0edd82dbfb121dd47b27c204a343bce08eda4": "2026-08-14T10:15:00.868800+00:00",
