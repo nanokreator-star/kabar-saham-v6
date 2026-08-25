@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 10,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 326,
-  "early_signal_last_scan_utc": "2026-08-25T01:31:51.229814+00:00",
+  "early_signal_last_scan_utc": "2026-08-25T01:41:01.477308+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -3.55,
@@ -297,6 +297,44 @@
         "share_count": null,
         "stage": "RENCANA / PROSPEKTUS",
         "stage_step": 2,
+        "stage_total": 5,
+        "stake": [],
+        "standby_buyer": null,
+        "target": null,
+        "target_confirmed": false,
+        "tender_price": null,
+        "underwriter": null,
+        "use_of_funds": []
+      },
+      "ticker": ""
+    },
+    "IPO|TITLE|PT SWAYASA PRAKARSA MULAI MASA BOOKBUILDING DENGAN": {
+      "family": "IPO",
+      "first_seen_utc": "2026-08-25T01:41:06.993860+00:00",
+      "last_alert_utc": "2026-08-25T01:41:06.993855+00:00",
+      "last_seen_utc": "2026-08-25T01:41:06.993855+00:00",
+      "market_context": {
+        "change_pct": null,
+        "last_price": null,
+        "market_date": null
+      },
+      "material_snapshot": {
+        "acquirer": null,
+        "acquirer_confirmed": false,
+        "event_type": "IPO",
+        "execution_price": null,
+        "ipo_single_price": null,
+        "money": [
+          "Rp45 miliar"
+        ],
+        "official_authority": null,
+        "official_kind": null,
+        "price_range": null,
+        "ratio": null,
+        "schedule": {},
+        "share_count": null,
+        "stage": "BOOKBUILDING",
+        "stage_step": 3,
         "stage_total": 5,
         "stake": [],
         "standby_buyer": null,
@@ -4666,7 +4704,7 @@
     }
   },
   "last_keepalive_utc": "2026-08-14T10:15:00.868800+00:00",
-  "last_state_change_utc": "2026-08-25T01:31:51.230890+00:00",
+  "last_state_change_utc": "2026-08-25T01:41:06.994440+00:00",
   "market_noise_suppressed": 2,
   "milestone_alerts": {},
   "rumor_alerts_sent": 7,
@@ -4678,7 +4716,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 0,
   "rumor_integrity_repairs": 293,
-  "rumor_last_scan_utc": "2026-08-25T01:31:49.430509+00:00",
+  "rumor_last_scan_utc": "2026-08-25T01:40:57.513144+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -5200,7 +5238,7 @@
     },
     "IPO|TICKER|ANAK": {
       "category": "IPO",
-      "company_name": "ANAK",
+      "company_name": "Anak Usaha Holding UGM",
       "copy_duplicate_count": 0,
       "credible_effective_independent_count": 1.0,
       "derivative_source_count": 0,
@@ -5362,7 +5400,7 @@
     },
     "IPO|TICKER|SWAP": {
       "category": "IPO",
-      "company_name": "SWAP",
+      "company_name": "Perusahaan Hilirisasi Riset UGM (SWAP)",
       "copy_duplicate_count": 0,
       "credible_effective_independent_count": 0,
       "derivative_source_count": 0,
@@ -5871,6 +5909,7 @@
     "ab8a753768f1d230d4a516be72753d21bbfa92370053a4ab72d50a05d707ad8e": "2026-08-14T10:15:00.868800+00:00",
     "ac0f81ec5b124055a4f52336e4599421ac686ff8ec8de6dde98263bf40948a64": "2026-08-24T07:11:05.738523+00:00",
     "acb72e87943af90a14485f30f1044d5d2acde6387f81233cdba01c039de9385d": "2026-08-14T10:15:00.868800+00:00",
+    "ad291d62b611b627e4a4f50088661fa7d01d706dc07f044f6239bbf0ad8457e0": "2026-08-25T01:41:06.993837+00:00",
     "afb2a4f2f71e71bc46e76736b72e57eb28b084a7f27574f22995bd97f8473ca4": "2026-08-24T08:01:17.664942+00:00",
     "b7bd20f30f796bf190b07fa5f4ebe9ffd23fd9fef600842cc82874aa15d28fab": "2026-08-19T05:22:31.609048+00:00",
     "b7e2dd72313f82062863e8a488cb6ab2caa15d261ef46487e0f04598f08bf542": "2026-08-14T10:15:00.868800+00:00",
