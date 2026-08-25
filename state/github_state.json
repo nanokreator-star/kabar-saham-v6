@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 10,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 326,
-  "early_signal_last_scan_utc": "2026-08-25T14:10:54.473399+00:00",
+  "early_signal_last_scan_utc": "2026-08-25T14:21:01.666721+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -3.55,
@@ -4352,7 +4352,7 @@
       "owner_context_sources": 0,
       "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
       "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-      "owner_v6_checked_utc": "2026-08-25T00:20:47.880294+00:00",
+      "owner_v6_checked_utc": "2026-08-25T14:20:55.240122+00:00",
       "owner_v6_pages_fetched": 0,
       "profile_source": "Yahoo Finance",
       "profile_source_quality": "FALLBACK",
@@ -4361,7 +4361,7 @@
       "subindustry": null,
       "subsector": null,
       "ticker": "AWAL",
-      "verified_at": "2026-08-25T00:20:48.826334+00:00",
+      "verified_at": "2026-08-25T14:20:57.153674+00:00",
       "website": null
     },
     "BIKE": {
@@ -4704,7 +4704,7 @@
     }
   },
   "last_keepalive_utc": "2026-08-14T10:15:00.868800+00:00",
-  "last_state_change_utc": "2026-08-25T14:10:54.672082+00:00",
+  "last_state_change_utc": "2026-08-25T14:21:01.750366+00:00",
   "market_noise_suppressed": 2,
   "milestone_alerts": {},
   "rumor_alerts_sent": 8,
@@ -4715,8 +4715,8 @@
   "rumor_duplicates_suppressed": 34,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 0,
-  "rumor_integrity_repairs": 414,
-  "rumor_last_scan_utc": "2026-08-25T14:10:52.941717+00:00",
+  "rumor_integrity_repairs": 416,
+  "rumor_last_scan_utc": "2026-08-25T14:21:00.652342+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -5412,7 +5412,7 @@
         "owner_context_sources": 0,
         "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
         "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-        "owner_v6_checked_utc": "2026-08-25T00:20:47.880294+00:00",
+        "owner_v6_checked_utc": "2026-08-25T14:20:55.240122+00:00",
         "owner_v6_pages_fetched": 0,
         "profile_source": "Yahoo Finance",
         "profile_source_quality": "FALLBACK",
@@ -5421,7 +5421,7 @@
         "subindustry": null,
         "subsector": null,
         "ticker": "AWAL",
-        "verified_at": "2026-08-25T00:20:48.826334+00:00",
+        "verified_at": "2026-08-25T14:20:57.153674+00:00",
         "website": null
       },
       "key": "IPO|TICKER|AWAL",
@@ -5435,7 +5435,7 @@
         "title": "PROSPEKTUS AWAL - PT SWAYASA PRAKARSA TBK - e-IPO.co.id"
       },
       "premium_source_count": 1,
-      "profile_refresh_utc": "2026-08-25T00:20:53.365547+00:00",
+      "profile_refresh_utc": "2026-08-25T14:21:00.650853+00:00",
       "published": "Sat, 22 Aug 2026 07:00:00 GMT",
       "rumor_details": {
         "ipo_price": null,
