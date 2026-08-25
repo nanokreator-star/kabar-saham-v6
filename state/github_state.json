@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 10,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 326,
-  "early_signal_last_scan_utc": "2026-08-25T22:00:58.492922+00:00",
+  "early_signal_last_scan_utc": "2026-08-25T22:10:46.526765+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -3.55,
@@ -44,8 +44,8 @@
     "IPO|TICKER|SWAP": {
       "family": "IPO",
       "first_seen_utc": "2026-08-24T07:11:05.738548+00:00",
-      "last_alert_utc": "2026-08-25T03:40:44.114777+00:00",
-      "last_seen_utc": "2026-08-25T03:40:44.114777+00:00",
+      "last_alert_utc": "2026-08-25T22:10:55.251467+00:00",
+      "last_seen_utc": "2026-08-25T22:10:55.251467+00:00",
       "market_context": {
         "change_pct": null,
         "last_price": null,
@@ -58,8 +58,7 @@
         "execution_price": null,
         "ipo_single_price": "Rp130",
         "money": [
-          "Rp45,22 miliar",
-          "Rp12 miliar"
+          "Rp45,22 miliar"
         ],
         "official_authority": null,
         "official_kind": null,
@@ -83,7 +82,8 @@
         "tender_price": null,
         "underwriter": null,
         "use_of_funds": [
-          "PELUNASAN UTANG"
+          "EKSPANSI / CAPEX",
+          "MODAL KERJA"
         ]
       },
       "ticker": "SWAP"
@@ -4704,7 +4704,7 @@
     }
   },
   "last_keepalive_utc": "2026-08-14T10:15:00.868800+00:00",
-  "last_state_change_utc": "2026-08-25T22:00:58.519592+00:00",
+  "last_state_change_utc": "2026-08-25T22:10:55.252172+00:00",
   "market_noise_suppressed": 2,
   "milestone_alerts": {},
   "rumor_alerts_sent": 8,
@@ -4715,8 +4715,8 @@
   "rumor_duplicates_suppressed": 34,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 0,
-  "rumor_integrity_repairs": 505,
-  "rumor_last_scan_utc": "2026-08-25T22:00:58.483427+00:00",
+  "rumor_integrity_repairs": 507,
+  "rumor_last_scan_utc": "2026-08-25T22:10:46.517821+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -5881,6 +5881,7 @@
     "14fd93f713d058496956d63c63bedcc60cf42e26af3b7c4e7d2056c25ca96365": "2026-08-14T10:15:00.868800+00:00",
     "1b2cd9b2bd6a771ea2ea969e1c6bcc61201fb3dcf0db87227874ff9f76b3317b": "2026-08-21T03:11:07.382924+00:00",
     "1bd8f6063a72b9667300b2c7e4a2718aa76ff4b3c6e17a3abfbd739fb077503b": "2026-08-14T10:15:00.868800+00:00",
+    "1ddfb4e184602043dd7de7e31c3b828108e4dc8a72ccb30c3938716cdda57452": "2026-08-25T22:10:55.251443+00:00",
     "1f28efc71679b930bae7d69cd62095f2da32399d0c49f40dcc1a1d59c73c541a": "2026-08-17T12:30:59.740812+00:00",
     "1f4b5df05c871568ef7dc5de0368a9ac1b5e661f992affc3894eca51525a12c3": "2026-08-14T10:15:00.868800+00:00",
     "201cf77a86ce6457775cfd97c1ccb044610671ab3dd6955a5a4ad7235dc2f538": "2026-08-14T10:15:00.868800+00:00",
