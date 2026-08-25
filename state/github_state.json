@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 10,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 326,
-  "early_signal_last_scan_utc": "2026-08-25T06:21:50.830334+00:00",
+  "early_signal_last_scan_utc": "2026-08-25T08:51:05.394869+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -3.55,
@@ -4528,11 +4528,11 @@
       "industry": "Farm Products",
       "issuer_name": "Jhonlin Agro Raya",
       "owner_context_sources": 0,
-      "owner_discovery_method": "STRICT_OFFICIAL_SECTION_V5",
+      "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
       "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
       "owner_v5_checked_utc": "2026-08-20T06:52:14.456932+00:00",
       "owner_v5_pages_fetched": 1,
-      "owner_v6_checked_utc": "2026-08-24T20:40:56.753485+00:00",
+      "owner_v6_checked_utc": "2026-08-25T08:50:56.349984+00:00",
       "owner_v6_pages_fetched": 0,
       "profile_source": "Yahoo Finance",
       "profile_source_quality": "FALLBACK",
@@ -4541,7 +4541,7 @@
       "subindustry": null,
       "subsector": null,
       "ticker": "JARR",
-      "verified_at": "2026-08-24T20:40:57.480318+00:00",
+      "verified_at": "2026-08-25T08:50:56.958645+00:00",
       "website": "https://www.ptjar.com"
     },
     "JGLE": {
@@ -4704,7 +4704,7 @@
     }
   },
   "last_keepalive_utc": "2026-08-14T10:15:00.868800+00:00",
-  "last_state_change_utc": "2026-08-25T06:21:50.830988+00:00",
+  "last_state_change_utc": "2026-08-25T08:51:05.415508+00:00",
   "market_noise_suppressed": 2,
   "milestone_alerts": {},
   "rumor_alerts_sent": 8,
@@ -4716,7 +4716,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 0,
   "rumor_integrity_repairs": 350,
-  "rumor_last_scan_utc": "2026-08-25T06:21:49.034139+00:00",
+  "rumor_last_scan_utc": "2026-08-25T08:51:04.265323+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -4908,7 +4908,7 @@
         "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
         "owner_v5_checked_utc": "2026-08-20T06:52:14.456932+00:00",
         "owner_v5_pages_fetched": 1,
-        "owner_v6_checked_utc": "2026-08-24T20:40:56.753485+00:00",
+        "owner_v6_checked_utc": "2026-08-25T08:50:56.349984+00:00",
         "owner_v6_pages_fetched": 0,
         "profile_source": "Yahoo Finance",
         "profile_source_quality": "FALLBACK",
@@ -4917,7 +4917,7 @@
         "subindustry": null,
         "subsector": null,
         "ticker": "JARR",
-        "verified_at": "2026-08-24T20:40:57.480318+00:00",
+        "verified_at": "2026-08-25T08:50:56.958645+00:00",
         "website": "https://www.ptjar.com"
       },
       "key": "AKUISISI / TAKEOVER|TICKER|JARR",
@@ -4940,7 +4940,7 @@
       },
       "official_confirmation": null,
       "premium_source_count": 0,
-      "profile_refresh_utc": "2026-08-24T20:41:03.528219+00:00",
+      "profile_refresh_utc": "2026-08-25T08:51:04.259851+00:00",
       "published": "Fri, 21 Aug 2026 12:59:37 GMT",
       "rumor_details": {
         "ipo_price": null,
@@ -5312,7 +5312,7 @@
     },
     "IPO|TICKER|ANAK": {
       "category": "IPO",
-      "company_name": "ANAK",
+      "company_name": "Anak Usaha Holding UGM",
       "copy_duplicate_count": 0,
       "credible_effective_independent_count": 1.0,
       "derivative_source_count": 0,
@@ -5474,7 +5474,7 @@
     },
     "IPO|TICKER|SWAP": {
       "category": "IPO",
-      "company_name": "SWAP",
+      "company_name": "Perusahaan Hilirisasi Riset UGM (SWAP)",
       "copy_duplicate_count": 0,
       "credible_effective_independent_count": 0,
       "derivative_source_count": 0,
