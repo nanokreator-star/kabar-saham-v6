@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 10,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 326,
-  "early_signal_last_scan_utc": "2026-08-26T11:01:05.021160+00:00",
+  "early_signal_last_scan_utc": "2026-08-26T11:11:08.762755+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -3.55,
@@ -4806,7 +4806,7 @@
       "subindustry": null,
       "subsector": null,
       "ticker": "SWAP",
-      "verified_at": "2026-08-26T00:01:00.593763+00:00",
+      "verified_at": "2026-08-26T11:10:56.779252+00:00",
       "website": null
     },
     "WIKA": {
@@ -4832,10 +4832,10 @@
     }
   },
   "last_keepalive_utc": "2026-08-14T10:15:00.868800+00:00",
-  "last_state_change_utc": "2026-08-26T11:01:05.040901+00:00",
+  "last_state_change_utc": "2026-08-26T11:11:08.788077+00:00",
   "market_noise_suppressed": 2,
   "milestone_alerts": {},
-  "rumor_alerts_sent": 9,
+  "rumor_alerts_sent": 10,
   "rumor_baseline_initialized": true,
   "rumor_confirmed_count": 0,
   "rumor_confirmed_dedups": 0,
@@ -4843,8 +4843,8 @@
   "rumor_duplicates_suppressed": 35,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 1,
-  "rumor_integrity_repairs": 658,
-  "rumor_last_scan_utc": "2026-08-26T11:01:05.013105+00:00",
+  "rumor_integrity_repairs": 660,
+  "rumor_last_scan_utc": "2026-08-26T11:11:08.752315+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -5681,19 +5681,20 @@
     },
     "IPO|TICKER|SWAP": {
       "category": "IPO",
-      "company_name": "Perusahaan Hilirisasi Riset UGM (SWAP)",
-      "copy_duplicate_count": 0,
+      "company_name": "SWAP",
+      "copy_duplicate_count": 1,
       "credible_effective_independent_count": 0,
-      "derivative_source_count": 0,
-      "detected_source_count": 1,
-      "effective_independent_count": 0.3,
+      "derivative_source_count": 1,
+      "detected_source_count": 2,
+      "effective_independent_count": 0.8,
       "entity_aliases": [
+        "Swayasa Prakarsa (SWAP",
         "Hilirisasi Riset UGM (SWAP"
       ],
       "entity_resolution_source": null,
       "first_seen_utc": "2026-08-23T22:47:19+00:00",
       "high_quality_source_count": 0,
-      "independent_story_count": 1,
+      "independent_story_count": 2,
       "issuer_profile": {
         "business_activity": null,
         "controller": null,
@@ -5711,54 +5712,67 @@
         "subindustry": null,
         "subsector": null,
         "ticker": "SWAP",
-        "verified_at": "2026-08-26T00:01:00.593763+00:00",
+        "verified_at": "2026-08-26T11:10:56.779252+00:00",
         "website": null
       },
       "key": "IPO|TICKER|SWAP",
-      "last_alert_utc": "2026-08-23T23:21:23.908434+00:00",
-      "last_seen_utc": "2026-08-23T22:52:00+00:00",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSVg2T1J6M0tHV3pESHh5UWhKSzV0Q1BXUV9vcFJuX1J4N0xmYmVBOE5yOW9LUUdPaXAzMTRpUWpISkM1djNLUUplV3ZaTVVicGc0UG9lMWotbThyVVJib2xwbk4wMzZTZGR1VVFGcGRiYXp5QnJ3SFdTcUYtRW5ZSUNFUWg2NTA5Rzd6b2tMeDhvZ1BwaTZmUm8zMUtNUGM1WUhXRDR3?oc=5",
+      "last_alert_utc": "2026-08-26T11:11:08.751542+00:00",
+      "last_seen_utc": "2026-08-24T10:42:00+00:00",
+      "link": "https://www.maybanktrade.co.id/berita/permen-yupi-ipo-saham-target-dana-rp-213-t/",
       "market_data": null,
       "official_confirmation": null,
       "premium_source_count": 0,
       "profile_refresh_utc": "2026-08-26T00:01:12.373046+00:00",
-      "published": "Sun, 23 Aug 2026 22:52:00 GMT",
+      "published": "Mon, 24 Aug 2026 10:42:00 GMT",
       "rumor_details": {
         "ipo_price": null,
         "listing_estimate": null,
         "money": [
+          "Rp45,2 miliar",
+          "Rp2,13 triliun",
           "Rp45,22 miliar"
         ],
         "percentages": [],
-        "price_range": "Rp130\u2013Rp140",
+        "price_range": "Rp2.100\u2013Rp2.500",
         "rumored_party": null,
-        "share_count": "323 juta saham",
+        "share_count": "854,44 juta saham",
         "underwriter": null
       },
       "semantic_copy_count": 0,
-      "source": "SWA.co.id",
+      "source": "maybanktrade.co.id",
       "source_breakdown": [
         {
           "derivative": false,
+          "group": "maybanktrade.co.id",
+          "new_material": 4,
+          "quality": "LOW",
+          "semantic_copy": false,
+          "source": "maybanktrade.co.id",
+          "tier": 1,
+          "weight": 0.55
+        },
+        {
+          "derivative": true,
           "group": "swa.co.id",
           "new_material": 0,
           "quality": "LOW",
           "semantic_copy": false,
           "source": "SWA.co.id",
           "tier": 1,
-          "weight": 0.35
+          "weight": 0.25
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_quality": "LOW",
-      "source_quality_score": 0.3,
+      "source_quality_score": 0.8,
       "sources": [
+        "maybanktrade.co.id",
         "SWA.co.id"
       ],
       "status": "ACTIVE",
       "strength": "WEAK",
       "ticker": "SWAP",
-      "title": "Perusahaan Hilirisasi Riset UGM (SWAP) Bakal IPO, Book Building 24\u201327 Agustus - SWA.co.id"
+      "title": "Swayasa Prakarsa (SWAP) Akan IPO, Target Dana Rp45,2 Miliar - maybanktrade.co.id"
     },
     "IPO|TITLE|MENIMBANG WACANA PELINDO INVESTOR ID": {
       "category": "IPO",
