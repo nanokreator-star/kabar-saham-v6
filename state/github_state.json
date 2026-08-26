@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 10,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 326,
-  "early_signal_last_scan_utc": "2026-08-26T04:01:05.412028+00:00",
+  "early_signal_last_scan_utc": "2026-08-26T04:10:45.568014+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -3.55,
@@ -1200,15 +1200,15 @@
     "M&A / TAKEOVER|TICKER|PIPA": {
       "family": "M&A / TAKEOVER",
       "first_seen_utc": "2026-08-19T00:31:02.208969+00:00",
-      "last_alert_utc": "2026-08-21T13:01:30.058286+00:00",
-      "last_seen_utc": "2026-08-21T13:01:30.058286+00:00",
+      "last_alert_utc": "2026-08-26T04:11:08.935668+00:00",
+      "last_seen_utc": "2026-08-26T04:11:08.935668+00:00",
       "market_context": {
-        "change_pct": 16.9935,
-        "last_price": 179.0,
-        "market_date": "2026-08-21"
+        "change_pct": -3.9216,
+        "last_price": 196.0,
+        "market_date": "2026-08-26"
       },
       "material_snapshot": {
-        "acquirer": "Saham Oxala (PIPA) Naik 40",
+        "acquirer": "Oxala Energy International (PIPA) Ungkap Progres Rencana",
         "acquirer_confirmed": true,
         "event_type": "AKUISISI",
         "execution_price": null,
@@ -1228,7 +1228,7 @@
           16.99
         ],
         "standby_buyer": null,
-        "target": "Bisnis Gas",
+        "target": "Perusahaan Gas Alam",
         "target_confirmed": true,
         "tender_price": null,
         "underwriter": null,
@@ -4629,7 +4629,7 @@
       "owner_context_sources": 0,
       "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
       "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-      "owner_v6_checked_utc": "2026-08-21T13:01:29.407109+00:00",
+      "owner_v6_checked_utc": "2026-08-26T04:11:08.058119+00:00",
       "owner_v6_pages_fetched": 0,
       "profile_source": "Yahoo Finance",
       "profile_source_quality": "FALLBACK",
@@ -4704,7 +4704,7 @@
     }
   },
   "last_keepalive_utc": "2026-08-14T10:15:00.868800+00:00",
-  "last_state_change_utc": "2026-08-26T04:01:05.431122+00:00",
+  "last_state_change_utc": "2026-08-26T04:11:08.936463+00:00",
   "market_noise_suppressed": 2,
   "milestone_alerts": {},
   "rumor_alerts_sent": 9,
@@ -4715,8 +4715,8 @@
   "rumor_duplicates_suppressed": 35,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 0,
-  "rumor_integrity_repairs": 577,
-  "rumor_last_scan_utc": "2026-08-26T04:01:05.403728+00:00",
+  "rumor_integrity_repairs": 578,
+  "rumor_last_scan_utc": "2026-08-26T04:10:45.560096+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -5391,7 +5391,7 @@
     },
     "IPO|TICKER|ANAK": {
       "category": "IPO",
-      "company_name": "ANAK",
+      "company_name": "Anak Usaha Holding UGM",
       "copy_duplicate_count": 0,
       "credible_effective_independent_count": 1.0,
       "derivative_source_count": 0,
@@ -6025,6 +6025,7 @@
     "6b9a0cd4024e7d053b960c2a373e09318a29661a0e7c67359c68fbb9fcd1622e": "2026-08-21T03:11:07.382924+00:00",
     "6bdad19c48883f375d8ee66130498bd919d86e168ebf0c2398442c45bea37308": "2026-08-14T10:15:00.868800+00:00",
     "6d54bb8221e40afd8a2bd6f7622b02933e1eca3a8fbe421d25d19102dfc1b064": "2026-08-14T10:15:00.868800+00:00",
+    "6e5a32e9a0aa796904bdc506d943b6af3b39545246a0386f9d721ca9e532117d": "2026-08-26T04:11:08.935650+00:00",
     "7003b0d1af4222bb498db8d25d949c60a641ece80cd91fe782deb1edcdb7ef5a": "2026-08-14T10:15:00.868800+00:00",
     "704a2d8eb434a024cce2c86af74ae0387e9693382b18644e5c4f59b141b61ed8": "2026-08-14T10:15:00.868800+00:00",
     "719468d1796c49488b7feb6fcdd87e2058584ac32878cea89d09e7a9eded20d7": "2026-08-14T16:20:54.286441+00:00",
