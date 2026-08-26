@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 10,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 326,
-  "early_signal_last_scan_utc": "2026-08-26T21:10:46.926757+00:00",
+  "early_signal_last_scan_utc": "2026-08-26T21:20:51.371988+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -3.55,
@@ -4869,7 +4869,7 @@
     }
   },
   "last_keepalive_utc": "2026-08-14T10:15:00.868800+00:00",
-  "last_state_change_utc": "2026-08-26T21:10:46.946713+00:00",
+  "last_state_change_utc": "2026-08-26T21:20:51.395549+00:00",
   "market_noise_suppressed": 3,
   "milestone_alerts": {},
   "rumor_alerts_sent": 10,
@@ -4880,8 +4880,8 @@
   "rumor_duplicates_suppressed": 35,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 2,
-  "rumor_integrity_repairs": 717,
-  "rumor_last_scan_utc": "2026-08-26T21:10:46.919241+00:00",
+  "rumor_integrity_repairs": 719,
+  "rumor_last_scan_utc": "2026-08-26T21:20:51.362136+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -5725,8 +5725,8 @@
       "detected_source_count": 2,
       "effective_independent_count": 0.8,
       "entity_aliases": [
-        "Hilirisasi Riset UGM (SWAP",
-        "Swayasa Prakarsa (SWAP"
+        "Swayasa Prakarsa (SWAP",
+        "Hilirisasi Riset UGM (SWAP"
       ],
       "entity_resolution_source": null,
       "first_seen_utc": "2026-08-23T22:47:19+00:00",
@@ -5803,8 +5803,8 @@
       "source_quality": "LOW",
       "source_quality_score": 0.8,
       "sources": [
-        "SWA.co.id",
-        "maybanktrade.co.id"
+        "maybanktrade.co.id",
+        "SWA.co.id"
       ],
       "status": "ACTIVE",
       "strength": "WEAK",
