@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 10,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 326,
-  "early_signal_last_scan_utc": "2026-08-26T09:40:45.183337+00:00",
+  "early_signal_last_scan_utc": "2026-08-26T09:51:46.938167+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -3.55,
@@ -4832,7 +4832,7 @@
     }
   },
   "last_keepalive_utc": "2026-08-14T10:15:00.868800+00:00",
-  "last_state_change_utc": "2026-08-26T09:40:45.206379+00:00",
+  "last_state_change_utc": "2026-08-26T09:51:46.938784+00:00",
   "market_noise_suppressed": 2,
   "milestone_alerts": {},
   "rumor_alerts_sent": 9,
@@ -4843,8 +4843,8 @@
   "rumor_duplicates_suppressed": 35,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 0,
-  "rumor_integrity_repairs": 644,
-  "rumor_last_scan_utc": "2026-08-26T09:40:45.174189+00:00",
+  "rumor_integrity_repairs": 646,
+  "rumor_last_scan_utc": "2026-08-26T09:51:46.938075+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -5519,7 +5519,7 @@
     },
     "IPO|TICKER|ANAK": {
       "category": "IPO",
-      "company_name": "Anak Usaha Holding UGM",
+      "company_name": "ANAK",
       "copy_duplicate_count": 0,
       "credible_effective_independent_count": 1.0,
       "derivative_source_count": 0,
@@ -5681,7 +5681,7 @@
     },
     "IPO|TICKER|SWAP": {
       "category": "IPO",
-      "company_name": "Perusahaan Hilirisasi Riset UGM (SWAP)",
+      "company_name": "SWAP",
       "copy_duplicate_count": 0,
       "credible_effective_independent_count": 0,
       "derivative_source_count": 0,
