@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 10,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 326,
-  "early_signal_last_scan_utc": "2026-08-26T16:05:53.436794+00:00",
+  "early_signal_last_scan_utc": "2026-08-26T16:10:49.712628+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -3.55,
@@ -39,7 +39,7 @@
       "volume_ratio": 10.98
     }
   },
-  "event_duplicates_suppressed": 8,
+  "event_duplicates_suppressed": 9,
   "event_memory": {
     "IPO|TICKER|SWAP": {
       "family": "IPO",
@@ -1279,7 +1279,7 @@
       "family": "M&A / TAKEOVER",
       "first_seen_utc": "2026-08-26T07:21:13.208837+00:00",
       "last_alert_utc": "2026-08-26T07:21:13.208832+00:00",
-      "last_seen_utc": "2026-08-26T10:51:10.227623+00:00",
+      "last_seen_utc": "2026-08-26T16:11:07.765638+00:00",
       "market_context": {
         "change_pct": null,
         "last_price": null,
@@ -4869,7 +4869,7 @@
     }
   },
   "last_keepalive_utc": "2026-08-14T10:15:00.868800+00:00",
-  "last_state_change_utc": "2026-08-26T16:05:53.458572+00:00",
+  "last_state_change_utc": "2026-08-26T16:11:07.766069+00:00",
   "market_noise_suppressed": 2,
   "milestone_alerts": {},
   "rumor_alerts_sent": 10,
@@ -4880,8 +4880,8 @@
   "rumor_duplicates_suppressed": 35,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 2,
-  "rumor_integrity_repairs": 700,
-  "rumor_last_scan_utc": "2026-08-26T16:05:53.427406+00:00",
+  "rumor_integrity_repairs": 701,
+  "rumor_last_scan_utc": "2026-08-26T16:10:49.707205+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -5556,7 +5556,7 @@
     },
     "IPO|TICKER|ANAK": {
       "category": "IPO",
-      "company_name": "ANAK",
+      "company_name": "Anak Usaha Holding UGM",
       "copy_duplicate_count": 0,
       "credible_effective_independent_count": 1.0,
       "derivative_source_count": 0,
@@ -6215,6 +6215,7 @@
     "719468d1796c49488b7feb6fcdd87e2058584ac32878cea89d09e7a9eded20d7": "2026-08-14T16:20:54.286441+00:00",
     "72b408ab954ef06ec31ebdfde647a0fe4173208e5763b3f49889e883efc85de0": "2026-08-24T13:41:05.283219+00:00",
     "73c690717fc2b23b5a0bf40dd848acdab89c1cacf73849b598ddadf35a11c72d": "2026-08-14T10:15:00.868800+00:00",
+    "7b71f33e1720dbc5671d8524fc03a0094289261b9a2cd4d10f2ee2e55536d20d": "2026-08-26T16:11:07.765627+00:00",
     "7b787a9a82b15027819551e5a935270e63c0a87f2231006c6a53696ebafb3b2c": "2026-08-14T10:15:00.868800+00:00",
     "7c1e561d904bf0f2662c4b2cc158dc9a2d87ea7ff8849127870d75b24eece209": "2026-08-14T10:15:00.868800+00:00",
     "7c86272927e6a9f3a31626bb4bd0f5de9946e02029e8958d258193e7fb8ba3e7": "2026-08-14T10:15:00.868800+00:00",
