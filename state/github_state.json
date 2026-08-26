@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 10,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 326,
-  "early_signal_last_scan_utc": "2026-08-26T01:30:58.338113+00:00",
+  "early_signal_last_scan_utc": "2026-08-26T01:40:50.898084+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -3.55,
@@ -4704,7 +4704,7 @@
     }
   },
   "last_keepalive_utc": "2026-08-14T10:15:00.868800+00:00",
-  "last_state_change_utc": "2026-08-26T01:30:58.356644+00:00",
+  "last_state_change_utc": "2026-08-26T01:40:50.920314+00:00",
   "market_noise_suppressed": 2,
   "milestone_alerts": {},
   "rumor_alerts_sent": 9,
@@ -4712,11 +4712,11 @@
   "rumor_confirmed_count": 0,
   "rumor_confirmed_dedups": 0,
   "rumor_denied_count": 0,
-  "rumor_duplicates_suppressed": 34,
+  "rumor_duplicates_suppressed": 35,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 0,
-  "rumor_integrity_repairs": 547,
-  "rumor_last_scan_utc": "2026-08-26T01:30:58.330706+00:00",
+  "rumor_integrity_repairs": 549,
+  "rumor_last_scan_utc": "2026-08-26T01:40:50.888972+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -5272,7 +5272,7 @@
       "key": "IPO|COMPANY|MANUFAKTUR KESEHATAN MILIK UGM",
       "last_alert_utc": "2026-08-26T01:30:58.329979+00:00",
       "last_seen_utc": "2026-08-26T01:17:05+00:00",
-      "link": "https://insight.kontan.co.id/news/perusahaan-manufaktur-kesehatan-milik-ugm-siap-ipo-cermati-prospek-dan-valuasinya",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSGtBVjFWbUNPblYtSjlBYUpHTEl3bzVrR3FvREppaHVtRTlTLUV5YlJKcnppOVpVMExGMzhqaUZwQWFKbXpKb1pCSjA4endSVTNJalZnQU9mVDZzdkJkckR5QmNwNm12N0lWTzF0ZHdSMEZwM05lRWZzOWhrcXhVZFhXTEdIaEhkTDZxMjlaSER2c2taN1h5QjJkM3JlLUxfa1JmWU5pU0JQTlJsYWl2RkJGdlFZUQ?oc=5",
       "market_data": null,
       "official_confirmation": null,
       "premium_source_count": 1,
@@ -5295,8 +5295,8 @@
       "source_breakdown": [
         {
           "derivative": false,
-          "group": "insight.kontan.co.id",
-          "new_material": 2,
+          "group": "kontan.co.id",
+          "new_material": 0,
           "quality": "HIGH",
           "semantic_copy": false,
           "source": "KONTAN",
@@ -5311,7 +5311,7 @@
         "KONTAN"
       ],
       "status": "ACTIVE",
-      "strength": "MEDIUM",
+      "strength": "WEAK",
       "ticker": null,
       "title": "Perusahaan Manufaktur Kesehatan Milik UGM Siap IPO, Cermati Prospek dan Valuasinya - KONTAN"
     },
