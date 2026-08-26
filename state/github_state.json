@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 10,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 326,
-  "early_signal_last_scan_utc": "2026-08-26T07:10:42.975030+00:00",
+  "early_signal_last_scan_utc": "2026-08-26T07:20:54.190375+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -3.55,
@@ -1273,6 +1273,42 @@
         ]
       },
       "ticker": "PIPA"
+    },
+    "M&A / TAKEOVER|TICKER|SEPI": {
+      "family": "M&A / TAKEOVER",
+      "first_seen_utc": "2026-08-26T07:21:13.208837+00:00",
+      "last_alert_utc": "2026-08-26T07:21:13.208832+00:00",
+      "last_seen_utc": "2026-08-26T07:21:13.208832+00:00",
+      "market_context": {
+        "change_pct": null,
+        "last_price": null,
+        "market_date": null
+      },
+      "material_snapshot": {
+        "acquirer": null,
+        "acquirer_confirmed": false,
+        "event_type": "TENDER OFFER",
+        "execution_price": null,
+        "ipo_single_price": null,
+        "money": [],
+        "official_authority": null,
+        "official_kind": null,
+        "price_range": null,
+        "ratio": null,
+        "schedule": {},
+        "share_count": null,
+        "stage": "TENDER OFFER",
+        "stage_step": 6,
+        "stage_total": 7,
+        "stake": [],
+        "standby_buyer": null,
+        "target": null,
+        "target_confirmed": false,
+        "tender_price": null,
+        "underwriter": null,
+        "use_of_funds": []
+      },
+      "ticker": "SEPI"
     },
     "M&A / TAKEOVER|TITLE|51 DOOH RAMPUNG SII SIAP GELAR WAJIB": {
       "family": "M&A / TAKEOVER",
@@ -4677,6 +4713,26 @@
       "verified_at": "2026-08-21T13:01:11.452974+00:00",
       "website": "https://multimakmurlemindo.com"
     },
+    "SEPI": {
+      "business_activity": null,
+      "controller": null,
+      "industry": null,
+      "issuer_name": null,
+      "owner_context_sources": 0,
+      "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
+      "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
+      "owner_v6_checked_utc": "2026-08-26T07:21:12.605856+00:00",
+      "owner_v6_pages_fetched": 0,
+      "profile_source": "Yahoo Finance",
+      "profile_source_quality": "FALLBACK",
+      "profile_source_url": null,
+      "sector": null,
+      "subindustry": null,
+      "subsector": null,
+      "ticker": "SEPI",
+      "verified_at": "2026-08-26T07:21:12.592759+00:00",
+      "website": null
+    },
     "SUPR": {
       "business_activity": "PT Solusi Tunas Pratama Tbk operates as an independent tower company in Indonesia. The company manages and leases base transceiver station towers.",
       "controller": null,
@@ -4740,7 +4796,7 @@
     }
   },
   "last_keepalive_utc": "2026-08-14T10:15:00.868800+00:00",
-  "last_state_change_utc": "2026-08-26T07:10:42.998932+00:00",
+  "last_state_change_utc": "2026-08-26T07:21:13.209357+00:00",
   "market_noise_suppressed": 2,
   "milestone_alerts": {},
   "rumor_alerts_sent": 9,
@@ -4751,8 +4807,8 @@
   "rumor_duplicates_suppressed": 35,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 0,
-  "rumor_integrity_repairs": 614,
-  "rumor_last_scan_utc": "2026-08-26T07:10:42.966018+00:00",
+  "rumor_integrity_repairs": 616,
+  "rumor_last_scan_utc": "2026-08-26T07:20:54.184660+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -6080,6 +6136,7 @@
     "830ef1668388081191c8687508173c3815158d8cf7bb5316d542d87beec83270": "2026-08-14T10:15:00.868800+00:00",
     "8437cd91d15e501ded2cfa4e8118f33db2a8cf8a3220888bd8f63a912adcfc1c": "2026-08-14T10:15:00.868800+00:00",
     "89670fd45200ffdafa4bb1a0a4bb76b7800915f1ccf79ca612e2aabb6870d44a": "2026-08-14T10:15:00.868800+00:00",
+    "8c046d3bf4f29943bff2276b0a143ae6155b904b554586104987b04454897db1": "2026-08-26T07:21:13.208813+00:00",
     "8f408705a09b31a4dd6d19fbe28f287aae10585c7f5a09818df1305e3f486124": "2026-08-14T10:15:00.868800+00:00",
     "91d8cd071c3982aa64f684578a778eb869703cb3c89f5f82e9daa5afa0b2de61": "2026-08-14T10:15:00.868800+00:00",
     "92825c7494ba089a9fe2eafd735da0209935a12eda32371d7cde9e781dc55f70": "2026-08-20T03:21:47.165417+00:00",
