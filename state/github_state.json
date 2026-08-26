@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 10,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 326,
-  "early_signal_last_scan_utc": "2026-08-26T11:11:08.762755+00:00",
+  "early_signal_last_scan_utc": "2026-08-26T11:20:50.125569+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -3.55,
@@ -4832,7 +4832,7 @@
     }
   },
   "last_keepalive_utc": "2026-08-14T10:15:00.868800+00:00",
-  "last_state_change_utc": "2026-08-26T11:11:08.788077+00:00",
+  "last_state_change_utc": "2026-08-26T11:20:50.150064+00:00",
   "market_noise_suppressed": 2,
   "milestone_alerts": {},
   "rumor_alerts_sent": 10,
@@ -4843,8 +4843,8 @@
   "rumor_duplicates_suppressed": 35,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 1,
-  "rumor_integrity_repairs": 660,
-  "rumor_last_scan_utc": "2026-08-26T11:11:08.752315+00:00",
+  "rumor_integrity_repairs": 661,
+  "rumor_last_scan_utc": "2026-08-26T11:20:50.116215+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -5681,7 +5681,7 @@
     },
     "IPO|TICKER|SWAP": {
       "category": "IPO",
-      "company_name": "SWAP",
+      "company_name": "Swayasa Prakarsa (SWAP)",
       "copy_duplicate_count": 1,
       "credible_effective_independent_count": 0,
       "derivative_source_count": 1,
@@ -5718,7 +5718,7 @@
       "key": "IPO|TICKER|SWAP",
       "last_alert_utc": "2026-08-26T11:11:08.751542+00:00",
       "last_seen_utc": "2026-08-24T10:42:00+00:00",
-      "link": "https://www.maybanktrade.co.id/berita/permen-yupi-ipo-saham-target-dana-rp-213-t/",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdWljYlZxZDFaU2VUcTZVNXlhaktMWkJsS2hySkFhanBJVlcyZjY1NlRkMkxmR2E3a2VmUHQ4NTd2eFBUX3luUTlTNjRCQVd4MkQ3UHVPSWpiSzd5RFNTSHZ2bm1mMGpkbkJaekROeS0xNDZydk9vT016QVdyU01nY2lEME9lY09GdGFTNmNyUFJsN09LbGpNWXZn?oc=5",
       "market_data": null,
       "official_confirmation": null,
       "premium_source_count": 0,
@@ -5744,7 +5744,7 @@
         {
           "derivative": false,
           "group": "maybanktrade.co.id",
-          "new_material": 4,
+          "new_material": 1,
           "quality": "LOW",
           "semantic_copy": false,
           "source": "maybanktrade.co.id",
