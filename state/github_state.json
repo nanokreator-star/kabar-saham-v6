@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 10,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 326,
-  "early_signal_last_scan_utc": "2026-08-26T07:50:43.458463+00:00",
+  "early_signal_last_scan_utc": "2026-08-26T08:01:07.420121+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -3.55,
@@ -2185,6 +2185,42 @@
         "stake": [
           51.0
         ],
+        "standby_buyer": null,
+        "target": null,
+        "target_confirmed": false,
+        "tender_price": null,
+        "underwriter": null,
+        "use_of_funds": []
+      },
+      "ticker": ""
+    },
+    "M&A / TAKEOVER|TITLE|SEPI PEMINAT IMBS KEMBALI PERPANJANG KETR RCTI": {
+      "family": "M&A / TAKEOVER",
+      "first_seen_utc": "2026-08-26T08:01:09.569396+00:00",
+      "last_alert_utc": "2026-08-26T08:01:09.569386+00:00",
+      "last_seen_utc": "2026-08-26T08:01:09.569386+00:00",
+      "market_context": {
+        "change_pct": null,
+        "last_price": null,
+        "market_date": null
+      },
+      "material_snapshot": {
+        "acquirer": null,
+        "acquirer_confirmed": false,
+        "event_type": "TENDER OFFER",
+        "execution_price": null,
+        "ipo_single_price": null,
+        "money": [],
+        "official_authority": null,
+        "official_kind": null,
+        "price_range": null,
+        "ratio": null,
+        "schedule": {},
+        "share_count": null,
+        "stage": "TENDER OFFER",
+        "stage_step": 6,
+        "stage_total": 7,
+        "stake": [],
         "standby_buyer": null,
         "target": null,
         "target_confirmed": false,
@@ -4796,7 +4832,7 @@
     }
   },
   "last_keepalive_utc": "2026-08-14T10:15:00.868800+00:00",
-  "last_state_change_utc": "2026-08-26T07:50:43.482013+00:00",
+  "last_state_change_utc": "2026-08-26T08:01:09.570571+00:00",
   "market_noise_suppressed": 2,
   "milestone_alerts": {},
   "rumor_alerts_sent": 9,
@@ -4807,8 +4843,8 @@
   "rumor_duplicates_suppressed": 35,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 0,
-  "rumor_integrity_repairs": 622,
-  "rumor_last_scan_utc": "2026-08-26T07:50:43.449279+00:00",
+  "rumor_integrity_repairs": 624,
+  "rumor_last_scan_utc": "2026-08-26T08:01:07.410167+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -6062,6 +6098,7 @@
     "24c3f86abf09c13899d6aa5e0c7ff1240908e4d8e2f0f5f1b0e0d6eabd465eeb": "2026-08-20T11:56:54.702749+00:00",
     "2509b9d74e72beba4f0773f976e7cadb2a4b1fa149e824df6c839712e37ba7e2": "2026-08-14T10:15:00.868800+00:00",
     "254c500915afa0c07572e1269d8fe55758b52d547473a5368a65e9fac288b9f9": "2026-08-14T10:15:00.868800+00:00",
+    "26e07c995021dd21c7602e153d4caaba3092cd2362059aab77d35cfc545f1a5b": "2026-08-26T08:01:09.569362+00:00",
     "27f1c862bc6dce52dc7381503ea7c9ba0f4429adafb76f69475e7cdb8f88d22d": "2026-08-14T10:15:00.868800+00:00",
     "29099fbd063715da075329f252b7e671fe71e4301ee5be9019a524d40d037aff": "2026-08-14T10:15:00.868800+00:00",
     "2984017de0deca5fb99b0df63b2e752e9a55d980577df5b7b5b4ea1d76d82a05": "2026-08-14T10:15:00.868800+00:00",
