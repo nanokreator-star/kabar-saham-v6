@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 10,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 326,
-  "early_signal_last_scan_utc": "2026-08-26T17:01:12.986733+00:00",
+  "early_signal_last_scan_utc": "2026-08-26T17:11:55.317072+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -3.55,
@@ -4869,7 +4869,7 @@
     }
   },
   "last_keepalive_utc": "2026-08-14T10:15:00.868800+00:00",
-  "last_state_change_utc": "2026-08-26T17:01:13.003390+00:00",
+  "last_state_change_utc": "2026-08-26T17:11:55.317741+00:00",
   "market_noise_suppressed": 2,
   "milestone_alerts": {},
   "rumor_alerts_sent": 10,
@@ -4880,8 +4880,8 @@
   "rumor_duplicates_suppressed": 35,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 2,
-  "rumor_integrity_repairs": 711,
-  "rumor_last_scan_utc": "2026-08-26T17:01:12.980538+00:00",
+  "rumor_integrity_repairs": 713,
+  "rumor_last_scan_utc": "2026-08-26T17:11:55.316993+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -5556,7 +5556,7 @@
     },
     "IPO|TICKER|ANAK": {
       "category": "IPO",
-      "company_name": "Anak Usaha Holding UGM",
+      "company_name": "ANAK",
       "copy_duplicate_count": 0,
       "credible_effective_independent_count": 1.0,
       "derivative_source_count": 0,
@@ -5718,7 +5718,7 @@
     },
     "IPO|TICKER|SWAP": {
       "category": "IPO",
-      "company_name": "Swayasa Prakarsa (SWAP)",
+      "company_name": "SWAP",
       "copy_duplicate_count": 1,
       "credible_effective_independent_count": 0,
       "derivative_source_count": 1,
