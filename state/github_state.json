@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 10,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 326,
-  "early_signal_last_scan_utc": "2026-08-26T17:11:55.317072+00:00",
+  "early_signal_last_scan_utc": "2026-08-26T20:51:10.388355+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -3.55,
@@ -39,7 +39,7 @@
       "volume_ratio": 10.98
     }
   },
-  "event_duplicates_suppressed": 9,
+  "event_duplicates_suppressed": 10,
   "event_memory": {
     "IPO|TICKER|SWAP": {
       "family": "IPO",
@@ -1237,11 +1237,11 @@
       "family": "M&A / TAKEOVER",
       "first_seen_utc": "2026-08-19T00:31:02.208969+00:00",
       "last_alert_utc": "2026-08-26T14:51:16.094162+00:00",
-      "last_seen_utc": "2026-08-26T14:51:16.094162+00:00",
+      "last_seen_utc": "2026-08-26T20:51:36.935644+00:00",
       "market_context": {
-        "change_pct": -12.2549,
-        "last_price": 179.0,
-        "market_date": "2026-08-26"
+        "change_pct": 13.9665,
+        "last_price": 204.0,
+        "market_date": "2026-08-24"
       },
       "material_snapshot": {
         "acquirer": "Rencana",
@@ -4774,7 +4774,7 @@
       "owner_context_sources": 0,
       "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
       "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-      "owner_v6_checked_utc": "2026-08-26T04:11:08.058119+00:00",
+      "owner_v6_checked_utc": "2026-08-26T20:51:36.935260+00:00",
       "owner_v6_pages_fetched": 0,
       "profile_source": "Yahoo Finance",
       "profile_source_quality": "FALLBACK",
@@ -4869,8 +4869,8 @@
     }
   },
   "last_keepalive_utc": "2026-08-14T10:15:00.868800+00:00",
-  "last_state_change_utc": "2026-08-26T17:11:55.317741+00:00",
-  "market_noise_suppressed": 2,
+  "last_state_change_utc": "2026-08-26T20:51:36.936156+00:00",
+  "market_noise_suppressed": 3,
   "milestone_alerts": {},
   "rumor_alerts_sent": 10,
   "rumor_baseline_initialized": true,
@@ -4881,7 +4881,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 2,
   "rumor_integrity_repairs": 713,
-  "rumor_last_scan_utc": "2026-08-26T17:11:55.316993+00:00",
+  "rumor_last_scan_utc": "2026-08-26T20:51:10.381540+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -5556,7 +5556,7 @@
     },
     "IPO|TICKER|ANAK": {
       "category": "IPO",
-      "company_name": "ANAK",
+      "company_name": "Anak Usaha Holding UGM",
       "copy_duplicate_count": 0,
       "credible_effective_independent_count": 1.0,
       "derivative_source_count": 0,
@@ -5718,7 +5718,7 @@
     },
     "IPO|TICKER|SWAP": {
       "category": "IPO",
-      "company_name": "SWAP",
+      "company_name": "Swayasa Prakarsa (SWAP)",
       "copy_duplicate_count": 1,
       "credible_effective_independent_count": 0,
       "derivative_source_count": 1,
@@ -6203,6 +6203,7 @@
     "610cf7988199cbb055aa0ae4fe1c44aab9ec9d0a0f0d348ee81b108f43f37ef0": "2026-08-14T10:15:00.868800+00:00",
     "616989ebd24b7809db1cec6e92cdccfa251fb5b0dd665767864ef0d758d8e7e6": "2026-08-14T10:15:00.868800+00:00",
     "646b85801b59b7050b05830457080dbec683e7d99c6192fb3a280114460d7df8": "2026-08-14T10:15:00.868800+00:00",
+    "66ed0e932d59d13861d953962d6068888b45db61163663a8c6fb5bb53db04500": "2026-08-26T20:51:36.935635+00:00",
     "6954cec496e573e783ac044e5406aa21e590046c6ce3fc9626acec0a40a9e9f9": "2026-08-23T18:01:17.078390+00:00",
     "6961e4412739374464ff56e1b4e06e5b6475ac1f443c928a76a26014d3ebbf38": "2026-08-14T10:15:00.868800+00:00",
     "6a55b369a5fb6e9c73fe0e2a2093ecf571ca173100bc25e1c091de3392c007b1": "2026-08-19T02:31:00.139231+00:00",
