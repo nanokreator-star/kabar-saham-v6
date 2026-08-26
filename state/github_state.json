@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 10,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 326,
-  "early_signal_last_scan_utc": "2026-08-26T06:40:45.849624+00:00",
+  "early_signal_last_scan_utc": "2026-08-26T06:50:50.553119+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -3.55,
@@ -113,6 +113,42 @@
         "share_count": null,
         "stage": "RENCANA / PROSPEKTUS",
         "stage_step": 2,
+        "stage_total": 5,
+        "stake": [],
+        "standby_buyer": null,
+        "target": null,
+        "target_confirmed": false,
+        "tender_price": null,
+        "underwriter": null,
+        "use_of_funds": []
+      },
+      "ticker": ""
+    },
+    "IPO|TITLE|BOOKBUILDING SWAP BERAKHIR BESOK 27 APAKAH CALON": {
+      "family": "IPO",
+      "first_seen_utc": "2026-08-26T06:50:52.336696+00:00",
+      "last_alert_utc": "2026-08-26T06:50:52.336691+00:00",
+      "last_seen_utc": "2026-08-26T06:50:52.336691+00:00",
+      "market_context": {
+        "change_pct": null,
+        "last_price": null,
+        "market_date": null
+      },
+      "material_snapshot": {
+        "acquirer": null,
+        "acquirer_confirmed": false,
+        "event_type": "IPO",
+        "execution_price": null,
+        "ipo_single_price": null,
+        "money": [],
+        "official_authority": null,
+        "official_kind": null,
+        "price_range": null,
+        "ratio": null,
+        "schedule": {},
+        "share_count": null,
+        "stage": "BOOKBUILDING",
+        "stage_step": 3,
         "stage_total": 5,
         "stake": [],
         "standby_buyer": null,
@@ -4704,7 +4740,7 @@
     }
   },
   "last_keepalive_utc": "2026-08-14T10:15:00.868800+00:00",
-  "last_state_change_utc": "2026-08-26T06:40:45.873777+00:00",
+  "last_state_change_utc": "2026-08-26T06:50:52.337310+00:00",
   "market_noise_suppressed": 2,
   "milestone_alerts": {},
   "rumor_alerts_sent": 9,
@@ -4715,8 +4751,8 @@
   "rumor_duplicates_suppressed": 35,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 0,
-  "rumor_integrity_repairs": 608,
-  "rumor_last_scan_utc": "2026-08-26T06:40:45.839946+00:00",
+  "rumor_integrity_repairs": 610,
+  "rumor_last_scan_utc": "2026-08-26T06:50:50.546424+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -5973,6 +6009,7 @@
     "27f1c862bc6dce52dc7381503ea7c9ba0f4429adafb76f69475e7cdb8f88d22d": "2026-08-14T10:15:00.868800+00:00",
     "29099fbd063715da075329f252b7e671fe71e4301ee5be9019a524d40d037aff": "2026-08-14T10:15:00.868800+00:00",
     "2984017de0deca5fb99b0df63b2e752e9a55d980577df5b7b5b4ea1d76d82a05": "2026-08-14T10:15:00.868800+00:00",
+    "299bb18407ad3223798d3092cfb60b8dae674dd9bf8617ef18c887ba004af1dd": "2026-08-26T06:50:52.336673+00:00",
     "29b2e6544ed04a61ab67968c9aef85d441980e11e65c75365c5c06d97efed2ef": "2026-08-14T10:15:00.868800+00:00",
     "2c69986dbe12c3be8edfed07f69b6743a10a95c4662f730ffdc59c911f7a3261": "2026-08-14T10:15:00.868800+00:00",
     "2c87bddd2e7eaa064e382c8db0da87259e0e5cc576a790996040808581e013b1": "2026-08-14T10:15:00.868800+00:00",
