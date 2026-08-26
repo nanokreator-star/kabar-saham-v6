@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 10,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 326,
-  "early_signal_last_scan_utc": "2026-08-26T12:01:00.680617+00:00",
+  "early_signal_last_scan_utc": "2026-08-26T12:11:11.511872+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -3.55,
@@ -4797,7 +4797,7 @@
       "owner_context_sources": 0,
       "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
       "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-      "owner_v6_checked_utc": "2026-08-26T00:00:59.048023+00:00",
+      "owner_v6_checked_utc": "2026-08-26T12:10:58.986065+00:00",
       "owner_v6_pages_fetched": 0,
       "profile_source": "Yahoo Finance",
       "profile_source_quality": "FALLBACK",
@@ -4806,7 +4806,7 @@
       "subindustry": null,
       "subsector": null,
       "ticker": "SWAP",
-      "verified_at": "2026-08-26T11:10:56.779252+00:00",
+      "verified_at": "2026-08-26T12:11:00.034207+00:00",
       "website": null
     },
     "WIKA": {
@@ -4832,7 +4832,7 @@
     }
   },
   "last_keepalive_utc": "2026-08-14T10:15:00.868800+00:00",
-  "last_state_change_utc": "2026-08-26T12:01:00.706353+00:00",
+  "last_state_change_utc": "2026-08-26T12:11:11.540978+00:00",
   "market_noise_suppressed": 2,
   "milestone_alerts": {},
   "rumor_alerts_sent": 10,
@@ -4843,8 +4843,8 @@
   "rumor_duplicates_suppressed": 35,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 1,
-  "rumor_integrity_repairs": 669,
-  "rumor_last_scan_utc": "2026-08-26T12:01:00.671461+00:00",
+  "rumor_integrity_repairs": 671,
+  "rumor_last_scan_utc": "2026-08-26T12:11:11.504914+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -5681,7 +5681,7 @@
     },
     "IPO|TICKER|SWAP": {
       "category": "IPO",
-      "company_name": "Swayasa Prakarsa (SWAP)",
+      "company_name": "SWAP",
       "copy_duplicate_count": 1,
       "credible_effective_independent_count": 0,
       "derivative_source_count": 1,
@@ -5703,7 +5703,7 @@
         "owner_context_sources": 0,
         "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
         "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-        "owner_v6_checked_utc": "2026-08-26T00:00:59.048023+00:00",
+        "owner_v6_checked_utc": "2026-08-26T12:10:58.986065+00:00",
         "owner_v6_pages_fetched": 0,
         "profile_source": "Yahoo Finance",
         "profile_source_quality": "FALLBACK",
@@ -5712,7 +5712,7 @@
         "subindustry": null,
         "subsector": null,
         "ticker": "SWAP",
-        "verified_at": "2026-08-26T11:10:56.779252+00:00",
+        "verified_at": "2026-08-26T12:11:00.034207+00:00",
         "website": null
       },
       "key": "IPO|TICKER|SWAP",
@@ -5722,7 +5722,7 @@
       "market_data": null,
       "official_confirmation": null,
       "premium_source_count": 0,
-      "profile_refresh_utc": "2026-08-26T00:01:12.373046+00:00",
+      "profile_refresh_utc": "2026-08-26T12:11:11.503745+00:00",
       "published": "Mon, 24 Aug 2026 10:42:00 GMT",
       "rumor_details": {
         "ipo_price": null,
