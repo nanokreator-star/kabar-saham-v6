@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 10,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 326,
-  "early_signal_last_scan_utc": "2026-08-26T15:01:08.544822+00:00",
+  "early_signal_last_scan_utc": "2026-08-26T16:05:53.436794+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -3.55,
@@ -4457,7 +4457,7 @@
       "owner_context_sources": 0,
       "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
       "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-      "owner_v6_checked_utc": "2026-08-26T03:03:29.771084+00:00",
+      "owner_v6_checked_utc": "2026-08-26T16:03:16.818076+00:00",
       "owner_v6_pages_fetched": 0,
       "profile_source": "Yahoo Finance",
       "profile_source_quality": "FALLBACK",
@@ -4466,7 +4466,7 @@
       "subindustry": null,
       "subsector": null,
       "ticker": "ADHI",
-      "verified_at": "2026-08-26T03:03:30.367720+00:00",
+      "verified_at": "2026-08-26T16:03:17.559990+00:00",
       "website": "https://adhi.co.id"
     },
     "ANAK": {
@@ -4477,7 +4477,7 @@
       "owner_context_sources": 0,
       "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
       "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-      "owner_v6_checked_utc": "2026-08-26T04:00:58.092972+00:00",
+      "owner_v6_checked_utc": "2026-08-26T16:05:36.044595+00:00",
       "owner_v6_pages_fetched": 0,
       "profile_source": "Yahoo Finance",
       "profile_source_quality": "FALLBACK",
@@ -4486,7 +4486,7 @@
       "subindustry": null,
       "subsector": null,
       "ticker": "ANAK",
-      "verified_at": "2026-08-26T04:00:59.375749+00:00",
+      "verified_at": "2026-08-26T16:05:36.792980+00:00",
       "website": null
     },
     "AWAL": {
@@ -4869,7 +4869,7 @@
     }
   },
   "last_keepalive_utc": "2026-08-14T10:15:00.868800+00:00",
-  "last_state_change_utc": "2026-08-26T15:01:08.570825+00:00",
+  "last_state_change_utc": "2026-08-26T16:05:53.458572+00:00",
   "market_noise_suppressed": 2,
   "milestone_alerts": {},
   "rumor_alerts_sent": 10,
@@ -4880,8 +4880,8 @@
   "rumor_duplicates_suppressed": 35,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 2,
-  "rumor_integrity_repairs": 698,
-  "rumor_last_scan_utc": "2026-08-26T15:01:08.534575+00:00",
+  "rumor_integrity_repairs": 700,
+  "rumor_last_scan_utc": "2026-08-26T16:05:53.427406+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -5556,7 +5556,7 @@
     },
     "IPO|TICKER|ANAK": {
       "category": "IPO",
-      "company_name": "Anak Usaha Holding UGM",
+      "company_name": "ANAK",
       "copy_duplicate_count": 0,
       "credible_effective_independent_count": 1.0,
       "derivative_source_count": 0,
@@ -5577,7 +5577,7 @@
         "owner_context_sources": 0,
         "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
         "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-        "owner_v6_checked_utc": "2026-08-26T04:00:58.092972+00:00",
+        "owner_v6_checked_utc": "2026-08-26T16:05:36.044595+00:00",
         "owner_v6_pages_fetched": 0,
         "profile_source": "Yahoo Finance",
         "profile_source_quality": "FALLBACK",
@@ -5586,7 +5586,7 @@
         "subindustry": null,
         "subsector": null,
         "ticker": "ANAK",
-        "verified_at": "2026-08-26T04:00:59.375749+00:00",
+        "verified_at": "2026-08-26T16:05:36.792980+00:00",
         "website": null
       },
       "key": "IPO|TICKER|ANAK",
@@ -5596,7 +5596,7 @@
       "market_data": null,
       "official_confirmation": null,
       "premium_source_count": 1,
-      "profile_refresh_utc": "2026-08-26T04:01:05.401366+00:00",
+      "profile_refresh_utc": "2026-08-26T16:05:53.424672+00:00",
       "published": "Mon, 24 Aug 2026 03:15:00 GMT",
       "rumor_details": {
         "ipo_price": null,
@@ -5903,7 +5903,7 @@
         "owner_context_sources": 0,
         "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
         "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-        "owner_v6_checked_utc": "2026-08-26T03:03:29.771084+00:00",
+        "owner_v6_checked_utc": "2026-08-26T16:03:16.818076+00:00",
         "owner_v6_pages_fetched": 0,
         "profile_source": "Yahoo Finance",
         "profile_source_quality": "FALLBACK",
@@ -5912,7 +5912,7 @@
         "subindustry": null,
         "subsector": null,
         "ticker": "ADHI",
-        "verified_at": "2026-08-26T03:03:30.367720+00:00",
+        "verified_at": "2026-08-26T16:03:17.559990+00:00",
         "website": "https://adhi.co.id"
       },
       "key": "SPIN-OFF / RESTRUCTURING|TICKER|ADHI",
@@ -5921,7 +5921,7 @@
       "market_data": null,
       "official_confirmation": null,
       "premium_source_count": 1,
-      "profile_refresh_utc": "2026-08-26T03:05:47.127891+00:00",
+      "profile_refresh_utc": "2026-08-26T16:05:35.501323+00:00",
       "published": "Mon, 24 Aug 2026 13:17:04 GMT",
       "rumor_details": {
         "ipo_price": null,
