@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 10,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 326,
-  "early_signal_last_scan_utc": "2026-08-27T15:50:52.279195+00:00",
+  "early_signal_last_scan_utc": "2026-08-27T16:01:03.801573+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -3.55,
@@ -645,6 +645,45 @@
         "underwriter": null,
         "use_of_funds": [
           "AKUISISI / INVESTASI"
+        ]
+      },
+      "ticker": ""
+    },
+    "M&A / TAKEOVER|PARTIES|RENCANA|PIPA 2026": {
+      "family": "M&A / TAKEOVER",
+      "first_seen_utc": "2026-08-26T14:51:16.094141+00:00",
+      "last_alert_utc": "2026-08-26T14:51:16.094141+00:00",
+      "last_seen_utc": "2026-08-26T14:51:16.094141+00:00",
+      "market_context": {
+        "change_pct": null,
+        "last_price": null,
+        "market_date": null
+      },
+      "material_snapshot": {
+        "acquirer": "Rencana",
+        "acquirer_confirmed": true,
+        "event_type": "AKUISISI",
+        "execution_price": null,
+        "ipo_single_price": null,
+        "money": [],
+        "official_authority": null,
+        "official_kind": null,
+        "price_range": null,
+        "ratio": null,
+        "schedule": {},
+        "share_count": null,
+        "stage": "SPA / SIGNED",
+        "stage_step": 4,
+        "stage_total": 7,
+        "stake": [],
+        "standby_buyer": null,
+        "target": "PIPA 2026",
+        "target_confirmed": true,
+        "tender_price": null,
+        "underwriter": null,
+        "use_of_funds": [
+          "AKUISISI / INVESTASI",
+          "EKSPANSI / CAPEX"
         ]
       },
       "ticker": ""
@@ -5018,7 +5057,7 @@
     }
   },
   "last_keepalive_utc": "2026-08-14T10:15:00.868800+00:00",
-  "last_state_change_utc": "2026-08-27T15:50:52.325919+00:00",
+  "last_state_change_utc": "2026-08-27T16:01:03.828027+00:00",
   "market_noise_suppressed": 3,
   "milestone_alerts": {},
   "rumor_alerts_sent": 11,
@@ -5029,8 +5068,8 @@
   "rumor_duplicates_suppressed": 35,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 4,
-  "rumor_integrity_repairs": 938,
-  "rumor_last_scan_utc": "2026-08-27T15:50:51.978812+00:00",
+  "rumor_integrity_repairs": 940,
+  "rumor_last_scan_utc": "2026-08-27T16:01:03.591083+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
