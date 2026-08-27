@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 10,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 326,
-  "early_signal_last_scan_utc": "2026-08-27T03:10:48.666645+00:00",
+  "early_signal_last_scan_utc": "2026-08-27T03:20:48.627658+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -3.55,
@@ -2400,6 +2400,44 @@
         "ratio": null,
         "schedule": {},
         "share_count": null,
+        "stage": "TENDER OFFER",
+        "stage_step": 6,
+        "stage_total": 7,
+        "stake": [],
+        "standby_buyer": null,
+        "target": null,
+        "target_confirmed": false,
+        "tender_price": null,
+        "underwriter": null,
+        "use_of_funds": []
+      },
+      "ticker": ""
+    },
+    "M&A / TAKEOVER|TITLE|WAJIB MAPI SERAP 02 MILIAR SENILAI RP9": {
+      "family": "M&A / TAKEOVER",
+      "first_seen_utc": "2026-08-27T03:20:54.024374+00:00",
+      "last_alert_utc": "2026-08-27T03:20:54.024368+00:00",
+      "last_seen_utc": "2026-08-27T03:20:54.024368+00:00",
+      "market_context": {
+        "change_pct": null,
+        "last_price": null,
+        "market_date": null
+      },
+      "material_snapshot": {
+        "acquirer": null,
+        "acquirer_confirmed": false,
+        "event_type": "TENDER OFFER",
+        "execution_price": null,
+        "ipo_single_price": null,
+        "money": [
+          "Rp9,32 triliun"
+        ],
+        "official_authority": null,
+        "official_kind": null,
+        "price_range": null,
+        "ratio": null,
+        "schedule": {},
+        "share_count": "6,02 Miliar saham",
         "stage": "TENDER OFFER",
         "stage_step": 6,
         "stage_total": 7,
@@ -4869,7 +4907,7 @@
     }
   },
   "last_keepalive_utc": "2026-08-14T10:15:00.868800+00:00",
-  "last_state_change_utc": "2026-08-27T03:10:48.690154+00:00",
+  "last_state_change_utc": "2026-08-27T03:20:54.025152+00:00",
   "market_noise_suppressed": 3,
   "milestone_alerts": {},
   "rumor_alerts_sent": 10,
@@ -4879,9 +4917,9 @@
   "rumor_denied_count": 0,
   "rumor_duplicates_suppressed": 35,
   "rumor_entity_rekeys": 1,
-  "rumor_expired_count": 2,
-  "rumor_integrity_repairs": 788,
-  "rumor_last_scan_utc": "2026-08-27T03:10:48.656921+00:00",
+  "rumor_expired_count": 3,
+  "rumor_integrity_repairs": 790,
+  "rumor_last_scan_utc": "2026-08-27T03:20:48.618148+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -4989,6 +5027,7 @@
       "key": "AKUISISI / TAKEOVER|TICKER|BYAN",
       "last_alert_utc": "2026-08-23T18:00:58.581637+00:00",
       "last_seen_utc": "2026-08-20T03:15:36+00:00",
+      "last_state_change_utc": "2026-08-27T03:20:48.618122+00:00",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOb3F6aEkyeTJQc08tVU5YVTdPZDMxeTRwVF90ajlfeGx3Nml6OWxOZ3JzaXFNbjJIVkFtMUd6VF9JMHoxS3A0SFJHM054ZmcxcllvZkZXdzhEMHNEWjZCQ1RhU3BmQVpKZG0zajR6UTFJR0g3ZHpweDFWQV9FcEp0Y29fUmlCVmFaV1R0OXhMUDdOTGdIcWJUZm53Z3ZlLTdwbzRUSUlsZGNBemc1cXRzbW45OWd6QlRJSER3SVhEcVBKNTIwc1JYa9IBzgFBVV95cUxPby1DZXlLTWxoa3c1NXhhdWdqZHNMVWhzZmROV3RnZXZ2dDFpd3BlWlJBSUh0ZUxqcm56MmZKZ2dtNmczLUZVUTdsX1VkT3J1YTExYXFBS3FVSTg3aGVNaV80QmxPem1pSXNrV0xaSUlkM2liNVFLUVpIcGpwbkRmd2lIbnp0STBCRmVrdjkta0paYVNsck1hSmNnandIeWFOOUtrV09YcE5nQlloVVZCUHBCWW1vX3I3RnpqYUd0dXp1QUdLclUzdDNuN044Zw?oc=5",
       "market_data": {
         "change_pct": -3.554868624420402,
@@ -5043,7 +5082,7 @@
         "MediaKompeten",
         "Terkini24.id"
       ],
-      "status": "ACTIVE",
+      "status": "EXPIRED",
       "strength": "WEAK",
       "ticker": "BYAN",
       "title": "Diterpa Isu Akuisisi Bayan (BYAN), Emiten Milik Haji Isam Buka Suara - CNBC Indonesia"
@@ -6124,6 +6163,7 @@
     "024036d776777821dab02593d8495603ab97f65b52cd0c8f009106dc31b56a0f": "2026-08-18T03:21:08.664544+00:00",
     "029ae777f86c403a5998f04a99e62b001aa12140806c6b73b7ce9c6795d4ca35": "2026-08-20T04:06:56.157877+00:00",
     "02af405461faf5986d98b3e3ae2913286ee4b437af63d47564c870dc88cd9231": "2026-08-17T07:20:39.627738+00:00",
+    "04c6f972000053033a377047512a9e8f4da8f3271b25b524a5c090099a29e1b1": "2026-08-27T03:20:54.024348+00:00",
     "0555193e66d8a69ab5a2bb8a62abad3aad6b70881e8f1c0d14a7011eba9be2c5": "2026-08-14T10:15:00.868800+00:00",
     "05e8b875128c06b0c81fb4ceac0282f1f7af0a96cc6291448d65f63d308c32b2": "2026-08-14T10:15:00.868800+00:00",
     "06f426459cc9ad3bf6d657e73233ff1fb2944b44bdc17e574b7a1ef4d177e1bd": "2026-08-14T10:15:00.868800+00:00",
