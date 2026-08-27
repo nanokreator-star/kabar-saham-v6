@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 10,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 326,
-  "early_signal_last_scan_utc": "2026-08-27T09:20:58.554835+00:00",
+  "early_signal_last_scan_utc": "2026-08-27T09:30:57.490283+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -3.55,
@@ -5018,7 +5018,7 @@
     }
   },
   "last_keepalive_utc": "2026-08-14T10:15:00.868800+00:00",
-  "last_state_change_utc": "2026-08-27T09:20:58.582665+00:00",
+  "last_state_change_utc": "2026-08-27T09:30:57.511462+00:00",
   "market_noise_suppressed": 3,
   "milestone_alerts": {},
   "rumor_alerts_sent": 11,
@@ -5028,9 +5028,9 @@
   "rumor_denied_count": 0,
   "rumor_duplicates_suppressed": 35,
   "rumor_entity_rekeys": 1,
-  "rumor_expired_count": 3,
-  "rumor_integrity_repairs": 861,
-  "rumor_last_scan_utc": "2026-08-27T09:20:58.227459+00:00",
+  "rumor_expired_count": 4,
+  "rumor_integrity_repairs": 863,
+  "rumor_last_scan_utc": "2026-08-27T09:30:57.163674+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -5333,6 +5333,7 @@
       "key": "AKUISISI / TAKEOVER|TICKER|PGUN",
       "last_alert_utc": "2026-08-20T11:56:30.743733+00:00",
       "last_seen_utc": "2026-08-20T09:22:21+00:00",
+      "last_state_change_utc": "2026-08-27T09:30:57.163653+00:00",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdU0yYnlySmNyYUkyOXZNcWlCWHoyMjFRTFd4MlRLdXNYMjN2MHVockx0dkxaeHV0eHN6eGFKUndNUTI1WTlOTTM3a3lRTXI1QVVNSUdxSGVxaGltWkZ2M3JlX0c4RTE1aXVQS21lcVNpTlNhNDFsRDZYTl81X2FrY2k2cUZBZzZXOWxHMXN1ZmNqNDVqOHpJS01rdjdKeDhuekFaamRkak5yZw?oc=5",
       "market_data": {
         "change_pct": 15.294117647058824,
@@ -5379,7 +5380,7 @@
       "sources": [
         "Bisnis.com - Market"
       ],
-      "status": "ACTIVE",
+      "status": "EXPIRED",
       "strength": "WEAK",
       "ticker": "PGUN",
       "title": "PGUN Buka Suara soal Isu Akuisisi Bayan Resources (BYAN) - Bisnis.com - Market"
