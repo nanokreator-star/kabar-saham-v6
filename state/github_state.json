@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 10,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 326,
-  "early_signal_last_scan_utc": "2026-08-28T16:40:47.630864+00:00",
+  "early_signal_last_scan_utc": "2026-08-28T18:00:56.904663+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -3.55,
@@ -3084,6 +3084,50 @@
       },
       "ticker": "JGLE"
     },
+    "RIGHTS ISSUE|TICKER|KOTA": {
+      "family": "RIGHTS ISSUE",
+      "first_seen_utc": "2026-08-28T18:01:15.825926+00:00",
+      "last_alert_utc": "2026-08-28T18:01:15.825920+00:00",
+      "last_seen_utc": "2026-08-28T18:01:15.825920+00:00",
+      "market_context": {
+        "change_pct": 19.7183,
+        "last_price": 170.0,
+        "market_date": "2026-08-27"
+      },
+      "material_snapshot": {
+        "acquirer": null,
+        "acquirer_confirmed": false,
+        "event_type": "RIGHTS ISSUE",
+        "execution_price": null,
+        "ipo_single_price": null,
+        "money": [
+          "Rp1,2 triliun",
+          "Rp3,2 triliun",
+          "Rp4,4 triliun"
+        ],
+        "official_authority": null,
+        "official_kind": null,
+        "price_range": null,
+        "ratio": null,
+        "schedule": {},
+        "share_count": "100 miliar saham",
+        "stage": "RENCANA",
+        "stage_step": 2,
+        "stage_total": 6,
+        "stake": [],
+        "standby_buyer": null,
+        "target": null,
+        "target_confirmed": false,
+        "tender_price": null,
+        "underwriter": null,
+        "use_of_funds": [
+          "AKUISISI / INVESTASI",
+          "MODAL KERJA",
+          "PENGEMBANGAN USAHA"
+        ]
+      },
+      "ticker": "KOTA"
+    },
     "RIGHTS ISSUE|TICKER|MGLV": {
       "family": "RIGHTS ISSUE",
       "first_seen_utc": "2026-08-14T10:15:00.868800+00:00",
@@ -4968,6 +5012,26 @@
       "verified_at": "2026-08-24T21:51:01.139179+00:00",
       "website": "https://www.jungleseries.co.id"
     },
+    "KOTA": {
+      "business_activity": "PT DMS Propertindo Tbk operates as a property development and hospitality management company in Indonesia. The company engages in real estate and property, and hotels.",
+      "controller": null,
+      "industry": "Real Estate Services",
+      "issuer_name": "DMS Propertindo",
+      "owner_context_sources": 0,
+      "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
+      "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
+      "owner_v6_checked_utc": "2026-08-28T18:01:15.043640+00:00",
+      "owner_v6_pages_fetched": 0,
+      "profile_source": "Yahoo Finance",
+      "profile_source_quality": "FALLBACK",
+      "profile_source_url": null,
+      "sector": "Real Estate",
+      "subindustry": null,
+      "subsector": null,
+      "ticker": "KOTA",
+      "verified_at": "2026-08-28T18:01:13.656248+00:00",
+      "website": "https://www.dmspropertindo.com"
+    },
     "MTEL": {
       "business_activity": "PT Dayamitra Telekomunikasi Tbk. provides telecommunication infrastructure services in Indonesia.",
       "controller": null,
@@ -5279,7 +5343,7 @@
     }
   },
   "last_keepalive_utc": "2026-08-28T10:20:50.907640+00:00",
-  "last_state_change_utc": "2026-08-28T16:40:51.241097+00:00",
+  "last_state_change_utc": "2026-08-28T18:01:15.827229+00:00",
   "market_noise_suppressed": 3,
   "milestone_alerts": {},
   "rumor_alerts_sent": 11,
@@ -5291,7 +5355,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 4,
   "rumor_integrity_repairs": 1076,
-  "rumor_last_scan_utc": "2026-08-28T16:40:47.321852+00:00",
+  "rumor_last_scan_utc": "2026-08-28T18:00:56.894230+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -6856,6 +6920,7 @@
     "c66ae0af4755f92d87e7e0a2bd7f688c59ce22ebd8c6221103b156150b34fc1f": "2026-08-24T17:41:03.036709+00:00",
     "c92ed7abf30342ae38c65851b012643b9f4f22ef67f1f8df2504feed73345645": "2026-08-26T10:51:10.227612+00:00",
     "c9a599b7f347878d098ece2029c152ac0e4564049b3d9084470f451223872dda": "2026-08-14T10:15:00.868800+00:00",
+    "cac9c1d8543f1760b917636f01b7d023dc2331644c8af036e297ce2e56feb013": "2026-08-28T18:01:15.825902+00:00",
     "cc89201b1ef5fa9948d89f5df0c8d4a69617312572fb9f482be3993ad6f3ae6b": "2026-08-20T09:34:38.381195+00:00",
     "cdc16ccf5e9b187d5ea494f1c5257dc1848c11926f6fbbd76d3fb2b094fa5c32": "2026-08-21T10:31:03.694239+00:00",
     "ce83235056fd088afa23df4b98a04c61c0ad9cb957d728d14f7cb3b0b9f76de3": "2026-08-28T11:41:09.035515+00:00",
