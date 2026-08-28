@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 10,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 326,
-  "early_signal_last_scan_utc": "2026-08-28T02:40:47.431753+00:00",
+  "early_signal_last_scan_utc": "2026-08-28T02:50:55.350177+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -3.55,
@@ -455,6 +455,44 @@
         "use_of_funds": [
           "AKUISISI / INVESTASI",
           "EKSPANSI / CAPEX"
+        ]
+      },
+      "ticker": ""
+    },
+    "M&A / TAKEOVER|PARTIES|EMITEN PIPA PAPARKAN RENCANA|PERUSAHAAN DI SEKTOR GAS ALAM": {
+      "family": "M&A / TAKEOVER",
+      "first_seen_utc": "2026-08-26T20:51:36.935635+00:00",
+      "last_alert_utc": "2026-08-26T20:51:36.935635+00:00",
+      "last_seen_utc": "2026-08-26T20:51:36.935635+00:00",
+      "market_context": {
+        "change_pct": null,
+        "last_price": null,
+        "market_date": null
+      },
+      "material_snapshot": {
+        "acquirer": "Emiten PIPA Paparkan Rencana",
+        "acquirer_confirmed": true,
+        "event_type": "AKUISISI",
+        "execution_price": null,
+        "ipo_single_price": null,
+        "money": [],
+        "official_authority": null,
+        "official_kind": null,
+        "price_range": null,
+        "ratio": null,
+        "schedule": {},
+        "share_count": null,
+        "stage": "RENCANA",
+        "stage_step": 2,
+        "stage_total": 7,
+        "stake": [],
+        "standby_buyer": null,
+        "target": "Perusahaan di Sektor Gas Alam",
+        "target_confirmed": true,
+        "tender_price": null,
+        "underwriter": null,
+        "use_of_funds": [
+          "AKUISISI / INVESTASI"
         ]
       },
       "ticker": ""
@@ -5057,7 +5095,7 @@
     }
   },
   "last_keepalive_utc": "2026-08-14T10:15:00.868800+00:00",
-  "last_state_change_utc": "2026-08-28T02:40:47.458984+00:00",
+  "last_state_change_utc": "2026-08-28T02:50:55.373372+00:00",
   "market_noise_suppressed": 3,
   "milestone_alerts": {},
   "rumor_alerts_sent": 11,
@@ -5068,8 +5106,8 @@
   "rumor_duplicates_suppressed": 35,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 4,
-  "rumor_integrity_repairs": 1024,
-  "rumor_last_scan_utc": "2026-08-28T02:40:47.257867+00:00",
+  "rumor_integrity_repairs": 1026,
+  "rumor_last_scan_utc": "2026-08-28T02:50:55.073963+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
