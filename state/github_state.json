@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 10,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 326,
-  "early_signal_last_scan_utc": "2026-08-28T03:10:54.731709+00:00",
+  "early_signal_last_scan_utc": "2026-08-28T03:20:47.618990+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -3.55,
@@ -5095,7 +5095,7 @@
     }
   },
   "last_keepalive_utc": "2026-08-14T10:15:00.868800+00:00",
-  "last_state_change_utc": "2026-08-28T03:10:54.756173+00:00",
+  "last_state_change_utc": "2026-08-28T03:20:47.638923+00:00",
   "market_noise_suppressed": 3,
   "milestone_alerts": {},
   "rumor_alerts_sent": 11,
@@ -5106,8 +5106,8 @@
   "rumor_duplicates_suppressed": 35,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 4,
-  "rumor_integrity_repairs": 1030,
-  "rumor_last_scan_utc": "2026-08-28T03:10:54.419363+00:00",
+  "rumor_integrity_repairs": 1032,
+  "rumor_last_scan_utc": "2026-08-28T03:20:47.280918+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -5784,7 +5784,7 @@
     },
     "IPO|TICKER|ANAK": {
       "category": "IPO",
-      "company_name": "Anak Usaha Holding UGM",
+      "company_name": "ANAK",
       "copy_duplicate_count": 0,
       "credible_effective_independent_count": 1.0,
       "derivative_source_count": 0,
