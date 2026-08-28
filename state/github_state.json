@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 10,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 326,
-  "early_signal_last_scan_utc": "2026-08-28T15:40:46.365869+00:00",
+  "early_signal_last_scan_utc": "2026-08-28T16:40:47.630864+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -3.55,
@@ -1459,6 +1459,42 @@
         "use_of_funds": []
       },
       "ticker": "PNGO"
+    },
+    "M&A / TAKEOVER|TICKER|RAMA": {
+      "family": "M&A / TAKEOVER",
+      "first_seen_utc": "2026-08-28T16:40:51.239827+00:00",
+      "last_alert_utc": "2026-08-28T16:40:51.239821+00:00",
+      "last_seen_utc": "2026-08-28T16:40:51.239821+00:00",
+      "market_context": {
+        "change_pct": null,
+        "last_price": null,
+        "market_date": null
+      },
+      "material_snapshot": {
+        "acquirer": null,
+        "acquirer_confirmed": false,
+        "event_type": "TENDER OFFER",
+        "execution_price": null,
+        "ipo_single_price": null,
+        "money": [],
+        "official_authority": "IDX",
+        "official_kind": "PRIMARY",
+        "price_range": null,
+        "ratio": null,
+        "schedule": {},
+        "share_count": null,
+        "stage": "TENDER OFFER",
+        "stage_step": 6,
+        "stage_total": 7,
+        "stake": [],
+        "standby_buyer": null,
+        "target": null,
+        "target_confirmed": false,
+        "tender_price": null,
+        "underwriter": null,
+        "use_of_funds": []
+      },
+      "ticker": "RAMA"
     },
     "M&A / TAKEOVER|TICKER|SEPI": {
       "family": "M&A / TAKEOVER",
@@ -5140,6 +5176,26 @@
       "verified_at": "2026-08-28T11:41:05.105434+00:00",
       "website": "https://www.pinagoutama.com"
     },
+    "RAMA": {
+      "business_activity": null,
+      "controller": null,
+      "industry": null,
+      "issuer_name": null,
+      "owner_context_sources": 0,
+      "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
+      "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
+      "owner_v6_checked_utc": "2026-08-28T16:40:50.668757+00:00",
+      "owner_v6_pages_fetched": 0,
+      "profile_source": "Yahoo Finance",
+      "profile_source_quality": "FALLBACK",
+      "profile_source_url": null,
+      "sector": null,
+      "subindustry": null,
+      "subsector": null,
+      "ticker": "RAMA",
+      "verified_at": "2026-08-28T16:40:50.650027+00:00",
+      "website": null
+    },
     "SEPI": {
       "business_activity": null,
       "controller": null,
@@ -5223,7 +5279,7 @@
     }
   },
   "last_keepalive_utc": "2026-08-28T10:20:50.907640+00:00",
-  "last_state_change_utc": "2026-08-28T15:41:07.008387+00:00",
+  "last_state_change_utc": "2026-08-28T16:40:51.241097+00:00",
   "market_noise_suppressed": 3,
   "milestone_alerts": {},
   "rumor_alerts_sent": 11,
@@ -5235,7 +5291,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 4,
   "rumor_integrity_repairs": 1076,
-  "rumor_last_scan_utc": "2026-08-28T15:40:46.015695+00:00",
+  "rumor_last_scan_utc": "2026-08-28T16:40:47.321852+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -6705,6 +6761,7 @@
     "4033cc1087b068c042d2ce1036598043129ccc10f29977111a08b3e34e54c2ae": "2026-08-14T10:15:00.868800+00:00",
     "403f9a1fae38c9a0da7f0d91ab035f88fbd5e5fce81a545a81d175d91c1c6b05": "2026-08-14T10:15:00.868800+00:00",
     "429f6dfbfb27af1f3aad80bf00b3dcbfde708ea095eac66280325e7e424fbc1d": "2026-08-14T10:15:00.868800+00:00",
+    "43fa02f3a191c3fc51552d478c82c128d76a71ce79320d4f3e9b49d99af8a5f6": "2026-08-28T16:40:51.239803+00:00",
     "44285719d070df6b59d0d0829be304528abb198af9f4bb215376d7d94cbba994": "2026-08-14T10:15:00.868800+00:00",
     "444758c81e424daee13d06430773f25877fbf4c860a87546cf00acb36a961238": "2026-08-14T10:15:00.868800+00:00",
     "45beca7738c9133f975c545cd682b0704c633b21a3b90e2c06f6e9f162373e45": "2026-08-20T03:21:47.165417+00:00",
