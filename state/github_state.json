@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 10,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 326,
-  "early_signal_last_scan_utc": "2026-08-27T21:21:49.260258+00:00",
+  "early_signal_last_scan_utc": "2026-08-28T00:41:12.091819+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -3.55,
@@ -5022,7 +5022,7 @@
       "owner_context_sources": 0,
       "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
       "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-      "owner_v6_checked_utc": "2026-08-27T12:30:55.165724+00:00",
+      "owner_v6_checked_utc": "2026-08-28T00:41:01.668299+00:00",
       "owner_v6_pages_fetched": 0,
       "profile_source": "Yahoo Finance",
       "profile_source_quality": "FALLBACK",
@@ -5031,7 +5031,7 @@
       "subindustry": null,
       "subsector": null,
       "ticker": "SWAP",
-      "verified_at": "2026-08-27T12:30:56.284748+00:00",
+      "verified_at": "2026-08-28T00:41:02.233455+00:00",
       "website": null
     },
     "WIKA": {
@@ -5057,7 +5057,7 @@
     }
   },
   "last_keepalive_utc": "2026-08-14T10:15:00.868800+00:00",
-  "last_state_change_utc": "2026-08-27T21:21:49.261291+00:00",
+  "last_state_change_utc": "2026-08-28T00:41:12.146390+00:00",
   "market_noise_suppressed": 3,
   "milestone_alerts": {},
   "rumor_alerts_sent": 11,
@@ -5069,7 +5069,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 4,
   "rumor_integrity_repairs": 1001,
-  "rumor_last_scan_utc": "2026-08-27T21:21:48.635423+00:00",
+  "rumor_last_scan_utc": "2026-08-28T00:41:11.903281+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -5746,7 +5746,7 @@
     },
     "IPO|TICKER|ANAK": {
       "category": "IPO",
-      "company_name": "ANAK",
+      "company_name": "Anak Usaha Holding UGM",
       "copy_duplicate_count": 0,
       "credible_effective_independent_count": 1.0,
       "derivative_source_count": 0,
@@ -5909,11 +5909,11 @@
     "IPO|TICKER|SWAP": {
       "category": "IPO",
       "company_name": "SWAP",
-      "copy_duplicate_count": 1,
+      "copy_duplicate_count": 0,
       "credible_effective_independent_count": 0,
-      "derivative_source_count": 1,
-      "detected_source_count": 2,
-      "effective_independent_count": 0.8,
+      "derivative_source_count": 0,
+      "detected_source_count": 1,
+      "effective_independent_count": 0.6,
       "entity_aliases": [
         "Swayasa Prakarsa (SWAP",
         "Hilirisasi Riset UGM (SWAP"
@@ -5921,7 +5921,7 @@
       "entity_resolution_source": null,
       "first_seen_utc": "2026-08-23T22:47:19+00:00",
       "high_quality_source_count": 0,
-      "independent_story_count": 2,
+      "independent_story_count": 1,
       "issuer_profile": {
         "business_activity": null,
         "controller": null,
@@ -5930,7 +5930,7 @@
         "owner_context_sources": 0,
         "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
         "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-        "owner_v6_checked_utc": "2026-08-27T12:30:55.165724+00:00",
+        "owner_v6_checked_utc": "2026-08-28T00:41:01.668299+00:00",
         "owner_v6_pages_fetched": 0,
         "profile_source": "Yahoo Finance",
         "profile_source_quality": "FALLBACK",
@@ -5939,7 +5939,7 @@
         "subindustry": null,
         "subsector": null,
         "ticker": "SWAP",
-        "verified_at": "2026-08-27T12:30:56.284748+00:00",
+        "verified_at": "2026-08-28T00:41:02.233455+00:00",
         "website": null
       },
       "key": "IPO|TICKER|SWAP",
@@ -5949,7 +5949,7 @@
       "market_data": null,
       "official_confirmation": null,
       "premium_source_count": 0,
-      "profile_refresh_utc": "2026-08-27T12:31:07.180461+00:00",
+      "profile_refresh_utc": "2026-08-28T00:41:11.902579+00:00",
       "published": "Mon, 24 Aug 2026 10:42:00 GMT",
       "rumor_details": {
         "ipo_price": null,
@@ -5977,21 +5977,11 @@
           "source": "maybanktrade.co.id",
           "tier": 1,
           "weight": 0.55
-        },
-        {
-          "derivative": true,
-          "group": "swa.co.id",
-          "new_material": 0,
-          "quality": "LOW",
-          "semantic_copy": false,
-          "source": "SWA.co.id",
-          "tier": 1,
-          "weight": 0.25
         }
       ],
       "source_count": 2,
       "source_quality": "LOW",
-      "source_quality_score": 0.8,
+      "source_quality_score": 0.6,
       "sources": [
         "maybanktrade.co.id",
         "SWA.co.id"
