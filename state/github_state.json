@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 10,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 326,
-  "early_signal_last_scan_utc": "2026-08-29T08:30:49.031443+00:00",
+  "early_signal_last_scan_utc": "2026-08-29T09:01:01.003012+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -3.55,
@@ -2624,6 +2624,42 @@
         "share_count": null,
         "stage": "CHANGE OF CONTROL",
         "stage_step": 5,
+        "stage_total": 7,
+        "stake": [],
+        "standby_buyer": null,
+        "target": null,
+        "target_confirmed": false,
+        "tender_price": null,
+        "underwriter": null,
+        "use_of_funds": []
+      },
+      "ticker": ""
+    },
+    "M&A / TAKEOVER|TITLE|TUNTAS AEP NUSANTARA KUASAI 99 48 PERSEN": {
+      "family": "M&A / TAKEOVER",
+      "first_seen_utc": "2026-08-29T09:01:04.104739+00:00",
+      "last_alert_utc": "2026-08-29T09:01:04.104733+00:00",
+      "last_seen_utc": "2026-08-29T09:01:04.104733+00:00",
+      "market_context": {
+        "change_pct": null,
+        "last_price": null,
+        "market_date": null
+      },
+      "material_snapshot": {
+        "acquirer": null,
+        "acquirer_confirmed": false,
+        "event_type": "TENDER OFFER",
+        "execution_price": null,
+        "ipo_single_price": null,
+        "money": [],
+        "official_authority": null,
+        "official_kind": null,
+        "price_range": null,
+        "ratio": null,
+        "schedule": {},
+        "share_count": null,
+        "stage": "TENDER OFFER",
+        "stage_step": 6,
         "stage_total": 7,
         "stake": [],
         "standby_buyer": null,
@@ -5474,7 +5510,7 @@
     }
   },
   "last_keepalive_utc": "2026-08-28T10:20:50.907640+00:00",
-  "last_state_change_utc": "2026-08-29T08:31:20.017957+00:00",
+  "last_state_change_utc": "2026-08-29T09:01:04.106042+00:00",
   "market_noise_suppressed": 3,
   "milestone_alerts": {},
   "rumor_alerts_sent": 11,
@@ -5486,7 +5522,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 4,
   "rumor_integrity_repairs": 1076,
-  "rumor_last_scan_utc": "2026-08-29T08:30:49.021853+00:00",
+  "rumor_last_scan_utc": "2026-08-29T09:01:00.992328+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -7072,6 +7108,7 @@
     "ddd08590d04a2bdcfacf755cd553b2e16b72aed565d1b93b4c31364443ff73b3": "2026-08-14T10:15:00.868800+00:00",
     "ded8319bd7a86ffbc6862e363b62e5ff6480cd72b40a6d752f4cd57796f00a71": "2026-08-14T10:15:00.868800+00:00",
     "df2a0ff98b0515f24ba57280dc882b9ea4c6fd716e73eafe99069987cc627a7c": "2026-08-14T10:15:00.868800+00:00",
+    "e15dead3e0934be0b2fe7aff9893f581651ea2f00043e9910df6cefee45aeb1c": "2026-08-29T09:01:04.104716+00:00",
     "e33907a9fe904c50f06fe11b58b70b65be47742ec7f0a555fb1e52141661e12a": "2026-08-20T03:21:47.165417+00:00",
     "e43121d88f14cca7d84b58aa0e148b1506a557d0f3d159f7a08a27429f076efb": "2026-08-14T10:15:00.868800+00:00",
     "e454b21c7fd7f238db363cf91ec740e0cf0a757e7a4900279b78bc62a0b8ea9b": "2026-08-14T10:15:00.868800+00:00",
