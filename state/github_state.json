@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 10,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 326,
-  "early_signal_last_scan_utc": "2026-08-28T23:40:54.346004+00:00",
+  "early_signal_last_scan_utc": "2026-08-29T02:20:50.122584+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -3.55,
@@ -1641,6 +1641,45 @@
         "tender_price": null,
         "underwriter": null,
         "use_of_funds": []
+      },
+      "ticker": ""
+    },
+    "M&A / TAKEOVER|TITLE|CAFHI ANAK USAHA CHANDRA ASRI EKSPANSI BISNIS": {
+      "family": "M&A / TAKEOVER",
+      "first_seen_utc": "2026-08-29T02:20:52.174768+00:00",
+      "last_alert_utc": "2026-08-29T02:20:52.174763+00:00",
+      "last_seen_utc": "2026-08-29T02:20:52.174763+00:00",
+      "market_context": {
+        "change_pct": null,
+        "last_price": null,
+        "market_date": null
+      },
+      "material_snapshot": {
+        "acquirer": null,
+        "acquirer_confirmed": false,
+        "event_type": "AKUISISI",
+        "execution_price": null,
+        "ipo_single_price": null,
+        "money": [],
+        "official_authority": null,
+        "official_kind": null,
+        "price_range": null,
+        "ratio": null,
+        "schedule": {},
+        "share_count": null,
+        "stage": "SPA / SIGNED",
+        "stage_step": 4,
+        "stage_total": 7,
+        "stake": [],
+        "standby_buyer": null,
+        "target": null,
+        "target_confirmed": false,
+        "tender_price": null,
+        "underwriter": null,
+        "use_of_funds": [
+          "AKUISISI / INVESTASI",
+          "EKSPANSI / CAPEX"
+        ]
       },
       "ticker": ""
     },
@@ -5343,7 +5382,7 @@
     }
   },
   "last_keepalive_utc": "2026-08-28T10:20:50.907640+00:00",
-  "last_state_change_utc": "2026-08-28T23:40:56.126705+00:00",
+  "last_state_change_utc": "2026-08-29T02:20:52.176070+00:00",
   "market_noise_suppressed": 3,
   "milestone_alerts": {},
   "rumor_alerts_sent": 11,
@@ -5355,7 +5394,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 4,
   "rumor_integrity_repairs": 1076,
-  "rumor_last_scan_utc": "2026-08-28T23:40:54.337661+00:00",
+  "rumor_last_scan_utc": "2026-08-29T02:20:50.112370+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -6879,6 +6918,7 @@
     "829208e58c2d483ac29c3a3a4a05e50f550bc2ffc862059458139428038b4b54": "2026-08-14T10:15:00.868800+00:00",
     "830ef1668388081191c8687508173c3815158d8cf7bb5316d542d87beec83270": "2026-08-14T10:15:00.868800+00:00",
     "8437cd91d15e501ded2cfa4e8118f33db2a8cf8a3220888bd8f63a912adcfc1c": "2026-08-14T10:15:00.868800+00:00",
+    "87f77ebc26da199d6ce34b932c439622c0f3666262d65480caeca8b632c8203c": "2026-08-29T02:20:52.174746+00:00",
     "89670fd45200ffdafa4bb1a0a4bb76b7800915f1ccf79ca612e2aabb6870d44a": "2026-08-14T10:15:00.868800+00:00",
     "8c046d3bf4f29943bff2276b0a143ae6155b904b554586104987b04454897db1": "2026-08-26T07:21:13.208813+00:00",
     "8da146f5393e1536dd4de3c745d7809c9c5cf29c99ece0b3fee3b521caee97d7": "2026-08-28T15:41:07.007160+00:00",
