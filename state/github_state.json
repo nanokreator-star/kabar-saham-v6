@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 10,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 326,
-  "early_signal_last_scan_utc": "2026-08-29T09:01:01.003012+00:00",
+  "early_signal_last_scan_utc": "2026-08-29T13:00:58.944686+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -3.55,
@@ -2638,12 +2638,12 @@
     "M&A / TAKEOVER|TITLE|TUNTAS AEP NUSANTARA KUASAI 99 48 PERSEN": {
       "family": "M&A / TAKEOVER",
       "first_seen_utc": "2026-08-29T09:01:04.104739+00:00",
-      "last_alert_utc": "2026-08-29T09:01:04.104733+00:00",
-      "last_seen_utc": "2026-08-29T09:01:04.104733+00:00",
+      "last_alert_utc": "2026-08-29T13:01:39.906053+00:00",
+      "last_seen_utc": "2026-08-29T13:01:39.906053+00:00",
       "market_context": {
-        "change_pct": null,
-        "last_price": null,
-        "market_date": null
+        "change_pct": 0.0,
+        "last_price": 3470.0,
+        "market_date": "2026-08-28"
       },
       "material_snapshot": {
         "acquirer": null,
@@ -2657,7 +2657,7 @@
         "price_range": null,
         "ratio": null,
         "schedule": {},
-        "share_count": null,
+        "share_count": "9.484.700 saham",
         "stage": "TENDER OFFER",
         "stage_step": 6,
         "stage_total": 7,
@@ -2669,7 +2669,7 @@
         "underwriter": null,
         "use_of_funds": []
       },
-      "ticker": ""
+      "ticker": "PNGO"
     },
     "M&A / TAKEOVER|TITLE|TUNTAS GELAR WAJIB INET PADA MELONJAK JADI": {
       "family": "M&A / TAKEOVER",
@@ -5395,7 +5395,7 @@
       "owner_context_sources": 0,
       "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
       "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-      "owner_v6_checked_utc": "2026-08-28T11:41:08.196113+00:00",
+      "owner_v6_checked_utc": "2026-08-29T13:01:39.297292+00:00",
       "owner_v6_pages_fetched": 0,
       "profile_source": "Yahoo Finance",
       "profile_source_quality": "FALLBACK",
@@ -5510,7 +5510,7 @@
     }
   },
   "last_keepalive_utc": "2026-08-28T10:20:50.907640+00:00",
-  "last_state_change_utc": "2026-08-29T09:01:04.106042+00:00",
+  "last_state_change_utc": "2026-08-29T13:01:39.907489+00:00",
   "market_noise_suppressed": 3,
   "milestone_alerts": {},
   "rumor_alerts_sent": 11,
@@ -5522,7 +5522,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 4,
   "rumor_integrity_repairs": 1076,
-  "rumor_last_scan_utc": "2026-08-29T09:01:00.992328+00:00",
+  "rumor_last_scan_utc": "2026-08-29T13:00:58.934136+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -7066,6 +7066,7 @@
     "a0aaef4681fe1e5ff35b0dbd9da81ab1af3c65b7445c2a93b8b4b08878619e16": "2026-08-14T10:15:00.868800+00:00",
     "a2ca1e0da9ffb3edfc2af75bfbbc98cc266e3253042b9de9cced630247084add": "2026-08-14T10:15:00.868800+00:00",
     "a3864ebea6aaac013de22cc1b986f34e671379ce0e1be0fc53773f378a0ff38b": "2026-08-17T12:10:53.623227+00:00",
+    "a756f94948679cb9e44f144a87f88e2767b95f261c152c0dc6161ad83b48ed7e": "2026-08-29T13:01:39.906036+00:00",
     "a94b0bbc1979e298a743888ce52f49dfb8d1ae6ebfe55bddeaf6c45a0380f32f": "2026-08-14T10:15:00.868800+00:00",
     "aa163f83d516de210df09af02d4f15f4934b3a6c371ec8fffcc1f508b34ed7db": "2026-08-21T23:41:22.898611+00:00",
     "aa60b605d22f05be11990379b4d61736f85b0031ce392c27095e972714c68b72": "2026-08-14T10:15:00.868800+00:00",
