@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 10,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 326,
-  "early_signal_last_scan_utc": "2026-08-29T13:53:03.738513+00:00",
+  "early_signal_last_scan_utc": "2026-08-29T14:30:54.648748+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -3.55,
@@ -2744,6 +2744,42 @@
         "use_of_funds": []
       },
       "ticker": ""
+    },
+    "M&A / TAKEOVER|TITLE|WAJIB DUA PUTRA UTAMA MAKMUR MUNDUR DANA": {
+      "family": "M&A / TAKEOVER",
+      "first_seen_utc": "2026-08-29T14:31:13.281166+00:00",
+      "last_alert_utc": "2026-08-29T14:31:13.281160+00:00",
+      "last_seen_utc": "2026-08-29T14:31:13.281160+00:00",
+      "market_context": {
+        "change_pct": -2.1277,
+        "last_price": 92.0,
+        "market_date": "2026-08-28"
+      },
+      "material_snapshot": {
+        "acquirer": null,
+        "acquirer_confirmed": false,
+        "event_type": "TENDER OFFER",
+        "execution_price": null,
+        "ipo_single_price": null,
+        "money": [],
+        "official_authority": null,
+        "official_kind": null,
+        "price_range": null,
+        "ratio": null,
+        "schedule": {},
+        "share_count": null,
+        "stage": "TENDER OFFER",
+        "stage_step": 6,
+        "stage_total": 7,
+        "stake": [],
+        "standby_buyer": null,
+        "target": null,
+        "target_confirmed": false,
+        "tender_price": null,
+        "underwriter": null,
+        "use_of_funds": []
+      },
+      "ticker": "DPUM"
     },
     "M&A / TAKEOVER|TITLE|WAJIB INET MINIM PEMINAT HANYA SERAP 01": {
       "family": "M&A / TAKEOVER",
@@ -5546,7 +5582,7 @@
     }
   },
   "last_keepalive_utc": "2026-08-28T10:20:50.907640+00:00",
-  "last_state_change_utc": "2026-08-29T13:53:16.889991+00:00",
+  "last_state_change_utc": "2026-08-29T14:31:13.282471+00:00",
   "market_noise_suppressed": 3,
   "milestone_alerts": {},
   "rumor_alerts_sent": 11,
@@ -5558,7 +5594,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 4,
   "rumor_integrity_repairs": 1076,
-  "rumor_last_scan_utc": "2026-08-29T13:53:03.728033+00:00",
+  "rumor_last_scan_utc": "2026-08-29T14:30:54.638191+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -7036,6 +7072,7 @@
     "45beca7738c9133f975c545cd682b0704c633b21a3b90e2c06f6e9f162373e45": "2026-08-20T03:21:47.165417+00:00",
     "464a20bba82985eb77ce70d1c30daa691c2b1a20af5dfeff2e45adc48c48fa9b": "2026-08-18T02:50:54.706608+00:00",
     "476d0f3eccd6d3ee387f32cdcaa15e804cc8f0ffc5fa48602544f0d233749f07": "2026-08-14T10:15:00.868800+00:00",
+    "495de9b968006e16e9a6a266d07c4466fbb79a1ffdfe654091c972916a2bbf89": "2026-08-29T14:31:13.281142+00:00",
     "4c3e55e60c546b9aa3b7f895e7d064df342650b458b7d41f19bd5607aa2ada25": "2026-08-24T07:11:05.738523+00:00",
     "4db158fa131d9bdb7e06da8ba6759fe5073e4e9c9bac3496a711b3431d107ebd": "2026-08-14T10:15:00.868800+00:00",
     "4e440b65597626aeb9c337edac2f1103fb81d8886d5affb654ce547d687ff0c1": "2026-08-14T10:15:00.868800+00:00",
