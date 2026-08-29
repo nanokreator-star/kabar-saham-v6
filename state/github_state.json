@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 10,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 326,
-  "early_signal_last_scan_utc": "2026-08-29T15:40:53.659516+00:00",
+  "early_signal_last_scan_utc": "2026-08-29T20:21:25.672272+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -3.55,
@@ -5367,7 +5367,7 @@
       "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
       "owner_holder_resolution_level": "STRUCTURED_MAJOR_HOLDERS_V8",
       "owner_resolution_level": "MAJOR_HOLDER_CONTEXT",
-      "owner_v6_checked_utc": "2026-08-29T08:10:59.832155+00:00",
+      "owner_v6_checked_utc": "2026-08-29T20:20:56.191024+00:00",
       "owner_v6_pages_fetched": 1,
       "owner_v6_source_urls": [
         "https://www.mitratel.co.id/asean-corporate-governance-scorecard-gcg/"
@@ -5379,7 +5379,7 @@
       "subindustry": null,
       "subsector": null,
       "ticker": "MTEL",
-      "verified_at": "2026-08-29T08:11:00.821309+00:00",
+      "verified_at": "2026-08-29T20:20:56.904560+00:00",
       "website": "https://www.mitratel.co.id"
     },
     "NAYZ": {
@@ -5582,7 +5582,7 @@
     }
   },
   "last_keepalive_utc": "2026-08-28T10:20:50.907640+00:00",
-  "last_state_change_utc": "2026-08-29T15:41:14.283982+00:00",
+  "last_state_change_utc": "2026-08-29T20:21:25.697523+00:00",
   "market_noise_suppressed": 3,
   "milestone_alerts": {},
   "rumor_alerts_sent": 11,
@@ -5594,7 +5594,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 4,
   "rumor_integrity_repairs": 1076,
-  "rumor_last_scan_utc": "2026-08-29T15:40:53.649811+00:00",
+  "rumor_last_scan_utc": "2026-08-29T20:21:25.661085+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -6696,7 +6696,7 @@
         "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
         "owner_holder_resolution_level": "STRUCTURED_MAJOR_HOLDERS_V8",
         "owner_resolution_level": "MAJOR_HOLDER_CONTEXT",
-        "owner_v6_checked_utc": "2026-08-29T08:10:59.832155+00:00",
+        "owner_v6_checked_utc": "2026-08-29T20:20:56.191024+00:00",
         "owner_v6_pages_fetched": 1,
         "owner_v6_source_urls": [
           "https://www.mitratel.co.id/asean-corporate-governance-scorecard-gcg/"
@@ -6708,7 +6708,7 @@
         "subindustry": null,
         "subsector": null,
         "ticker": "MTEL",
-        "verified_at": "2026-08-29T08:11:00.821309+00:00",
+        "verified_at": "2026-08-29T20:20:56.904560+00:00",
         "website": "https://www.mitratel.co.id"
       },
       "key": "MERGER|TICKER|MTEL",
@@ -6731,7 +6731,7 @@
       },
       "official_confirmation": null,
       "premium_source_count": 0,
-      "profile_refresh_utc": "2026-08-29T08:11:27.079856+00:00",
+      "profile_refresh_utc": "2026-08-29T20:21:25.657946+00:00",
       "published": "Thu, 27 Aug 2026 05:00:49 GMT",
       "rumor_details": {
         "ipo_price": null,
