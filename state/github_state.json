@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 10,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 326,
-  "early_signal_last_scan_utc": "2026-08-29T06:30:54.704705+00:00",
+  "early_signal_last_scan_utc": "2026-08-29T07:50:54.384658+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -3.55,
@@ -2126,6 +2126,42 @@
         "use_of_funds": []
       },
       "ticker": ""
+    },
+    "M&A / TAKEOVER|TITLE|KEBAKARAN PABRIK RAMA INDONESIA JADWAL ULANG DPUM": {
+      "family": "M&A / TAKEOVER",
+      "first_seen_utc": "2026-08-29T07:51:10.650550+00:00",
+      "last_alert_utc": "2026-08-29T07:51:10.650544+00:00",
+      "last_seen_utc": "2026-08-29T07:51:10.650544+00:00",
+      "market_context": {
+        "change_pct": -2.1277,
+        "last_price": 92.0,
+        "market_date": "2026-08-28"
+      },
+      "material_snapshot": {
+        "acquirer": null,
+        "acquirer_confirmed": false,
+        "event_type": "TENDER OFFER",
+        "execution_price": null,
+        "ipo_single_price": null,
+        "money": [],
+        "official_authority": null,
+        "official_kind": null,
+        "price_range": null,
+        "ratio": null,
+        "schedule": {},
+        "share_count": null,
+        "stage": "TENDER OFFER",
+        "stage_step": 6,
+        "stage_total": 7,
+        "stake": [],
+        "standby_buyer": null,
+        "target": null,
+        "target_confirmed": false,
+        "tender_price": null,
+        "underwriter": null,
+        "use_of_funds": []
+      },
+      "ticker": "DPUM"
     },
     "M&A / TAKEOVER|TITLE|KUASAI 29 41 PERSEN NAYZ SAIKO CONSULTANCY": {
       "family": "M&A / TAKEOVER",
@@ -5019,6 +5055,26 @@
       "verified_at": "2026-08-20T09:34:34.688015+00:00",
       "website": "https://www.sspace.id"
     },
+    "DPUM": {
+      "business_activity": "PT Dua Putra Utama Makmur Tbk engages in the fisheries and trading businesses in Indonesia. The company offers fish products, including banyar fish, pomfret, benggol, bentong, deho, deles, layur, salmon, sero, mackerel, tuna, and others; an",
+      "controller": null,
+      "industry": "Packaged Foods",
+      "issuer_name": "Dua Putra Utama Makmur",
+      "owner_context_sources": 0,
+      "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
+      "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
+      "owner_v6_checked_utc": "2026-08-29T07:51:09.897775+00:00",
+      "owner_v6_pages_fetched": 0,
+      "profile_source": "Yahoo Finance",
+      "profile_source_quality": "FALLBACK",
+      "profile_source_url": null,
+      "sector": "Consumer Defensive",
+      "subindustry": null,
+      "subsector": null,
+      "ticker": "DPUM",
+      "verified_at": "2026-08-29T07:51:06.457552+00:00",
+      "website": "https://www.duaputra.co.id"
+    },
     "IRSX": {
       "business_activity": "PT Folago Global Nusantara Tbk, together with its subsidiaries, engages in software publishing and digital product sales businesses in Indonesia. It operates through five segments: Digital Products, IRS Software, Advertisement, Commission, ",
       "controller": null,
@@ -5418,7 +5474,7 @@
     }
   },
   "last_keepalive_utc": "2026-08-28T10:20:50.907640+00:00",
-  "last_state_change_utc": "2026-08-29T06:30:55.463616+00:00",
+  "last_state_change_utc": "2026-08-29T07:51:10.651879+00:00",
   "market_noise_suppressed": 3,
   "milestone_alerts": {},
   "rumor_alerts_sent": 11,
@@ -5430,7 +5486,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 4,
   "rumor_integrity_repairs": 1076,
-  "rumor_last_scan_utc": "2026-08-29T06:30:54.694416+00:00",
+  "rumor_last_scan_utc": "2026-08-29T07:50:54.373939+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -6987,6 +7043,7 @@
     "afb2a4f2f71e71bc46e76736b72e57eb28b084a7f27574f22995bd97f8473ca4": "2026-08-24T08:01:17.664942+00:00",
     "b7bd20f30f796bf190b07fa5f4ebe9ffd23fd9fef600842cc82874aa15d28fab": "2026-08-19T05:22:31.609048+00:00",
     "b7e2dd72313f82062863e8a488cb6ab2caa15d261ef46487e0f04598f08bf542": "2026-08-14T10:15:00.868800+00:00",
+    "b8fd5c8ba61ecaef32be89ae5f4454c5c1cd475328a8acbf36ed4a18ea4d0d3e": "2026-08-29T07:51:10.650528+00:00",
     "b9a491ff0723d4b28dea6cce10f88216b577a97545819aee9db14c9e339dab0f": "2026-08-14T10:15:00.868800+00:00",
     "b9fef1c2d035bcc97d779563585897fe64b72824ee5100e87cd126c48d3fa8e3": "2026-08-19T00:31:02.208943+00:00",
     "bbe884fbc449fb10cb942b000c191836b7bec3feaead9d86e3532289a87bfdbe": "2026-08-14T10:15:00.868800+00:00",
