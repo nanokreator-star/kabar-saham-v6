@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 10,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 326,
-  "early_signal_last_scan_utc": "2026-08-29T20:21:25.672272+00:00",
+  "early_signal_last_scan_utc": "2026-08-30T05:01:00.011904+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -3.55,
@@ -149,6 +149,42 @@
         "share_count": null,
         "stage": "BOOKBUILDING",
         "stage_step": 3,
+        "stage_total": 5,
+        "stake": [],
+        "standby_buyer": null,
+        "target": null,
+        "target_confirmed": false,
+        "tender_price": null,
+        "underwriter": null,
+        "use_of_funds": []
+      },
+      "ticker": ""
+    },
+    "IPO|TITLE|BUKAN TAK LAKU ALASAN CALON MENUNDA SUARA": {
+      "family": "IPO",
+      "first_seen_utc": "2026-08-30T05:01:07.776317+00:00",
+      "last_alert_utc": "2026-08-30T05:01:07.776309+00:00",
+      "last_seen_utc": "2026-08-30T05:01:07.776309+00:00",
+      "market_context": {
+        "change_pct": null,
+        "last_price": null,
+        "market_date": null
+      },
+      "material_snapshot": {
+        "acquirer": null,
+        "acquirer_confirmed": false,
+        "event_type": "IPO",
+        "execution_price": null,
+        "ipo_single_price": null,
+        "money": [],
+        "official_authority": null,
+        "official_kind": null,
+        "price_range": null,
+        "ratio": null,
+        "schedule": {},
+        "share_count": null,
+        "stage": "OFFERING",
+        "stage_step": 4,
         "stage_total": 5,
         "stake": [],
         "standby_buyer": null,
@@ -5582,7 +5618,7 @@
     }
   },
   "last_keepalive_utc": "2026-08-28T10:20:50.907640+00:00",
-  "last_state_change_utc": "2026-08-29T20:21:25.697523+00:00",
+  "last_state_change_utc": "2026-08-30T05:01:07.777721+00:00",
   "market_noise_suppressed": 3,
   "milestone_alerts": {},
   "rumor_alerts_sent": 11,
@@ -5594,7 +5630,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 4,
   "rumor_integrity_repairs": 1076,
-  "rumor_last_scan_utc": "2026-08-29T20:21:25.661085+00:00",
+  "rumor_last_scan_utc": "2026-08-30T05:01:00.001817+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -7110,6 +7146,7 @@
     "72b408ab954ef06ec31ebdfde647a0fe4173208e5763b3f49889e883efc85de0": "2026-08-24T13:41:05.283219+00:00",
     "73c690717fc2b23b5a0bf40dd848acdab89c1cacf73849b598ddadf35a11c72d": "2026-08-14T10:15:00.868800+00:00",
     "761b66edaef0cc1a0e228ff3651857a37eeb90af5720589dda87e86eb9f325d8": "2026-08-28T13:11:11.093622+00:00",
+    "78e5b74a4f081c12fd05a181fb26f48f1a4539dd0acf87df6f3987e28186f080": "2026-08-30T05:01:07.776281+00:00",
     "7b71f33e1720dbc5671d8524fc03a0094289261b9a2cd4d10f2ee2e55536d20d": "2026-08-26T16:11:07.765627+00:00",
     "7b787a9a82b15027819551e5a935270e63c0a87f2231006c6a53696ebafb3b2c": "2026-08-14T10:15:00.868800+00:00",
     "7c1e561d904bf0f2662c4b2cc158dc9a2d87ea7ff8849127870d75b24eece209": "2026-08-14T10:15:00.868800+00:00",
