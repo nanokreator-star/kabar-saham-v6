@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 10,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 326,
-  "early_signal_last_scan_utc": "2026-08-31T03:10:58.854293+00:00",
+  "early_signal_last_scan_utc": "2026-08-31T03:20:39.505727+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -3.55,
@@ -5674,7 +5674,7 @@
     }
   },
   "last_keepalive_utc": "2026-08-28T10:20:50.907640+00:00",
-  "last_state_change_utc": "2026-08-31T03:10:58.884414+00:00",
+  "last_state_change_utc": "2026-08-31T03:20:39.649688+00:00",
   "market_noise_suppressed": 3,
   "milestone_alerts": {},
   "rumor_alerts_sent": 12,
@@ -5684,9 +5684,9 @@
   "rumor_denied_count": 0,
   "rumor_duplicates_suppressed": 43,
   "rumor_entity_rekeys": 1,
-  "rumor_expired_count": 5,
+  "rumor_expired_count": 6,
   "rumor_integrity_repairs": 1076,
-  "rumor_last_scan_utc": "2026-08-31T03:10:58.843685+00:00",
+  "rumor_last_scan_utc": "2026-08-31T03:20:39.499125+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -6237,7 +6237,7 @@
       "key": "DELISTING / RELISTING|TITLE|59 BEI MASUK DAFTAR DELISTING ADA YANG",
       "last_alert_utc": "2026-08-31T03:10:58.841369+00:00",
       "last_seen_utc": "2026-08-31T03:00:43+00:00",
-      "link": "https://holopis.com/2026/08/31/59-emiten-bei-masuk-daftar-delisting-ada-yang-disuspensi-hingga-87-bulan/",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdEtYcEFTckczS3hqeUk3MzVfNHV3QTVyYTN1RXFJV2pOcnpkS2ktcEhXSF9VTFMzdFRRMTFKcmRSb2JjdnNpMHlpZXlBQ3Q0MHpiYzlIbi1JZWgyeUp0N01SX1VWajQ3M3JRTjltZHJXZ0dlUGg1WHBKVDYxbFd4d2c2bWtpZUJCUXgyLXhzNTJZMVNCNE5NdktUM3FMVEZUbERHS1oyWQ?oc=5",
       "market_data": null,
       "official_confirmation": null,
       "premium_source_count": 0,
@@ -6470,6 +6470,7 @@
       "key": "IPO|TICKER|ANAK",
       "last_alert_utc": "2026-08-24T03:36:29.394519+00:00",
       "last_seen_utc": "2026-08-24T03:15:00+00:00",
+      "last_state_change_utc": "2026-08-31T03:20:39.499106+00:00",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBodFFhZDdjeW9nOVdIT25YbzFiNDNxaFlCX0JpRE1rc3JWVm5pTGhtQUs0WGp1cXlpNDZaNlg1VHJZN1djZHktTlp0XzNJRkF1Tkp5ODk2X2V5c3lQS1lYbHU5TVpYRWlnYkJsektKSUdmREZHdkxzOGhCekdRSk0?oc=5",
       "market_data": null,
       "official_confirmation": null,
@@ -6506,7 +6507,7 @@
       "sources": [
         "Tempo.co"
       ],
-      "status": "ACTIVE",
+      "status": "EXPIRED",
       "strength": "MEDIUM",
       "ticker": "ANAK",
       "title": "Anak Usaha Holding UGM Akan IPO di Bursa Efek - Tempo.co"
