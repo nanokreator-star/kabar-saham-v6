@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 10,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 326,
-  "early_signal_last_scan_utc": "2026-08-31T02:30:52.632659+00:00",
+  "early_signal_last_scan_utc": "2026-08-31T03:00:56.219415+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -3.55,
@@ -5674,7 +5674,7 @@
     }
   },
   "last_keepalive_utc": "2026-08-28T10:20:50.907640+00:00",
-  "last_state_change_utc": "2026-08-31T02:30:59.964148+00:00",
+  "last_state_change_utc": "2026-08-31T03:00:56.254337+00:00",
   "market_noise_suppressed": 3,
   "milestone_alerts": {},
   "rumor_alerts_sent": 11,
@@ -5684,9 +5684,9 @@
   "rumor_denied_count": 0,
   "rumor_duplicates_suppressed": 43,
   "rumor_entity_rekeys": 1,
-  "rumor_expired_count": 4,
+  "rumor_expired_count": 5,
   "rumor_integrity_repairs": 1076,
-  "rumor_last_scan_utc": "2026-08-31T02:30:52.624071+00:00",
+  "rumor_last_scan_utc": "2026-08-31T03:00:56.212551+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -6318,6 +6318,7 @@
       "key": "IPO|COMPANY|SWAYASA PRAKASA",
       "last_alert_utc": "2026-08-25T04:50:57.787656+00:00",
       "last_seen_utc": "2026-08-24T02:55:46+00:00",
+      "last_state_change_utc": "2026-08-31T03:00:56.212522+00:00",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPcjMwMUZSX2t6YXprVjNrZnZYVGlOYUV6a3lxcGtYWk43WXVZbFExbVI2U2NFWmVaNHRCTXRyYzh3dVZzZGJnMHJSaURibDZjQjhtT0hYdEd2NTU4UnBGMFBfRXpEZ18tR0hZYVc1NmF5TlB1LUJPUVlmVUtFemtKWUw5dkpTbXgyUzdOcXdieElubnBSUUxENjVQc0ZEdFdzZVV0bVMxSnozUFBMUV9pb2l4YWIycDZWRXdLeXhGcEFqNGtPZjV6VThxQ0ZpWHpUcXE0WGdB0gHbAUFVX3lxTFBBOTMwUEpRWGhFZ29vNUc3RnI5UkQwRUFROFR4MFZOMjJHZlZuNlNHNUJHYkZnLVhwN2ZJekFJdjdCMm9sNUM3QzU1U0NsMDU3d3A2bG9GZUMzRFNMb3lZSk5zVFMtODlycTh4RnFCeEhIaUZFakp4Q2pGYTVnNFZIV2JUV0g5RWtJMlBDNWpNSjBKLUZlUmVLSzM3X3JJWm5uQ3pHdkw1bWZqWHhUbkVXQ0ZtYzZCQkVBNzM4bDd4aktmbzZ0bmxqRnJsaVY2eXFZNXFPVnE3bjMzdw?oc=5",
       "market_data": null,
       "official_confirmation": null,
@@ -6356,7 +6357,7 @@
       "sources": [
         "Radar Banyuwangi"
       ],
-      "status": "ACTIVE",
+      "status": "EXPIRED",
       "strength": "WEAK",
       "ticker": null,
       "title": "Swayasa Prakasa Siap IPO, Target Himpun Dana Rp45,22 Miliar dari Pasar Modal Indonesia - Radar Banyuwangi"
