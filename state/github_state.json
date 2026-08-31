@@ -2,15 +2,15 @@
   "baseline_initialized": true,
   "early_signal_alerts_sent": 11,
   "early_signal_baseline_initialized": true,
-  "early_signal_duplicates_suppressed": 433,
-  "early_signal_last_scan_utc": "2026-08-31T22:31:00.693430+00:00",
+  "early_signal_duplicates_suppressed": 434,
+  "early_signal_last_scan_utc": "2026-08-31T22:40:59.751502+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -2.83,
       "combined": true,
       "direction": "DOWN",
       "last_alert_utc": "2026-08-31T17:01:01.706538+00:00",
-      "last_seen_utc": "2026-08-31T22:31:00.693418+00:00",
+      "last_seen_utc": "2026-08-31T22:40:59.751490+00:00",
       "level": "HIGH",
       "market_date": "2026-08-28",
       "signature": "BYAN|2026-08-28|HIGH|DOWN|RUMOR|AKUISISI / TAKEOVER|TICKER|BYAN",
@@ -5715,10 +5715,10 @@
     }
   },
   "last_keepalive_utc": "2026-08-28T10:20:50.907640+00:00",
-  "last_state_change_utc": "2026-08-31T22:31:00.741275+00:00",
+  "last_state_change_utc": "2026-08-31T22:40:59.813958+00:00",
   "market_noise_suppressed": 3,
   "milestone_alerts": {},
-  "rumor_alerts_sent": 13,
+  "rumor_alerts_sent": 14,
   "rumor_baseline_initialized": true,
   "rumor_confirmed_count": 0,
   "rumor_confirmed_dedups": 0,
@@ -5727,7 +5727,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 7,
   "rumor_integrity_repairs": 1076,
-  "rumor_last_scan_utc": "2026-08-31T22:30:59.754839+00:00",
+  "rumor_last_scan_utc": "2026-08-31T22:40:59.168797+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -6399,6 +6399,80 @@
       "strength": "WEAK",
       "ticker": null,
       "title": "Perusahaan Manufaktur Kesehatan Milik UGM Siap IPO, Cermati Prospek dan Valuasinya - KONTAN"
+    },
+    "IPO|COMPANY|PLATFORM INVESTASI AJAIB DAPAT SUNTIKAN RP 4 8 TRILIUN APAKAH": {
+      "category": "IPO",
+      "company_name": "Platform Investasi Ajaib Dapat Suntikan Rp 4,8 Triliun, Apakah",
+      "copy_duplicate_count": 0,
+      "credible_effective_independent_count": 1.0,
+      "derivative_source_count": 0,
+      "detected_source_count": 1,
+      "effective_independent_count": 1.0,
+      "entity_aliases": [
+        "Platform Investasi Ajaib Dapat Suntikan Rp 4,8 Triliun, Apakah"
+      ],
+      "entity_resolution_source": null,
+      "first_seen_utc": "2026-08-31T22:26:51+00:00",
+      "high_quality_source_count": 1,
+      "independent_story_count": 1,
+      "issuer_profile": {
+        "business_activity": null,
+        "controller": null,
+        "industry": null,
+        "issuer_name": "Platform Investasi Ajaib Dapat Suntikan Rp 4,8 Triliun, Apakah",
+        "major_shareholders": [],
+        "profile_source": "MULTI-SOURCE MEDIA CONTEXT (1)",
+        "profile_source_quality": "MEDIA_CONTEXT",
+        "sector": null,
+        "subsector": null,
+        "ticker": null,
+        "verified_at": "2026-08-31T22:40:58.576553+00:00"
+      },
+      "key": "IPO|COMPANY|PLATFORM INVESTASI AJAIB DAPAT SUNTIKAN RP 4 8 TRILIUN APAKAH",
+      "last_alert_utc": "2026-08-31T22:40:59.165661+00:00",
+      "last_seen_utc": "2026-08-31T22:26:51+00:00",
+      "link": "https://investasi.kontan.co.id/news/platform-investasi-ajaib-dapat-suntikan-rp-48-triliun-apakah-akan-ipo",
+      "market_data": null,
+      "official_confirmation": null,
+      "premium_source_count": 1,
+      "profile_refresh_utc": null,
+      "published": "Mon, 31 Aug 2026 22:26:51 GMT",
+      "rumor_details": {
+        "ipo_price": null,
+        "listing_estimate": null,
+        "money": [
+          "Rp4,8 triliun"
+        ],
+        "percentages": [],
+        "price_range": null,
+        "rumored_party": null,
+        "share_count": null,
+        "underwriter": null
+      },
+      "semantic_copy_count": 0,
+      "source": "kontan.co.id",
+      "source_breakdown": [
+        {
+          "derivative": false,
+          "group": "investasi.kontan.co.id",
+          "new_material": 1,
+          "quality": "HIGH",
+          "semantic_copy": false,
+          "source": "kontan.co.id",
+          "tier": 4,
+          "weight": 1.0
+        }
+      ],
+      "source_count": 1,
+      "source_quality": "MEDIUM",
+      "source_quality_score": 4.0,
+      "sources": [
+        "kontan.co.id"
+      ],
+      "status": "ACTIVE",
+      "strength": "WEAK",
+      "ticker": null,
+      "title": "Platform Investasi Ajaib Dapat Suntikan Rp 4,8 Triliun, Apakah Akan IPO? - kontan.co.id"
     },
     "IPO|COMPANY|SWAYASA PRAKASA": {
       "category": "IPO",
