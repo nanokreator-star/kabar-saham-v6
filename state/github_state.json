@@ -2,19 +2,19 @@
   "baseline_initialized": true,
   "early_signal_alerts_sent": 10,
   "early_signal_baseline_initialized": true,
-  "early_signal_duplicates_suppressed": 343,
-  "early_signal_last_scan_utc": "2026-08-31T07:02:01.894823+00:00",
+  "early_signal_duplicates_suppressed": 344,
+  "early_signal_last_scan_utc": "2026-08-31T07:10:49.202433+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -4.29,
       "combined": true,
       "direction": "DOWN",
       "last_alert_utc": "2026-08-21T02:20:44.379984+00:00",
-      "last_seen_utc": "2026-08-31T07:02:01.894812+00:00",
+      "last_seen_utc": "2026-08-31T07:10:49.202423+00:00",
       "level": "HIGH",
       "market_date": "2026-08-31",
       "signature": "BYAN|2026-08-31|HIGH|DOWN|RUMOR|AKUISISI / TAKEOVER|TICKER|BYAN",
-      "volume_ratio": 16.46
+      "volume_ratio": 17.62
     },
     "PACK": {
       "change_pct": 10.0,
@@ -593,6 +593,47 @@
         "stake": [],
         "standby_buyer": null,
         "target": "Bibica dan Momogi Group",
+        "target_confirmed": true,
+        "tender_price": null,
+        "underwriter": null,
+        "use_of_funds": [
+          "AKUISISI / INVESTASI",
+          "EKSPANSI / CAPEX"
+        ]
+      },
+      "ticker": ""
+    },
+    "M&A / TAKEOVER|PARTIES|DMS PROPERTINDO|DUA PERUSAHAAN UNTUK EKSPANSI LAND BANK RP 4": {
+      "family": "M&A / TAKEOVER",
+      "first_seen_utc": "2026-08-31T07:10:51.649424+00:00",
+      "last_alert_utc": "2026-08-31T07:10:51.649418+00:00",
+      "last_seen_utc": "2026-08-31T07:10:51.649418+00:00",
+      "market_context": {
+        "change_pct": null,
+        "last_price": null,
+        "market_date": null
+      },
+      "material_snapshot": {
+        "acquirer": "DMS Propertindo",
+        "acquirer_confirmed": true,
+        "event_type": "AKUISISI",
+        "execution_price": null,
+        "ipo_single_price": null,
+        "money": [
+          "Rp4,4 triliun"
+        ],
+        "official_authority": null,
+        "official_kind": null,
+        "price_range": null,
+        "ratio": null,
+        "schedule": {},
+        "share_count": null,
+        "stage": "SPA / SIGNED",
+        "stage_step": 4,
+        "stage_total": 7,
+        "stake": [],
+        "standby_buyer": null,
+        "target": "Dua Perusahaan untuk Ekspansi Land Bank Rp 4",
         "target_confirmed": true,
         "tender_price": null,
         "underwriter": null,
@@ -5674,7 +5715,7 @@
     }
   },
   "last_keepalive_utc": "2026-08-28T10:20:50.907640+00:00",
-  "last_state_change_utc": "2026-08-31T07:02:01.896295+00:00",
+  "last_state_change_utc": "2026-08-31T07:10:51.650795+00:00",
   "market_noise_suppressed": 3,
   "milestone_alerts": {},
   "rumor_alerts_sent": 13,
@@ -5686,7 +5727,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 6,
   "rumor_integrity_repairs": 1076,
-  "rumor_last_scan_utc": "2026-08-31T07:02:01.179747+00:00",
+  "rumor_last_scan_utc": "2026-08-31T07:10:48.904444+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -7360,6 +7401,7 @@
     "e454b21c7fd7f238db363cf91ec740e0cf0a757e7a4900279b78bc62a0b8ea9b": "2026-08-14T10:15:00.868800+00:00",
     "e558e229daa7611bd54efaf57e7177bf991861def406546b59b3b6b0405cf6bd": "2026-08-21T13:01:30.058267+00:00",
     "e6ecb3d2002ace4b88aeb341a8fbe02419335242494b15dc4b7146461142cfdb": "2026-08-19T05:10:54.068710+00:00",
+    "e7502f395f11a7bf2cf46c034d8900e07c1fe85929dcd6d12a3561ccafb06781": "2026-08-31T07:10:51.649401+00:00",
     "e7a14e7a29ac6843f16808b7f3642a1cb34fb40004cd444ae14be203d0c93cfb": "2026-08-20T03:21:47.165417+00:00",
     "e93e5d0c3d6b46be06568f45420d6336e6ca9b5279bc6f03d289eba0f76a4a3e": "2026-08-14T10:15:00.868800+00:00",
     "e9ac5621abccdacf7d20863612e836c96881aff9f06ffe212d01b2cb5c47a5a7": "2026-08-24T21:51:20.210067+00:00",
