@@ -2,15 +2,15 @@
   "baseline_initialized": true,
   "early_signal_alerts_sent": 11,
   "early_signal_baseline_initialized": true,
-  "early_signal_duplicates_suppressed": 411,
-  "early_signal_last_scan_utc": "2026-08-31T18:50:43.887937+00:00",
+  "early_signal_duplicates_suppressed": 412,
+  "early_signal_last_scan_utc": "2026-08-31T19:00:56.959025+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -2.83,
       "combined": true,
       "direction": "DOWN",
       "last_alert_utc": "2026-08-31T17:01:01.706538+00:00",
-      "last_seen_utc": "2026-08-31T18:50:43.887926+00:00",
+      "last_seen_utc": "2026-08-31T19:00:56.959015+00:00",
       "level": "HIGH",
       "market_date": "2026-08-28",
       "signature": "BYAN|2026-08-28|HIGH|DOWN|RUMOR|AKUISISI / TAKEOVER|TICKER|BYAN",
@@ -39,7 +39,7 @@
       "volume_ratio": 10.98
     }
   },
-  "event_duplicates_suppressed": 18,
+  "event_duplicates_suppressed": 19,
   "event_memory": {
     "IPO|TICKER|SWAP": {
       "family": "IPO",
@@ -1649,7 +1649,7 @@
       "family": "M&A / TAKEOVER",
       "first_seen_utc": "2026-08-28T16:40:51.239827+00:00",
       "last_alert_utc": "2026-08-28T16:40:51.239821+00:00",
-      "last_seen_utc": "2026-08-28T16:40:51.239821+00:00",
+      "last_seen_utc": "2026-08-31T19:00:59.639906+00:00",
       "market_context": {
         "change_pct": null,
         "last_price": null,
@@ -5620,7 +5620,7 @@
       "owner_context_sources": 0,
       "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
       "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-      "owner_v6_checked_utc": "2026-08-28T16:40:50.668757+00:00",
+      "owner_v6_checked_utc": "2026-08-31T19:00:59.639171+00:00",
       "owner_v6_pages_fetched": 0,
       "profile_source": "Yahoo Finance",
       "profile_source_quality": "FALLBACK",
@@ -5715,7 +5715,7 @@
     }
   },
   "last_keepalive_utc": "2026-08-28T10:20:50.907640+00:00",
-  "last_state_change_utc": "2026-08-31T18:50:43.912350+00:00",
+  "last_state_change_utc": "2026-08-31T19:00:59.641169+00:00",
   "market_noise_suppressed": 3,
   "milestone_alerts": {},
   "rumor_alerts_sent": 13,
@@ -5727,7 +5727,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 7,
   "rumor_integrity_repairs": 1076,
-  "rumor_last_scan_utc": "2026-08-31T18:50:43.578880+00:00",
+  "rumor_last_scan_utc": "2026-08-31T19:00:56.656151+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -7243,6 +7243,7 @@
     "1f28efc71679b930bae7d69cd62095f2da32399d0c49f40dcc1a1d59c73c541a": "2026-08-17T12:30:59.740812+00:00",
     "1f4b5df05c871568ef7dc5de0368a9ac1b5e661f992affc3894eca51525a12c3": "2026-08-14T10:15:00.868800+00:00",
     "201cf77a86ce6457775cfd97c1ccb044610671ab3dd6955a5a4ad7235dc2f538": "2026-08-14T10:15:00.868800+00:00",
+    "2049bff8ab42f37f16d0bced958e24a47e7c0a04b56f183a9c1ecc15eec945a6": "2026-08-31T19:00:59.639896+00:00",
     "21a67ed64ec7f0464e5f657cab58624d287f7467137cc3796ee1b1cb233b6969": "2026-08-18T10:41:00.074050+00:00",
     "227886cc07bab0f58145bba9b78623dc7b4178bfc7164e301676060caaeda962": "2026-08-14T10:15:00.868800+00:00",
     "23fa35aa38f62afefc77fe3fa2c34f86bb8a4acd22de199c0ad1aeb46fbaa0e1": "2026-08-24T09:21:00.218640+00:00",
