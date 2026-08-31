@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 10,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 326,
-  "early_signal_last_scan_utc": "2026-08-30T20:51:24.695901+00:00",
+  "early_signal_last_scan_utc": "2026-08-31T02:30:52.632659+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -3.55,
@@ -1099,6 +1099,42 @@
         "use_of_funds": []
       },
       "ticker": "AKSI"
+    },
+    "M&A / TAKEOVER|TICKER|ASII": {
+      "family": "M&A / TAKEOVER",
+      "first_seen_utc": "2026-08-31T02:30:59.962757+00:00",
+      "last_alert_utc": "2026-08-31T02:30:59.962750+00:00",
+      "last_seen_utc": "2026-08-31T02:30:59.962750+00:00",
+      "market_context": {
+        "change_pct": 0.0,
+        "last_price": 4800.0,
+        "market_date": "2026-08-31"
+      },
+      "material_snapshot": {
+        "acquirer": null,
+        "acquirer_confirmed": false,
+        "event_type": "TENDER OFFER",
+        "execution_price": null,
+        "ipo_single_price": null,
+        "money": [],
+        "official_authority": null,
+        "official_kind": null,
+        "price_range": null,
+        "ratio": null,
+        "schedule": {},
+        "share_count": "238 Juta saham",
+        "stage": "TENDER OFFER",
+        "stage_step": 6,
+        "stage_total": 7,
+        "stake": [],
+        "standby_buyer": null,
+        "target": null,
+        "target_confirmed": false,
+        "tender_price": null,
+        "underwriter": null,
+        "use_of_funds": []
+      },
+      "ticker": "ASII"
     },
     "M&A / TAKEOVER|TICKER|BNII": {
       "family": "M&A / TAKEOVER",
@@ -5047,6 +5083,26 @@
       "verified_at": "2026-08-27T16:25:27.408522+00:00",
       "website": null
     },
+    "ASII": {
+      "business_activity": "PT Astra International Tbk, together with its subsidiaries, operates in the automotive, financial services, heavy equipment, mining, construction, energy, agri, infrastructure and logistics, information technology, and property businesses i",
+      "controller": null,
+      "industry": "Conglomerates",
+      "issuer_name": "Astra International",
+      "owner_context_sources": 0,
+      "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
+      "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
+      "owner_v6_checked_utc": "2026-08-31T02:30:59.272180+00:00",
+      "owner_v6_pages_fetched": 0,
+      "profile_source": "Yahoo Finance",
+      "profile_source_quality": "FALLBACK",
+      "profile_source_url": null,
+      "sector": "Industrials",
+      "subindustry": null,
+      "subsector": null,
+      "ticker": "ASII",
+      "verified_at": "2026-08-31T02:30:55.142131+00:00",
+      "website": "https://www.astra.co.id"
+    },
     "AWAL": {
       "business_activity": null,
       "controller": null,
@@ -5618,7 +5674,7 @@
     }
   },
   "last_keepalive_utc": "2026-08-28T10:20:50.907640+00:00",
-  "last_state_change_utc": "2026-08-30T20:51:24.721972+00:00",
+  "last_state_change_utc": "2026-08-31T02:30:59.964148+00:00",
   "market_noise_suppressed": 3,
   "milestone_alerts": {},
   "rumor_alerts_sent": 11,
@@ -5630,7 +5686,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 4,
   "rumor_integrity_repairs": 1076,
-  "rumor_last_scan_utc": "2026-08-30T20:51:24.685628+00:00",
+  "rumor_last_scan_utc": "2026-08-31T02:30:52.624071+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -7116,6 +7172,7 @@
     "4e440b65597626aeb9c337edac2f1103fb81d8886d5affb654ce547d687ff0c1": "2026-08-14T10:15:00.868800+00:00",
     "506893ebda30af93e087aec77e99484f293d111128bdf15aaf17dbe027e48693": "2026-08-24T18:40:58.818833+00:00",
     "50ad4d7c9c039627d76169a49ab09b4d4e66fdfb5259614ccc6f0dd634aa5d46": "2026-08-14T10:15:00.868800+00:00",
+    "53e95c182b4ff32e6c77f31910f263a3d61f61206ca6a399dd525c83434f0d2d": "2026-08-31T02:30:59.962731+00:00",
     "545b06b3f1d4403eb1cdd1af9eadc9bf16b65070a95108d13313d06039310251": "2026-08-14T10:15:00.868800+00:00",
     "5531875ed0b9be51815ca052b03d674b0a20b8a2f5337a068932188574711052": "2026-08-21T13:01:30.058267+00:00",
     "562524ce39b0ace06378da183171f5e396932cfd327cf72e7feabba80eda1c98": "2026-08-14T10:15:00.868800+00:00",
