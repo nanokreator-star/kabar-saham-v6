@@ -2,15 +2,15 @@
   "baseline_initialized": true,
   "early_signal_alerts_sent": 11,
   "early_signal_baseline_initialized": true,
-  "early_signal_duplicates_suppressed": 434,
-  "early_signal_last_scan_utc": "2026-08-31T22:40:59.751502+00:00",
+  "early_signal_duplicates_suppressed": 435,
+  "early_signal_last_scan_utc": "2026-08-31T22:50:52.204966+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -2.83,
       "combined": true,
       "direction": "DOWN",
       "last_alert_utc": "2026-08-31T17:01:01.706538+00:00",
-      "last_seen_utc": "2026-08-31T22:40:59.751490+00:00",
+      "last_seen_utc": "2026-08-31T22:50:52.204955+00:00",
       "level": "HIGH",
       "market_date": "2026-08-28",
       "signature": "BYAN|2026-08-28|HIGH|DOWN|RUMOR|AKUISISI / TAKEOVER|TICKER|BYAN",
@@ -5715,7 +5715,7 @@
     }
   },
   "last_keepalive_utc": "2026-08-28T10:20:50.907640+00:00",
-  "last_state_change_utc": "2026-08-31T22:40:59.813958+00:00",
+  "last_state_change_utc": "2026-08-31T22:50:52.228031+00:00",
   "market_noise_suppressed": 3,
   "milestone_alerts": {},
   "rumor_alerts_sent": 14,
@@ -5727,7 +5727,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 7,
   "rumor_integrity_repairs": 1076,
-  "rumor_last_scan_utc": "2026-08-31T22:40:59.168797+00:00",
+  "rumor_last_scan_utc": "2026-08-31T22:50:51.603989+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -6431,7 +6431,7 @@
       "key": "IPO|COMPANY|PLATFORM INVESTASI AJAIB DAPAT SUNTIKAN RP 4 8 TRILIUN APAKAH",
       "last_alert_utc": "2026-08-31T22:40:59.165661+00:00",
       "last_seen_utc": "2026-08-31T22:26:51+00:00",
-      "link": "https://investasi.kontan.co.id/news/platform-investasi-ajaib-dapat-suntikan-rp-48-triliun-apakah-akan-ipo",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQT2p1bmJMVVFpWUdEZEljZFdzenJYNEZSTVlEY0tLeF9mZ01PSmdGSGxLdy1SZFpYbHpkbUtjcllBczZtUnhzMmZxcFFLQm9SS2E1cWdMY1lCWGJ1UWpXaVhZaUlIVWxDMXJTb3czaU53azY3TUpRMWo4cTAxa2w2ckI1NHcyS3lqQ2Y1Q1Fnd0I2RWdjUTZfd05mVzQ0QkZaWHNVeThCdHTSAaABQVVfeXFMUGVITVFmRDByZHM3SmpOOG55b2hxNEw2ekphSlNXSVVVTjJKS3h2b2JEUzhHTVRPOHN2WTRKZzhiTFlLdDlCcVJjY0tlM01PcUpSRDV5WDFxSGRCMUdjMGR4UHNzcnB6MGlqbmFFNDVvMVFLWHNGNVZOdE11WEgwaWZWcVVJbUhkZGRwczE4VzFiUVFyd3RjQXRlRkRWYXBZTQ?oc=5",
       "market_data": null,
       "official_confirmation": null,
       "premium_source_count": 1,
@@ -6454,7 +6454,7 @@
       "source_breakdown": [
         {
           "derivative": false,
-          "group": "investasi.kontan.co.id",
+          "group": "kontan.co.id",
           "new_material": 1,
           "quality": "HIGH",
           "semantic_copy": false,
