@@ -2,15 +2,15 @@
   "baseline_initialized": true,
   "early_signal_alerts_sent": 11,
   "early_signal_baseline_initialized": true,
-  "early_signal_duplicates_suppressed": 408,
-  "early_signal_last_scan_utc": "2026-08-31T18:20:44.633313+00:00",
+  "early_signal_duplicates_suppressed": 409,
+  "early_signal_last_scan_utc": "2026-08-31T18:30:58.934671+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -2.83,
       "combined": true,
       "direction": "DOWN",
       "last_alert_utc": "2026-08-31T17:01:01.706538+00:00",
-      "last_seen_utc": "2026-08-31T18:20:44.633304+00:00",
+      "last_seen_utc": "2026-08-31T18:30:58.934659+00:00",
       "level": "HIGH",
       "market_date": "2026-08-28",
       "signature": "BYAN|2026-08-28|HIGH|DOWN|RUMOR|AKUISISI / TAKEOVER|TICKER|BYAN",
@@ -5715,7 +5715,7 @@
     }
   },
   "last_keepalive_utc": "2026-08-28T10:20:50.907640+00:00",
-  "last_state_change_utc": "2026-08-31T18:20:44.652467+00:00",
+  "last_state_change_utc": "2026-08-31T18:30:58.960835+00:00",
   "market_noise_suppressed": 3,
   "milestone_alerts": {},
   "rumor_alerts_sent": 13,
@@ -5723,11 +5723,11 @@
   "rumor_confirmed_count": 0,
   "rumor_confirmed_dedups": 0,
   "rumor_denied_count": 0,
-  "rumor_duplicates_suppressed": 53,
+  "rumor_duplicates_suppressed": 54,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 7,
   "rumor_integrity_repairs": 1076,
-  "rumor_last_scan_utc": "2026-08-31T18:20:44.135397+00:00",
+  "rumor_last_scan_utc": "2026-08-31T18:30:58.609547+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -6297,7 +6297,7 @@
         "underwriter": null
       },
       "semantic_copy_count": 0,
-      "source": "holopis.com",
+      "source": "Holopis.com",
       "source_breakdown": [
         {
           "derivative": false,
@@ -6305,7 +6305,7 @@
           "new_material": 0,
           "quality": "LOW",
           "semantic_copy": false,
-          "source": "holopis.com",
+          "source": "Holopis.com",
           "tier": 1,
           "weight": 0.35
         }
@@ -6314,12 +6314,12 @@
       "source_quality": "LOW",
       "source_quality_score": 0.3,
       "sources": [
-        "holopis.com"
+        "Holopis.com"
       ],
       "status": "ACTIVE",
       "strength": "WEAK",
       "ticker": null,
-      "title": "59 Emiten BEI Masuk Daftar Delisting, Ada yang Disuspensi hingga 87 Bulan - holopis.com"
+      "title": "59 Emiten BEI Masuk Daftar Delisting, Ada yang Disuspensi hingga 87 Bulan - Holopis.com"
     },
     "IPO|COMPANY|MANUFAKTUR KESEHATAN MILIK UGM": {
       "category": "IPO",
