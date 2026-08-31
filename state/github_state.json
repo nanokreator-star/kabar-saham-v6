@@ -2,15 +2,15 @@
   "baseline_initialized": true,
   "early_signal_alerts_sent": 10,
   "early_signal_baseline_initialized": true,
-  "early_signal_duplicates_suppressed": 364,
-  "early_signal_last_scan_utc": "2026-08-31T10:40:46.842596+00:00",
+  "early_signal_duplicates_suppressed": 365,
+  "early_signal_last_scan_utc": "2026-08-31T10:51:48.933870+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -3.43,
       "combined": true,
       "direction": "DOWN",
       "last_alert_utc": "2026-08-21T02:20:44.379984+00:00",
-      "last_seen_utc": "2026-08-31T10:40:46.842584+00:00",
+      "last_seen_utc": "2026-08-31T10:51:48.933860+00:00",
       "level": "HIGH",
       "market_date": "2026-08-31",
       "signature": "BYAN|2026-08-31|HIGH|DOWN|RUMOR|AKUISISI / TAKEOVER|TICKER|BYAN",
@@ -5715,7 +5715,7 @@
     }
   },
   "last_keepalive_utc": "2026-08-28T10:20:50.907640+00:00",
-  "last_state_change_utc": "2026-08-31T10:40:46.867604+00:00",
+  "last_state_change_utc": "2026-08-31T10:51:48.935168+00:00",
   "market_noise_suppressed": 3,
   "milestone_alerts": {},
   "rumor_alerts_sent": 13,
@@ -5725,9 +5725,9 @@
   "rumor_denied_count": 0,
   "rumor_duplicates_suppressed": 46,
   "rumor_entity_rekeys": 1,
-  "rumor_expired_count": 6,
+  "rumor_expired_count": 7,
   "rumor_integrity_repairs": 1076,
-  "rumor_last_scan_utc": "2026-08-31T10:40:46.465303+00:00",
+  "rumor_last_scan_utc": "2026-08-31T10:51:48.610395+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -6677,6 +6677,7 @@
       "key": "IPO|TICKER|SWAP",
       "last_alert_utc": "2026-08-26T11:11:08.751542+00:00",
       "last_seen_utc": "2026-08-24T10:42:00+00:00",
+      "last_state_change_utc": "2026-08-31T10:51:48.610329+00:00",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdWljYlZxZDFaU2VUcTZVNXlhaktMWkJsS2hySkFhanBJVlcyZjY1NlRkMkxmR2E3a2VmUHQ4NTd2eFBUX3luUTlTNjRCQVd4MkQ3UHVPSWpiSzd5RFNTSHZ2bm1mMGpkbkJaekROeS0xNDZydk9vT016QVdyU01nY2lEME9lY09GdGFTNmNyUFJsN09LbGpNWXZn?oc=5",
       "market_data": null,
       "official_confirmation": null,
@@ -6718,7 +6719,7 @@
         "maybanktrade.co.id",
         "SWA.co.id"
       ],
-      "status": "ACTIVE",
+      "status": "EXPIRED",
       "strength": "WEAK",
       "ticker": "SWAP",
       "title": "Swayasa Prakarsa (SWAP) Akan IPO, Target Dana Rp45,2 Miliar - maybanktrade.co.id"
