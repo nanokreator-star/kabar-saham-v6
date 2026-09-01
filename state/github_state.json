@@ -1,19 +1,19 @@
 {
   "baseline_initialized": true,
-  "early_signal_alerts_sent": 13,
+  "early_signal_alerts_sent": 14,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 445,
-  "early_signal_last_scan_utc": "2026-09-01T00:50:49.650694+00:00",
+  "early_signal_last_scan_utc": "2026-09-01T01:01:00.436503+00:00",
   "early_signal_memory": {
     "BYAN": {
-      "change_pct": -2.83,
+      "change_pct": -3.43,
       "combined": true,
       "direction": "DOWN",
-      "last_alert_utc": "2026-09-01T00:20:50.404248+00:00",
-      "last_seen_utc": "2026-09-01T00:50:49.650685+00:00",
+      "last_alert_utc": "2026-09-01T01:01:00.436483+00:00",
+      "last_seen_utc": "2026-09-01T01:00:59.736870+00:00",
       "level": "HIGH",
-      "market_date": "2026-08-28",
-      "signature": "BYAN|2026-08-28|HIGH|DOWN|RUMOR|AKUISISI / TAKEOVER|TICKER|BYAN",
+      "market_date": "2026-08-31",
+      "signature": "BYAN|2026-08-31|HIGH|DOWN|RUMOR|AKUISISI / TAKEOVER|TICKER|BYAN",
       "volume_ratio": 27.15
     },
     "PACK": {
@@ -5715,7 +5715,7 @@
     }
   },
   "last_keepalive_utc": "2026-08-28T10:20:50.907640+00:00",
-  "last_state_change_utc": "2026-09-01T00:50:49.674501+00:00",
+  "last_state_change_utc": "2026-09-01T01:01:00.455080+00:00",
   "market_noise_suppressed": 3,
   "milestone_alerts": {},
   "rumor_alerts_sent": 14,
@@ -5723,11 +5723,11 @@
   "rumor_confirmed_count": 0,
   "rumor_confirmed_dedups": 0,
   "rumor_denied_count": 0,
-  "rumor_duplicates_suppressed": 67,
+  "rumor_duplicates_suppressed": 68,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 7,
   "rumor_integrity_repairs": 1076,
-  "rumor_last_scan_utc": "2026-09-01T00:50:49.335339+00:00",
+  "rumor_last_scan_utc": "2026-09-01T01:00:59.163637+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -6450,7 +6450,7 @@
         "underwriter": null
       },
       "semantic_copy_count": 0,
-      "source": "investasi.kontan.co.id",
+      "source": "kontan.co.id",
       "source_breakdown": [
         {
           "derivative": false,
@@ -6458,7 +6458,7 @@
           "new_material": 1,
           "quality": "HIGH",
           "semantic_copy": false,
-          "source": "investasi.kontan.co.id",
+          "source": "kontan.co.id",
           "tier": 4,
           "weight": 1.0
         }
@@ -6467,13 +6467,13 @@
       "source_quality": "MEDIUM",
       "source_quality_score": 4.0,
       "sources": [
-        "investasi.kontan.co.id",
-        "kontan.co.id"
+        "kontan.co.id",
+        "investasi.kontan.co.id"
       ],
       "status": "ACTIVE",
       "strength": "WEAK",
       "ticker": null,
-      "title": "Platform Investasi Ajaib Dapat Suntikan Rp 4,8 Triliun, Apakah Akan IPO? - investasi.kontan.co.id"
+      "title": "Platform Investasi Ajaib Dapat Suntikan Rp 4,8 Triliun, Apakah Akan IPO? - kontan.co.id"
     },
     "IPO|COMPANY|SWAYASA PRAKASA": {
       "category": "IPO",
