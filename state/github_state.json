@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 16,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 448,
-  "early_signal_last_scan_utc": "2026-09-01T02:50:46.097770+00:00",
+  "early_signal_last_scan_utc": "2026-09-01T03:10:46.742046+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -3.43,
@@ -5715,7 +5715,7 @@
     }
   },
   "last_keepalive_utc": "2026-08-28T10:20:50.907640+00:00",
-  "last_state_change_utc": "2026-09-01T02:50:46.119518+00:00",
+  "last_state_change_utc": "2026-09-01T03:10:46.766775+00:00",
   "market_noise_suppressed": 3,
   "milestone_alerts": {},
   "rumor_alerts_sent": 14,
@@ -5723,11 +5723,11 @@
   "rumor_confirmed_count": 0,
   "rumor_confirmed_dedups": 0,
   "rumor_denied_count": 0,
-  "rumor_duplicates_suppressed": 71,
+  "rumor_duplicates_suppressed": 72,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 7,
   "rumor_integrity_repairs": 1076,
-  "rumor_last_scan_utc": "2026-09-01T02:50:45.766197+00:00",
+  "rumor_last_scan_utc": "2026-09-01T03:10:46.332756+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -6450,7 +6450,7 @@
         "underwriter": null
       },
       "semantic_copy_count": 0,
-      "source": "insight.kontan.co.id",
+      "source": "KONTAN",
       "source_breakdown": [
         {
           "derivative": false,
@@ -6458,7 +6458,7 @@
           "new_material": 1,
           "quality": "HIGH",
           "semantic_copy": false,
-          "source": "insight.kontan.co.id",
+          "source": "KONTAN",
           "tier": 4,
           "weight": 1.0
         }
@@ -6467,15 +6467,15 @@
       "source_quality": "MEDIUM",
       "source_quality_score": 4.0,
       "sources": [
-        "insight.kontan.co.id",
         "KONTAN",
+        "insight.kontan.co.id",
         "kontan.co.id",
         "investasi.kontan.co.id"
       ],
       "status": "ACTIVE",
       "strength": "WEAK",
       "ticker": null,
-      "title": "Platform Investasi Ajaib Dapat Suntikan Rp 4,8 Triliun, Apakah Akan IPO? - insight.kontan.co.id"
+      "title": "Platform Investasi Ajaib Dapat Suntikan Rp 4,8 Triliun, Apakah Akan IPO? - KONTAN"
     },
     "IPO|COMPANY|SWAYASA PRAKASA": {
       "category": "IPO",
