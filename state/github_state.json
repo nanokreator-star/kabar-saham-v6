@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 16,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 448,
-  "early_signal_last_scan_utc": "2026-09-01T12:50:46.460145+00:00",
+  "early_signal_last_scan_utc": "2026-09-01T13:01:03.136557+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -3.43,
@@ -5715,7 +5715,7 @@
     }
   },
   "last_keepalive_utc": "2026-08-28T10:20:50.907640+00:00",
-  "last_state_change_utc": "2026-09-01T12:50:46.488860+00:00",
+  "last_state_change_utc": "2026-09-01T13:01:03.150255+00:00",
   "market_noise_suppressed": 3,
   "milestone_alerts": {},
   "rumor_alerts_sent": 15,
@@ -5723,11 +5723,11 @@
   "rumor_confirmed_count": 0,
   "rumor_confirmed_dedups": 0,
   "rumor_denied_count": 0,
-  "rumor_duplicates_suppressed": 111,
+  "rumor_duplicates_suppressed": 112,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 7,
   "rumor_integrity_repairs": 1076,
-  "rumor_last_scan_utc": "2026-09-01T12:50:46.074868+00:00",
+  "rumor_last_scan_utc": "2026-09-01T13:01:02.396455+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -6610,7 +6610,7 @@
         "underwriter": null
       },
       "semantic_copy_count": 0,
-      "source": "KONTAN",
+      "source": "insight.kontan.co.id",
       "source_breakdown": [
         {
           "derivative": false,
@@ -6618,7 +6618,7 @@
           "new_material": 1,
           "quality": "HIGH",
           "semantic_copy": false,
-          "source": "KONTAN",
+          "source": "insight.kontan.co.id",
           "tier": 4,
           "weight": 1.0
         }
@@ -6627,15 +6627,15 @@
       "source_quality": "MEDIUM",
       "source_quality_score": 4.0,
       "sources": [
-        "KONTAN",
         "insight.kontan.co.id",
+        "KONTAN",
         "kontan.co.id",
         "investasi.kontan.co.id"
       ],
       "status": "ACTIVE",
       "strength": "WEAK",
       "ticker": null,
-      "title": "Platform Investasi Ajaib Dapat Suntikan Rp 4,8 Triliun, Apakah Akan IPO? - KONTAN"
+      "title": "Platform Investasi Ajaib Dapat Suntikan Rp 4,8 Triliun, Apakah Akan IPO? - insight.kontan.co.id"
     },
     "IPO|COMPANY|SWAYASA PRAKASA": {
       "category": "IPO",
