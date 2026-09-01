@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 16,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 448,
-  "early_signal_last_scan_utc": "2026-09-01T04:00:56.301620+00:00",
+  "early_signal_last_scan_utc": "2026-09-01T04:50:50.348774+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -3.43,
@@ -5715,19 +5715,19 @@
     }
   },
   "last_keepalive_utc": "2026-08-28T10:20:50.907640+00:00",
-  "last_state_change_utc": "2026-09-01T04:00:56.325571+00:00",
+  "last_state_change_utc": "2026-09-01T04:50:50.373531+00:00",
   "market_noise_suppressed": 3,
   "milestone_alerts": {},
-  "rumor_alerts_sent": 14,
+  "rumor_alerts_sent": 15,
   "rumor_baseline_initialized": true,
   "rumor_confirmed_count": 0,
   "rumor_confirmed_dedups": 0,
   "rumor_denied_count": 0,
-  "rumor_duplicates_suppressed": 76,
+  "rumor_duplicates_suppressed": 77,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 7,
   "rumor_integrity_repairs": 1076,
-  "rumor_last_scan_utc": "2026-09-01T04:00:56.007718+00:00",
+  "rumor_last_scan_utc": "2026-09-01T04:50:50.339235+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -6321,6 +6321,165 @@
       "ticker": null,
       "title": "59 Emiten BEI Masuk Daftar Delisting, Ada yang Disuspensi hingga 87 Bulan - Holopis.com"
     },
+    "DIVESTASI|TICKER|BYAN": {
+      "category": "DIVESTASI",
+      "company_name": "Bayan Resources",
+      "copy_duplicate_count": 0,
+      "credible_effective_independent_count": 1.0,
+      "derivative_source_count": 0,
+      "detected_source_count": 1,
+      "effective_independent_count": 1.0,
+      "entity_aliases": [
+        "Bayan (BYAN",
+        "Bayan Resources",
+        "oleh Haji Isam",
+        "Haji Isam",
+        "Jadi Sorotan",
+        "dari Low Tuck Kwong Jadi Kenyataan"
+      ],
+      "entity_resolution_source": null,
+      "first_seen_utc": "2026-09-01T04:45:00+00:00",
+      "high_quality_source_count": 1,
+      "independent_story_count": 1,
+      "issuer_profile": {
+        "business_activity": "PT Bayan Resources Tbk., together with its subsidiaries, engages in the open cut mining and sale of coal in Indonesia. It operates through Coal and Non-Coal segments.",
+        "controller": {
+          "basis": "OWNER_V6_STRUCTURED_SOURCE_ONLY",
+          "evidence_text": "the direct primary and controlling shareholders is Dato\u2019 DR. Low Tuck Kwong with ownership of 40.22%",
+          "name": "Dato\u2019 DR. Low Tuck Kwong",
+          "official_registry": false,
+          "primary_company": true,
+          "role": "CONTROLLER",
+          "source": "bayan.com.sg",
+          "source_group": "bayan.com.sg",
+          "source_quality": "PRIMARY_COMPANY",
+          "source_tier": 4,
+          "source_url": "https://www.bayan.com.sg/primary-and-controlling-shareholders",
+          "stake_pct": 40.22,
+          "structured_source": true,
+          "verification_level": "PRIMARY_COMPANY_STRUCTURED_CONTROLLER_V6",
+          "verified": true
+        },
+        "industry": "Thermal Coal",
+        "issuer_name": "Bayan Resources",
+        "major_shareholders": [
+          {
+            "basis": "OWNER_V6_STRUCTURED_SOURCE_ONLY",
+            "evidence_text": "2 | Elaine Low | 7,333,833,700 | 22.00",
+            "name": "Elaine Low",
+            "official_registry": false,
+            "primary_company": true,
+            "role": "MAJOR",
+            "source": "bayan.com.sg",
+            "source_group": "bayan.com.sg",
+            "source_quality": "PRIMARY_COMPANY",
+            "source_tier": 4,
+            "source_url": "https://www.bayan.com.sg/shareholders-information",
+            "stake_pct": 22.0,
+            "structured_source": true,
+            "verification_level": "PRIMARY_COMPANY_STRUCTURED_HOLDER_V6",
+            "verified": true
+          },
+          {
+            "basis": "OWNER_V6_STRUCTURED_SOURCE_ONLY",
+            "evidence_text": "3 | PT Sumber Suryadaya Prima | 3,333,380,000 | 10.00",
+            "name": "PT Sumber Suryadaya Prima",
+            "official_registry": false,
+            "primary_company": true,
+            "role": "MAJOR",
+            "source": "bayan.com.sg",
+            "source_group": "bayan.com.sg",
+            "source_quality": "PRIMARY_COMPANY",
+            "source_tier": 4,
+            "source_url": "https://www.bayan.com.sg/shareholders-information",
+            "stake_pct": 10.0,
+            "structured_source": true,
+            "verification_level": "PRIMARY_COMPANY_STRUCTURED_HOLDER_V6",
+            "verified": true
+          }
+        ],
+        "owner_context_sources": 1,
+        "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
+        "owner_resolution_level": "OFFICIAL_CONTROLLER",
+        "owner_v2_checked_utc": "2026-08-19T16:08:23.021612+00:00",
+        "owner_v3_checked_utc": "2026-08-20T03:21:46.587478+00:00",
+        "owner_v5_repaired_utc": "2026-08-20T09:39:57.598622+00:00",
+        "owner_v5_safety_repairs": 7,
+        "owner_v6_checked_utc": "2026-08-20T12:28:30.949480+00:00",
+        "owner_v6_pages_fetched": 4,
+        "owner_v6_source_urls": [
+          "https://www.bayan.com.sg/primary-and-controlling-shareholders",
+          "https://www.bayan.com.sg/pemegang-saham-utama-dan-pengendali",
+          "https://www.bayan.com.sg/shareholders-information",
+          "https://www.bayan.com.sg/kepemilikan-saham"
+        ],
+        "profile_source": "Yahoo Finance",
+        "profile_source_quality": "FALLBACK",
+        "profile_source_url": null,
+        "sector": "Energy",
+        "subindustry": null,
+        "subsector": null,
+        "ticker": "BYAN",
+        "verified_at": "2026-08-20T03:21:14.981343+00:00",
+        "website": "https://www.bayan.com.sg"
+      },
+      "key": "DIVESTASI|TICKER|BYAN",
+      "last_alert_utc": "2026-09-01T04:50:50.334670+00:00",
+      "last_seen_utc": "2026-09-01T04:45:00+00:00",
+      "link": "https://premium.bisnis.com/read/20260901/656/2000345/prospek-emiten-batu-bara-di-tengah-rumor-akuisisi-byan-dan-divestasi-kideco-oleh-indy",
+      "market_data": {
+        "change_pct": -0.5328596802841918,
+        "fetched_at": "2026-09-01T04:50:49.678960+00:00",
+        "last_price": 14000.0,
+        "market_date": "2026-09-01",
+        "previous_close": 14075.0,
+        "source": "Yahoo Finance via yfinance",
+        "symbol": "BYAN.JK",
+        "ticker": "BYAN",
+        "volume": 236700,
+        "volume_avg_20d": 1177884.2105263157,
+        "volume_median_20d": 468700.0,
+        "volume_ratio": 0.5050138681459355
+      },
+      "official_confirmation": null,
+      "premium_source_count": 1,
+      "profile_refresh_utc": "2026-09-01T04:50:45.027085+00:00",
+      "published": "Tue, 01 Sep 2026 04:45:00 GMT",
+      "rumor_details": {
+        "ipo_price": null,
+        "listing_estimate": null,
+        "money": [],
+        "percentages": [],
+        "price_range": null,
+        "rumored_party": null,
+        "share_count": null,
+        "underwriter": null
+      },
+      "semantic_copy_count": 0,
+      "source": "premium.bisnis.com",
+      "source_breakdown": [
+        {
+          "derivative": false,
+          "group": "premium.bisnis.com",
+          "new_material": 0,
+          "quality": "HIGH",
+          "semantic_copy": false,
+          "source": "premium.bisnis.com",
+          "tier": 4,
+          "weight": 1.0
+        }
+      ],
+      "source_count": 1,
+      "source_quality": "MEDIUM",
+      "source_quality_score": 4.0,
+      "sources": [
+        "premium.bisnis.com"
+      ],
+      "status": "ACTIVE",
+      "strength": "WEAK",
+      "ticker": "BYAN",
+      "title": "Prospek Emiten Batu Bara di Tengah Rumor Akuisisi BYAN dan Divestasi Kideco oleh INDY - premium.bisnis.com"
+    },
     "IPO|COMPANY|MANUFAKTUR KESEHATAN MILIK UGM": {
       "category": "IPO",
       "company_name": "Perusahaan Manufaktur Kesehatan Milik UGM",
@@ -6450,7 +6609,7 @@
         "underwriter": null
       },
       "semantic_copy_count": 0,
-      "source": "KONTAN",
+      "source": "insight.kontan.co.id",
       "source_breakdown": [
         {
           "derivative": false,
@@ -6458,7 +6617,7 @@
           "new_material": 1,
           "quality": "HIGH",
           "semantic_copy": false,
-          "source": "KONTAN",
+          "source": "insight.kontan.co.id",
           "tier": 4,
           "weight": 1.0
         }
@@ -6467,15 +6626,15 @@
       "source_quality": "MEDIUM",
       "source_quality_score": 4.0,
       "sources": [
-        "KONTAN",
         "insight.kontan.co.id",
+        "KONTAN",
         "kontan.co.id",
         "investasi.kontan.co.id"
       ],
       "status": "ACTIVE",
       "strength": "WEAK",
       "ticker": null,
-      "title": "Platform Investasi Ajaib Dapat Suntikan Rp 4,8 Triliun, Apakah Akan IPO? - KONTAN"
+      "title": "Platform Investasi Ajaib Dapat Suntikan Rp 4,8 Triliun, Apakah Akan IPO? - insight.kontan.co.id"
     },
     "IPO|COMPANY|SWAYASA PRAKASA": {
       "category": "IPO",
