@@ -2,15 +2,15 @@
   "baseline_initialized": true,
   "early_signal_alerts_sent": 16,
   "early_signal_baseline_initialized": true,
-  "early_signal_duplicates_suppressed": 464,
-  "early_signal_last_scan_utc": "2026-09-01T19:40:55.656214+00:00",
+  "early_signal_duplicates_suppressed": 465,
+  "early_signal_last_scan_utc": "2026-09-01T19:50:49.533291+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -3.43,
       "combined": true,
       "direction": "DOWN",
       "last_alert_utc": "2026-09-01T02:02:04.831832+00:00",
-      "last_seen_utc": "2026-09-01T19:40:55.656203+00:00",
+      "last_seen_utc": "2026-09-01T19:50:49.533282+00:00",
       "level": "MEDIUM",
       "market_date": "2026-08-31",
       "signature": "BYAN|2026-08-31|MEDIUM|DOWN|RUMOR|DIVESTASI|TICKER|BYAN",
@@ -5715,7 +5715,7 @@
     }
   },
   "last_keepalive_utc": "2026-08-28T10:20:50.907640+00:00",
-  "last_state_change_utc": "2026-09-01T19:40:55.682191+00:00",
+  "last_state_change_utc": "2026-09-01T19:50:49.557688+00:00",
   "market_noise_suppressed": 3,
   "milestone_alerts": {},
   "rumor_alerts_sent": 15,
@@ -5723,11 +5723,11 @@
   "rumor_confirmed_count": 0,
   "rumor_confirmed_dedups": 0,
   "rumor_denied_count": 0,
-  "rumor_duplicates_suppressed": 141,
+  "rumor_duplicates_suppressed": 142,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 7,
   "rumor_integrity_repairs": 1076,
-  "rumor_last_scan_utc": "2026-09-01T19:40:55.367207+00:00",
+  "rumor_last_scan_utc": "2026-09-01T19:50:49.260757+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -5866,15 +5866,15 @@
         "underwriter": null
       },
       "semantic_copy_count": 0,
-      "source": "sawitku.id",
+      "source": "Sawitku",
       "source_breakdown": [
         {
           "derivative": false,
-          "group": "sawitku.id",
+          "group": "sawitku",
           "new_material": 0,
           "quality": "LOW",
           "semantic_copy": false,
-          "source": "sawitku.id",
+          "source": "Sawitku",
           "tier": 1,
           "weight": 0.35
         }
@@ -5883,8 +5883,8 @@
       "source_quality": "LOW",
       "source_quality_score": 0.3,
       "sources": [
-        "sawitku.id",
         "Sawitku",
+        "sawitku.id",
         "CNBC Indonesia",
         "Periskop.id",
         "sekbernews.id",
@@ -5895,7 +5895,7 @@
       "status": "ACTIVE",
       "strength": "WEAK",
       "ticker": "BYAN",
-      "title": "Isu Akuisisi Saham BYAN Kembali Memanas, Nama Bakrie dan Anthony Salim Ikut Disorot - Sawitku Id - sawitku.id"
+      "title": "Isu Akuisisi Saham BYAN Kembali Memanas, Nama Bakrie dan Anthony Salim Ikut Disorot - Sawitku Id - Sawitku"
     },
     "AKUISISI / TAKEOVER|TICKER|JARR": {
       "category": "AKUISISI / TAKEOVER",
