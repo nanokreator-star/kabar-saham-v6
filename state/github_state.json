@@ -2,19 +2,19 @@
   "baseline_initialized": true,
   "early_signal_alerts_sent": 16,
   "early_signal_baseline_initialized": true,
-  "early_signal_duplicates_suppressed": 448,
-  "early_signal_last_scan_utc": "2026-09-01T16:20:47.555668+00:00",
+  "early_signal_duplicates_suppressed": 449,
+  "early_signal_last_scan_utc": "2026-09-01T17:01:09.248608+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -3.43,
       "combined": true,
       "direction": "DOWN",
       "last_alert_utc": "2026-09-01T02:02:04.831832+00:00",
-      "last_seen_utc": "2026-09-01T02:02:04.158559+00:00",
-      "level": "HIGH",
+      "last_seen_utc": "2026-09-01T17:01:09.248590+00:00",
+      "level": "MEDIUM",
       "market_date": "2026-08-31",
-      "signature": "BYAN|2026-08-31|HIGH|DOWN|RUMOR|AKUISISI / TAKEOVER|TICKER|BYAN",
-      "volume_ratio": 4.39
+      "signature": "BYAN|2026-08-31|MEDIUM|DOWN|RUMOR|DIVESTASI|TICKER|BYAN",
+      "volume_ratio": 1.14
     },
     "PACK": {
       "change_pct": 10.0,
@@ -5715,7 +5715,7 @@
     }
   },
   "last_keepalive_utc": "2026-08-28T10:20:50.907640+00:00",
-  "last_state_change_utc": "2026-09-01T16:20:47.578378+00:00",
+  "last_state_change_utc": "2026-09-01T17:01:09.273267+00:00",
   "market_noise_suppressed": 3,
   "milestone_alerts": {},
   "rumor_alerts_sent": 15,
@@ -5727,7 +5727,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 7,
   "rumor_integrity_repairs": 1076,
-  "rumor_last_scan_utc": "2026-09-01T16:20:47.219572+00:00",
+  "rumor_last_scan_utc": "2026-09-01T17:01:08.614410+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -6280,7 +6280,7 @@
       "key": "DELISTING / RELISTING|TITLE|59 BEI MASUK DAFTAR DELISTING ADA YANG",
       "last_alert_utc": "2026-08-31T03:10:58.841369+00:00",
       "last_seen_utc": "2026-08-31T03:00:43+00:00",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdEtYcEFTckczS3hqeUk3MzVfNHV3QTVyYTN1RXFJV2pOcnpkS2ktcEhXSF9VTFMzdFRRMTFKcmRSb2JjdnNpMHlpZXlBQ3Q0MHpiYzlIbi1JZWgyeUp0N01SX1VWajQ3M3JRTjltZHJXZ0dlUGg1WHBKVDYxbFd4d2c2bWtpZUJCUXgyLXhzNTJZMVNCNE5NdktUM3FMVEZUbERHS1oyWQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRko1MzNmRW9GWEtPZGhBT0Y1QUlOMkMxWWxOb2NLbG5JRUJ6YUtrWVpVWVgtSF9aY1ZLQllGZnpGUnlSbHo4N3lmbTg2RFprTDZaUElNT1VNRW5ZaHlvbndkWXZVS3Fxb1BKeDl6VndHZUk3TFA1NFU2SE15WVFsM0Z1c0VIQi1IWjM2TnFrbkt5UHJTNDZ1Uw?oc=5",
       "market_data": null,
       "official_confirmation": null,
       "premium_source_count": 0,
