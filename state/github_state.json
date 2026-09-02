@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 17,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 489,
-  "early_signal_last_scan_utc": "2026-09-02T09:20:51.579985+00:00",
+  "early_signal_last_scan_utc": "2026-09-02T09:30:58.393824+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -2.49,
@@ -2195,6 +2195,44 @@
         "stake": [
           87.48
         ],
+        "standby_buyer": null,
+        "target": null,
+        "target_confirmed": false,
+        "tender_price": null,
+        "underwriter": null,
+        "use_of_funds": []
+      },
+      "ticker": ""
+    },
+    "M&A / TAKEOVER|TITLE|IFORTE KEMBALI PERPANJANG IBST SIAPKAN RP921 JUTA": {
+      "family": "M&A / TAKEOVER",
+      "first_seen_utc": "2026-09-02T09:31:01.471295+00:00",
+      "last_alert_utc": "2026-09-02T09:31:01.471288+00:00",
+      "last_seen_utc": "2026-09-02T09:31:01.471288+00:00",
+      "market_context": {
+        "change_pct": null,
+        "last_price": null,
+        "market_date": null
+      },
+      "material_snapshot": {
+        "acquirer": null,
+        "acquirer_confirmed": false,
+        "event_type": "TENDER OFFER",
+        "execution_price": null,
+        "ipo_single_price": null,
+        "money": [
+          "Rp921,9 juta"
+        ],
+        "official_authority": null,
+        "official_kind": null,
+        "price_range": null,
+        "ratio": null,
+        "schedule": {},
+        "share_count": null,
+        "stage": "TENDER OFFER",
+        "stage_step": 6,
+        "stage_total": 7,
+        "stake": [],
         "standby_buyer": null,
         "target": null,
         "target_confirmed": false,
@@ -5715,7 +5753,7 @@
     }
   },
   "last_keepalive_utc": "2026-08-28T10:20:50.907640+00:00",
-  "last_state_change_utc": "2026-09-02T09:20:51.594482+00:00",
+  "last_state_change_utc": "2026-09-02T09:31:01.472620+00:00",
   "market_noise_suppressed": 3,
   "milestone_alerts": {},
   "rumor_alerts_sent": 15,
@@ -5723,11 +5761,11 @@
   "rumor_confirmed_count": 0,
   "rumor_confirmed_dedups": 0,
   "rumor_denied_count": 0,
-  "rumor_duplicates_suppressed": 199,
+  "rumor_duplicates_suppressed": 200,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 8,
   "rumor_integrity_repairs": 1076,
-  "rumor_last_scan_utc": "2026-09-02T09:20:50.653369+00:00",
+  "rumor_last_scan_utc": "2026-09-02T09:30:58.024802+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -6307,7 +6345,7 @@
         "underwriter": null
       },
       "semantic_copy_count": 0,
-      "source": "Holopis.com",
+      "source": "holopis.com",
       "source_breakdown": [
         {
           "derivative": false,
@@ -6315,7 +6353,7 @@
           "new_material": 0,
           "quality": "LOW",
           "semantic_copy": false,
-          "source": "Holopis.com",
+          "source": "holopis.com",
           "tier": 1,
           "weight": 0.35
         }
@@ -6324,12 +6362,12 @@
       "source_quality": "LOW",
       "source_quality_score": 0.3,
       "sources": [
-        "Holopis.com"
+        "holopis.com"
       ],
       "status": "ACTIVE",
       "strength": "WEAK",
       "ticker": null,
-      "title": "59 Emiten BEI Masuk Daftar Delisting, Ada yang Disuspensi hingga 87 Bulan - Holopis.com"
+      "title": "59 Emiten BEI Masuk Daftar Delisting, Ada yang Disuspensi hingga 87 Bulan - holopis.com"
     },
     "DIVESTASI|TICKER|BYAN": {
       "category": "DIVESTASI",
@@ -7661,6 +7699,7 @@
     "a2ca1e0da9ffb3edfc2af75bfbbc98cc266e3253042b9de9cced630247084add": "2026-08-14T10:15:00.868800+00:00",
     "a3864ebea6aaac013de22cc1b986f34e671379ce0e1be0fc53773f378a0ff38b": "2026-08-17T12:10:53.623227+00:00",
     "a756f94948679cb9e44f144a87f88e2767b95f261c152c0dc6161ad83b48ed7e": "2026-08-29T13:01:39.906036+00:00",
+    "a8df3fb5694bb11a35aae0d37ce1d4cc579d01bbd23f3828015da08ed729b3b5": "2026-09-02T09:31:01.471268+00:00",
     "a94b0bbc1979e298a743888ce52f49dfb8d1ae6ebfe55bddeaf6c45a0380f32f": "2026-08-14T10:15:00.868800+00:00",
     "aa163f83d516de210df09af02d4f15f4934b3a6c371ec8fffcc1f508b34ed7db": "2026-08-21T23:41:22.898611+00:00",
     "aa60b605d22f05be11990379b4d61736f85b0031ce392c27095e972714c68b72": "2026-08-14T10:15:00.868800+00:00",
