@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 17,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 532,
-  "early_signal_last_scan_utc": "2026-09-02T22:50:44.686130+00:00",
+  "early_signal_last_scan_utc": "2026-09-02T23:10:48.158176+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -2.49,
@@ -5835,7 +5835,7 @@
     }
   },
   "last_keepalive_utc": "2026-08-28T10:20:50.907640+00:00",
-  "last_state_change_utc": "2026-09-02T22:50:44.711673+00:00",
+  "last_state_change_utc": "2026-09-02T23:10:48.303744+00:00",
   "market_noise_suppressed": 3,
   "milestone_alerts": {},
   "rumor_alerts_sent": 15,
@@ -5843,11 +5843,11 @@
   "rumor_confirmed_count": 0,
   "rumor_confirmed_dedups": 0,
   "rumor_denied_count": 0,
-  "rumor_duplicates_suppressed": 248,
+  "rumor_duplicates_suppressed": 250,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 8,
   "rumor_integrity_repairs": 1076,
-  "rumor_last_scan_utc": "2026-09-02T22:50:44.678588+00:00",
+  "rumor_last_scan_utc": "2026-09-02T23:10:48.152816+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -5986,15 +5986,15 @@
         "underwriter": null
       },
       "semantic_copy_count": 0,
-      "source": "Sawitku",
+      "source": "sawitku.id",
       "source_breakdown": [
         {
           "derivative": false,
-          "group": "sawitku",
+          "group": "sawitku.id",
           "new_material": 0,
           "quality": "LOW",
           "semantic_copy": false,
-          "source": "Sawitku",
+          "source": "sawitku.id",
           "tier": 1,
           "weight": 0.35
         }
@@ -6003,8 +6003,8 @@
       "source_quality": "LOW",
       "source_quality_score": 0.3,
       "sources": [
-        "Sawitku",
         "sawitku.id",
+        "Sawitku",
         "Elshinta",
         "elshinta.com",
         "CNBC Indonesia",
@@ -6015,7 +6015,7 @@
       "status": "ACTIVE",
       "strength": "WEAK",
       "ticker": "BYAN",
-      "title": "Isu Akuisisi Saham BYAN Kembali Memanas, Nama Bakrie dan Anthony Salim Ikut Disorot - Sawitku Id - Sawitku"
+      "title": "Isu Akuisisi Saham BYAN Kembali Memanas, Nama Bakrie dan Anthony Salim Ikut Disorot - Sawitku Id - sawitku.id"
     },
     "AKUISISI / TAKEOVER|TICKER|JARR": {
       "category": "AKUISISI / TAKEOVER",
@@ -6521,10 +6521,10 @@
       "category": "DIVESTASI",
       "company_name": "Bayan Resources",
       "copy_duplicate_count": 0,
-      "credible_effective_independent_count": 0,
+      "credible_effective_independent_count": 1.0,
       "derivative_source_count": 0,
       "detected_source_count": 1,
-      "effective_independent_count": 0.3,
+      "effective_independent_count": 1.0,
       "entity_aliases": [
         "Bayan (BYAN",
         "Bayan Resources",
@@ -6536,7 +6536,7 @@
       ],
       "entity_resolution_source": null,
       "first_seen_utc": "2026-09-01T04:45:00+00:00",
-      "high_quality_source_count": 0,
+      "high_quality_source_count": 1,
       "independent_story_count": 1,
       "issuer_profile": {
         "business_activity": "PT Bayan Resources Tbk., together with its subsidiaries, engages in the open cut mining and sale of coal in Indonesia. It operates through Coal and Non-Coal segments.",
@@ -6639,7 +6639,7 @@
         "volume_ratio": 0.5050138681459355
       },
       "official_confirmation": null,
-      "premium_source_count": 0,
+      "premium_source_count": 1,
       "profile_refresh_utc": "2026-09-01T04:50:45.027085+00:00",
       "published": "Tue, 01 Sep 2026 04:45:00 GMT",
       "rumor_details": {
@@ -6653,30 +6653,30 @@
         "underwriter": null
       },
       "semantic_copy_count": 0,
-      "source": "Bisnis Indonesia Premium",
+      "source": "premium.bisnis.com",
       "source_breakdown": [
         {
           "derivative": false,
-          "group": "bisnis indonesia premium",
+          "group": "bisnis.com",
           "new_material": 0,
-          "quality": "LOW",
+          "quality": "HIGH",
           "semantic_copy": false,
-          "source": "Bisnis Indonesia Premium",
-          "tier": 1,
-          "weight": 0.35
+          "source": "premium.bisnis.com",
+          "tier": 4,
+          "weight": 1.0
         }
       ],
       "source_count": 2,
-      "source_quality": "LOW",
-      "source_quality_score": 0.3,
+      "source_quality": "MEDIUM",
+      "source_quality_score": 4.0,
       "sources": [
-        "Bisnis Indonesia Premium",
-        "premium.bisnis.com"
+        "premium.bisnis.com",
+        "Bisnis Indonesia Premium"
       ],
       "status": "ACTIVE",
       "strength": "WEAK",
       "ticker": "BYAN",
-      "title": "Prospek Emiten Batu Bara di Tengah Rumor Akuisisi BYAN dan Divestasi Kideco oleh INDY - Bisnis Indonesia Premium"
+      "title": "Prospek Emiten Batu Bara di Tengah Rumor Akuisisi BYAN dan Divestasi Kideco oleh INDY - premium.bisnis.com"
     },
     "IPO|COMPANY|DAFTAR PERUSAHAAN": {
       "category": "IPO",
