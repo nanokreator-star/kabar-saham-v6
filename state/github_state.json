@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 17,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 478,
-  "early_signal_last_scan_utc": "2026-09-02T04:20:46.827846+00:00",
+  "early_signal_last_scan_utc": "2026-09-02T04:30:54.272206+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -3.2,
@@ -5715,7 +5715,7 @@
     }
   },
   "last_keepalive_utc": "2026-08-28T10:20:50.907640+00:00",
-  "last_state_change_utc": "2026-09-02T04:20:46.855227+00:00",
+  "last_state_change_utc": "2026-09-02T04:30:54.299510+00:00",
   "market_noise_suppressed": 3,
   "milestone_alerts": {},
   "rumor_alerts_sent": 15,
@@ -5723,11 +5723,11 @@
   "rumor_confirmed_count": 0,
   "rumor_confirmed_dedups": 0,
   "rumor_denied_count": 0,
-  "rumor_duplicates_suppressed": 180,
+  "rumor_duplicates_suppressed": 182,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 8,
   "rumor_integrity_repairs": 1076,
-  "rumor_last_scan_utc": "2026-09-02T04:20:46.572426+00:00",
+  "rumor_last_scan_utc": "2026-09-02T04:30:53.975556+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -5735,8 +5735,8 @@
       "copy_duplicate_count": 0,
       "credible_effective_independent_count": 0,
       "derivative_source_count": 0,
-      "detected_source_count": 1,
-      "effective_independent_count": 0.3,
+      "detected_source_count": 2,
+      "effective_independent_count": 0.7,
       "entity_aliases": [
         "Bayan (BYAN",
         "Bayan Resources",
@@ -5751,7 +5751,7 @@
       "entity_resolution_source": "ISSUER_ALIAS_MEMORY+ISSUER_PROFILE_CACHE+RUMOR_EXPLICIT_TICKER",
       "first_seen_utc": "2026-08-18T02:41:36+00:00",
       "high_quality_source_count": 0,
-      "independent_story_count": 1,
+      "independent_story_count": 2,
       "issuer_profile": {
         "business_activity": "PT Bayan Resources Tbk., together with its subsidiaries, engages in the open cut mining and sale of coal in Indonesia. It operates through Coal and Non-Coal segments.",
         "controller": {
@@ -5866,36 +5866,46 @@
         "underwriter": null
       },
       "semantic_copy_count": 0,
-      "source": "sawitku.id",
+      "source": "Sawitku",
       "source_breakdown": [
         {
           "derivative": false,
-          "group": "sawitku.id",
+          "group": "sawitku",
           "new_material": 0,
           "quality": "LOW",
           "semantic_copy": false,
-          "source": "sawitku.id",
+          "source": "Sawitku",
+          "tier": 1,
+          "weight": 0.35
+        },
+        {
+          "derivative": false,
+          "group": "elshinta.com",
+          "new_material": 0,
+          "quality": "LOW",
+          "semantic_copy": false,
+          "source": "elshinta.com",
           "tier": 1,
           "weight": 0.35
         }
       ],
       "source_count": 14,
       "source_quality": "LOW",
-      "source_quality_score": 0.3,
+      "source_quality_score": 0.7,
       "sources": [
-        "sawitku.id",
         "Sawitku",
+        "elshinta.com",
+        "sawitku.id",
         "Elshinta",
         "CNBC Indonesia",
         "Periskop.id",
         "sekbernews.id",
-        "Tempo.co",
-        "investor.id"
+        "Tempo.co"
       ],
       "status": "ACTIVE",
       "strength": "WEAK",
       "ticker": "BYAN",
-      "title": "Isu Akuisisi Saham BYAN Kembali Memanas, Nama Bakrie dan Anthony Salim Ikut Disorot - Sawitku Id - sawitku.id"
+      "title": "Isu Akuisisi Saham BYAN Kembali Memanas, Nama Bakrie dan Anthony Salim Ikut Disorot - Sawitku Id - Sawitku"
     },
     "AKUISISI / TAKEOVER|TICKER|JARR": {
       "category": "AKUISISI / TAKEOVER",
@@ -6611,7 +6621,7 @@
         "underwriter": null
       },
       "semantic_copy_count": 0,
-      "source": "kontan.co.id",
+      "source": "investasi.kontan.co.id",
       "source_breakdown": [
         {
           "derivative": false,
@@ -6619,7 +6629,7 @@
           "new_material": 1,
           "quality": "HIGH",
           "semantic_copy": false,
-          "source": "kontan.co.id",
+          "source": "investasi.kontan.co.id",
           "tier": 4,
           "weight": 1.0
         }
@@ -6628,15 +6638,15 @@
       "source_quality": "MEDIUM",
       "source_quality_score": 4.0,
       "sources": [
+        "investasi.kontan.co.id",
         "kontan.co.id",
         "KONTAN",
-        "insight.kontan.co.id",
-        "investasi.kontan.co.id"
+        "insight.kontan.co.id"
       ],
       "status": "ACTIVE",
       "strength": "WEAK",
       "ticker": null,
-      "title": "Platform Investasi Ajaib Dapat Suntikan Rp 4,8 Triliun, Apakah Akan IPO? - kontan.co.id"
+      "title": "Platform Investasi Ajaib Dapat Suntikan Rp 4,8 Triliun, Apakah Akan IPO? - investasi.kontan.co.id"
     },
     "IPO|COMPANY|SWAYASA PRAKASA": {
       "category": "IPO",
