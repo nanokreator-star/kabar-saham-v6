@@ -2,15 +2,15 @@
   "baseline_initialized": true,
   "early_signal_alerts_sent": 17,
   "early_signal_baseline_initialized": true,
-  "early_signal_duplicates_suppressed": 512,
-  "early_signal_last_scan_utc": "2026-09-02T13:20:54.183264+00:00",
+  "early_signal_duplicates_suppressed": 513,
+  "early_signal_last_scan_utc": "2026-09-02T13:30:55.113081+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -2.49,
       "combined": true,
       "direction": "DOWN",
       "last_alert_utc": "2026-09-02T02:50:49.330825+00:00",
-      "last_seen_utc": "2026-09-02T13:20:54.183254+00:00",
+      "last_seen_utc": "2026-09-02T13:30:55.113071+00:00",
       "level": "MEDIUM",
       "market_date": "2026-09-02",
       "signature": "BYAN|2026-09-02|MEDIUM|DOWN|RUMOR|DIVESTASI|TICKER|BYAN",
@@ -5773,7 +5773,7 @@
     }
   },
   "last_keepalive_utc": "2026-08-28T10:20:50.907640+00:00",
-  "last_state_change_utc": "2026-09-02T13:20:54.202218+00:00",
+  "last_state_change_utc": "2026-09-02T13:30:55.135284+00:00",
   "market_noise_suppressed": 3,
   "milestone_alerts": {},
   "rumor_alerts_sent": 15,
@@ -5785,7 +5785,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 8,
   "rumor_integrity_repairs": 1076,
-  "rumor_last_scan_utc": "2026-09-02T13:20:53.547590+00:00",
+  "rumor_last_scan_utc": "2026-09-02T13:30:54.659848+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -5793,8 +5793,8 @@
       "copy_duplicate_count": 0,
       "credible_effective_independent_count": 0,
       "derivative_source_count": 0,
-      "detected_source_count": 1,
-      "effective_independent_count": 0.3,
+      "detected_source_count": 2,
+      "effective_independent_count": 0.7,
       "entity_aliases": [
         "Bayan (BYAN",
         "Bayan Resources",
@@ -5809,7 +5809,7 @@
       "entity_resolution_source": "ISSUER_ALIAS_MEMORY+ISSUER_PROFILE_CACHE+RUMOR_EXPLICIT_TICKER",
       "first_seen_utc": "2026-08-18T02:41:36+00:00",
       "high_quality_source_count": 0,
-      "independent_story_count": 1,
+      "independent_story_count": 2,
       "issuer_profile": {
         "business_activity": "PT Bayan Resources Tbk., together with its subsidiaries, engages in the open cut mining and sale of coal in Indonesia. It operates through Coal and Non-Coal segments.",
         "controller": {
@@ -5935,11 +5935,21 @@
           "source": "Sawitku",
           "tier": 1,
           "weight": 0.35
+        },
+        {
+          "derivative": false,
+          "group": "elshinta",
+          "new_material": 0,
+          "quality": "LOW",
+          "semantic_copy": false,
+          "source": "Elshinta",
+          "tier": 1,
+          "weight": 0.35
         }
       ],
       "source_count": 14,
       "source_quality": "LOW",
-      "source_quality_score": 0.3,
+      "source_quality_score": 0.7,
       "sources": [
         "Sawitku",
         "Elshinta",
