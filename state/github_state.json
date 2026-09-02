@@ -2,15 +2,15 @@
   "baseline_initialized": true,
   "early_signal_alerts_sent": 17,
   "early_signal_baseline_initialized": true,
-  "early_signal_duplicates_suppressed": 507,
-  "early_signal_last_scan_utc": "2026-09-02T12:32:08.719827+00:00",
+  "early_signal_duplicates_suppressed": 508,
+  "early_signal_last_scan_utc": "2026-09-02T12:40:59.612109+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -2.49,
       "combined": true,
       "direction": "DOWN",
       "last_alert_utc": "2026-09-02T02:50:49.330825+00:00",
-      "last_seen_utc": "2026-09-02T12:32:08.719817+00:00",
+      "last_seen_utc": "2026-09-02T12:40:59.612098+00:00",
       "level": "MEDIUM",
       "market_date": "2026-09-02",
       "signature": "BYAN|2026-09-02|MEDIUM|DOWN|RUMOR|DIVESTASI|TICKER|BYAN",
@@ -5202,6 +5202,26 @@
       "verified_at": "2026-08-25T14:20:57.153674+00:00",
       "website": null
     },
+    "BBHI": {
+      "business_activity": "PT Allo Bank Indonesia Tbk provides various digital banking products and services in Indonesia. The company offers Allo Pay+ for fast and convenient transactions using QRIS; Allo Prime cash transfers and withdrawals; Allo Prime, which provi",
+      "controller": null,
+      "industry": "Banks - Regional",
+      "issuer_name": "Allo Bank Indonesia",
+      "owner_context_sources": 0,
+      "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
+      "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
+      "owner_v6_checked_utc": "2026-09-02T12:40:53.581353+00:00",
+      "owner_v6_pages_fetched": 0,
+      "profile_source": "Yahoo Finance",
+      "profile_source_quality": "FALLBACK",
+      "profile_source_url": null,
+      "sector": "Financial Services",
+      "subindustry": null,
+      "subsector": null,
+      "ticker": "BBHI",
+      "verified_at": "2026-09-02T12:40:54.114538+00:00",
+      "website": "https://www.allobank.com"
+    },
     "BIKE": {
       "business_activity": "PT Sepeda Bersama Indonesia Tbk engages in the trading of bicycles, electric motorcycle, baby stroller, and others in Indonesia. The company is involved in wholesale of sports equipment, land transportation equipment, and spare parts and eq",
       "controller": null,
@@ -5753,7 +5773,7 @@
     }
   },
   "last_keepalive_utc": "2026-08-28T10:20:50.907640+00:00",
-  "last_state_change_utc": "2026-09-02T12:32:08.721108+00:00",
+  "last_state_change_utc": "2026-09-02T12:40:59.635899+00:00",
   "market_noise_suppressed": 3,
   "milestone_alerts": {},
   "rumor_alerts_sent": 15,
@@ -5761,11 +5781,11 @@
   "rumor_confirmed_count": 0,
   "rumor_confirmed_dedups": 0,
   "rumor_denied_count": 0,
-  "rumor_duplicates_suppressed": 216,
+  "rumor_duplicates_suppressed": 217,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 8,
   "rumor_integrity_repairs": 1076,
-  "rumor_last_scan_utc": "2026-09-02T12:32:08.442207+00:00",
+  "rumor_last_scan_utc": "2026-09-02T12:40:59.483440+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -6122,6 +6142,82 @@
       "ticker": "PGUN",
       "title": "PGUN Buka Suara soal Isu Akuisisi Bayan Resources (BYAN) - Bisnis.com - Market"
     },
+    "BUYBACK|TICKER|BBHI": {
+      "category": "BUYBACK",
+      "company_name": "PT Bur",
+      "copy_duplicate_count": 0,
+      "credible_effective_independent_count": 1.1,
+      "derivative_source_count": 0,
+      "detected_source_count": 1,
+      "effective_independent_count": 1.1,
+      "entity_aliases": [],
+      "entity_resolution_source": null,
+      "first_seen_utc": "2026-09-02T10:58:57+00:00",
+      "high_quality_source_count": 1,
+      "independent_story_count": 1,
+      "issuer_profile": {
+        "business_activity": "PT Allo Bank Indonesia Tbk provides various digital banking products and services in Indonesia. The company offers Allo Pay+ for fast and convenient transactions using QRIS; Allo Prime cash transfers and withdrawals; Allo Prime, which provi",
+        "controller": null,
+        "industry": "Banks - Regional",
+        "issuer_name": "Allo Bank Indonesia",
+        "owner_context_sources": 0,
+        "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
+        "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
+        "owner_v6_checked_utc": "2026-09-02T12:40:53.581353+00:00",
+        "owner_v6_pages_fetched": 0,
+        "profile_source": "Yahoo Finance",
+        "profile_source_quality": "FALLBACK",
+        "profile_source_url": null,
+        "sector": "Financial Services",
+        "subindustry": null,
+        "subsector": null,
+        "ticker": "BBHI",
+        "verified_at": "2026-09-02T12:40:54.114538+00:00",
+        "website": "https://www.allobank.com"
+      },
+      "key": "BUYBACK|TICKER|BBHI",
+      "last_seen_utc": "2026-09-02T10:58:59+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdDgxdVo2dTBVazBFRTBXZTdLV2t2MHNCdEZhWnRlcmVrVWQ2ZXo4d1V6YVpibUpueEJUN0pad3hFQ1lPLXNyZ3YyUUVGMlR4c1p5Tm9xQmN5YXY5NHZxRXVFYzNVWXJkSmR6S2RjZDVIdC0tU0Fyc1dQZWdQUjFkTmtFX2U2UTRCVmZQNDI5dUo2dld2WXVuNFhHUkJZSzEzLUhWMXBMU0toYjdiTGFhZWE4aw?oc=5",
+      "market_data": null,
+      "official_confirmation": null,
+      "premium_source_count": 1,
+      "profile_refresh_utc": "2026-09-02T12:40:59.479295+00:00",
+      "published": "Wed, 02 Sep 2026 10:58:59 GMT",
+      "rumor_details": {
+        "ipo_price": null,
+        "listing_estimate": null,
+        "money": [],
+        "percentages": [],
+        "price_range": null,
+        "rumored_party": null,
+        "share_count": null,
+        "underwriter": null
+      },
+      "semantic_copy_count": 0,
+      "source": "PT Bursa Efek Indonesia",
+      "source_breakdown": [
+        {
+          "derivative": false,
+          "group": "pt bursa efek indonesia",
+          "new_material": 0,
+          "quality": "OFFICIAL",
+          "semantic_copy": false,
+          "source": "PT Bursa Efek Indonesia",
+          "tier": 5,
+          "weight": 1.1
+        }
+      ],
+      "source_count": 1,
+      "source_quality": "MEDIUM",
+      "source_quality_score": 5.5,
+      "sources": [
+        "PT Bursa Efek Indonesia"
+      ],
+      "status": "CONFIRMED OFFICIAL",
+      "strength": "CONFIRMED OFFICIAL",
+      "ticker": "BBHI",
+      "title": "BBHI 2026 Share BuyBack Tranche II - Fakta Material - v1.0 Final rev 20260902 - PT Bursa Efek Indonesia"
+    },
     "BUYBACK|TITLE|BUYBACK JADI KATALIS PROPERTI AGUAN PT BURSA": {
       "category": "BUYBACK",
       "company_name": "PT Bur",
@@ -6363,10 +6459,10 @@
       "category": "DIVESTASI",
       "company_name": "Bayan Resources",
       "copy_duplicate_count": 0,
-      "credible_effective_independent_count": 0,
+      "credible_effective_independent_count": 1.0,
       "derivative_source_count": 0,
       "detected_source_count": 1,
-      "effective_independent_count": 0.3,
+      "effective_independent_count": 1.0,
       "entity_aliases": [
         "Bayan (BYAN",
         "Bayan Resources",
@@ -6377,7 +6473,7 @@
       ],
       "entity_resolution_source": null,
       "first_seen_utc": "2026-09-01T04:45:00+00:00",
-      "high_quality_source_count": 0,
+      "high_quality_source_count": 1,
       "independent_story_count": 1,
       "issuer_profile": {
         "business_activity": "PT Bayan Resources Tbk., together with its subsidiaries, engages in the open cut mining and sale of coal in Indonesia. It operates through Coal and Non-Coal segments.",
@@ -6480,7 +6576,7 @@
         "volume_ratio": 0.5050138681459355
       },
       "official_confirmation": null,
-      "premium_source_count": 0,
+      "premium_source_count": 1,
       "profile_refresh_utc": "2026-09-01T04:50:45.027085+00:00",
       "published": "Tue, 01 Sep 2026 04:45:00 GMT",
       "rumor_details": {
@@ -6494,30 +6590,30 @@
         "underwriter": null
       },
       "semantic_copy_count": 0,
-      "source": "Bisnis Indonesia Premium",
+      "source": "premium.bisnis.com",
       "source_breakdown": [
         {
           "derivative": false,
-          "group": "bisnis indonesia premium",
+          "group": "bisnis.com",
           "new_material": 0,
-          "quality": "LOW",
+          "quality": "HIGH",
           "semantic_copy": false,
-          "source": "Bisnis Indonesia Premium",
-          "tier": 1,
-          "weight": 0.35
+          "source": "premium.bisnis.com",
+          "tier": 4,
+          "weight": 1.0
         }
       ],
       "source_count": 2,
-      "source_quality": "LOW",
-      "source_quality_score": 0.3,
+      "source_quality": "MEDIUM",
+      "source_quality_score": 4.0,
       "sources": [
-        "Bisnis Indonesia Premium",
-        "premium.bisnis.com"
+        "premium.bisnis.com",
+        "Bisnis Indonesia Premium"
       ],
       "status": "ACTIVE",
       "strength": "WEAK",
       "ticker": "BYAN",
-      "title": "Prospek Emiten Batu Bara di Tengah Rumor Akuisisi BYAN dan Divestasi Kideco oleh INDY - Bisnis Indonesia Premium"
+      "title": "Prospek Emiten Batu Bara di Tengah Rumor Akuisisi BYAN dan Divestasi Kideco oleh INDY - premium.bisnis.com"
     },
     "IPO|COMPANY|DAFTAR PERUSAHAAN": {
       "category": "IPO",
