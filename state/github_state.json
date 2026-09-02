@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 16,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 474,
-  "early_signal_last_scan_utc": "2026-09-02T01:10:48.855839+00:00",
+  "early_signal_last_scan_utc": "2026-09-02T01:20:46.693731+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -3.43,
@@ -5715,7 +5715,7 @@
     }
   },
   "last_keepalive_utc": "2026-08-28T10:20:50.907640+00:00",
-  "last_state_change_utc": "2026-09-02T01:10:48.913696+00:00",
+  "last_state_change_utc": "2026-09-02T01:20:46.719156+00:00",
   "market_noise_suppressed": 3,
   "milestone_alerts": {},
   "rumor_alerts_sent": 15,
@@ -5725,9 +5725,9 @@
   "rumor_denied_count": 0,
   "rumor_duplicates_suppressed": 168,
   "rumor_entity_rekeys": 1,
-  "rumor_expired_count": 7,
+  "rumor_expired_count": 8,
   "rumor_integrity_repairs": 1076,
-  "rumor_last_scan_utc": "2026-09-02T01:10:48.372782+00:00",
+  "rumor_last_scan_utc": "2026-09-02T01:20:45.992490+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -6517,6 +6517,7 @@
       "key": "IPO|COMPANY|MANUFAKTUR KESEHATAN MILIK UGM",
       "last_alert_utc": "2026-08-26T01:30:58.329979+00:00",
       "last_seen_utc": "2026-08-26T01:17:05+00:00",
+      "last_state_change_utc": "2026-09-02T01:20:45.992450+00:00",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSGtBVjFWbUNPblYtSjlBYUpHTEl3bzVrR3FvREppaHVtRTlTLUV5YlJKcnppOVpVMExGMzhqaUZwQWFKbXpKb1pCSjA4endSVTNJalZnQU9mVDZzdkJkckR5QmNwNm12N0lWTzF0ZHdSMEZwM05lRWZzOWhrcXhVZFhXTEdIaEhkTDZxMjlaSER2c2taN1h5QjJkM3JlLUxfa1JmWU5pU0JQTlJsYWl2RkJGdlFZUQ?oc=5",
       "market_data": null,
       "official_confirmation": null,
@@ -6555,7 +6556,7 @@
       "sources": [
         "KONTAN"
       ],
-      "status": "ACTIVE",
+      "status": "EXPIRED",
       "strength": "WEAK",
       "ticker": null,
       "title": "Perusahaan Manufaktur Kesehatan Milik UGM Siap IPO, Cermati Prospek dan Valuasinya - KONTAN"
