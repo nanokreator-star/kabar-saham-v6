@@ -2,15 +2,15 @@
   "baseline_initialized": true,
   "early_signal_alerts_sent": 17,
   "early_signal_baseline_initialized": true,
-  "early_signal_duplicates_suppressed": 497,
-  "early_signal_last_scan_utc": "2026-09-02T10:50:54.677575+00:00",
+  "early_signal_duplicates_suppressed": 498,
+  "early_signal_last_scan_utc": "2026-09-02T11:00:56.968319+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -2.49,
       "combined": true,
       "direction": "DOWN",
       "last_alert_utc": "2026-09-02T02:50:49.330825+00:00",
-      "last_seen_utc": "2026-09-02T10:50:54.677565+00:00",
+      "last_seen_utc": "2026-09-02T11:00:56.968308+00:00",
       "level": "MEDIUM",
       "market_date": "2026-09-02",
       "signature": "BYAN|2026-09-02|MEDIUM|DOWN|RUMOR|DIVESTASI|TICKER|BYAN",
@@ -5753,7 +5753,7 @@
     }
   },
   "last_keepalive_utc": "2026-08-28T10:20:50.907640+00:00",
-  "last_state_change_utc": "2026-09-02T10:50:54.699362+00:00",
+  "last_state_change_utc": "2026-09-02T11:00:56.983514+00:00",
   "market_noise_suppressed": 3,
   "milestone_alerts": {},
   "rumor_alerts_sent": 15,
@@ -5761,11 +5761,11 @@
   "rumor_confirmed_count": 0,
   "rumor_confirmed_dedups": 0,
   "rumor_denied_count": 0,
-  "rumor_duplicates_suppressed": 209,
+  "rumor_duplicates_suppressed": 211,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 8,
   "rumor_integrity_repairs": 1076,
-  "rumor_last_scan_utc": "2026-09-02T10:50:54.371148+00:00",
+  "rumor_last_scan_utc": "2026-09-02T11:00:56.075733+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -5773,8 +5773,8 @@
       "copy_duplicate_count": 0,
       "credible_effective_independent_count": 0,
       "derivative_source_count": 0,
-      "detected_source_count": 1,
-      "effective_independent_count": 0.3,
+      "detected_source_count": 2,
+      "effective_independent_count": 0.7,
       "entity_aliases": [
         "Bayan (BYAN",
         "Bayan Resources",
@@ -5789,7 +5789,7 @@
       "entity_resolution_source": "ISSUER_ALIAS_MEMORY+ISSUER_PROFILE_CACHE+RUMOR_EXPLICIT_TICKER",
       "first_seen_utc": "2026-08-18T02:41:36+00:00",
       "high_quality_source_count": 0,
-      "independent_story_count": 1,
+      "independent_story_count": 2,
       "issuer_profile": {
         "business_activity": "PT Bayan Resources Tbk., together with its subsidiaries, engages in the open cut mining and sale of coal in Indonesia. It operates through Coal and Non-Coal segments.",
         "controller": {
@@ -5874,9 +5874,9 @@
       },
       "key": "AKUISISI / TAKEOVER|TICKER|BYAN",
       "last_alert_utc": "2026-08-31T04:20:59.676825+00:00",
-      "last_seen_utc": "2026-08-30T23:39:00+00:00",
+      "last_seen_utc": "2026-08-30T23:39:37+00:00",
       "last_state_change_utc": "2026-08-27T03:20:48.618122+00:00",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWkxvRmQ3VFdpS3E0MkNmNHkwb09yNkFudllYT0hiNTlUU1hLYU9WUkZRcHlaQTZYbXZqYjZURGZiMEJVR3JSNTRjUTYyLW9uNlBfaGRaU2N6VWh5WjlfdUFKMDdFN05QQzVtVk9LcEpkbmdyRkp4VEd0dEd0SURxUjFGMTA5OS13R1F5TXFvMU1PZjJSdlpfUngwUERjeDBQVW05ejNYelhwU2ZNdkNxeHN6eW4zT3JkU3VUWXRjVEtjcnJrbXfSAcYBQVVfeXFMTVpMb0ZkN1RXaUtxNDJDZjR5MG9PcjZBbnZZWE9IYjU5VFNYS2FPVlJGUXB5WkE2WG12amI2VERmYjBCVUdyUjU0Y1E2Mi1vbjZQX2hkWlNjelVoeVo5X3VBSjA3RTdOUEM1bVZPS3BKZG5nckZKeFRHdHRHdElEcVIxRjEwOTktd0dReU1xbzFNT2YyUnZaX1J4MFBEY3gwUFVtOXozWHpYcFNmTXZDcXhzenluM09yZFN1VFl0Y1RLY3Jya213?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWUtaV01VQXhiUmZFTnZnV1V5UFltcm5zQTNwcWpDZWJtYzhmV0gxVUg5SmdjV3VhVE5CdHNvQW9kRFJYaExUWE5aZ1dfaVpqSEdFbUUyeFBPRWlacXVoOGNWVk9Bb2VwZURaTnZCbXptZW8xLUdIc1ZVNjEzQWdtM0RQdzgtNGxucWFkeVgzWm81U1Y0Q2FfMUtjRE9HUUdNa0ZQNEN5TmowZXpoNmJXeV85Y3NTc1lsQm1XVFNmbU3SAcYBQVVfeXFMTVpMb0ZkN1RXaUtxNDJDZjR5MG9PcjZBbnZZWE9IYjU5VFNYS2FPVlJGUXB5WkE2WG12amI2VERmYjBCVUdyUjU0Y1E2Mi1vbjZQX2hkWlNjelVoeVo5X3VBSjA3RTdOUEM1bVZPS3BKZG5nckZKeFRHdHRHdElEcVIxRjEwOTktd0dReU1xbzFNT2YyUnZaX1J4MFBEY3gwUFVtOXozWHpYcFNmTXZDcXhzenluM09yZFN1VFl0Y1RLY3Jya213?oc=5",
       "market_data": {
         "change_pct": -4.1166380789022305,
         "fetched_at": "2026-08-31T04:20:58.919172+00:00",
@@ -5894,7 +5894,7 @@
       "official_confirmation": null,
       "premium_source_count": 0,
       "profile_refresh_utc": "2026-08-20T03:21:46.587724+00:00",
-      "published": "Sun, 30 Aug 2026 23:39:00 GMT",
+      "published": "Sun, 30 Aug 2026 23:39:37 GMT",
       "rumor_details": {
         "ipo_price": null,
         "listing_estimate": null,
@@ -5915,11 +5915,21 @@
           "source": "Sawitku",
           "tier": 1,
           "weight": 0.35
+        },
+        {
+          "derivative": false,
+          "group": "elshinta",
+          "new_material": 0,
+          "quality": "LOW",
+          "semantic_copy": false,
+          "source": "Elshinta",
+          "tier": 1,
+          "weight": 0.35
         }
       ],
       "source_count": 14,
       "source_quality": "LOW",
-      "source_quality_score": 0.3,
+      "source_quality_score": 0.7,
       "sources": [
         "Sawitku",
         "Elshinta",
@@ -6335,7 +6345,7 @@
         "underwriter": null
       },
       "semantic_copy_count": 0,
-      "source": "holopis.com",
+      "source": "Holopis.com",
       "source_breakdown": [
         {
           "derivative": false,
@@ -6343,7 +6353,7 @@
           "new_material": 0,
           "quality": "LOW",
           "semantic_copy": false,
-          "source": "holopis.com",
+          "source": "Holopis.com",
           "tier": 1,
           "weight": 0.35
         }
@@ -6352,12 +6362,12 @@
       "source_quality": "LOW",
       "source_quality_score": 0.3,
       "sources": [
-        "holopis.com"
+        "Holopis.com"
       ],
       "status": "ACTIVE",
       "strength": "WEAK",
       "ticker": null,
-      "title": "59 Emiten BEI Masuk Daftar Delisting, Ada yang Disuspensi hingga 87 Bulan - holopis.com"
+      "title": "59 Emiten BEI Masuk Daftar Delisting, Ada yang Disuspensi hingga 87 Bulan - Holopis.com"
     },
     "DIVESTASI|TICKER|BYAN": {
       "category": "DIVESTASI",
