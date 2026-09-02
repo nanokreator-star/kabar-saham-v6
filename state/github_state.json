@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 17,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 478,
-  "early_signal_last_scan_utc": "2026-09-02T05:20:48.809810+00:00",
+  "early_signal_last_scan_utc": "2026-09-02T05:40:47.553979+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -3.2,
@@ -5715,7 +5715,7 @@
     }
   },
   "last_keepalive_utc": "2026-08-28T10:20:50.907640+00:00",
-  "last_state_change_utc": "2026-09-02T05:20:48.935791+00:00",
+  "last_state_change_utc": "2026-09-02T05:40:47.579600+00:00",
   "market_noise_suppressed": 3,
   "milestone_alerts": {},
   "rumor_alerts_sent": 15,
@@ -5723,11 +5723,11 @@
   "rumor_confirmed_count": 0,
   "rumor_confirmed_dedups": 0,
   "rumor_denied_count": 0,
-  "rumor_duplicates_suppressed": 186,
+  "rumor_duplicates_suppressed": 188,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 8,
   "rumor_integrity_repairs": 1076,
-  "rumor_last_scan_utc": "2026-09-02T05:20:47.946442+00:00",
+  "rumor_last_scan_utc": "2026-09-02T05:40:47.251302+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -6297,7 +6297,7 @@
         "underwriter": null
       },
       "semantic_copy_count": 0,
-      "source": "Holopis.com",
+      "source": "holopis.com",
       "source_breakdown": [
         {
           "derivative": false,
@@ -6305,7 +6305,7 @@
           "new_material": 0,
           "quality": "LOW",
           "semantic_copy": false,
-          "source": "Holopis.com",
+          "source": "holopis.com",
           "tier": 1,
           "weight": 0.35
         }
@@ -6314,12 +6314,12 @@
       "source_quality": "LOW",
       "source_quality_score": 0.3,
       "sources": [
-        "Holopis.com"
+        "holopis.com"
       ],
       "status": "ACTIVE",
       "strength": "WEAK",
       "ticker": null,
-      "title": "59 Emiten BEI Masuk Daftar Delisting, Ada yang Disuspensi hingga 87 Bulan - Holopis.com"
+      "title": "59 Emiten BEI Masuk Daftar Delisting, Ada yang Disuspensi hingga 87 Bulan - holopis.com"
     },
     "DIVESTASI|TICKER|BYAN": {
       "category": "DIVESTASI",
@@ -6611,7 +6611,7 @@
         "underwriter": null
       },
       "semantic_copy_count": 0,
-      "source": "investasi.kontan.co.id",
+      "source": "kontan.co.id",
       "source_breakdown": [
         {
           "derivative": false,
@@ -6619,7 +6619,7 @@
           "new_material": 1,
           "quality": "HIGH",
           "semantic_copy": false,
-          "source": "investasi.kontan.co.id",
+          "source": "kontan.co.id",
           "tier": 4,
           "weight": 1.0
         }
@@ -6628,15 +6628,15 @@
       "source_quality": "MEDIUM",
       "source_quality_score": 4.0,
       "sources": [
-        "investasi.kontan.co.id",
         "kontan.co.id",
+        "investasi.kontan.co.id",
         "KONTAN",
         "insight.kontan.co.id"
       ],
       "status": "ACTIVE",
       "strength": "WEAK",
       "ticker": null,
-      "title": "Platform Investasi Ajaib Dapat Suntikan Rp 4,8 Triliun, Apakah Akan IPO? - investasi.kontan.co.id"
+      "title": "Platform Investasi Ajaib Dapat Suntikan Rp 4,8 Triliun, Apakah Akan IPO? - kontan.co.id"
     },
     "IPO|COMPANY|SWAYASA PRAKASA": {
       "category": "IPO",
