@@ -2,15 +2,15 @@
   "baseline_initialized": true,
   "early_signal_alerts_sent": 17,
   "early_signal_baseline_initialized": true,
-  "early_signal_duplicates_suppressed": 489,
-  "early_signal_last_scan_utc": "2026-09-02T09:30:58.393824+00:00",
+  "early_signal_duplicates_suppressed": 490,
+  "early_signal_last_scan_utc": "2026-09-02T09:40:50.772701+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -2.49,
       "combined": true,
       "direction": "DOWN",
       "last_alert_utc": "2026-09-02T02:50:49.330825+00:00",
-      "last_seen_utc": "2026-09-02T09:20:51.579977+00:00",
+      "last_seen_utc": "2026-09-02T09:40:50.772689+00:00",
       "level": "MEDIUM",
       "market_date": "2026-09-02",
       "signature": "BYAN|2026-09-02|MEDIUM|DOWN|RUMOR|DIVESTASI|TICKER|BYAN",
@@ -39,7 +39,7 @@
       "volume_ratio": 10.98
     }
   },
-  "event_duplicates_suppressed": 19,
+  "event_duplicates_suppressed": 20,
   "event_memory": {
     "IPO|TICKER|SWAP": {
       "family": "IPO",
@@ -2208,7 +2208,7 @@
       "family": "M&A / TAKEOVER",
       "first_seen_utc": "2026-09-02T09:31:01.471295+00:00",
       "last_alert_utc": "2026-09-02T09:31:01.471288+00:00",
-      "last_seen_utc": "2026-09-02T09:31:01.471288+00:00",
+      "last_seen_utc": "2026-09-02T09:40:52.722223+00:00",
       "market_context": {
         "change_pct": null,
         "last_price": null,
@@ -5753,7 +5753,7 @@
     }
   },
   "last_keepalive_utc": "2026-08-28T10:20:50.907640+00:00",
-  "last_state_change_utc": "2026-09-02T09:31:01.472620+00:00",
+  "last_state_change_utc": "2026-09-02T09:40:52.723639+00:00",
   "market_noise_suppressed": 3,
   "milestone_alerts": {},
   "rumor_alerts_sent": 15,
@@ -5761,11 +5761,11 @@
   "rumor_confirmed_count": 0,
   "rumor_confirmed_dedups": 0,
   "rumor_denied_count": 0,
-  "rumor_duplicates_suppressed": 200,
+  "rumor_duplicates_suppressed": 202,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 8,
   "rumor_integrity_repairs": 1076,
-  "rumor_last_scan_utc": "2026-09-02T09:30:58.024802+00:00",
+  "rumor_last_scan_utc": "2026-09-02T09:40:50.459257+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -5874,9 +5874,9 @@
       },
       "key": "AKUISISI / TAKEOVER|TICKER|BYAN",
       "last_alert_utc": "2026-08-31T04:20:59.676825+00:00",
-      "last_seen_utc": "2026-08-30T23:39:37+00:00",
+      "last_seen_utc": "2026-08-30T23:39:00+00:00",
       "last_state_change_utc": "2026-08-27T03:20:48.618122+00:00",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWUtaV01VQXhiUmZFTnZnV1V5UFltcm5zQTNwcWpDZWJtYzhmV0gxVUg5SmdjV3VhVE5CdHNvQW9kRFJYaExUWE5aZ1dfaVpqSEdFbUUyeFBPRWlacXVoOGNWVk9Bb2VwZURaTnZCbXptZW8xLUdIc1ZVNjEzQWdtM0RQdzgtNGxucWFkeVgzWm81U1Y0Q2FfMUtjRE9HUUdNa0ZQNEN5TmowZXpoNmJXeV85Y3NTc1lsQm1XVFNmbU3SAcYBQVVfeXFMTVpMb0ZkN1RXaUtxNDJDZjR5MG9PcjZBbnZZWE9IYjU5VFNYS2FPVlJGUXB5WkE2WG12amI2VERmYjBCVUdyUjU0Y1E2Mi1vbjZQX2hkWlNjelVoeVo5X3VBSjA3RTdOUEM1bVZPS3BKZG5nckZKeFRHdHRHdElEcVIxRjEwOTktd0dReU1xbzFNT2YyUnZaX1J4MFBEY3gwUFVtOXozWHpYcFNmTXZDcXhzenluM09yZFN1VFl0Y1RLY3Jya213?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWkxvRmQ3VFdpS3E0MkNmNHkwb09yNkFudllYT0hiNTlUU1hLYU9WUkZRcHlaQTZYbXZqYjZURGZiMEJVR3JSNTRjUTYyLW9uNlBfaGRaU2N6VWh5WjlfdUFKMDdFN05QQzVtVk9LcEpkbmdyRkp4VEd0dEd0SURxUjFGMTA5OS13R1F5TXFvMU1PZjJSdlpfUngwUERjeDBQVW05ejNYelhwU2ZNdkNxeHN6eW4zT3JkU3VUWXRjVEtjcnJrbXfSAcYBQVVfeXFMTVpMb0ZkN1RXaUtxNDJDZjR5MG9PcjZBbnZZWE9IYjU5VFNYS2FPVlJGUXB5WkE2WG12amI2VERmYjBCVUdyUjU0Y1E2Mi1vbjZQX2hkWlNjelVoeVo5X3VBSjA3RTdOUEM1bVZPS3BKZG5nckZKeFRHdHRHdElEcVIxRjEwOTktd0dReU1xbzFNT2YyUnZaX1J4MFBEY3gwUFVtOXozWHpYcFNmTXZDcXhzenluM09yZFN1VFl0Y1RLY3Jya213?oc=5",
       "market_data": {
         "change_pct": -4.1166380789022305,
         "fetched_at": "2026-08-31T04:20:58.919172+00:00",
@@ -5894,7 +5894,7 @@
       "official_confirmation": null,
       "premium_source_count": 0,
       "profile_refresh_utc": "2026-08-20T03:21:46.587724+00:00",
-      "published": "Sun, 30 Aug 2026 23:39:37 GMT",
+      "published": "Sun, 30 Aug 2026 23:39:00 GMT",
       "rumor_details": {
         "ipo_price": null,
         "listing_estimate": null,
@@ -6345,7 +6345,7 @@
         "underwriter": null
       },
       "semantic_copy_count": 0,
-      "source": "holopis.com",
+      "source": "Holopis.com",
       "source_breakdown": [
         {
           "derivative": false,
@@ -6353,7 +6353,7 @@
           "new_material": 0,
           "quality": "LOW",
           "semantic_copy": false,
-          "source": "holopis.com",
+          "source": "Holopis.com",
           "tier": 1,
           "weight": 0.35
         }
@@ -6362,12 +6362,12 @@
       "source_quality": "LOW",
       "source_quality_score": 0.3,
       "sources": [
-        "holopis.com"
+        "Holopis.com"
       ],
       "status": "ACTIVE",
       "strength": "WEAK",
       "ticker": null,
-      "title": "59 Emiten BEI Masuk Daftar Delisting, Ada yang Disuspensi hingga 87 Bulan - holopis.com"
+      "title": "59 Emiten BEI Masuk Daftar Delisting, Ada yang Disuspensi hingga 87 Bulan - Holopis.com"
     },
     "DIVESTASI|TICKER|BYAN": {
       "category": "DIVESTASI",
@@ -7673,6 +7673,7 @@
     "7c86272927e6a9f3a31626bb4bd0f5de9946e02029e8958d258193e7fb8ba3e7": "2026-08-14T10:15:00.868800+00:00",
     "7c9caf4f3b18455a826e93f3c65547357574575fc3c87faeaed414b561e482a3": "2026-08-14T10:15:00.868800+00:00",
     "7e65651c2e4c9e0ac7012bb00c5f2cf68d72dd43a7e004f5df92db9aad7107d2": "2026-08-14T10:15:00.868800+00:00",
+    "80b92a8bd86c4beee1ff71d626bdb2d08e0ddb9c12fe353ff887361f9de06971": "2026-09-02T09:40:52.722208+00:00",
     "81811644b800d39836b917bda6c75d1d71ce1caf280821960e41cc853ca02fb3": "2026-08-14T10:15:00.868800+00:00",
     "8187ca3a1a85953e9811de50f37e6e7b689e376a13351d6d7bda525121b656ca": "2026-08-21T13:10:58.875826+00:00",
     "81bd0ccaca7a4e66e29732beb8e488cddb3ab5df0058ef5dc35f4d7ec3230dc3": "2026-08-20T03:21:47.165417+00:00",
