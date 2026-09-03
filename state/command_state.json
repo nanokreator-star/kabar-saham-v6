@@ -243,7 +243,7 @@
     }
   },
   "last_command_utc": "2026-08-20T16:52:31.242649+00:00",
-  "last_state_change_utc": "2026-08-20T16:52:31.242658+00:00",
+  "last_state_change_utc": "2026-09-03T01:56:16.569607+00:00",
   "lifecycle_history": {
     "AKSI|M&A / TAKEOVER": [
       {
@@ -469,19 +469,10 @@
       }
     ]
   },
-  "next_offset": 527719856,
-  "recent_commands": {
-    "351d590a51b1fc322938538275d1124c": 1787237599,
-    "4d8319106cdd619881e311d64d00f273": 1787244718,
-    "4f73523fc4f31bd578b3e700c2973230": 1787244588,
-    "6984e764300c6e62c21f0437624a34f7": 1787228869,
-    "7aeebfe21ee11cdd60d9b67b327b1578": 1787228962,
-    "bb942440ff783ef54ebb0d7cb1d3f483": 1787226679,
-    "c6966f933b77755baae49e0710dd8553": 1787228919,
-    "df42594ad243c54b915273725483bc7e": 1787237497
-  },
+  "next_offset": 527719857,
+  "recent_commands": {},
   "schema_version": 12,
-  "updates_seen": 145,
+  "updates_seen": 146,
   "verified_official": {
     "DOOH": {
       "entries": [
