@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 17,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 532,
-  "early_signal_last_scan_utc": "2026-09-03T04:10:46.496406+00:00",
+  "early_signal_last_scan_utc": "2026-09-03T04:20:45.547511+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -2.49,
@@ -5835,7 +5835,7 @@
     }
   },
   "last_keepalive_utc": "2026-08-28T10:20:50.907640+00:00",
-  "last_state_change_utc": "2026-09-03T04:10:46.527416+00:00",
+  "last_state_change_utc": "2026-09-03T04:20:45.576411+00:00",
   "market_noise_suppressed": 3,
   "milestone_alerts": {},
   "rumor_alerts_sent": 15,
@@ -5843,11 +5843,11 @@
   "rumor_confirmed_count": 0,
   "rumor_confirmed_dedups": 0,
   "rumor_denied_count": 0,
-  "rumor_duplicates_suppressed": 273,
+  "rumor_duplicates_suppressed": 275,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 8,
   "rumor_integrity_repairs": 1076,
-  "rumor_last_scan_utc": "2026-09-03T04:10:46.488625+00:00",
+  "rumor_last_scan_utc": "2026-09-03T04:20:45.539670+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -5956,9 +5956,9 @@
       },
       "key": "AKUISISI / TAKEOVER|TICKER|BYAN",
       "last_alert_utc": "2026-08-31T04:20:59.676825+00:00",
-      "last_seen_utc": "2026-08-30T23:39:00+00:00",
+      "last_seen_utc": "2026-08-30T23:39:37+00:00",
       "last_state_change_utc": "2026-08-27T03:20:48.618122+00:00",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWkxvRmQ3VFdpS3E0MkNmNHkwb09yNkFudllYT0hiNTlUU1hLYU9WUkZRcHlaQTZYbXZqYjZURGZiMEJVR3JSNTRjUTYyLW9uNlBfaGRaU2N6VWh5WjlfdUFKMDdFN05QQzVtVk9LcEpkbmdyRkp4VEd0dEd0SURxUjFGMTA5OS13R1F5TXFvMU1PZjJSdlpfUngwUERjeDBQVW05ejNYelhwU2ZNdkNxeHN6eW4zT3JkU3VUWXRjVEtjcnJrbXfSAcYBQVVfeXFMTVpMb0ZkN1RXaUtxNDJDZjR5MG9PcjZBbnZZWE9IYjU5VFNYS2FPVlJGUXB5WkE2WG12amI2VERmYjBCVUdyUjU0Y1E2Mi1vbjZQX2hkWlNjelVoeVo5X3VBSjA3RTdOUEM1bVZPS3BKZG5nckZKeFRHdHRHdElEcVIxRjEwOTktd0dReU1xbzFNT2YyUnZaX1J4MFBEY3gwUFVtOXozWHpYcFNmTXZDcXhzenluM09yZFN1VFl0Y1RLY3Jya213?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWUtaV01VQXhiUmZFTnZnV1V5UFltcm5zQTNwcWpDZWJtYzhmV0gxVUg5SmdjV3VhVE5CdHNvQW9kRFJYaExUWE5aZ1dfaVpqSEdFbUUyeFBPRWlacXVoOGNWVk9Bb2VwZURaTnZCbXptZW8xLUdIc1ZVNjEzQWdtM0RQdzgtNGxucWFkeVgzWm81U1Y0Q2FfMUtjRE9HUUdNa0ZQNEN5TmowZXpoNmJXeV85Y3NTc1lsQm1XVFNmbU3SAcYBQVVfeXFMTVpMb0ZkN1RXaUtxNDJDZjR5MG9PcjZBbnZZWE9IYjU5VFNYS2FPVlJGUXB5WkE2WG12amI2VERmYjBCVUdyUjU0Y1E2Mi1vbjZQX2hkWlNjelVoeVo5X3VBSjA3RTdOUEM1bVZPS3BKZG5nckZKeFRHdHRHdElEcVIxRjEwOTktd0dReU1xbzFNT2YyUnZaX1J4MFBEY3gwUFVtOXozWHpYcFNmTXZDcXhzenluM09yZFN1VFl0Y1RLY3Jya213?oc=5",
       "market_data": {
         "change_pct": -4.1166380789022305,
         "fetched_at": "2026-08-31T04:20:58.919172+00:00",
@@ -5976,7 +5976,7 @@
       "official_confirmation": null,
       "premium_source_count": 0,
       "profile_refresh_utc": "2026-08-20T03:21:46.587724+00:00",
-      "published": "Sun, 30 Aug 2026 23:39:00 GMT",
+      "published": "Sun, 30 Aug 2026 23:39:37 GMT",
       "rumor_details": {
         "ipo_price": null,
         "listing_estimate": null,
@@ -6867,7 +6867,7 @@
         "underwriter": null
       },
       "semantic_copy_count": 0,
-      "source": "investasi.kontan.co.id",
+      "source": "kontan.co.id",
       "source_breakdown": [
         {
           "derivative": false,
@@ -6875,7 +6875,7 @@
           "new_material": 1,
           "quality": "HIGH",
           "semantic_copy": false,
-          "source": "investasi.kontan.co.id",
+          "source": "kontan.co.id",
           "tier": 4,
           "weight": 1.0
         }
@@ -6884,15 +6884,15 @@
       "source_quality": "MEDIUM",
       "source_quality_score": 4.0,
       "sources": [
-        "investasi.kontan.co.id",
         "kontan.co.id",
+        "investasi.kontan.co.id",
         "KONTAN",
         "insight.kontan.co.id"
       ],
       "status": "ACTIVE",
       "strength": "WEAK",
       "ticker": null,
-      "title": "Platform Investasi Ajaib Dapat Suntikan Rp 4,8 Triliun, Apakah Akan IPO? - investasi.kontan.co.id"
+      "title": "Platform Investasi Ajaib Dapat Suntikan Rp 4,8 Triliun, Apakah Akan IPO? - kontan.co.id"
     },
     "IPO|COMPANY|SWAYASA PRAKASA": {
       "category": "IPO",
