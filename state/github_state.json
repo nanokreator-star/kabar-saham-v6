@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 17,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 532,
-  "early_signal_last_scan_utc": "2026-09-04T05:30:50.175641+00:00",
+  "early_signal_last_scan_utc": "2026-09-04T05:40:53.079306+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -2.49,
@@ -1214,6 +1214,48 @@
         ]
       },
       "ticker": "BNII"
+    },
+    "M&A / TAKEOVER|TICKER|CUAN": {
+      "family": "M&A / TAKEOVER",
+      "first_seen_utc": "2026-09-04T05:41:32.728757+00:00",
+      "last_alert_utc": "2026-09-04T05:41:32.728750+00:00",
+      "last_seen_utc": "2026-09-04T05:41:32.728750+00:00",
+      "market_context": {
+        "change_pct": 2.1978,
+        "last_price": 930.0,
+        "market_date": "2026-09-04"
+      },
+      "material_snapshot": {
+        "acquirer": "Petrindo (CUAN) Negosiasi",
+        "acquirer_confirmed": true,
+        "event_type": "TAKEOVER",
+        "execution_price": null,
+        "ipo_single_price": null,
+        "money": [],
+        "official_authority": null,
+        "official_kind": null,
+        "price_range": null,
+        "ratio": null,
+        "schedule": {
+          "transaction_completion": "4/9/2026"
+        },
+        "share_count": null,
+        "stage": "CHANGE OF CONTROL",
+        "stage_step": 5,
+        "stage_total": 7,
+        "stake": [
+          27.78
+        ],
+        "standby_buyer": null,
+        "target": "Singaraja Putra (SINI",
+        "target_confirmed": true,
+        "tender_price": null,
+        "underwriter": null,
+        "use_of_funds": [
+          "PENGEMBANGAN USAHA"
+        ]
+      },
+      "ticker": "CUAN"
     },
     "M&A / TAKEOVER|TICKER|DOOH": {
       "family": "M&A / TAKEOVER",
@@ -5366,6 +5408,26 @@
       "verified_at": "2026-08-20T03:21:14.981343+00:00",
       "website": "https://www.bayan.com.sg"
     },
+    "CUAN": {
+      "business_activity": "PT Petrindo Jaya Kreasi Tbk, through its subsidiaries, engages in coal mining operations in Indonesia. It operates through three segments: Mining, Services, and Engineering and Construction.",
+      "controller": null,
+      "industry": "Thermal Coal",
+      "issuer_name": "Petrindo Jaya Kreasi",
+      "owner_context_sources": 0,
+      "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
+      "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
+      "owner_v6_checked_utc": "2026-09-04T05:41:32.005942+00:00",
+      "owner_v6_pages_fetched": 0,
+      "profile_source": "Yahoo Finance",
+      "profile_source_quality": "FALLBACK",
+      "profile_source_url": null,
+      "sector": "Energy",
+      "subindustry": null,
+      "subsector": null,
+      "ticker": "CUAN",
+      "verified_at": "2026-09-04T05:41:08.061749+00:00",
+      "website": "https://www.petrindo.co.id"
+    },
     "DOOH": {
       "business_activity": "PT Era Media Sejahtera Tbk operates as an advertising media company in Indonesia. It operates through Advertising, Consulting, and Media Content segments.",
       "controller": {
@@ -5855,7 +5917,7 @@
     }
   },
   "last_keepalive_utc": "2026-08-28T10:20:50.907640+00:00",
-  "last_state_change_utc": "2026-09-04T05:30:50.200682+00:00",
+  "last_state_change_utc": "2026-09-04T05:41:32.730109+00:00",
   "market_noise_suppressed": 3,
   "milestone_alerts": {},
   "rumor_alerts_sent": 15,
@@ -5867,7 +5929,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 9,
   "rumor_integrity_repairs": 1076,
-  "rumor_last_scan_utc": "2026-09-04T05:30:50.167164+00:00",
+  "rumor_last_scan_utc": "2026-09-04T05:40:53.071634+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -7937,6 +7999,7 @@
     "0a772ba1819d9396bd48bfe236b90608e75b5c7276adf2ddc3b4c093f2a65063": "2026-08-14T10:15:00.868800+00:00",
     "0bc383e38ef89792db4ac5da55a293d15cba4c87a2ea9d68ed10d510cccdd477": "2026-08-20T03:21:47.165417+00:00",
     "0bd81597f759c20cc8c802928a344b88c585b60223a6a234f8b0f6a0f397b4c0": "2026-08-20T03:21:47.165417+00:00",
+    "0c76e071ca99093ad0eecc4d7e895e13a9f4c888c7cedae80ec7ad61ff0de3e0": "2026-09-04T05:41:32.728730+00:00",
     "0ebaf4580944fcfc5be448a9dc5d4bb3eaed38e167d01e95b5350bbdfb9a8a75": "2026-08-18T03:31:02.730821+00:00",
     "0f45ebcc704bd30869f708889cd24a6729bb470886b5ee3c4b27bd93f6c6e0ea": "2026-08-14T10:15:00.868800+00:00",
     "0fc3314cafd6225f34e24e2cb82de536fcdb7a7444c7cd8a165b687626fa11d3": "2026-08-24T18:41:06.877019+00:00",
