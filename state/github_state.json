@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 17,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 532,
-  "early_signal_last_scan_utc": "2026-09-04T19:40:56.049049+00:00",
+  "early_signal_last_scan_utc": "2026-09-04T21:00:55.404263+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -2.49,
@@ -1218,17 +1218,17 @@
     "M&A / TAKEOVER|TICKER|CUAN": {
       "family": "M&A / TAKEOVER",
       "first_seen_utc": "2026-09-04T05:41:32.728757+00:00",
-      "last_alert_utc": "2026-09-04T05:41:32.728750+00:00",
-      "last_seen_utc": "2026-09-04T07:31:09.699153+00:00",
+      "last_alert_utc": "2026-09-04T21:01:15.994303+00:00",
+      "last_seen_utc": "2026-09-04T21:01:15.994303+00:00",
       "market_context": {
-        "change_pct": 6.5934,
-        "last_price": 970.0,
+        "change_pct": 3.2967,
+        "last_price": 940.0,
         "market_date": "2026-09-04"
       },
       "material_snapshot": {
-        "acquirer": "Petrindo (CUAN) Negosiasi",
+        "acquirer": "CUAN Negosiasi",
         "acquirer_confirmed": true,
-        "event_type": "TAKEOVER",
+        "event_type": "AKUISISI",
         "execution_price": null,
         "ipo_single_price": null,
         "money": [],
@@ -1247,12 +1247,13 @@
           27.78
         ],
         "standby_buyer": null,
-        "target": "Singaraja Putra (SINI",
+        "target": "Saham Mayoritas SINI",
         "target_confirmed": true,
         "tender_price": null,
         "underwriter": null,
         "use_of_funds": [
-          "PENGEMBANGAN USAHA"
+          "AKUISISI / INVESTASI",
+          "EKSPANSI / CAPEX"
         ]
       },
       "ticker": "CUAN"
@@ -5416,7 +5417,7 @@
       "owner_context_sources": 0,
       "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
       "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-      "owner_v6_checked_utc": "2026-09-04T05:41:32.005942+00:00",
+      "owner_v6_checked_utc": "2026-09-04T21:01:15.260827+00:00",
       "owner_v6_pages_fetched": 0,
       "profile_source": "Yahoo Finance",
       "profile_source_quality": "FALLBACK",
@@ -5917,7 +5918,7 @@
     }
   },
   "last_keepalive_utc": "2026-08-28T10:20:50.907640+00:00",
-  "last_state_change_utc": "2026-09-04T19:40:56.077643+00:00",
+  "last_state_change_utc": "2026-09-04T21:01:15.995817+00:00",
   "market_noise_suppressed": 4,
   "milestone_alerts": {},
   "rumor_alerts_sent": 15,
@@ -5929,7 +5930,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 9,
   "rumor_integrity_repairs": 1076,
-  "rumor_last_scan_utc": "2026-09-04T19:40:56.040198+00:00",
+  "rumor_last_scan_utc": "2026-09-04T21:00:55.395456+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -8083,6 +8084,7 @@
     "610cf7988199cbb055aa0ae4fe1c44aab9ec9d0a0f0d348ee81b108f43f37ef0": "2026-08-14T10:15:00.868800+00:00",
     "616989ebd24b7809db1cec6e92cdccfa251fb5b0dd665767864ef0d758d8e7e6": "2026-08-14T10:15:00.868800+00:00",
     "646b85801b59b7050b05830457080dbec683e7d99c6192fb3a280114460d7df8": "2026-08-14T10:15:00.868800+00:00",
+    "651597f755a571b1795bffd9abc30d78055e9e8dc60ce9a2f18cbd85114e1380": "2026-09-04T21:01:15.994282+00:00",
     "66ed0e932d59d13861d953962d6068888b45db61163663a8c6fb5bb53db04500": "2026-08-26T20:51:36.935635+00:00",
     "6954cec496e573e783ac044e5406aa21e590046c6ce3fc9626acec0a40a9e9f9": "2026-08-23T18:01:17.078390+00:00",
     "6961e4412739374464ff56e1b4e06e5b6475ac1f443c928a76a26014d3ebbf38": "2026-08-14T10:15:00.868800+00:00",
