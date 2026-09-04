@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 17,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 532,
-  "early_signal_last_scan_utc": "2026-09-04T02:40:52.538153+00:00",
+  "early_signal_last_scan_utc": "2026-09-04T03:00:59.935409+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -2.49,
@@ -5835,7 +5835,7 @@
     }
   },
   "last_keepalive_utc": "2026-08-28T10:20:50.907640+00:00",
-  "last_state_change_utc": "2026-09-04T02:40:52.697539+00:00",
+  "last_state_change_utc": "2026-09-04T03:00:59.957265+00:00",
   "market_noise_suppressed": 3,
   "milestone_alerts": {},
   "rumor_alerts_sent": 15,
@@ -5843,11 +5843,11 @@
   "rumor_confirmed_count": 0,
   "rumor_confirmed_dedups": 0,
   "rumor_denied_count": 0,
-  "rumor_duplicates_suppressed": 320,
+  "rumor_duplicates_suppressed": 321,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 9,
   "rumor_integrity_repairs": 1076,
-  "rumor_last_scan_utc": "2026-09-04T02:40:52.532420+00:00",
+  "rumor_last_scan_utc": "2026-09-04T03:00:59.928125+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -6966,7 +6966,7 @@
       "key": "IPO|COMPANY|PLATFORM INVESTASI AJAIB DAPAT SUNTIKAN RP 4 8 TRILIUN APAKAH",
       "last_alert_utc": "2026-08-31T22:40:59.165661+00:00",
       "last_seen_utc": "2026-08-31T22:26:51+00:00",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTU8wUXVrUHdpNXZmWTNXbGcwQUYwSWZvcVlMMl9VdEhKdXBzRUxFS3lIa2VKeHJiamZrd1VzZkVNVkUwenYtU3F2TlNYdVdvSUU1MUpwanNFLUowSi11WmFxM2c5RW5RYnlVWnFSRUc5WGllWGQtMl9vVGRFS01UZnd3d1FzZ0ZOeUdtR1k0RUt3c05ZLTNzNHJuNnowSGVmMGRTc0hR0gGgAUFVX3lxTFBlSE1RZkQwcmRzN0pqTjhueW9ocTRMNnpKYUpTV0lVVU4ySkt4dm9iRFM4R01UTzhzdlk0Smc4YkxZS3Q5QnFSY2NLZTNNT3FKUkQ1eVgxcUhkQjFHYzBkeFBzc3JwejBpam5hRTQ1bzFRS1hzRjVWTnRNdVhIMGlmVnFVSW1IZGRkcHMxOFcxYlFRcnd0Y0F0ZUZEVmFwWU0?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQT2p1bmJMVVFpWUdEZEljZFdzenJYNEZSTVlEY0tLeF9mZ01PSmdGSGxLdy1SZFpYbHpkbUtjcllBczZtUnhzMmZxcFFLQm9SS2E1cWdMY1lCWGJ1UWpXaVhZaUlIVWxDMXJTb3czaU53azY3TUpRMWo4cTAxa2w2ckI1NHcyS3lqQ2Y1Q1Fnd0I2RWdjUTZfd05mVzQ0QkZaWHNVeThCdHTSAaABQVVfeXFMUGVITVFmRDByZHM3SmpOOG55b2hxNEw2ekphSlNXSVVVTjJKS3h2b2JEUzhHTVRPOHN2WTRKZzhiTFlLdDlCcVJjY0tlM01PcUpSRDV5WDFxSGRCMUdjMGR4UHNzcnB6MGlqbmFFNDVvMVFLWHNGNVZOdE11WEgwaWZWcVVJbUhkZGRwczE4VzFiUVFyd3RjQXRlRkRWYXBZTQ?oc=5",
       "market_data": null,
       "official_confirmation": null,
       "premium_source_count": 1,
@@ -6985,7 +6985,7 @@
         "underwriter": null
       },
       "semantic_copy_count": 0,
-      "source": "KONTAN",
+      "source": "kontan.co.id",
       "source_breakdown": [
         {
           "derivative": false,
@@ -6993,7 +6993,7 @@
           "new_material": 1,
           "quality": "HIGH",
           "semantic_copy": false,
-          "source": "KONTAN",
+          "source": "kontan.co.id",
           "tier": 4,
           "weight": 1.0
         }
@@ -7002,15 +7002,15 @@
       "source_quality": "MEDIUM",
       "source_quality_score": 4.0,
       "sources": [
-        "KONTAN",
         "kontan.co.id",
+        "KONTAN",
         "insight.kontan.co.id",
         "investasi.kontan.co.id"
       ],
       "status": "ACTIVE",
       "strength": "WEAK",
       "ticker": null,
-      "title": "Platform Investasi Ajaib Dapat Suntikan Rp 4,8 Triliun, Apakah Akan IPO? - KONTAN"
+      "title": "Platform Investasi Ajaib Dapat Suntikan Rp 4,8 Triliun, Apakah Akan IPO? - kontan.co.id"
     },
     "IPO|COMPANY|SWAYASA PRAKASA": {
       "category": "IPO",
