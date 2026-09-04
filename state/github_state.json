@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 17,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 532,
-  "early_signal_last_scan_utc": "2026-09-04T11:31:07.574344+00:00",
+  "early_signal_last_scan_utc": "2026-09-04T12:00:52.730149+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -2.49,
@@ -5917,7 +5917,7 @@
     }
   },
   "last_keepalive_utc": "2026-08-28T10:20:50.907640+00:00",
-  "last_state_change_utc": "2026-09-04T11:31:07.595695+00:00",
+  "last_state_change_utc": "2026-09-04T12:00:52.757889+00:00",
   "market_noise_suppressed": 4,
   "milestone_alerts": {},
   "rumor_alerts_sent": 15,
@@ -5925,11 +5925,11 @@
   "rumor_confirmed_count": 0,
   "rumor_confirmed_dedups": 0,
   "rumor_denied_count": 0,
-  "rumor_duplicates_suppressed": 350,
+  "rumor_duplicates_suppressed": 351,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 9,
   "rumor_integrity_repairs": 1076,
-  "rumor_last_scan_utc": "2026-09-04T11:31:07.568058+00:00",
+  "rumor_last_scan_utc": "2026-09-04T12:00:52.724805+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -6662,10 +6662,10 @@
       "category": "DIVESTASI",
       "company_name": "Bayan Resources",
       "copy_duplicate_count": 0,
-      "credible_effective_independent_count": 1.0,
+      "credible_effective_independent_count": 0,
       "derivative_source_count": 0,
       "detected_source_count": 1,
-      "effective_independent_count": 1.0,
+      "effective_independent_count": 0.3,
       "entity_aliases": [
         "Bayan (BYAN",
         "Bayan Resources",
@@ -6677,7 +6677,7 @@
       ],
       "entity_resolution_source": null,
       "first_seen_utc": "2026-09-01T04:45:00+00:00",
-      "high_quality_source_count": 1,
+      "high_quality_source_count": 0,
       "independent_story_count": 1,
       "issuer_profile": {
         "business_activity": "PT Bayan Resources Tbk., together with its subsidiaries, engages in the open cut mining and sale of coal in Indonesia. It operates through Coal and Non-Coal segments.",
@@ -6780,7 +6780,7 @@
         "volume_ratio": 0.5050138681459355
       },
       "official_confirmation": null,
-      "premium_source_count": 1,
+      "premium_source_count": 0,
       "profile_refresh_utc": "2026-09-01T04:50:45.027085+00:00",
       "published": "Tue, 01 Sep 2026 04:45:00 GMT",
       "rumor_details": {
@@ -6794,30 +6794,30 @@
         "underwriter": null
       },
       "semantic_copy_count": 0,
-      "source": "premium.bisnis.com",
+      "source": "Bisnis Indonesia Premium",
       "source_breakdown": [
         {
           "derivative": false,
-          "group": "bisnis.com",
+          "group": "bisnis indonesia premium",
           "new_material": 0,
-          "quality": "HIGH",
+          "quality": "LOW",
           "semantic_copy": false,
-          "source": "premium.bisnis.com",
-          "tier": 4,
-          "weight": 1.0
+          "source": "Bisnis Indonesia Premium",
+          "tier": 1,
+          "weight": 0.35
         }
       ],
       "source_count": 2,
-      "source_quality": "MEDIUM",
-      "source_quality_score": 4.0,
+      "source_quality": "LOW",
+      "source_quality_score": 0.3,
       "sources": [
-        "premium.bisnis.com",
-        "Bisnis Indonesia Premium"
+        "Bisnis Indonesia Premium",
+        "premium.bisnis.com"
       ],
       "status": "ACTIVE",
       "strength": "WEAK",
       "ticker": "BYAN",
-      "title": "Prospek Emiten Batu Bara di Tengah Rumor Akuisisi BYAN dan Divestasi Kideco oleh INDY - premium.bisnis.com"
+      "title": "Prospek Emiten Batu Bara di Tengah Rumor Akuisisi BYAN dan Divestasi Kideco oleh INDY - Bisnis Indonesia Premium"
     },
     "IPO|COMPANY|BSA LOGISTICS INDONESIA": {
       "category": "IPO",
