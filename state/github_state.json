@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 17,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 532,
-  "early_signal_last_scan_utc": "2026-09-04T04:00:53.103402+00:00",
+  "early_signal_last_scan_utc": "2026-09-04T04:10:47.006796+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -2.49,
@@ -5832,10 +5832,30 @@
       "ticker": "WIKA",
       "verified_at": "2026-08-22T16:13:05.950976+00:00",
       "website": "https://www.wika.co.id"
+    },
+    "WSKT": {
+      "business_activity": null,
+      "controller": null,
+      "industry": null,
+      "issuer_name": "Waskita Karya (Persero",
+      "owner_context_sources": 0,
+      "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
+      "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
+      "owner_v6_checked_utc": "2026-09-04T04:10:45.186788+00:00",
+      "owner_v6_pages_fetched": 0,
+      "profile_source": "Yahoo Finance",
+      "profile_source_quality": "FALLBACK",
+      "profile_source_url": null,
+      "sector": null,
+      "subindustry": null,
+      "subsector": null,
+      "ticker": "WSKT",
+      "verified_at": "2026-09-04T04:10:45.662766+00:00",
+      "website": null
     }
   },
   "last_keepalive_utc": "2026-08-28T10:20:50.907640+00:00",
-  "last_state_change_utc": "2026-09-04T04:00:53.123591+00:00",
+  "last_state_change_utc": "2026-09-04T04:10:47.032819+00:00",
   "market_noise_suppressed": 3,
   "milestone_alerts": {},
   "rumor_alerts_sent": 15,
@@ -5847,7 +5867,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 9,
   "rumor_integrity_repairs": 1076,
-  "rumor_last_scan_utc": "2026-09-04T04:00:53.096338+00:00",
+  "rumor_last_scan_utc": "2026-09-04T04:10:46.999120+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -7743,6 +7763,84 @@
       "strength": "CONFIRMED OFFICIAL",
       "ticker": "WIKA",
       "title": "PENGUMUMAN Restrukturisasi Obligasi dan Sukuk PT Wijaya Karya Tbk (WIKA) Tercatat di Papan: Pemantauan Khusus No.: Peng-P-00933/ - PT Bursa Efek Indonesia"
+    },
+    "SPIN-OFF / RESTRUCTURING|TICKER|WSKT": {
+      "category": "SPIN-OFF / RESTRUCTURING",
+      "company_name": "PT Waskita Kar",
+      "copy_duplicate_count": 0,
+      "credible_effective_independent_count": 1.1,
+      "derivative_source_count": 0,
+      "detected_source_count": 1,
+      "effective_independent_count": 1.1,
+      "entity_aliases": [
+        "Waskita Kar"
+      ],
+      "entity_resolution_source": null,
+      "first_seen_utc": "2026-09-04T02:54:22+00:00",
+      "high_quality_source_count": 1,
+      "independent_story_count": 1,
+      "issuer_profile": {
+        "business_activity": null,
+        "controller": null,
+        "industry": null,
+        "issuer_name": "Waskita Karya (Persero",
+        "owner_context_sources": 0,
+        "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
+        "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
+        "owner_v6_checked_utc": "2026-09-04T04:10:45.186788+00:00",
+        "owner_v6_pages_fetched": 0,
+        "profile_source": "Yahoo Finance",
+        "profile_source_quality": "FALLBACK",
+        "profile_source_url": null,
+        "sector": null,
+        "subindustry": null,
+        "subsector": null,
+        "ticker": "WSKT",
+        "verified_at": "2026-09-04T04:10:45.662766+00:00",
+        "website": null
+      },
+      "key": "SPIN-OFF / RESTRUCTURING|TICKER|WSKT",
+      "last_seen_utc": "2026-09-04T02:54:22+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZGFQaUdFWTVmVFgwNV9FRE9qNnoxa1BSdTdZcXZIMnl3MHZGcnZyR0V3cjFOVENSaUl1cnkxQTRuYzY3SkFVa2ZIRDU0Mk5nY2hMdVB6NEU5VzgtY192Q09veVAydVR2QVZQckZybm56VllWcDlWVHpCN1VJRWhqd3RZejVGMGVkbG55cm1kNzJUQi1hR3RNX3k2OE5HUFhwcFlQYzB1UG05aXNKXzNlZndYOA?oc=5",
+      "market_data": null,
+      "official_confirmation": null,
+      "premium_source_count": 1,
+      "profile_refresh_utc": "2026-09-04T04:10:46.993822+00:00",
+      "published": "Fri, 04 Sep 2026 02:54:22 GMT",
+      "rumor_details": {
+        "ipo_price": null,
+        "listing_estimate": null,
+        "money": [],
+        "percentages": [],
+        "price_range": null,
+        "rumored_party": null,
+        "share_count": null,
+        "underwriter": null
+      },
+      "semantic_copy_count": 0,
+      "source": "PT Bursa Efek Indonesia",
+      "source_breakdown": [
+        {
+          "derivative": false,
+          "group": "pt bursa efek indonesia",
+          "new_material": 0,
+          "quality": "OFFICIAL",
+          "semantic_copy": false,
+          "source": "PT Bursa Efek Indonesia",
+          "tier": 5,
+          "weight": 1.1
+        }
+      ],
+      "source_count": 1,
+      "source_quality": "MEDIUM",
+      "source_quality_score": 5.5,
+      "sources": [
+        "PT Bursa Efek Indonesia"
+      ],
+      "status": "CONFIRMED OFFICIAL",
+      "strength": "CONFIRMED OFFICIAL",
+      "ticker": "WSKT",
+      "title": "042/SP/SEKPER/WSKT/2026 RUPO Disetujui, Waskita Karya Rampungkan Restrukturisasi Utang Jakarta, 3 September 2026. PT Waskita Kar - PT Bursa Efek Indonesia"
     },
     "STRATEGIC INVESTOR|TICKER|PACK": {
       "category": "STRATEGIC INVESTOR",
