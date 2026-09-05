@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 17,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 532,
-  "early_signal_last_scan_utc": "2026-09-05T12:50:47.373259+00:00",
+  "early_signal_last_scan_utc": "2026-09-05T14:20:51.024237+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -2.49,
@@ -5294,7 +5294,7 @@
       "owner_context_sources": 0,
       "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
       "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-      "owner_v6_checked_utc": "2026-09-05T02:10:50.916489+00:00",
+      "owner_v6_checked_utc": "2026-09-05T14:20:45.674169+00:00",
       "owner_v6_pages_fetched": 0,
       "profile_source": "Yahoo Finance",
       "profile_source_quality": "FALLBACK",
@@ -5303,7 +5303,7 @@
       "subindustry": null,
       "subsector": null,
       "ticker": "BBHI",
-      "verified_at": "2026-09-05T02:10:51.885818+00:00",
+      "verified_at": "2026-09-05T14:20:46.466546+00:00",
       "website": "https://www.allobank.com"
     },
     "BIKE": {
@@ -5917,7 +5917,7 @@
     }
   },
   "last_keepalive_utc": "2026-08-28T10:20:50.907640+00:00",
-  "last_state_change_utc": "2026-09-05T12:51:23.897337+00:00",
+  "last_state_change_utc": "2026-09-05T14:20:51.047695+00:00",
   "market_noise_suppressed": 4,
   "milestone_alerts": {},
   "rumor_alerts_sent": 15,
@@ -5929,7 +5929,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 9,
   "rumor_integrity_repairs": 1076,
-  "rumor_last_scan_utc": "2026-09-05T12:50:47.364252+00:00",
+  "rumor_last_scan_utc": "2026-09-05T14:20:51.016089+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -6309,7 +6309,7 @@
         "owner_context_sources": 0,
         "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
         "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-        "owner_v6_checked_utc": "2026-09-05T02:10:50.916489+00:00",
+        "owner_v6_checked_utc": "2026-09-05T14:20:45.674169+00:00",
         "owner_v6_pages_fetched": 0,
         "profile_source": "Yahoo Finance",
         "profile_source_quality": "FALLBACK",
@@ -6318,7 +6318,7 @@
         "subindustry": null,
         "subsector": null,
         "ticker": "BBHI",
-        "verified_at": "2026-09-05T02:10:51.885818+00:00",
+        "verified_at": "2026-09-05T14:20:46.466546+00:00",
         "website": "https://www.allobank.com"
       },
       "key": "BUYBACK|TICKER|BBHI",
@@ -6327,7 +6327,7 @@
       "market_data": null,
       "official_confirmation": null,
       "premium_source_count": 1,
-      "profile_refresh_utc": "2026-09-05T02:10:56.243995+00:00",
+      "profile_refresh_utc": "2026-09-05T14:20:51.015116+00:00",
       "published": "Wed, 02 Sep 2026 10:58:59 GMT",
       "rumor_details": {
         "ipo_price": null,
