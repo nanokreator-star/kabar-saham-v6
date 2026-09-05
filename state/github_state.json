@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 17,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 532,
-  "early_signal_last_scan_utc": "2026-09-05T04:31:36.280544+00:00",
+  "early_signal_last_scan_utc": "2026-09-05T12:50:47.373259+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -2.49,
@@ -1218,17 +1218,17 @@
     "M&A / TAKEOVER|TICKER|CUAN": {
       "family": "M&A / TAKEOVER",
       "first_seen_utc": "2026-09-04T05:41:32.728757+00:00",
-      "last_alert_utc": "2026-09-04T21:01:15.994303+00:00",
-      "last_seen_utc": "2026-09-04T21:01:15.994303+00:00",
+      "last_alert_utc": "2026-09-05T12:51:23.895968+00:00",
+      "last_seen_utc": "2026-09-05T12:51:23.895968+00:00",
       "market_context": {
         "change_pct": 3.2967,
         "last_price": 940.0,
         "market_date": "2026-09-04"
       },
       "material_snapshot": {
-        "acquirer": "CUAN Negosiasi",
+        "acquirer": "Petrindo (CUAN) Negosiasi",
         "acquirer_confirmed": true,
-        "event_type": "AKUISISI",
+        "event_type": "TAKEOVER",
         "execution_price": null,
         "ipo_single_price": null,
         "money": [],
@@ -1247,13 +1247,12 @@
           27.78
         ],
         "standby_buyer": null,
-        "target": "Saham Mayoritas SINI",
+        "target": "Singaraja Putra (SINI",
         "target_confirmed": true,
         "tender_price": null,
         "underwriter": null,
         "use_of_funds": [
-          "AKUISISI / INVESTASI",
-          "EKSPANSI / CAPEX"
+          "PENGEMBANGAN USAHA"
         ]
       },
       "ticker": "CUAN"
@@ -5417,7 +5416,7 @@
       "owner_context_sources": 0,
       "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
       "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-      "owner_v6_checked_utc": "2026-09-04T21:01:15.260827+00:00",
+      "owner_v6_checked_utc": "2026-09-05T12:51:23.136256+00:00",
       "owner_v6_pages_fetched": 0,
       "profile_source": "Yahoo Finance",
       "profile_source_quality": "FALLBACK",
@@ -5918,7 +5917,7 @@
     }
   },
   "last_keepalive_utc": "2026-08-28T10:20:50.907640+00:00",
-  "last_state_change_utc": "2026-09-05T04:31:36.307260+00:00",
+  "last_state_change_utc": "2026-09-05T12:51:23.897337+00:00",
   "market_noise_suppressed": 4,
   "milestone_alerts": {},
   "rumor_alerts_sent": 15,
@@ -5930,7 +5929,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 9,
   "rumor_integrity_repairs": 1076,
-  "rumor_last_scan_utc": "2026-09-05T04:31:36.271439+00:00",
+  "rumor_last_scan_utc": "2026-09-05T12:50:47.364252+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -8181,6 +8180,7 @@
     "e33907a9fe904c50f06fe11b58b70b65be47742ec7f0a555fb1e52141661e12a": "2026-08-20T03:21:47.165417+00:00",
     "e43121d88f14cca7d84b58aa0e148b1506a557d0f3d159f7a08a27429f076efb": "2026-08-14T10:15:00.868800+00:00",
     "e454b21c7fd7f238db363cf91ec740e0cf0a757e7a4900279b78bc62a0b8ea9b": "2026-08-14T10:15:00.868800+00:00",
+    "e4acd0dfa3f01ba1d9a441951b127f4cbb733d431955ecb250ee5150b07a8296": "2026-09-05T12:51:23.895949+00:00",
     "e558e229daa7611bd54efaf57e7177bf991861def406546b59b3b6b0405cf6bd": "2026-08-21T13:01:30.058267+00:00",
     "e6ecb3d2002ace4b88aeb341a8fbe02419335242494b15dc4b7146461142cfdb": "2026-08-19T05:10:54.068710+00:00",
     "e7502f395f11a7bf2cf46c034d8900e07c1fe85929dcd6d12a3561ccafb06781": "2026-08-31T07:10:51.649401+00:00",
@@ -8190,6 +8190,7 @@
     "ea1d49ec1236faf345355f86b1cdbed9030eccbb0655cb8ba4064f4984722fbe": "2026-08-14T10:15:00.868800+00:00",
     "ea5b49df6429cc6c8767991395bc48756a1c9e8d933e341a8141ed16a7888fad": "2026-08-14T23:40:54.238301+00:00",
     "ead38d8001275dd0ffb5706c852bd632a4a09fbc9c7139e273478199e46af600": "2026-08-14T10:15:00.868800+00:00",
+    "eb3e884736741615c1adbe341beeb86e650e95135ab27ad9385269da6a23693d": "2026-09-05T12:51:23.895949+00:00",
     "eb67253a8680b8515b2e00a883890b74b1f59b4cac07eb4ebb63fe0f8f3bdf72": "2026-08-24T06:21:11.406424+00:00",
     "ebf9222f4fa81f5edccf19fa78a7822d62cbd89b327183d9253e3e780fab7da7": "2026-08-14T10:15:00.868800+00:00",
     "eeeb576b25a6317eb10cd22d2b5050abfc359a10722c68c62cec800026a13763": "2026-08-14T10:15:00.868800+00:00",
