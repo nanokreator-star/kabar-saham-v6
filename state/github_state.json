@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 17,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 532,
-  "early_signal_last_scan_utc": "2026-09-05T02:10:56.256215+00:00",
+  "early_signal_last_scan_utc": "2026-09-05T04:31:36.280544+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -2.49,
@@ -5904,7 +5904,7 @@
       "owner_context_sources": 0,
       "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
       "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-      "owner_v6_checked_utc": "2026-09-04T16:10:52.962731+00:00",
+      "owner_v6_checked_utc": "2026-09-05T04:31:33.267356+00:00",
       "owner_v6_pages_fetched": 0,
       "profile_source": "Yahoo Finance",
       "profile_source_quality": "FALLBACK",
@@ -5913,12 +5913,12 @@
       "subindustry": null,
       "subsector": null,
       "ticker": "WSKT",
-      "verified_at": "2026-09-04T16:10:53.930533+00:00",
+      "verified_at": "2026-09-05T04:31:34.343436+00:00",
       "website": null
     }
   },
   "last_keepalive_utc": "2026-08-28T10:20:50.907640+00:00",
-  "last_state_change_utc": "2026-09-05T02:10:56.280434+00:00",
+  "last_state_change_utc": "2026-09-05T04:31:36.307260+00:00",
   "market_noise_suppressed": 4,
   "milestone_alerts": {},
   "rumor_alerts_sent": 15,
@@ -5930,7 +5930,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 9,
   "rumor_integrity_repairs": 1076,
-  "rumor_last_scan_utc": "2026-09-05T02:10:56.248040+00:00",
+  "rumor_last_scan_utc": "2026-09-05T04:31:36.271439+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -7850,7 +7850,7 @@
         "owner_context_sources": 0,
         "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
         "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-        "owner_v6_checked_utc": "2026-09-04T16:10:52.962731+00:00",
+        "owner_v6_checked_utc": "2026-09-05T04:31:33.267356+00:00",
         "owner_v6_pages_fetched": 0,
         "profile_source": "Yahoo Finance",
         "profile_source_quality": "FALLBACK",
@@ -7859,7 +7859,7 @@
         "subindustry": null,
         "subsector": null,
         "ticker": "WSKT",
-        "verified_at": "2026-09-04T16:10:53.930533+00:00",
+        "verified_at": "2026-09-05T04:31:34.343436+00:00",
         "website": null
       },
       "key": "SPIN-OFF / RESTRUCTURING|TICKER|WSKT",
@@ -7868,7 +7868,7 @@
       "market_data": null,
       "official_confirmation": null,
       "premium_source_count": 1,
-      "profile_refresh_utc": "2026-09-04T16:10:55.574766+00:00",
+      "profile_refresh_utc": "2026-09-05T04:31:36.266455+00:00",
       "published": "Fri, 04 Sep 2026 02:54:22 GMT",
       "rumor_details": {
         "ipo_price": null,
