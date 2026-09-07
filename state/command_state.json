@@ -243,7 +243,7 @@
     }
   },
   "last_command_utc": "2026-08-20T16:52:31.242649+00:00",
-  "last_state_change_utc": "2026-09-03T01:56:16.569607+00:00",
+  "last_state_change_utc": "2026-09-07T12:02:13.770335+00:00",
   "lifecycle_history": {
     "AKSI|M&A / TAKEOVER": [
       {
@@ -469,10 +469,10 @@
       }
     ]
   },
-  "next_offset": 527719857,
+  "next_offset": 527719858,
   "recent_commands": {},
   "schema_version": 12,
-  "updates_seen": 146,
+  "updates_seen": 147,
   "verified_official": {
     "DOOH": {
       "entries": [
