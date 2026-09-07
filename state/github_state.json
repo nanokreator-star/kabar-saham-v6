@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 17,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 532,
-  "early_signal_last_scan_utc": "2026-09-07T05:00:57.507014+00:00",
+  "early_signal_last_scan_utc": "2026-09-07T05:20:45.056577+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -2.49,
@@ -349,6 +349,42 @@
       "first_seen_utc": "2026-09-07T05:01:00.193860+00:00",
       "last_alert_utc": "2026-09-07T05:01:00.193854+00:00",
       "last_seen_utc": "2026-09-07T05:01:00.193854+00:00",
+      "market_context": {
+        "change_pct": null,
+        "last_price": null,
+        "market_date": null
+      },
+      "material_snapshot": {
+        "acquirer": null,
+        "acquirer_confirmed": false,
+        "event_type": "IPO",
+        "execution_price": null,
+        "ipo_single_price": null,
+        "money": [],
+        "official_authority": null,
+        "official_kind": null,
+        "price_range": null,
+        "ratio": null,
+        "schedule": {},
+        "share_count": null,
+        "stage": "RENCANA / PROSPEKTUS",
+        "stage_step": 2,
+        "stage_total": 5,
+        "stake": [],
+        "standby_buyer": null,
+        "target": null,
+        "target_confirmed": false,
+        "tender_price": null,
+        "underwriter": null,
+        "use_of_funds": []
+      },
+      "ticker": ""
+    },
+    "IPO|TITLE|KESEHATAN DOMINASI CALON BURSA ADA CALON CNBCINDONESIA": {
+      "family": "IPO",
+      "first_seen_utc": "2026-09-07T05:20:47.269743+00:00",
+      "last_alert_utc": "2026-09-07T05:20:47.269739+00:00",
+      "last_seen_utc": "2026-09-07T05:20:47.269739+00:00",
       "market_context": {
         "change_pct": null,
         "last_price": null,
@@ -5939,7 +5975,7 @@
       "owner_context_sources": 0,
       "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
       "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-      "owner_v6_checked_utc": "2026-09-06T17:00:59.540169+00:00",
+      "owner_v6_checked_utc": "2026-09-07T05:20:41.701541+00:00",
       "owner_v6_pages_fetched": 0,
       "profile_source": "Yahoo Finance",
       "profile_source_quality": "FALLBACK",
@@ -5948,12 +5984,12 @@
       "subindustry": null,
       "subsector": null,
       "ticker": "WSKT",
-      "verified_at": "2026-09-06T17:01:00.463350+00:00",
+      "verified_at": "2026-09-07T05:20:43.171567+00:00",
       "website": null
     }
   },
   "last_keepalive_utc": "2026-08-28T10:20:50.907640+00:00",
-  "last_state_change_utc": "2026-09-07T05:01:00.195283+00:00",
+  "last_state_change_utc": "2026-09-07T05:20:47.270786+00:00",
   "market_noise_suppressed": 4,
   "milestone_alerts": {},
   "rumor_alerts_sent": 15,
@@ -5965,7 +6001,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 11,
   "rumor_integrity_repairs": 1076,
-  "rumor_last_scan_utc": "2026-09-07T05:00:57.498035+00:00",
+  "rumor_last_scan_utc": "2026-09-07T05:20:45.050499+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -7886,7 +7922,7 @@
         "owner_context_sources": 0,
         "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
         "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-        "owner_v6_checked_utc": "2026-09-06T17:00:59.540169+00:00",
+        "owner_v6_checked_utc": "2026-09-07T05:20:41.701541+00:00",
         "owner_v6_pages_fetched": 0,
         "profile_source": "Yahoo Finance",
         "profile_source_quality": "FALLBACK",
@@ -7895,7 +7931,7 @@
         "subindustry": null,
         "subsector": null,
         "ticker": "WSKT",
-        "verified_at": "2026-09-06T17:01:00.463350+00:00",
+        "verified_at": "2026-09-07T05:20:43.171567+00:00",
         "website": null
       },
       "key": "SPIN-OFF / RESTRUCTURING|TICKER|WSKT",
@@ -7904,7 +7940,7 @@
       "market_data": null,
       "official_confirmation": null,
       "premium_source_count": 1,
-      "profile_refresh_utc": "2026-09-06T17:01:01.910230+00:00",
+      "profile_refresh_utc": "2026-09-07T05:20:45.049719+00:00",
       "published": "Fri, 04 Sep 2026 02:54:22 GMT",
       "rumor_details": {
         "ipo_price": null,
@@ -8142,6 +8178,7 @@
     "7c1e561d904bf0f2662c4b2cc158dc9a2d87ea7ff8849127870d75b24eece209": "2026-08-14T10:15:00.868800+00:00",
     "7c86272927e6a9f3a31626bb4bd0f5de9946e02029e8958d258193e7fb8ba3e7": "2026-08-14T10:15:00.868800+00:00",
     "7c9caf4f3b18455a826e93f3c65547357574575fc3c87faeaed414b561e482a3": "2026-08-14T10:15:00.868800+00:00",
+    "7df87c4aa27eae4980c08f2a6fd81624b3e5752a762637585f0752e2c8e809a7": "2026-09-07T05:20:47.269722+00:00",
     "7e65651c2e4c9e0ac7012bb00c5f2cf68d72dd43a7e004f5df92db9aad7107d2": "2026-08-14T10:15:00.868800+00:00",
     "80b92a8bd86c4beee1ff71d626bdb2d08e0ddb9c12fe353ff887361f9de06971": "2026-09-02T09:40:52.722208+00:00",
     "81811644b800d39836b917bda6c75d1d71ce1caf280821960e41cc853ca02fb3": "2026-08-14T10:15:00.868800+00:00",
