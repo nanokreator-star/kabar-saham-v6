@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 17,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 532,
-  "early_signal_last_scan_utc": "2026-09-06T23:40:46.189542+00:00",
+  "early_signal_last_scan_utc": "2026-09-07T03:00:58.496732+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -2.49,
@@ -5917,7 +5917,7 @@
     }
   },
   "last_keepalive_utc": "2026-08-28T10:20:50.907640+00:00",
-  "last_state_change_utc": "2026-09-06T23:40:46.216573+00:00",
+  "last_state_change_utc": "2026-09-07T03:00:58.521820+00:00",
   "market_noise_suppressed": 4,
   "milestone_alerts": {},
   "rumor_alerts_sent": 15,
@@ -5927,9 +5927,9 @@
   "rumor_denied_count": 0,
   "rumor_duplicates_suppressed": 372,
   "rumor_entity_rekeys": 1,
-  "rumor_expired_count": 10,
+  "rumor_expired_count": 11,
   "rumor_integrity_repairs": 1076,
-  "rumor_last_scan_utc": "2026-09-06T23:40:46.181461+00:00",
+  "rumor_last_scan_utc": "2026-09-07T03:00:58.488775+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -6617,6 +6617,7 @@
       "key": "DELISTING / RELISTING|TITLE|59 BEI MASUK DAFTAR DELISTING ADA YANG",
       "last_alert_utc": "2026-08-31T03:10:58.841369+00:00",
       "last_seen_utc": "2026-08-31T03:00:43+00:00",
+      "last_state_change_utc": "2026-09-07T03:00:58.488748+00:00",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRko1MzNmRW9GWEtPZGhBT0Y1QUlOMkMxWWxOb2NLbG5JRUJ6YUtrWVpVWVgtSF9aY1ZLQllGZnpGUnlSbHo4N3lmbTg2RFprTDZaUElNT1VNRW5ZaHlvbndkWXZVS3Fxb1BKeDl6VndHZUk3TFA1NFU2SE15WVFsM0Z1c0VIQi1IWjM2TnFrbkt5UHJTNDZ1Uw?oc=5",
       "market_data": null,
       "official_confirmation": null,
@@ -6653,7 +6654,7 @@
       "sources": [
         "holopis.com"
       ],
-      "status": "ACTIVE",
+      "status": "EXPIRED",
       "strength": "WEAK",
       "ticker": null,
       "title": "59 Emiten BEI Masuk Daftar Delisting, Ada yang Disuspensi hingga 87 Bulan - holopis.com"
