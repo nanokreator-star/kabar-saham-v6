@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 17,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 532,
-  "early_signal_last_scan_utc": "2026-09-07T03:00:58.496732+00:00",
+  "early_signal_last_scan_utc": "2026-09-07T05:00:57.507014+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -2.49,
@@ -325,6 +325,42 @@
         "money": [
           "Rp250 miliar"
         ],
+        "official_authority": null,
+        "official_kind": null,
+        "price_range": null,
+        "ratio": null,
+        "schedule": {},
+        "share_count": null,
+        "stage": "RENCANA / PROSPEKTUS",
+        "stage_step": 2,
+        "stage_total": 5,
+        "stake": [],
+        "standby_buyer": null,
+        "target": null,
+        "target_confirmed": false,
+        "tender_price": null,
+        "underwriter": null,
+        "use_of_funds": []
+      },
+      "ticker": ""
+    },
+    "IPO|TITLE|KESEHATAN DOMINASI CALON BURSA ADA CALON CNBC": {
+      "family": "IPO",
+      "first_seen_utc": "2026-09-07T05:01:00.193860+00:00",
+      "last_alert_utc": "2026-09-07T05:01:00.193854+00:00",
+      "last_seen_utc": "2026-09-07T05:01:00.193854+00:00",
+      "market_context": {
+        "change_pct": null,
+        "last_price": null,
+        "market_date": null
+      },
+      "material_snapshot": {
+        "acquirer": null,
+        "acquirer_confirmed": false,
+        "event_type": "IPO",
+        "execution_price": null,
+        "ipo_single_price": null,
+        "money": [],
         "official_authority": null,
         "official_kind": null,
         "price_range": null,
@@ -5917,7 +5953,7 @@
     }
   },
   "last_keepalive_utc": "2026-08-28T10:20:50.907640+00:00",
-  "last_state_change_utc": "2026-09-07T03:00:58.521820+00:00",
+  "last_state_change_utc": "2026-09-07T05:01:00.195283+00:00",
   "market_noise_suppressed": 4,
   "milestone_alerts": {},
   "rumor_alerts_sent": 15,
@@ -5929,7 +5965,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 11,
   "rumor_integrity_repairs": 1076,
-  "rumor_last_scan_utc": "2026-09-07T03:00:58.488775+00:00",
+  "rumor_last_scan_utc": "2026-09-07T05:00:57.498035+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -7998,6 +8034,7 @@
     "06f426459cc9ad3bf6d657e73233ff1fb2944b44bdc17e574b7a1ef4d177e1bd": "2026-08-14T10:15:00.868800+00:00",
     "07ba4b56ef997cf11763aed6485075e34d3cfa958c3ee604e19d1af47ca81cc3": "2026-08-14T10:15:00.868800+00:00",
     "0a772ba1819d9396bd48bfe236b90608e75b5c7276adf2ddc3b4c093f2a65063": "2026-08-14T10:15:00.868800+00:00",
+    "0b66cabc49649ae7a9fa512eb90cf15c654bf40ce47585c71e2d5a51a37d1c07": "2026-09-07T05:01:00.193835+00:00",
     "0bc383e38ef89792db4ac5da55a293d15cba4c87a2ea9d68ed10d510cccdd477": "2026-08-20T03:21:47.165417+00:00",
     "0bd81597f759c20cc8c802928a344b88c585b60223a6a234f8b0f6a0f397b4c0": "2026-08-20T03:21:47.165417+00:00",
     "0c76e071ca99093ad0eecc4d7e895e13a9f4c888c7cedae80ec7ad61ff0de3e0": "2026-09-04T05:41:32.728730+00:00",
