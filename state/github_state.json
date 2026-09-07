@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 17,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 532,
-  "early_signal_last_scan_utc": "2026-09-07T10:30:50.999980+00:00",
+  "early_signal_last_scan_utc": "2026-09-07T11:10:47.722856+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -2.49,
@@ -827,6 +827,45 @@
         ]
       },
       "ticker": ""
+    },
+    "M&A / TAKEOVER|PARTIES|JEJAK EKSPANSI BUMI DI TAMBANG EMAS|LOYAL METALS": {
+      "family": "M&A / TAKEOVER",
+      "first_seen_utc": "2026-09-07T11:10:59.517755+00:00",
+      "last_alert_utc": "2026-09-07T11:10:59.517749+00:00",
+      "last_seen_utc": "2026-09-07T11:10:59.517749+00:00",
+      "market_context": {
+        "change_pct": 1.4028,
+        "last_price": 25300.0,
+        "market_date": "2026-09-07"
+      },
+      "material_snapshot": {
+        "acquirer": "Jejak Ekspansi BUMI di Tambang Emas",
+        "acquirer_confirmed": true,
+        "event_type": "AKUISISI",
+        "execution_price": null,
+        "ipo_single_price": null,
+        "money": [],
+        "official_authority": null,
+        "official_kind": null,
+        "price_range": null,
+        "ratio": null,
+        "schedule": {},
+        "share_count": null,
+        "stage": "SPA / SIGNED",
+        "stage_step": 4,
+        "stage_total": 7,
+        "stake": [],
+        "standby_buyer": null,
+        "target": "Loyal Metals",
+        "target_confirmed": true,
+        "tender_price": null,
+        "underwriter": null,
+        "use_of_funds": [
+          "AKUISISI / INVESTASI",
+          "EKSPANSI / CAPEX"
+        ]
+      },
+      "ticker": "UNTR"
     },
     "M&A / TAKEOVER|PARTIES|PENGAMAT|SAHAM WIKA DI PSBI MESTI TRANSPARAN": {
       "family": "M&A / TAKEOVER",
@@ -5982,6 +6021,26 @@
       "verified_at": "2026-08-28T00:41:02.233455+00:00",
       "website": null
     },
+    "UNTR": {
+      "business_activity": "PT United Tractors Tbk, together with its subsidiaries, provides coal mining services in Indonesia. The company operates in five segments: Construction Machinery, Mining Contracting, Thermal and Metallurgical Coal Mining, Gold and Other Min",
+      "controller": null,
+      "industry": "Other Industrial Metals & Mining",
+      "issuer_name": "United Tractors",
+      "owner_context_sources": 0,
+      "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
+      "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
+      "owner_v6_checked_utc": "2026-09-07T11:10:58.743227+00:00",
+      "owner_v6_pages_fetched": 0,
+      "profile_source": "Yahoo Finance",
+      "profile_source_quality": "FALLBACK",
+      "profile_source_url": null,
+      "sector": "Basic Materials",
+      "subindustry": null,
+      "subsector": null,
+      "ticker": "UNTR",
+      "verified_at": "2026-09-07T11:10:54.074500+00:00",
+      "website": "https://www.unitedtractors.com"
+    },
     "WIKA": {
       "business_activity": "PT Wijaya Karya (Persero) Tbk operates as an integrated construction company in Indonesia and internationally. It operates through Infrastructure and Building, Energy and Industrial Plant, Industry, Hotel, Realty and Property, and Investmen",
       "controller": null,
@@ -6025,7 +6084,7 @@
     }
   },
   "last_keepalive_utc": "2026-08-28T10:20:50.907640+00:00",
-  "last_state_change_utc": "2026-09-07T10:30:52.504643+00:00",
+  "last_state_change_utc": "2026-09-07T11:10:59.519117+00:00",
   "market_noise_suppressed": 4,
   "milestone_alerts": {},
   "rumor_alerts_sent": 15,
@@ -6037,7 +6096,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 12,
   "rumor_integrity_repairs": 1076,
-  "rumor_last_scan_utc": "2026-09-07T10:30:50.993589+00:00",
+  "rumor_last_scan_utc": "2026-09-07T11:10:47.713905+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -8247,6 +8306,7 @@
     "a0aaef4681fe1e5ff35b0dbd9da81ab1af3c65b7445c2a93b8b4b08878619e16": "2026-08-14T10:15:00.868800+00:00",
     "a2ca1e0da9ffb3edfc2af75bfbbc98cc266e3253042b9de9cced630247084add": "2026-08-14T10:15:00.868800+00:00",
     "a3864ebea6aaac013de22cc1b986f34e671379ce0e1be0fc53773f378a0ff38b": "2026-08-17T12:10:53.623227+00:00",
+    "a610c7c5b697ee7f7548e70e3eb1ba6d2b4d6e8d6aba9c70f5a36ca3c2998a7d": "2026-09-07T11:10:59.517731+00:00",
     "a756f94948679cb9e44f144a87f88e2767b95f261c152c0dc6161ad83b48ed7e": "2026-08-29T13:01:39.906036+00:00",
     "a8df3fb5694bb11a35aae0d37ce1d4cc579d01bbd23f3828015da08ed729b3b5": "2026-09-02T09:31:01.471268+00:00",
     "a94b0bbc1979e298a743888ce52f49dfb8d1ae6ebfe55bddeaf6c45a0380f32f": "2026-08-14T10:15:00.868800+00:00",
