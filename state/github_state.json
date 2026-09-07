@@ -2,8 +2,8 @@
   "baseline_initialized": true,
   "early_signal_alerts_sent": 17,
   "early_signal_baseline_initialized": true,
-  "early_signal_duplicates_suppressed": 533,
-  "early_signal_last_scan_utc": "2026-09-07T14:56:30.788762+00:00",
+  "early_signal_duplicates_suppressed": 534,
+  "early_signal_last_scan_utc": "2026-09-07T15:00:55.854025+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -2.49,
@@ -43,7 +43,7 @@
       "combined": true,
       "direction": "DOWN",
       "last_alert_utc": null,
-      "last_seen_utc": "2026-09-07T14:56:30.788743+00:00",
+      "last_seen_utc": "2026-09-07T15:00:55.854015+00:00",
       "level": "MEDIUM",
       "market_date": "2026-09-07",
       "signature": "TBIG|2026-09-07|MEDIUM|DOWN|RUMOR|MERGER|TICKER|TBIG",
@@ -842,11 +842,11 @@
     "M&A / TAKEOVER|PARTIES|JEJAK EKSPANSI BUMI DI TAMBANG EMAS|LOYAL METALS": {
       "family": "M&A / TAKEOVER",
       "first_seen_utc": "2026-09-07T11:10:59.517755+00:00",
-      "last_alert_utc": "2026-09-07T11:10:59.517749+00:00",
-      "last_seen_utc": "2026-09-07T11:10:59.517749+00:00",
+      "last_alert_utc": "2026-09-07T15:01:20.529182+00:00",
+      "last_seen_utc": "2026-09-07T15:01:20.529182+00:00",
       "market_context": {
-        "change_pct": 1.4028,
-        "last_price": 25300.0,
+        "change_pct": 1.9149,
+        "last_price": 4790.0,
         "market_date": "2026-09-07"
       },
       "material_snapshot": {
@@ -855,7 +855,12 @@
         "event_type": "AKUISISI",
         "execution_price": null,
         "ipo_single_price": null,
-        "money": [],
+        "money": [
+          "Rp1,73 triliun",
+          "Rp1,6 triliun",
+          "Rp6,9 triliun",
+          "Rp70,36 triliun"
+        ],
         "official_authority": null,
         "official_kind": null,
         "price_range": null,
@@ -876,7 +881,7 @@
           "EKSPANSI / CAPEX"
         ]
       },
-      "ticker": "UNTR"
+      "ticker": "ARKO"
     },
     "M&A / TAKEOVER|PARTIES|PENGAMAT|SAHAM WIKA DI PSBI MESTI TRANSPARAN": {
       "family": "M&A / TAKEOVER",
@@ -5404,6 +5409,26 @@
       "verified_at": "2026-08-27T16:25:27.408522+00:00",
       "website": null
     },
+    "ARKO": {
+      "business_activity": "PT Arkora Hydro Tbk, together with its subsidiaries, operates as a hydropower company in Indonesia. The company engages in the construction and operation of hydropower plants.",
+      "controller": null,
+      "industry": "Utilities - Renewable",
+      "issuer_name": "Arkora Hydro",
+      "owner_context_sources": 0,
+      "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
+      "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
+      "owner_v6_checked_utc": "2026-09-07T15:01:19.945520+00:00",
+      "owner_v6_pages_fetched": 0,
+      "profile_source": "Yahoo Finance",
+      "profile_source_quality": "FALLBACK",
+      "profile_source_url": null,
+      "sector": "Utilities",
+      "subindustry": null,
+      "subsector": null,
+      "ticker": "ARKO",
+      "verified_at": "2026-09-07T15:01:17.610896+00:00",
+      "website": "https://www.arkora-hydro.com"
+    },
     "ASII": {
       "business_activity": "PT Astra International Tbk, together with its subsidiaries, operates in the automotive, financial services, heavy equipment, mining, construction, energy, agri, infrastructure and logistics, information technology, and property businesses i",
       "controller": null,
@@ -6135,7 +6160,7 @@
     }
   },
   "last_keepalive_utc": "2026-08-28T10:20:50.907640+00:00",
-  "last_state_change_utc": "2026-09-07T14:56:30.811169+00:00",
+  "last_state_change_utc": "2026-09-07T15:01:20.530609+00:00",
   "market_noise_suppressed": 4,
   "milestone_alerts": {},
   "rumor_alerts_sent": 17,
@@ -6147,7 +6172,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 12,
   "rumor_integrity_repairs": 1076,
-  "rumor_last_scan_utc": "2026-09-07T14:56:30.113919+00:00",
+  "rumor_last_scan_utc": "2026-09-07T15:00:54.791083+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -8538,6 +8563,7 @@
     "acb72e87943af90a14485f30f1044d5d2acde6387f81233cdba01c039de9385d": "2026-08-14T10:15:00.868800+00:00",
     "ad291d62b611b627e4a4f50088661fa7d01d706dc07f044f6239bbf0ad8457e0": "2026-08-25T01:41:06.993837+00:00",
     "ae25fd4a781a37f79ee93c65a06f6d056336164211ea3e9029f28a1a9e0d4baa": "2026-08-28T23:40:56.125604+00:00",
+    "afa0ad578b19ff37936ed2d63429fdaa8850862afdbb1943b687943c054eb641": "2026-09-07T15:01:20.529162+00:00",
     "afb2a4f2f71e71bc46e76736b72e57eb28b084a7f27574f22995bd97f8473ca4": "2026-08-24T08:01:17.664942+00:00",
     "b7bd20f30f796bf190b07fa5f4ebe9ffd23fd9fef600842cc82874aa15d28fab": "2026-08-19T05:22:31.609048+00:00",
     "b7e2dd72313f82062863e8a488cb6ab2caa15d261ef46487e0f04598f08bf542": "2026-08-14T10:15:00.868800+00:00",
