@@ -2,8 +2,8 @@
   "baseline_initialized": true,
   "early_signal_alerts_sent": 18,
   "early_signal_baseline_initialized": true,
-  "early_signal_duplicates_suppressed": 550,
-  "early_signal_last_scan_utc": "2026-09-07T17:50:51.879315+00:00",
+  "early_signal_duplicates_suppressed": 551,
+  "early_signal_last_scan_utc": "2026-09-07T18:00:53.571708+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -2.49,
@@ -43,7 +43,7 @@
       "combined": true,
       "direction": "UP",
       "last_alert_utc": "2026-09-07T17:00:56.591891+00:00",
-      "last_seen_utc": "2026-09-07T17:50:51.879303+00:00",
+      "last_seen_utc": "2026-09-07T18:00:53.571697+00:00",
       "level": "MEDIUM",
       "market_date": "2026-09-04",
       "signature": "TBIG|2026-09-04|MEDIUM|UP|RUMOR|MERGER|TICKER|TBIG",
@@ -6218,7 +6218,7 @@
     }
   },
   "last_keepalive_utc": "2026-08-28T10:20:50.907640+00:00",
-  "last_state_change_utc": "2026-09-07T17:50:51.905081+00:00",
+  "last_state_change_utc": "2026-09-07T18:00:53.598567+00:00",
   "market_noise_suppressed": 4,
   "milestone_alerts": {},
   "rumor_alerts_sent": 17,
@@ -6230,7 +6230,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 12,
   "rumor_integrity_repairs": 1076,
-  "rumor_last_scan_utc": "2026-09-07T17:50:50.995227+00:00",
+  "rumor_last_scan_utc": "2026-09-07T18:00:52.676794+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
