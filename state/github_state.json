@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 17,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 532,
-  "early_signal_last_scan_utc": "2026-09-07T09:00:55.575177+00:00",
+  "early_signal_last_scan_utc": "2026-09-07T09:20:49.717383+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -2.49,
@@ -6025,7 +6025,7 @@
     }
   },
   "last_keepalive_utc": "2026-08-28T10:20:50.907640+00:00",
-  "last_state_change_utc": "2026-09-07T09:00:57.297782+00:00",
+  "last_state_change_utc": "2026-09-07T09:20:49.743692+00:00",
   "market_noise_suppressed": 4,
   "milestone_alerts": {},
   "rumor_alerts_sent": 15,
@@ -6035,9 +6035,9 @@
   "rumor_denied_count": 0,
   "rumor_duplicates_suppressed": 372,
   "rumor_entity_rekeys": 1,
-  "rumor_expired_count": 11,
+  "rumor_expired_count": 12,
   "rumor_integrity_repairs": 1076,
-  "rumor_last_scan_utc": "2026-09-07T09:00:55.567196+00:00",
+  "rumor_last_scan_utc": "2026-09-07T09:20:49.709248+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -7005,6 +7005,7 @@
       "issuer_profile": null,
       "key": "IPO|COMPANY|DAFTAR PERUSAHAAN",
       "last_seen_utc": "2026-08-31T09:11:00+00:00",
+      "last_state_change_utc": "2026-09-07T09:20:49.709220+00:00",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVmpfX1hzNTBQNmxaXzE0ZG5oYzl2bktfWDlraWI2SWxsVlZ0bEg4bUJvQTNFTXlEYlJwYWlEQVN4VnBxMFkycVVXbzdNQXl3TFNDZXFJYTRmZTZjVW5SWW41cDNta0R0c3l4YjhBLTRmdmNVQVVBY0ppS21NMjVmbHRWY01OYUhzc081ZThlUFdocjVrQVNMa1NBNlNtWDBQU2ZIdw?oc=5",
       "market_data": null,
       "official_confirmation": null,
@@ -7041,7 +7042,7 @@
       "sources": [
         "FORTUNE Indonesia"
       ],
-      "status": "ACTIVE",
+      "status": "EXPIRED",
       "strength": "WEAK",
       "ticker": null,
       "title": "Daftar Perusahaan Akan IPO per 28 Agustus 2026 - FORTUNE Indonesia"
