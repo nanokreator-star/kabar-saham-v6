@@ -2,8 +2,8 @@
   "baseline_initialized": true,
   "early_signal_alerts_sent": 19,
   "early_signal_baseline_initialized": true,
-  "early_signal_duplicates_suppressed": 584,
-  "early_signal_last_scan_utc": "2026-09-07T23:40:46.121132+00:00",
+  "early_signal_duplicates_suppressed": 585,
+  "early_signal_last_scan_utc": "2026-09-07T23:51:25.895939+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -2.49,
@@ -43,7 +43,7 @@
       "combined": true,
       "direction": "DOWN",
       "last_alert_utc": "2026-09-07T18:30:53.437740+00:00",
-      "last_seen_utc": "2026-09-07T23:40:46.121118+00:00",
+      "last_seen_utc": "2026-09-07T23:51:25.895930+00:00",
       "level": "MEDIUM",
       "market_date": "2026-09-07",
       "signature": "TBIG|2026-09-07|MEDIUM|DOWN|RUMOR|MERGER|TICKER|TBIG",
@@ -5983,7 +5983,7 @@
       "owner_context_sources": 0,
       "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
       "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-      "owner_v6_checked_utc": "2026-09-07T11:40:48.585594+00:00",
+      "owner_v6_checked_utc": "2026-09-07T23:50:53.404684+00:00",
       "owner_v6_pages_fetched": 0,
       "profile_source": "Yahoo Finance",
       "profile_source_quality": "FALLBACK",
@@ -5992,7 +5992,7 @@
       "subindustry": null,
       "subsector": null,
       "ticker": "PDSI",
-      "verified_at": "2026-09-07T11:41:13.426241+00:00",
+      "verified_at": "2026-09-07T23:50:54.162994+00:00",
       "website": null
     },
     "PGUN": {
@@ -6093,6 +6093,26 @@
       "subsector": null,
       "ticker": "SEPI",
       "verified_at": "2026-08-26T07:21:12.592759+00:00",
+      "website": null
+    },
+    "SOAL": {
+      "business_activity": null,
+      "controller": null,
+      "industry": null,
+      "issuer_name": null,
+      "owner_context_sources": 0,
+      "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
+      "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
+      "owner_v6_checked_utc": "2026-09-07T23:51:24.993740+00:00",
+      "owner_v6_pages_fetched": 0,
+      "profile_source": "Yahoo Finance",
+      "profile_source_quality": "FALLBACK",
+      "profile_source_url": null,
+      "sector": null,
+      "subindustry": null,
+      "subsector": null,
+      "ticker": "SOAL",
+      "verified_at": "2026-09-07T23:51:24.979687+00:00",
       "website": null
     },
     "SUPR": {
@@ -6218,7 +6238,7 @@
     }
   },
   "last_keepalive_utc": "2026-08-28T10:20:50.907640+00:00",
-  "last_state_change_utc": "2026-09-07T23:40:46.148425+00:00",
+  "last_state_change_utc": "2026-09-07T23:51:25.915154+00:00",
   "market_noise_suppressed": 4,
   "milestone_alerts": {},
   "rumor_alerts_sent": 17,
@@ -6230,7 +6250,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 13,
   "rumor_integrity_repairs": 1076,
-  "rumor_last_scan_utc": "2026-09-07T23:40:45.226225+00:00",
+  "rumor_last_scan_utc": "2026-09-07T23:51:25.297230+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -7996,7 +8016,7 @@
         "owner_context_sources": 0,
         "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
         "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-        "owner_v6_checked_utc": "2026-09-07T11:40:48.585594+00:00",
+        "owner_v6_checked_utc": "2026-09-07T23:50:53.404684+00:00",
         "owner_v6_pages_fetched": 0,
         "profile_source": "Yahoo Finance",
         "profile_source_quality": "FALLBACK",
@@ -8005,7 +8025,7 @@
         "subindustry": null,
         "subsector": null,
         "ticker": "PDSI",
-        "verified_at": "2026-09-07T11:41:13.426241+00:00",
+        "verified_at": "2026-09-07T23:50:54.162994+00:00",
         "website": null
       },
       "key": "MERGER|TICKER|PDSI",
@@ -8015,7 +8035,7 @@
       "market_data": null,
       "official_confirmation": null,
       "premium_source_count": 0,
-      "profile_refresh_utc": "2026-09-07T11:41:07.512301+00:00",
+      "profile_refresh_utc": "2026-09-07T23:51:25.296529+00:00",
       "published": "Mon, 07 Sep 2026 10:55:00 GMT",
       "rumor_details": {
         "ipo_price": null,
