@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 17,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 532,
-  "early_signal_last_scan_utc": "2026-09-07T09:20:49.717383+00:00",
+  "early_signal_last_scan_utc": "2026-09-07T10:30:50.999980+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -2.49,
@@ -39,7 +39,7 @@
       "volume_ratio": 10.98
     }
   },
-  "event_duplicates_suppressed": 25,
+  "event_duplicates_suppressed": 26,
   "event_memory": {
     "IPO|TICKER|SWAP": {
       "family": "IPO",
@@ -602,7 +602,7 @@
       "family": "IPO",
       "first_seen_utc": "2026-09-07T05:41:22.094998+00:00",
       "last_alert_utc": "2026-09-07T05:41:22.094993+00:00",
-      "last_seen_utc": "2026-09-07T09:00:57.296421+00:00",
+      "last_seen_utc": "2026-09-07T10:30:52.503621+00:00",
       "market_context": {
         "change_pct": null,
         "last_price": null,
@@ -6025,7 +6025,7 @@
     }
   },
   "last_keepalive_utc": "2026-08-28T10:20:50.907640+00:00",
-  "last_state_change_utc": "2026-09-07T09:20:49.743692+00:00",
+  "last_state_change_utc": "2026-09-07T10:30:52.504643+00:00",
   "market_noise_suppressed": 4,
   "milestone_alerts": {},
   "rumor_alerts_sent": 15,
@@ -6037,7 +6037,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 12,
   "rumor_integrity_repairs": 1076,
-  "rumor_last_scan_utc": "2026-09-07T09:20:49.709248+00:00",
+  "rumor_last_scan_utc": "2026-09-07T10:30:50.993589+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -8269,6 +8269,7 @@
     "bbe884fbc449fb10cb942b000c191836b7bec3feaead9d86e3532289a87bfdbe": "2026-08-14T10:15:00.868800+00:00",
     "bcaf8aeff9fc756fd5abefaad9112e31066f5be443285a41d6bde543232d7c2b": "2026-08-14T10:15:00.868800+00:00",
     "bd9e42183a955c0cf3c97da106e239a125aac5629b37096f70a70aceacb18d61": "2026-08-23T17:50:45.664101+00:00",
+    "bf11a8f55c452c95a1e09788c923c25b3aa9d8f47f4e233ec51322d88119a53e": "2026-09-07T10:30:52.503607+00:00",
     "c07e3c51a5c10cda6156604e413ed536b871e8cb7c98e47ece24dc30d43c980d": "2026-08-14T10:15:00.868800+00:00",
     "c0a95ceac0ba5637070bc954dcb30af054e44188df3c6a2de69b1cff09baf43c": "2026-08-14T10:15:00.868800+00:00",
     "c14b175dec3700ded77111f61fce168509b81587c704f456a1be950be00c6993": "2026-08-14T10:15:00.868800+00:00",
