@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 20,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 598,
-  "early_signal_last_scan_utc": "2026-09-09T03:40:44.668444+00:00",
+  "early_signal_last_scan_utc": "2026-09-09T04:10:53.904042+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -2.49,
@@ -50,7 +50,7 @@
       "volume_ratio": 0.03
     }
   },
-  "event_duplicates_suppressed": 27,
+  "event_duplicates_suppressed": 28,
   "event_memory": {
     "IPO|TICKER|SWAP": {
       "family": "IPO",
@@ -1657,10 +1657,10 @@
       "family": "M&A / TAKEOVER",
       "first_seen_utc": "2026-09-09T02:53:14.984856+00:00",
       "last_alert_utc": "2026-09-09T02:53:14.984849+00:00",
-      "last_seen_utc": "2026-09-09T02:53:14.984849+00:00",
+      "last_seen_utc": "2026-09-09T04:11:04.533524+00:00",
       "market_context": {
-        "change_pct": 1.4035,
-        "last_price": 2890.0,
+        "change_pct": 1.0526,
+        "last_price": 2880.0,
         "market_date": "2026-09-09"
       },
       "material_snapshot": {
@@ -6340,19 +6340,19 @@
     }
   },
   "last_keepalive_utc": "2026-08-28T10:20:50.907640+00:00",
-  "last_state_change_utc": "2026-09-09T03:40:44.692268+00:00",
-  "market_noise_suppressed": 4,
+  "last_state_change_utc": "2026-09-09T04:11:04.535054+00:00",
+  "market_noise_suppressed": 5,
   "milestone_alerts": {},
   "rumor_alerts_sent": 17,
   "rumor_baseline_initialized": true,
   "rumor_confirmed_count": 0,
   "rumor_confirmed_dedups": 0,
   "rumor_denied_count": 0,
-  "rumor_duplicates_suppressed": 392,
+  "rumor_duplicates_suppressed": 393,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 14,
   "rumor_integrity_repairs": 1076,
-  "rumor_last_scan_utc": "2026-09-09T03:40:44.659524+00:00",
+  "rumor_last_scan_utc": "2026-09-09T04:10:53.893444+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -8151,7 +8151,7 @@
         "underwriter": null
       },
       "semantic_copy_count": 0,
-      "source": "Emitennews.com",
+      "source": "emitennews.com",
       "source_breakdown": [
         {
           "derivative": false,
@@ -8159,7 +8159,7 @@
           "new_material": 0,
           "quality": "MEDIUM",
           "semantic_copy": false,
-          "source": "Emitennews.com",
+          "source": "emitennews.com",
           "tier": 3,
           "weight": 0.8
         }
@@ -8168,12 +8168,12 @@
       "source_quality": "LOW",
       "source_quality_score": 2.0,
       "sources": [
-        "Emitennews.com"
+        "emitennews.com"
       ],
       "status": "ACTIVE",
       "strength": "WEAK",
       "ticker": "PDSI",
-      "title": "Titah Danantara, Elnusa Buka Suara Soal Wacana Merger dengan PDSI - Emitennews.com"
+      "title": "Titah Danantara, Elnusa Buka Suara Soal Wacana Merger dengan PDSI - emitennews.com"
     },
     "MERGER|TICKER|TBIG": {
       "category": "MERGER",
@@ -8672,6 +8672,7 @@
     "588ad493797c372d05a9b74a128bb94595439789e63e64e83e02d62a5c0e95ff": "2026-08-14T10:15:00.868800+00:00",
     "58eff29ec5e4d01bedd3be6c07f8939acaf478b8ecd111fa9af2cbceba007833": "2026-08-14T10:15:00.868800+00:00",
     "5b3542b98065b00c16b28b44a087fb7bf627a8a36ae09581bde630cf44911a3f": "2026-08-25T03:40:44.114758+00:00",
+    "5be15da3fca768f0c815b109f114a4b1fa61e3a93e79205595f207779d70e8a6": "2026-09-09T04:11:04.533512+00:00",
     "5cd105a4ed2ea5fe1e967881f73bfd94447ddb769e7066aad8f39244514f5978": "2026-08-14T10:15:00.868800+00:00",
     "5cda5303b6465e333d973fc1d6f8b388cfbf6598701e5ba3c283da0726959d19": "2026-08-14T10:15:00.868800+00:00",
     "5dd1b0dd890a31bb7019ac7d37f0edd82dbfb121dd47b27c204a343bce08eda4": "2026-08-14T10:15:00.868800+00:00",
