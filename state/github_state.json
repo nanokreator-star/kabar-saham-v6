@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 20,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 598,
-  "early_signal_last_scan_utc": "2026-09-09T12:00:59.877540+00:00",
+  "early_signal_last_scan_utc": "2026-09-09T12:11:38.302360+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -2.49,
@@ -6085,7 +6085,7 @@
       "owner_context_sources": 0,
       "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
       "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-      "owner_v6_checked_utc": "2026-09-09T00:01:01.017842+00:00",
+      "owner_v6_checked_utc": "2026-09-09T12:10:57.669187+00:00",
       "owner_v6_pages_fetched": 0,
       "profile_source": "Yahoo Finance",
       "profile_source_quality": "FALLBACK",
@@ -6094,7 +6094,7 @@
       "subindustry": null,
       "subsector": null,
       "ticker": "PDSI",
-      "verified_at": "2026-09-09T00:01:01.850328+00:00",
+      "verified_at": "2026-09-09T12:10:58.931298+00:00",
       "website": null
     },
     "PGUN": {
@@ -6205,7 +6205,7 @@
       "owner_context_sources": 0,
       "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
       "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-      "owner_v6_checked_utc": "2026-09-09T00:01:34.208322+00:00",
+      "owner_v6_checked_utc": "2026-09-09T12:11:37.976384+00:00",
       "owner_v6_pages_fetched": 0,
       "profile_source": "Yahoo Finance",
       "profile_source_quality": "FALLBACK",
@@ -6340,7 +6340,7 @@
     }
   },
   "last_keepalive_utc": "2026-08-28T10:20:50.907640+00:00",
-  "last_state_change_utc": "2026-09-09T12:00:59.911012+00:00",
+  "last_state_change_utc": "2026-09-09T12:11:38.397038+00:00",
   "market_noise_suppressed": 5,
   "milestone_alerts": {},
   "rumor_alerts_sent": 17,
@@ -6348,11 +6348,11 @@
   "rumor_confirmed_count": 0,
   "rumor_confirmed_dedups": 0,
   "rumor_denied_count": 0,
-  "rumor_duplicates_suppressed": 401,
+  "rumor_duplicates_suppressed": 402,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 14,
   "rumor_integrity_repairs": 1076,
-  "rumor_last_scan_utc": "2026-09-09T12:00:59.866330+00:00",
+  "rumor_last_scan_utc": "2026-09-09T12:11:38.295188+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -8119,7 +8119,7 @@
         "owner_context_sources": 0,
         "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
         "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-        "owner_v6_checked_utc": "2026-09-09T00:01:01.017842+00:00",
+        "owner_v6_checked_utc": "2026-09-09T12:10:57.669187+00:00",
         "owner_v6_pages_fetched": 0,
         "profile_source": "Yahoo Finance",
         "profile_source_quality": "FALLBACK",
@@ -8128,7 +8128,7 @@
         "subindustry": null,
         "subsector": null,
         "ticker": "PDSI",
-        "verified_at": "2026-09-09T00:01:01.850328+00:00",
+        "verified_at": "2026-09-09T12:10:58.931298+00:00",
         "website": null
       },
       "key": "MERGER|TICKER|PDSI",
@@ -8138,7 +8138,7 @@
       "market_data": null,
       "official_confirmation": null,
       "premium_source_count": 0,
-      "profile_refresh_utc": "2026-09-09T00:01:34.750957+00:00",
+      "profile_refresh_utc": "2026-09-09T12:11:38.294581+00:00",
       "published": "Mon, 07 Sep 2026 10:55:00 GMT",
       "rumor_details": {
         "ipo_price": null,
@@ -8151,7 +8151,7 @@
         "underwriter": null
       },
       "semantic_copy_count": 0,
-      "source": "emitennews.com",
+      "source": "Emitennews.com",
       "source_breakdown": [
         {
           "derivative": false,
@@ -8159,7 +8159,7 @@
           "new_material": 0,
           "quality": "MEDIUM",
           "semantic_copy": false,
-          "source": "emitennews.com",
+          "source": "Emitennews.com",
           "tier": 3,
           "weight": 0.8
         }
@@ -8168,12 +8168,12 @@
       "source_quality": "LOW",
       "source_quality_score": 2.0,
       "sources": [
-        "emitennews.com"
+        "Emitennews.com"
       ],
       "status": "ACTIVE",
       "strength": "WEAK",
       "ticker": "PDSI",
-      "title": "Titah Danantara, Elnusa Buka Suara Soal Wacana Merger dengan PDSI - emitennews.com"
+      "title": "Titah Danantara, Elnusa Buka Suara Soal Wacana Merger dengan PDSI - Emitennews.com"
     },
     "MERGER|TICKER|TBIG": {
       "category": "MERGER",
