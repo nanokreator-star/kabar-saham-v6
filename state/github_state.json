@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 20,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 598,
-  "early_signal_last_scan_utc": "2026-09-09T02:20:45.597449+00:00",
+  "early_signal_last_scan_utc": "2026-09-09T02:50:45.706164+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -2.49,
@@ -959,6 +959,45 @@
       },
       "ticker": ""
     },
+    "M&A / TAKEOVER|PARTIES|PIPA|75 PERSEN SAHAM APP": {
+      "family": "M&A / TAKEOVER",
+      "first_seen_utc": "2026-09-09T02:53:23.259402+00:00",
+      "last_alert_utc": "2026-09-09T02:53:23.259395+00:00",
+      "last_seen_utc": "2026-09-09T02:53:23.259395+00:00",
+      "market_context": {
+        "change_pct": null,
+        "last_price": null,
+        "market_date": null
+      },
+      "material_snapshot": {
+        "acquirer": "PIPA",
+        "acquirer_confirmed": true,
+        "event_type": "AKUISISI",
+        "execution_price": null,
+        "ipo_single_price": null,
+        "money": [],
+        "official_authority": null,
+        "official_kind": null,
+        "price_range": null,
+        "ratio": null,
+        "schedule": {},
+        "share_count": null,
+        "stage": "SPA / SIGNED",
+        "stage_step": 4,
+        "stage_total": 7,
+        "stake": [],
+        "standby_buyer": null,
+        "target": "75 Persen Saham APP",
+        "target_confirmed": true,
+        "tender_price": null,
+        "underwriter": null,
+        "use_of_funds": [
+          "AKUISISI / INVESTASI",
+          "EKSPANSI / CAPEX"
+        ]
+      },
+      "ticker": ""
+    },
     "M&A / TAKEOVER|PARTIES|PRABOWO ALOKASIKAN KEUNTUNGAN BUMN UNTUK HILIRISASI DAN|GLOBAL": {
       "family": "M&A / TAKEOVER",
       "first_seen_utc": "2026-08-14T10:15:00.868800+00:00",
@@ -1613,6 +1652,49 @@
         "use_of_funds": []
       },
       "ticker": "MAPI"
+    },
+    "M&A / TAKEOVER|TICKER|MBSS": {
+      "family": "M&A / TAKEOVER",
+      "first_seen_utc": "2026-09-09T02:53:14.984856+00:00",
+      "last_alert_utc": "2026-09-09T02:53:14.984849+00:00",
+      "last_seen_utc": "2026-09-09T02:53:14.984849+00:00",
+      "market_context": {
+        "change_pct": 1.4035,
+        "last_price": 2890.0,
+        "market_date": "2026-09-09"
+      },
+      "material_snapshot": {
+        "acquirer": null,
+        "acquirer_confirmed": false,
+        "event_type": "TENDER OFFER",
+        "execution_price": null,
+        "ipo_single_price": null,
+        "money": [
+          "Rp892,7 miliar",
+          "Rp300 miliar"
+        ],
+        "official_authority": null,
+        "official_kind": null,
+        "price_range": null,
+        "ratio": null,
+        "schedule": {},
+        "share_count": "303.402.553 saham",
+        "stage": "TENDER OFFER",
+        "stage_step": 6,
+        "stage_total": 7,
+        "stake": [
+          27.5
+        ],
+        "standby_buyer": null,
+        "target": null,
+        "target_confirmed": false,
+        "tender_price": "Rp121",
+        "underwriter": null,
+        "use_of_funds": [
+          "AKUISISI / INVESTASI"
+        ]
+      },
+      "ticker": "MBSS"
     },
     "M&A / TAKEOVER|TICKER|MKNT": {
       "family": "M&A / TAKEOVER",
@@ -5807,6 +5889,26 @@
       "verified_at": "2026-08-28T18:01:13.656248+00:00",
       "website": "https://www.dmspropertindo.com"
     },
+    "MBSS": {
+      "business_activity": "PT Mitrabahtera Segara Sejati Tbk, together with its subsidiaries, provides sea transportation and transshipment services in Indonesia. It operates through Tugboats and Barges; Floating Cranes; and Motor Vessel segments.",
+      "controller": null,
+      "industry": "Marine Shipping",
+      "issuer_name": "Mitrabahtera Segara Sejati",
+      "owner_context_sources": 0,
+      "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
+      "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
+      "owner_v6_checked_utc": "2026-09-09T02:53:14.168044+00:00",
+      "owner_v6_pages_fetched": 0,
+      "profile_source": "Yahoo Finance",
+      "profile_source_quality": "FALLBACK",
+      "profile_source_url": null,
+      "sector": "Industrials",
+      "subindustry": null,
+      "subsector": null,
+      "ticker": "MBSS",
+      "verified_at": "2026-09-09T02:50:58.549908+00:00",
+      "website": "https://www.mbss.co.id"
+    },
     "MPIX": {
       "business_activity": "PT Mitra Pedagang Indonesia Tbk, a technology company, operates a digital platform that facilitates transactions for micro, small, and medium enterprises (MSMEs) under the MPStore brand in Indonesia. The company operates through Digital Pro",
       "controller": null,
@@ -6238,7 +6340,7 @@
     }
   },
   "last_keepalive_utc": "2026-08-28T10:20:50.907640+00:00",
-  "last_state_change_utc": "2026-09-09T02:20:45.624480+00:00",
+  "last_state_change_utc": "2026-09-09T02:53:23.261000+00:00",
   "market_noise_suppressed": 4,
   "milestone_alerts": {},
   "rumor_alerts_sent": 17,
@@ -6246,11 +6348,11 @@
   "rumor_confirmed_count": 0,
   "rumor_confirmed_dedups": 0,
   "rumor_denied_count": 0,
-  "rumor_duplicates_suppressed": 388,
+  "rumor_duplicates_suppressed": 389,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 14,
   "rumor_integrity_repairs": 1076,
-  "rumor_last_scan_utc": "2026-09-09T02:20:45.588228+00:00",
+  "rumor_last_scan_utc": "2026-09-09T02:50:45.697433+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -8049,7 +8151,7 @@
         "underwriter": null
       },
       "semantic_copy_count": 0,
-      "source": "Emitennews.com",
+      "source": "emitennews.com",
       "source_breakdown": [
         {
           "derivative": false,
@@ -8057,7 +8159,7 @@
           "new_material": 0,
           "quality": "MEDIUM",
           "semantic_copy": false,
-          "source": "Emitennews.com",
+          "source": "emitennews.com",
           "tier": 3,
           "weight": 0.8
         }
@@ -8066,12 +8168,12 @@
       "source_quality": "LOW",
       "source_quality_score": 2.0,
       "sources": [
-        "Emitennews.com"
+        "emitennews.com"
       ],
       "status": "ACTIVE",
       "strength": "WEAK",
       "ticker": "PDSI",
-      "title": "Titah Danantara, Elnusa Buka Suara Soal Wacana Merger dengan PDSI - Emitennews.com"
+      "title": "Titah Danantara, Elnusa Buka Suara Soal Wacana Merger dengan PDSI - emitennews.com"
     },
     "MERGER|TICKER|TBIG": {
       "category": "MERGER",
@@ -8509,6 +8611,7 @@
     "1bd8f6063a72b9667300b2c7e4a2718aa76ff4b3c6e17a3abfbd739fb077503b": "2026-08-14T10:15:00.868800+00:00",
     "1cbab3154354e118815ed27dc3fc238c0b615ae06d1e585160aaae3552d17417": "2026-09-07T08:41:01.960525+00:00",
     "1ddfb4e184602043dd7de7e31c3b828108e4dc8a72ccb30c3938716cdda57452": "2026-08-25T22:10:55.251443+00:00",
+    "1edc20362f784a6c9bd9c963b92b0ce8d36d392af90c2a91f7dd1c95bdb5237e": "2026-09-09T02:53:23.259378+00:00",
     "1f28efc71679b930bae7d69cd62095f2da32399d0c49f40dcc1a1d59c73c541a": "2026-08-17T12:30:59.740812+00:00",
     "1f4b5df05c871568ef7dc5de0368a9ac1b5e661f992affc3894eca51525a12c3": "2026-08-14T10:15:00.868800+00:00",
     "201cf77a86ce6457775cfd97c1ccb044610671ab3dd6955a5a4ad7235dc2f538": "2026-08-14T10:15:00.868800+00:00",
@@ -8615,6 +8718,7 @@
     "8c046d3bf4f29943bff2276b0a143ae6155b904b554586104987b04454897db1": "2026-08-26T07:21:13.208813+00:00",
     "8da146f5393e1536dd4de3c745d7809c9c5cf29c99ece0b3fee3b521caee97d7": "2026-08-28T15:41:07.007160+00:00",
     "8dc04d5574199316506030bb5c541007fb17c17ead210282668042b6fac569ed": "2026-08-29T08:01:16.460871+00:00",
+    "8e2e1c61bd9210a4fa893bcd58866412788cd0b659f5b063e27d121cb335e822": "2026-09-09T02:53:14.984832+00:00",
     "8f408705a09b31a4dd6d19fbe28f287aae10585c7f5a09818df1305e3f486124": "2026-08-14T10:15:00.868800+00:00",
     "91d8cd071c3982aa64f684578a778eb869703cb3c89f5f82e9daa5afa0b2de61": "2026-08-14T10:15:00.868800+00:00",
     "92825c7494ba089a9fe2eafd735da0209935a12eda32371d7cde9e781dc55f70": "2026-08-20T03:21:47.165417+00:00",
