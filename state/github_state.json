@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 20,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 598,
-  "early_signal_last_scan_utc": "2026-09-09T13:01:00.077232+00:00",
+  "early_signal_last_scan_utc": "2026-09-10T00:21:17.901637+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -2.49,
@@ -6085,7 +6085,7 @@
       "owner_context_sources": 0,
       "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
       "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-      "owner_v6_checked_utc": "2026-09-09T12:10:57.669187+00:00",
+      "owner_v6_checked_utc": "2026-09-10T00:20:56.403558+00:00",
       "owner_v6_pages_fetched": 0,
       "profile_source": "Yahoo Finance",
       "profile_source_quality": "FALLBACK",
@@ -6094,7 +6094,7 @@
       "subindustry": null,
       "subsector": null,
       "ticker": "PDSI",
-      "verified_at": "2026-09-09T12:10:58.931298+00:00",
+      "verified_at": "2026-09-10T00:20:57.783417+00:00",
       "website": null
     },
     "PGUN": {
@@ -6205,7 +6205,7 @@
       "owner_context_sources": 0,
       "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
       "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-      "owner_v6_checked_utc": "2026-09-09T12:11:37.976384+00:00",
+      "owner_v6_checked_utc": "2026-09-10T00:21:17.620081+00:00",
       "owner_v6_pages_fetched": 0,
       "profile_source": "Yahoo Finance",
       "profile_source_quality": "FALLBACK",
@@ -6340,7 +6340,7 @@
     }
   },
   "last_keepalive_utc": "2026-08-28T10:20:50.907640+00:00",
-  "last_state_change_utc": "2026-09-09T13:01:00.108199+00:00",
+  "last_state_change_utc": "2026-09-10T00:21:17.947387+00:00",
   "market_noise_suppressed": 5,
   "milestone_alerts": {},
   "rumor_alerts_sent": 17,
@@ -6352,7 +6352,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 14,
   "rumor_integrity_repairs": 1076,
-  "rumor_last_scan_utc": "2026-09-09T13:01:00.066380+00:00",
+  "rumor_last_scan_utc": "2026-09-10T00:21:17.894782+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -8119,7 +8119,7 @@
         "owner_context_sources": 0,
         "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
         "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-        "owner_v6_checked_utc": "2026-09-09T12:10:57.669187+00:00",
+        "owner_v6_checked_utc": "2026-09-10T00:20:56.403558+00:00",
         "owner_v6_pages_fetched": 0,
         "profile_source": "Yahoo Finance",
         "profile_source_quality": "FALLBACK",
@@ -8128,17 +8128,17 @@
         "subindustry": null,
         "subsector": null,
         "ticker": "PDSI",
-        "verified_at": "2026-09-09T12:10:58.931298+00:00",
+        "verified_at": "2026-09-10T00:20:57.783417+00:00",
         "website": null
       },
       "key": "MERGER|TICKER|PDSI",
       "last_alert_utc": "2026-09-07T11:41:30.521683+00:00",
       "last_seen_utc": "2026-09-07T10:55:00+00:00",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcjZzSURqcWFMNU1TYzItMFluaHp4WjRZeFlDNm92Qk5MVlp3YVhzYjJUYnJYZDFCdDBWNjNxWlJMN3RtMGMtUjRfSEVuSm5FanpIa3dUUGc2MHczM2pnemE2NFd5UlBVQndNWEhSVmZDLTlWOVRiX1pGdlk2NnZaZE55MDVaREY5QUsyMDltWUlTMkYzdUhB?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaGZnaFVhMDFHOTVHMEUwSGNVdl9FRWJ0aFEyanVlNlBhQWw0QWhtNmxoNm1Ia1JoYkstc3RmeV95Y3B3TzhXb0xQTW9zRy1maTNaQ0ZFbFIxQWtVT2tST29WRjB3b3Q1cFlBOElhSWdWNXNNWC13SDN0QklZOXRpQ0t0VGY4QUY1OWZZanNzQjdDQVgwVEY0NUNNeEM?oc=5",
       "market_data": null,
       "official_confirmation": null,
       "premium_source_count": 0,
-      "profile_refresh_utc": "2026-09-09T12:11:38.294581+00:00",
+      "profile_refresh_utc": "2026-09-10T00:21:17.894203+00:00",
       "published": "Mon, 07 Sep 2026 10:55:00 GMT",
       "rumor_details": {
         "ipo_price": null,
