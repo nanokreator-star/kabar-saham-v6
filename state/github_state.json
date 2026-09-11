@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 20,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 598,
-  "early_signal_last_scan_utc": "2026-09-11T04:20:52.377719+00:00",
+  "early_signal_last_scan_utc": "2026-09-11T04:30:54.985070+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -2.49,
@@ -6342,7 +6342,7 @@
     }
   },
   "last_keepalive_utc": "2026-08-28T10:20:50.907640+00:00",
-  "last_state_change_utc": "2026-09-11T04:20:52.407343+00:00",
+  "last_state_change_utc": "2026-09-11T04:30:55.006869+00:00",
   "market_noise_suppressed": 5,
   "milestone_alerts": {},
   "rumor_alerts_sent": 17,
@@ -6350,11 +6350,11 @@
   "rumor_confirmed_count": 0,
   "rumor_confirmed_dedups": 0,
   "rumor_denied_count": 0,
-  "rumor_duplicates_suppressed": 441,
+  "rumor_duplicates_suppressed": 442,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 14,
   "rumor_integrity_repairs": 1076,
-  "rumor_last_scan_utc": "2026-09-11T04:20:52.368875+00:00",
+  "rumor_last_scan_utc": "2026-09-11T04:30:54.977321+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -8153,7 +8153,7 @@
         "underwriter": null
       },
       "semantic_copy_count": 0,
-      "source": "emitennews.com",
+      "source": "Emitennews.com",
       "source_breakdown": [
         {
           "derivative": false,
@@ -8161,7 +8161,7 @@
           "new_material": 0,
           "quality": "MEDIUM",
           "semantic_copy": false,
-          "source": "emitennews.com",
+          "source": "Emitennews.com",
           "tier": 3,
           "weight": 0.8
         }
@@ -8170,12 +8170,12 @@
       "source_quality": "LOW",
       "source_quality_score": 2.0,
       "sources": [
-        "emitennews.com"
+        "Emitennews.com"
       ],
       "status": "ACTIVE",
       "strength": "WEAK",
       "ticker": "PDSI",
-      "title": "Titah Danantara, Elnusa Buka Suara Soal Wacana Merger dengan PDSI - emitennews.com"
+      "title": "Titah Danantara, Elnusa Buka Suara Soal Wacana Merger dengan PDSI - Emitennews.com"
     },
     "MERGER|TICKER|TBIG": {
       "category": "MERGER",
