@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 20,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 598,
-  "early_signal_last_scan_utc": "2026-09-11T04:30:54.985070+00:00",
+  "early_signal_last_scan_utc": "2026-09-11T07:20:50.948725+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -2.49,
@@ -3081,6 +3081,49 @@
       },
       "ticker": ""
     },
+    "M&A / TAKEOVER|TITLE|RENCANA GO PRIVATE IPAC 2026 NILAI RP250": {
+      "family": "M&A / TAKEOVER",
+      "first_seen_utc": "2026-09-11T07:21:24.577712+00:00",
+      "last_alert_utc": "2026-09-11T07:21:24.577705+00:00",
+      "last_seen_utc": "2026-09-11T07:21:24.577705+00:00",
+      "market_context": {
+        "change_pct": 1.6129,
+        "last_price": 189.0,
+        "market_date": "2026-09-10"
+      },
+      "material_snapshot": {
+        "acquirer": null,
+        "acquirer_confirmed": false,
+        "event_type": "TENDER OFFER",
+        "execution_price": null,
+        "ipo_single_price": null,
+        "money": [
+          "Rp55.156.846.439",
+          "Rp40.588.422.169",
+          "Rp58.499.735.099",
+          "Rp1.481.768.925"
+        ],
+        "official_authority": null,
+        "official_kind": null,
+        "price_range": null,
+        "ratio": null,
+        "schedule": {},
+        "share_count": null,
+        "stage": "TENDER OFFER",
+        "stage_step": 6,
+        "stage_total": 7,
+        "stake": [],
+        "standby_buyer": null,
+        "target": null,
+        "target_confirmed": false,
+        "tender_price": "Rp250",
+        "underwriter": null,
+        "use_of_funds": [
+          "MODAL KERJA"
+        ]
+      },
+      "ticker": "IPAC"
+    },
     "M&A / TAKEOVER|TITLE|RI UMUMKAN GANTI PEMILIK PENGENDALI BARU KUASAI": {
       "family": "M&A / TAKEOVER",
       "first_seen_utc": "2026-08-14T10:15:00.868800+00:00",
@@ -5803,6 +5846,26 @@
       "verified_at": "2026-09-02T19:21:12.787675+00:00",
       "website": "https://www.ibstower.com"
     },
+    "IPAC": {
+      "business_activity": "PT Era Graharealty Tbk provides property brokerage services in Indonesia. It engages in the property agency, real estate on contract basis; services related to real estate such as real estate agent and broker activities, brokerage of buying",
+      "controller": null,
+      "industry": "Real Estate Services",
+      "issuer_name": "Era Graharealty",
+      "owner_context_sources": 0,
+      "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
+      "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
+      "owner_v6_checked_utc": "2026-09-11T07:21:23.985710+00:00",
+      "owner_v6_pages_fetched": 0,
+      "profile_source": "Yahoo Finance",
+      "profile_source_quality": "FALLBACK",
+      "profile_source_url": null,
+      "sector": "Real Estate",
+      "subindustry": null,
+      "subsector": null,
+      "ticker": "IPAC",
+      "verified_at": "2026-09-11T07:21:16.479246+00:00",
+      "website": "https://www.eraindonesia.com"
+    },
     "IRSX": {
       "business_activity": "PT Folago Global Nusantara Tbk, together with its subsidiaries, engages in software publishing and digital product sales businesses in Indonesia. It operates through five segments: Digital Products, IRS Software, Advertisement, Commission, ",
       "controller": null,
@@ -6342,7 +6405,7 @@
     }
   },
   "last_keepalive_utc": "2026-08-28T10:20:50.907640+00:00",
-  "last_state_change_utc": "2026-09-11T04:30:55.006869+00:00",
+  "last_state_change_utc": "2026-09-11T07:21:24.579173+00:00",
   "market_noise_suppressed": 5,
   "milestone_alerts": {},
   "rumor_alerts_sent": 17,
@@ -6354,7 +6417,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 14,
   "rumor_integrity_repairs": 1076,
-  "rumor_last_scan_utc": "2026-09-11T04:30:54.977321+00:00",
+  "rumor_last_scan_utc": "2026-09-11T07:20:50.937348+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -8779,6 +8842,7 @@
     "cf9826ba978f17fca37a3a329910bca511ebac845da948647b056854ce239ac0": "2026-08-17T12:01:07.243701+00:00",
     "d1dd9486c9f886705a4a376ae60d8eaaebfa99ef458cb1140aae1519cf246e55": "2026-08-14T10:15:00.868800+00:00",
     "d39db68952ac6149d7a775f79ff75cd9de63bf8787fe5fab239ef92521949816": "2026-08-14T10:15:00.868800+00:00",
+    "d59294aec9b2690d781e6ea535d9d810dd19e549c74895d8cab442d65a0ba9aa": "2026-09-11T07:21:24.577686+00:00",
     "d629bbd2f818df75a0232a48bcc602bb2dd1546e3357cbf267127350511195d9": "2026-08-14T10:15:00.868800+00:00",
     "d8170ca0f85ab1e1bcb00de59412ee56c6ec5cc990e6f4dae1d885e1de3aa6a9": "2026-08-14T10:15:00.868800+00:00",
     "da145c7e7e54b66a1390df603bb67a9e50fe1c133ce68dd0312f96a92b23c990": "2026-08-14T10:15:00.868800+00:00",
