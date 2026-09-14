@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 20,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 598,
-  "early_signal_last_scan_utc": "2026-09-14T17:11:09.432005+00:00",
+  "early_signal_last_scan_utc": "2026-09-14T17:20:45.729972+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -2.49,
@@ -6537,7 +6537,7 @@
     }
   },
   "last_keepalive_utc": "2026-09-11T10:21:25.319722+00:00",
-  "last_state_change_utc": "2026-09-14T17:11:09.467863+00:00",
+  "last_state_change_utc": "2026-09-14T17:20:45.764924+00:00",
   "market_noise_suppressed": 5,
   "milestone_alerts": {},
   "rumor_alerts_sent": 17,
@@ -6548,8 +6548,8 @@
   "rumor_duplicates_suppressed": 442,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 16,
-  "rumor_integrity_repairs": 1076,
-  "rumor_last_scan_utc": "2026-09-14T17:11:09.419325+00:00",
+  "rumor_integrity_repairs": 1077,
+  "rumor_last_scan_utc": "2026-09-14T17:20:45.720362+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -7500,7 +7500,7 @@
     },
     "DIVESTASI|TICKER|SINI": {
       "category": "DIVESTASI",
-      "company_name": "PT Singaraja Putra Tbk. SINI 1 Pelaksanaan",
+      "company_name": "Singaraja Putra",
       "copy_duplicate_count": 0,
       "credible_effective_independent_count": 1.1,
       "derivative_source_count": 0,
