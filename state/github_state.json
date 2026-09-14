@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 20,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 598,
-  "early_signal_last_scan_utc": "2026-09-14T11:01:02.050310+00:00",
+  "early_signal_last_scan_utc": "2026-09-14T17:11:09.432005+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -2.49,
@@ -6374,6 +6374,26 @@
       "verified_at": "2026-08-26T07:21:12.592759+00:00",
       "website": null
     },
+    "SINI": {
+      "business_activity": "PT Singaraja Putra Tbk, together with its subsidiaries, engages in the wood processing business in the Netherlands, China, Canada, the United States, Australia, Korea, the United Kingdom, Belgium, the Gzech Republic, and the United Arab Emi",
+      "controller": null,
+      "industry": "Lumber & Wood Production",
+      "issuer_name": "Singaraja Putra",
+      "owner_context_sources": 0,
+      "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
+      "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
+      "owner_v6_checked_utc": "2026-09-14T17:10:51.738528+00:00",
+      "owner_v6_pages_fetched": 0,
+      "profile_source": "Yahoo Finance",
+      "profile_source_quality": "FALLBACK",
+      "profile_source_url": null,
+      "sector": "Basic Materials",
+      "subindustry": null,
+      "subsector": null,
+      "ticker": "SINI",
+      "verified_at": "2026-09-14T17:11:09.416756+00:00",
+      "website": "https://singarajaputra.com"
+    },
     "SOAL": {
       "business_activity": null,
       "controller": null,
@@ -6517,7 +6537,7 @@
     }
   },
   "last_keepalive_utc": "2026-09-11T10:21:25.319722+00:00",
-  "last_state_change_utc": "2026-09-14T11:01:02.094109+00:00",
+  "last_state_change_utc": "2026-09-14T17:11:09.467863+00:00",
   "market_noise_suppressed": 5,
   "milestone_alerts": {},
   "rumor_alerts_sent": 17,
@@ -6529,7 +6549,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 16,
   "rumor_integrity_repairs": 1076,
-  "rumor_last_scan_utc": "2026-09-14T11:01:02.036420+00:00",
+  "rumor_last_scan_utc": "2026-09-14T17:11:09.419325+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -7477,6 +7497,84 @@
       "strength": "WEAK",
       "ticker": "BYAN",
       "title": "Prospek Emiten Batu Bara di Tengah Rumor Akuisisi BYAN dan Divestasi Kideco oleh INDY - Bisnis Indonesia Premium"
+    },
+    "DIVESTASI|TICKER|SINI": {
+      "category": "DIVESTASI",
+      "company_name": "PT Singaraja Putra Tbk. SINI 1 Pelaksanaan",
+      "copy_duplicate_count": 0,
+      "credible_effective_independent_count": 1.1,
+      "derivative_source_count": 0,
+      "detected_source_count": 1,
+      "effective_independent_count": 1.1,
+      "entity_aliases": [
+        "Singaraja Putra Tbk. SINI 1 Pelaksanaan"
+      ],
+      "entity_resolution_source": null,
+      "first_seen_utc": "2026-09-14T12:26:00+00:00",
+      "high_quality_source_count": 1,
+      "independent_story_count": 1,
+      "issuer_profile": {
+        "business_activity": "PT Singaraja Putra Tbk, together with its subsidiaries, engages in the wood processing business in the Netherlands, China, Canada, the United States, Australia, Korea, the United Kingdom, Belgium, the Gzech Republic, and the United Arab Emi",
+        "controller": null,
+        "industry": "Lumber & Wood Production",
+        "issuer_name": "Singaraja Putra",
+        "owner_context_sources": 0,
+        "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
+        "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
+        "owner_v6_checked_utc": "2026-09-14T17:10:51.738528+00:00",
+        "owner_v6_pages_fetched": 0,
+        "profile_source": "Yahoo Finance",
+        "profile_source_quality": "FALLBACK",
+        "profile_source_url": null,
+        "sector": "Basic Materials",
+        "subindustry": null,
+        "subsector": null,
+        "ticker": "SINI",
+        "verified_at": "2026-09-14T17:11:09.416756+00:00",
+        "website": "https://singarajaputra.com"
+      },
+      "key": "DIVESTASI|TICKER|SINI",
+      "last_seen_utc": "2026-09-14T12:26:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOHFCTW5HUGdlU3BRVk4xUDY3b2ZtZDRkSzU1bGNjQkd6c1dOWTg3QWlGM1hTcG50MUlaNVNxeGRRM3VJT01LSUxQenFDQ1VxZ2ZMQXVtb0RNOTBtN3VRVkJ2T0dNNC1aTGdrSVR3eDZUeWZrTzRZSVlKR3FTZlIxRmFmVEFHU1NnS2dpN0c0bGdTY1JzUXVWRmNINjJkanhCYVN1RU5pRFlJN00tM2JIMkFzUQ?oc=5",
+      "market_data": null,
+      "official_confirmation": null,
+      "premium_source_count": 1,
+      "profile_refresh_utc": "2026-09-14T17:11:09.418091+00:00",
+      "published": "Mon, 14 Sep 2026 12:26:00 GMT",
+      "rumor_details": {
+        "ipo_price": null,
+        "listing_estimate": null,
+        "money": [],
+        "percentages": [],
+        "price_range": null,
+        "rumored_party": null,
+        "share_count": null,
+        "underwriter": null
+      },
+      "semantic_copy_count": 0,
+      "source": "PT Bursa Efek Indonesia",
+      "source_breakdown": [
+        {
+          "derivative": false,
+          "group": "pt bursa efek indonesia",
+          "new_material": 0,
+          "quality": "OFFICIAL",
+          "semantic_copy": false,
+          "source": "PT Bursa Efek Indonesia",
+          "tier": 5,
+          "weight": 1.1
+        }
+      ],
+      "source_count": 1,
+      "source_quality": "MEDIUM",
+      "source_quality_score": 5.5,
+      "sources": [
+        "PT Bursa Efek Indonesia"
+      ],
+      "status": "CONFIRMED OFFICIAL",
+      "strength": "CONFIRMED OFFICIAL",
+      "ticker": "SINI",
+      "title": "Nomor Surat Nama Perusahaan Kode Emiten Lampiran Perihal 05/SP/IX/2026 PT Singaraja Putra Tbk. SINI 1 Pelaksanaan Divestasi Saham PT Interkayu Nusantara oleh Perseroan. - PT Bursa Efek Indonesia"
     },
     "IPO|COMPANY|BSA LOGISTICS INDONESIA": {
       "category": "IPO",
