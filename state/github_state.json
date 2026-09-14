@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 20,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 598,
-  "early_signal_last_scan_utc": "2026-09-11T22:40:50.435594+00:00",
+  "early_signal_last_scan_utc": "2026-09-14T07:10:48.418857+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -2.49,
@@ -2108,6 +2108,46 @@
         "stage_total": 7,
         "stake": [
           51.0
+        ],
+        "standby_buyer": null,
+        "target": null,
+        "target_confirmed": false,
+        "tender_price": null,
+        "underwriter": null,
+        "use_of_funds": [
+          "AKUISISI / INVESTASI"
+        ]
+      },
+      "ticker": ""
+    },
+    "M&A / TAKEOVER|TITLE|59 24 UNIRAMA GROUP JADI PENGENDALI BARU": {
+      "family": "M&A / TAKEOVER",
+      "first_seen_utc": "2026-09-14T07:10:50.747908+00:00",
+      "last_alert_utc": "2026-09-14T07:10:50.747903+00:00",
+      "last_seen_utc": "2026-09-14T07:10:50.747903+00:00",
+      "market_context": {
+        "change_pct": null,
+        "last_price": null,
+        "market_date": null
+      },
+      "material_snapshot": {
+        "acquirer": null,
+        "acquirer_confirmed": false,
+        "event_type": "TAKEOVER",
+        "execution_price": null,
+        "ipo_single_price": null,
+        "money": [],
+        "official_authority": null,
+        "official_kind": null,
+        "price_range": null,
+        "ratio": null,
+        "schedule": {},
+        "share_count": null,
+        "stage": "CHANGE OF CONTROL",
+        "stage_step": 5,
+        "stage_total": 7,
+        "stake": [
+          59.24
         ],
         "standby_buyer": null,
         "target": null,
@@ -6477,7 +6517,7 @@
     }
   },
   "last_keepalive_utc": "2026-09-11T10:21:25.319722+00:00",
-  "last_state_change_utc": "2026-09-11T22:40:50.474609+00:00",
+  "last_state_change_utc": "2026-09-14T07:10:50.749347+00:00",
   "market_noise_suppressed": 5,
   "milestone_alerts": {},
   "rumor_alerts_sent": 17,
@@ -6489,7 +6529,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 14,
   "rumor_integrity_repairs": 1076,
-  "rumor_last_scan_utc": "2026-09-11T22:40:50.421788+00:00",
+  "rumor_last_scan_utc": "2026-09-14T07:10:48.405319+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -9022,6 +9062,7 @@
     "81811644b800d39836b917bda6c75d1d71ce1caf280821960e41cc853ca02fb3": "2026-08-14T10:15:00.868800+00:00",
     "8187ca3a1a85953e9811de50f37e6e7b689e376a13351d6d7bda525121b656ca": "2026-08-21T13:10:58.875826+00:00",
     "81bd0ccaca7a4e66e29732beb8e488cddb3ab5df0058ef5dc35f4d7ec3230dc3": "2026-08-20T03:21:47.165417+00:00",
+    "820dd87026bc16818346384b2100cff10b428975697ef35194bfd211d182c179": "2026-09-14T07:10:50.747891+00:00",
     "829208e58c2d483ac29c3a3a4a05e50f550bc2ffc862059458139428038b4b54": "2026-08-14T10:15:00.868800+00:00",
     "830ef1668388081191c8687508173c3815158d8cf7bb5316d542d87beec83270": "2026-08-14T10:15:00.868800+00:00",
     "8437cd91d15e501ded2cfa4e8118f33db2a8cf8a3220888bd8f63a912adcfc1c": "2026-08-14T10:15:00.868800+00:00",
