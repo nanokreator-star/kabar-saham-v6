@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 20,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 598,
-  "early_signal_last_scan_utc": "2026-09-14T17:20:45.729972+00:00",
+  "early_signal_last_scan_utc": "2026-09-15T04:10:45.966883+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -2.49,
@@ -5134,6 +5134,58 @@
       },
       "ticker": ""
     },
+    "RIGHTS ISSUE|TITLE|MENELISIK RENCANA LAPD 2026 INBRENG BSS PROSPEK": {
+      "family": "RIGHTS ISSUE",
+      "first_seen_utc": "2026-09-15T04:11:16.787680+00:00",
+      "last_alert_utc": "2026-09-15T04:11:16.787673+00:00",
+      "last_seen_utc": "2026-09-15T04:11:16.787673+00:00",
+      "market_context": {
+        "change_pct": 0.0,
+        "last_price": 226.0,
+        "market_date": "2026-09-15"
+      },
+      "material_snapshot": {
+        "acquirer": null,
+        "acquirer_confirmed": false,
+        "event_type": "RIGHTS ISSUE",
+        "execution_price": "Rp238",
+        "ipo_single_price": null,
+        "money": [
+          "Rp80,18 miliar",
+          "Rp79,80 billion",
+          "Rp237,20 miliar",
+          "Rp14,16 miliar",
+          "Rp69,09 miliar"
+        ],
+        "official_authority": null,
+        "official_kind": null,
+        "price_range": null,
+        "ratio": "168:117",
+        "schedule": {},
+        "share_count": "996.676.699 saham",
+        "stage": "RENCANA",
+        "stage_step": 2,
+        "stage_total": 6,
+        "stake": [
+          41.05,
+          45.44,
+          41.32,
+          13.24,
+          95.0
+        ],
+        "standby_buyer": "Andri Wijono Sutiono menyatakan akan melaksanakan seluruh 336",
+        "target": null,
+        "target_confirmed": false,
+        "tender_price": null,
+        "underwriter": null,
+        "use_of_funds": [
+          "EKSPANSI / CAPEX",
+          "MODAL KERJA",
+          "PELUNASAN UTANG"
+        ]
+      },
+      "ticker": "CASH"
+    },
     "RIGHTS ISSUE|TITLE|MGLV MELONJAK AUTO REJECT ATAS USAI PENGUMUMAN": {
       "family": "RIGHTS ISSUE",
       "first_seen_utc": "2026-08-14T10:15:00.868800+00:00",
@@ -5868,6 +5920,26 @@
       "verified_at": "2026-08-20T03:21:14.981343+00:00",
       "website": "https://www.bayan.com.sg"
     },
+    "CASH": {
+      "business_activity": "PT Cashlez Worldwide Indonesia Tbk, a financial technology company, provides digital financial technology and payment services in Indonesia. The company offers cashPayTech, an all-in-one payment solution; cashMove for withdrawals, transfers",
+      "controller": null,
+      "industry": "Business Equipment & Supplies",
+      "issuer_name": "Cashlez Worldwide Indonesia",
+      "owner_context_sources": 0,
+      "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
+      "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
+      "owner_v6_checked_utc": "2026-09-15T04:11:16.198346+00:00",
+      "owner_v6_pages_fetched": 0,
+      "profile_source": "Yahoo Finance",
+      "profile_source_quality": "FALLBACK",
+      "profile_source_url": null,
+      "sector": "Industrials",
+      "subindustry": null,
+      "subsector": null,
+      "ticker": "CASH",
+      "verified_at": "2026-09-15T04:11:12.740914+00:00",
+      "website": "https://www.cashlez.com"
+    },
     "CUAN": {
       "business_activity": "PT Petrindo Jaya Kreasi Tbk, through its subsidiaries, engages in coal mining operations in Indonesia. It operates through three segments: Mining, Services, and Engineering and Construction.",
       "controller": null,
@@ -6537,7 +6609,7 @@
     }
   },
   "last_keepalive_utc": "2026-09-11T10:21:25.319722+00:00",
-  "last_state_change_utc": "2026-09-14T17:20:45.764924+00:00",
+  "last_state_change_utc": "2026-09-15T04:11:16.789187+00:00",
   "market_noise_suppressed": 5,
   "milestone_alerts": {},
   "rumor_alerts_sent": 17,
@@ -6549,7 +6621,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 16,
   "rumor_integrity_repairs": 1077,
-  "rumor_last_scan_utc": "2026-09-14T17:20:45.720362+00:00",
+  "rumor_last_scan_utc": "2026-09-15T04:10:45.953272+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -9180,6 +9252,7 @@
     "937bcf265b9799d9ef1073f3563f858ec0f9943f4149046edc16772be85b351b": "2026-08-14T10:15:00.868800+00:00",
     "940457e27405536f1f026a4d193e9c0bd18836110d14cace87b6ddfb6c446e70": "2026-08-14T10:15:00.868800+00:00",
     "94bc6e6bbd238ac06f6779792057b60602901a6ac2da82ca30620c44ed59c65b": "2026-08-14T10:15:00.868800+00:00",
+    "974d92ee48b538a04596bb5c980fc09f5cd66608d901837616c28100f1b66ca5": "2026-09-15T04:11:16.787656+00:00",
     "97cca75fe23ae26fe2c41baf6f3fdf2f7b6c66b3f1b81d118e61f19471b91ab2": "2026-08-14T10:15:00.868800+00:00",
     "99043a2b0ab24c3479def238819a5cea3085b4b90ab75eb93d29577cf3a808c4": "2026-08-14T10:15:00.868800+00:00",
     "9d3fc465ce464234bddf59f0d978bc50685ec987b06f0553e0d0af7bbedfc0a6": "2026-08-14T10:15:00.868800+00:00",
