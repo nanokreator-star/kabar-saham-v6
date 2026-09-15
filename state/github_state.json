@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 20,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 598,
-  "early_signal_last_scan_utc": "2026-09-15T04:10:45.966883+00:00",
+  "early_signal_last_scan_utc": "2026-09-15T07:00:57.458856+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -2.49,
@@ -5137,11 +5137,11 @@
     "RIGHTS ISSUE|TITLE|MENELISIK RENCANA LAPD 2026 INBRENG BSS PROSPEK": {
       "family": "RIGHTS ISSUE",
       "first_seen_utc": "2026-09-15T04:11:16.787680+00:00",
-      "last_alert_utc": "2026-09-15T04:11:16.787673+00:00",
-      "last_seen_utc": "2026-09-15T04:11:16.787673+00:00",
+      "last_alert_utc": "2026-09-15T07:01:24.271293+00:00",
+      "last_seen_utc": "2026-09-15T07:01:24.271293+00:00",
       "market_context": {
-        "change_pct": 0.0,
-        "last_price": 226.0,
+        "change_pct": -2.1505,
+        "last_price": 91.0,
         "market_date": "2026-09-15"
       },
       "material_snapshot": {
@@ -5151,27 +5151,29 @@
         "execution_price": "Rp238",
         "ipo_single_price": null,
         "money": [
-          "Rp80,18 miliar",
-          "Rp79,80 billion",
-          "Rp237,20 miliar",
-          "Rp14,16 miliar",
-          "Rp69,09 miliar"
+          "Rp99,47 miliar",
+          "Rp2,64 miliar",
+          "Rp26,44 miliar",
+          "Rp44,39 miliar",
+          "Rp100 miliar"
         ],
         "official_authority": null,
         "official_kind": null,
         "price_range": null,
         "ratio": "168:117",
-        "schedule": {},
-        "share_count": "996.676.699 saham",
+        "schedule": {
+          "recording_date": "25 September 2026"
+        },
+        "share_count": "2 miliar saham",
         "stage": "RENCANA",
         "stage_step": 2,
         "stage_total": 6,
         "stake": [
-          41.05,
-          45.44,
-          41.32,
-          13.24,
-          95.0
+          33.52,
+          99.99,
+          49.0,
+          44.63,
+          51.0
         ],
         "standby_buyer": "Andri Wijono Sutiono menyatakan akan melaksanakan seluruh 336",
         "target": null,
@@ -5179,12 +5181,10 @@
         "tender_price": null,
         "underwriter": null,
         "use_of_funds": [
-          "EKSPANSI / CAPEX",
-          "MODAL KERJA",
-          "PELUNASAN UTANG"
+          "MODAL KERJA"
         ]
       },
-      "ticker": "CASH"
+      "ticker": "LAPD"
     },
     "RIGHTS ISSUE|TITLE|MGLV MELONJAK AUTO REJECT ATAS USAI PENGUMUMAN": {
       "family": "RIGHTS ISSUE",
@@ -6138,6 +6138,26 @@
       "verified_at": "2026-08-28T18:01:13.656248+00:00",
       "website": "https://www.dmspropertindo.com"
     },
+    "LAPD": {
+      "business_activity": null,
+      "controller": null,
+      "industry": null,
+      "issuer_name": "Leyand International",
+      "owner_context_sources": 0,
+      "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
+      "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
+      "owner_v6_checked_utc": "2026-09-15T07:01:23.682410+00:00",
+      "owner_v6_pages_fetched": 0,
+      "profile_source": "Yahoo Finance",
+      "profile_source_quality": "FALLBACK",
+      "profile_source_url": null,
+      "sector": null,
+      "subindustry": null,
+      "subsector": null,
+      "ticker": "LAPD",
+      "verified_at": "2026-09-15T07:01:23.664558+00:00",
+      "website": null
+    },
     "MBSS": {
       "business_activity": "PT Mitrabahtera Segara Sejati Tbk, together with its subsidiaries, provides sea transportation and transshipment services in Indonesia. It operates through Tugboats and Barges; Floating Cranes; and Motor Vessel segments.",
       "controller": null,
@@ -6609,7 +6629,7 @@
     }
   },
   "last_keepalive_utc": "2026-09-11T10:21:25.319722+00:00",
-  "last_state_change_utc": "2026-09-15T04:11:16.789187+00:00",
+  "last_state_change_utc": "2026-09-15T07:01:24.272788+00:00",
   "market_noise_suppressed": 5,
   "milestone_alerts": {},
   "rumor_alerts_sent": 17,
@@ -6621,7 +6641,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 16,
   "rumor_integrity_repairs": 1077,
-  "rumor_last_scan_utc": "2026-09-15T04:10:45.953272+00:00",
+  "rumor_last_scan_utc": "2026-09-15T07:00:57.447073+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -9161,6 +9181,7 @@
     "30d8f6f1cbecf8d5037a22e94d438f85f617b3203d43a2fc1f0ea8d6e98b60e1": "2026-08-14T10:15:00.868800+00:00",
     "32a03db354f787a7abe2405f9ad29567f8ccc17313ae160654afff4a4f3eda0e": "2026-09-02T19:21:15.784045+00:00",
     "33cd8caf070b1689d28a239c9e5449cad19f070f19bc288fa4ef04429de2ae78": "2026-08-28T13:40:50.293389+00:00",
+    "35caa677fedc0bf6c3a8fe7f823443af0bd6f067d0642818b29bccc275122630": "2026-09-15T07:01:24.271273+00:00",
     "373b1b316631890d135041562ced1130c3284bda56678d82bdd6f3d5ba7eaddb": "2026-08-25T02:20:52.960599+00:00",
     "3a7fea397da12bff007ca10795e61cf589f20784b267f5e8bff9244c53b0c9d3": "2026-08-14T10:15:00.868800+00:00",
     "3bdc208def8f4cdbbd78eaa106220cad71db8e2c272145270ec43c468a39983f": "2026-08-29T15:41:14.282680+00:00",
