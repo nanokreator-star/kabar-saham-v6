@@ -2,15 +2,15 @@
   "baseline_initialized": true,
   "early_signal_alerts_sent": 20,
   "early_signal_baseline_initialized": true,
-  "early_signal_duplicates_suppressed": 655,
-  "early_signal_last_scan_utc": "2026-09-16T16:40:45.925554+00:00",
+  "early_signal_duplicates_suppressed": 656,
+  "early_signal_last_scan_utc": "2026-09-16T16:50:49.857267+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": 11.27,
       "combined": true,
       "direction": "UP",
       "last_alert_utc": "2026-09-02T02:50:49.330825+00:00",
-      "last_seen_utc": "2026-09-16T16:40:45.925544+00:00",
+      "last_seen_utc": "2026-09-16T16:50:49.857256+00:00",
       "level": "HIGH",
       "market_date": "2026-09-16",
       "signature": "BYAN|2026-09-16|HIGH|UP|RUMOR|AKUISISI / TAKEOVER|TICKER|BYAN",
@@ -6935,7 +6935,7 @@
     }
   },
   "last_keepalive_utc": "2026-09-11T10:21:25.319722+00:00",
-  "last_state_change_utc": "2026-09-16T16:40:46.103730+00:00",
+  "last_state_change_utc": "2026-09-16T16:50:49.890962+00:00",
   "market_noise_suppressed": 5,
   "milestone_alerts": {},
   "rumor_alerts_sent": 18,
@@ -6943,11 +6943,11 @@
   "rumor_confirmed_count": 0,
   "rumor_confirmed_dedups": 0,
   "rumor_denied_count": 0,
-  "rumor_duplicates_suppressed": 443,
+  "rumor_duplicates_suppressed": 444,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 17,
   "rumor_integrity_repairs": 1078,
-  "rumor_last_scan_utc": "2026-09-16T16:40:45.634895+00:00",
+  "rumor_last_scan_utc": "2026-09-16T16:50:49.140827+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -7091,7 +7091,7 @@
         "underwriter": null
       },
       "semantic_copy_count": 0,
-      "source": "Katadata.co.id",
+      "source": "katadata.co.id",
       "source_breakdown": [
         {
           "derivative": false,
@@ -7099,7 +7099,7 @@
           "new_material": 0,
           "quality": "HIGH",
           "semantic_copy": false,
-          "source": "Katadata.co.id",
+          "source": "katadata.co.id",
           "tier": 4,
           "weight": 1.0
         }
@@ -7108,7 +7108,7 @@
       "source_quality": "MEDIUM",
       "source_quality_score": 4.0,
       "sources": [
-        "Katadata.co.id",
+        "katadata.co.id",
         "Sawitku",
         "sawitku.id",
         "Elshinta",
@@ -7120,7 +7120,7 @@
       "status": "ACTIVE",
       "strength": "WEAK",
       "ticker": "BYAN",
-      "title": "Saham BYAN Rontok di Tengah Isu Akuisisi, Haji Isam Dapat Harga TMO Lebih Murah? - Katadata.co.id"
+      "title": "Saham BYAN Rontok di Tengah Isu Akuisisi, Haji Isam Dapat Harga TMO Lebih Murah? - katadata.co.id"
     },
     "AKUISISI / TAKEOVER|TICKER|JARR": {
       "category": "AKUISISI / TAKEOVER",
