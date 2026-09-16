@@ -2,15 +2,15 @@
   "baseline_initialized": true,
   "early_signal_alerts_sent": 20,
   "early_signal_baseline_initialized": true,
-  "early_signal_duplicates_suppressed": 642,
-  "early_signal_last_scan_utc": "2026-09-16T14:30:58.333866+00:00",
+  "early_signal_duplicates_suppressed": 643,
+  "early_signal_last_scan_utc": "2026-09-16T14:40:53.997374+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": 11.27,
       "combined": true,
       "direction": "UP",
       "last_alert_utc": "2026-09-02T02:50:49.330825+00:00",
-      "last_seen_utc": "2026-09-16T14:30:58.333856+00:00",
+      "last_seen_utc": "2026-09-16T14:40:53.997360+00:00",
       "level": "HIGH",
       "market_date": "2026-09-16",
       "signature": "BYAN|2026-09-16|HIGH|UP|RUMOR|AKUISISI / TAKEOVER|TICKER|BYAN",
@@ -50,7 +50,7 @@
       "volume_ratio": 0.03
     }
   },
-  "event_duplicates_suppressed": 31,
+  "event_duplicates_suppressed": 32,
   "event_memory": {
     "IPO|TICKER|SWAP": {
       "family": "IPO",
@@ -3019,7 +3019,7 @@
       "family": "M&A / TAKEOVER",
       "first_seen_utc": "2026-09-16T11:51:06.045220+00:00",
       "last_alert_utc": "2026-09-16T11:51:06.045212+00:00",
-      "last_seen_utc": "2026-09-16T11:51:06.045212+00:00",
+      "last_seen_utc": "2026-09-16T14:41:04.317379+00:00",
       "market_context": {
         "change_pct": 9.6774,
         "last_price": 102.0,
@@ -6876,7 +6876,7 @@
     }
   },
   "last_keepalive_utc": "2026-09-11T10:21:25.319722+00:00",
-  "last_state_change_utc": "2026-09-16T14:30:58.365855+00:00",
+  "last_state_change_utc": "2026-09-16T14:41:04.318782+00:00",
   "market_noise_suppressed": 5,
   "milestone_alerts": {},
   "rumor_alerts_sent": 18,
@@ -6888,7 +6888,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 17,
   "rumor_integrity_repairs": 1077,
-  "rumor_last_scan_utc": "2026-09-16T14:30:57.683985+00:00",
+  "rumor_last_scan_utc": "2026-09-16T14:40:53.375908+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -9535,6 +9535,7 @@
     "974d92ee48b538a04596bb5c980fc09f5cd66608d901837616c28100f1b66ca5": "2026-09-15T04:11:16.787656+00:00",
     "97cca75fe23ae26fe2c41baf6f3fdf2f7b6c66b3f1b81d118e61f19471b91ab2": "2026-08-14T10:15:00.868800+00:00",
     "99043a2b0ab24c3479def238819a5cea3085b4b90ab75eb93d29577cf3a808c4": "2026-08-14T10:15:00.868800+00:00",
+    "9b876251da3c9da8dfb6d2b7ff374bcf7c1e87ec257978594c08fd6a1c119e12": "2026-09-16T14:41:04.317367+00:00",
     "9d3fc465ce464234bddf59f0d978bc50685ec987b06f0553e0d0af7bbedfc0a6": "2026-08-14T10:15:00.868800+00:00",
     "9f71a7635b17ac7558c2f03c191c657e6ed1c66594357ef909c6839ffacb08be": "2026-08-14T10:15:00.868800+00:00",
     "a0122d5c3c2c93456f86af53b3928e029b1dd537a9028200bfc392e0ab931145": "2026-08-20T03:21:47.165417+00:00",
