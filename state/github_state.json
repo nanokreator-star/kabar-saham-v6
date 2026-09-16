@@ -2,15 +2,15 @@
   "baseline_initialized": true,
   "early_signal_alerts_sent": 20,
   "early_signal_baseline_initialized": true,
-  "early_signal_duplicates_suppressed": 637,
-  "early_signal_last_scan_utc": "2026-09-16T13:40:51.257113+00:00",
+  "early_signal_duplicates_suppressed": 638,
+  "early_signal_last_scan_utc": "2026-09-16T13:50:57.623740+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": 11.27,
       "combined": true,
       "direction": "UP",
       "last_alert_utc": "2026-09-02T02:50:49.330825+00:00",
-      "last_seen_utc": "2026-09-16T13:40:51.257078+00:00",
+      "last_seen_utc": "2026-09-16T13:50:57.623729+00:00",
       "level": "HIGH",
       "market_date": "2026-09-16",
       "signature": "BYAN|2026-09-16|HIGH|UP|RUMOR|AKUISISI / TAKEOVER|TICKER|BYAN",
@@ -250,6 +250,42 @@
       "first_seen_utc": "2026-09-16T10:51:01.710386+00:00",
       "last_alert_utc": "2026-09-16T10:51:01.710380+00:00",
       "last_seen_utc": "2026-09-16T10:51:01.710380+00:00",
+      "market_context": {
+        "change_pct": null,
+        "last_price": null,
+        "market_date": null
+      },
+      "material_snapshot": {
+        "acquirer": null,
+        "acquirer_confirmed": false,
+        "event_type": "IPO",
+        "execution_price": null,
+        "ipo_single_price": null,
+        "money": [],
+        "official_authority": null,
+        "official_kind": null,
+        "price_range": null,
+        "ratio": null,
+        "schedule": {},
+        "share_count": null,
+        "stage": "RENCANA / PROSPEKTUS",
+        "stage_step": 2,
+        "stage_total": 5,
+        "stake": [],
+        "standby_buyer": null,
+        "target": null,
+        "target_confirmed": false,
+        "tender_price": null,
+        "underwriter": null,
+        "use_of_funds": []
+      },
+      "ticker": ""
+    },
+    "IPO|TITLE|CALON PASAR MODAL LESU PENJELASAN OJK CNBCINDONESIA": {
+      "family": "IPO",
+      "first_seen_utc": "2026-09-16T13:50:59.873396+00:00",
+      "last_alert_utc": "2026-09-16T13:50:59.873391+00:00",
+      "last_seen_utc": "2026-09-16T13:50:59.873391+00:00",
       "market_context": {
         "change_pct": null,
         "last_price": null,
@@ -6840,7 +6876,7 @@
     }
   },
   "last_keepalive_utc": "2026-09-11T10:21:25.319722+00:00",
-  "last_state_change_utc": "2026-09-16T13:40:51.294032+00:00",
+  "last_state_change_utc": "2026-09-16T13:50:59.874908+00:00",
   "market_noise_suppressed": 5,
   "milestone_alerts": {},
   "rumor_alerts_sent": 18,
@@ -6852,7 +6888,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 17,
   "rumor_integrity_repairs": 1077,
-  "rumor_last_scan_utc": "2026-09-16T13:40:50.477946+00:00",
+  "rumor_last_scan_utc": "2026-09-16T13:50:57.263037+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -9488,6 +9524,7 @@
     "8dc04d5574199316506030bb5c541007fb17c17ead210282668042b6fac569ed": "2026-08-29T08:01:16.460871+00:00",
     "8e2e1c61bd9210a4fa893bcd58866412788cd0b659f5b063e27d121cb335e822": "2026-09-09T02:53:14.984832+00:00",
     "8f408705a09b31a4dd6d19fbe28f287aae10585c7f5a09818df1305e3f486124": "2026-08-14T10:15:00.868800+00:00",
+    "8fe6a59ab509be0ed6fdd3ef6a90c0b4b315426ec73c90f8836ad926dd8c9063": "2026-09-16T13:50:59.873373+00:00",
     "91179b276a8babd4e5455627b8a58e07c700e166438a6a5770ecac9f2215e44d": "2026-09-10T02:03:20.729169+00:00",
     "91d8cd071c3982aa64f684578a778eb869703cb3c89f5f82e9daa5afa0b2de61": "2026-08-14T10:15:00.868800+00:00",
     "92825c7494ba089a9fe2eafd735da0209935a12eda32371d7cde9e781dc55f70": "2026-08-20T03:21:47.165417+00:00",
