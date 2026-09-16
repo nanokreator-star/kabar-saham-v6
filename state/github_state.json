@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 21,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 660,
-  "early_signal_last_scan_utc": "2026-09-16T19:50:45.756342+00:00",
+  "early_signal_last_scan_utc": "2026-09-16T20:01:01.604938+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -8.11,
@@ -758,8 +758,8 @@
     "IPO|TITLE|SIAP SIAP TUJUH CALON INCAR RP4 TRILIUN": {
       "family": "IPO",
       "first_seen_utc": "2026-09-16T16:10:50.970209+00:00",
-      "last_alert_utc": "2026-09-16T16:21:12.830029+00:00",
-      "last_seen_utc": "2026-09-16T16:21:12.830029+00:00",
+      "last_alert_utc": "2026-09-16T20:01:03.331480+00:00",
+      "last_seen_utc": "2026-09-16T20:01:03.331480+00:00",
       "market_context": {
         "change_pct": null,
         "last_price": null,
@@ -772,7 +772,6 @@
         "execution_price": null,
         "ipo_single_price": null,
         "money": [
-          "Rp101,7 triliun",
           "Rp4 triliun"
         ],
         "official_authority": null,
@@ -6935,7 +6934,7 @@
     }
   },
   "last_keepalive_utc": "2026-09-11T10:21:25.319722+00:00",
-  "last_state_change_utc": "2026-09-16T19:50:45.788269+00:00",
+  "last_state_change_utc": "2026-09-16T20:01:03.333325+00:00",
   "market_noise_suppressed": 5,
   "milestone_alerts": {},
   "rumor_alerts_sent": 18,
@@ -6943,11 +6942,11 @@
   "rumor_confirmed_count": 0,
   "rumor_confirmed_dedups": 0,
   "rumor_denied_count": 0,
-  "rumor_duplicates_suppressed": 460,
+  "rumor_duplicates_suppressed": 461,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 17,
-  "rumor_integrity_repairs": 1092,
-  "rumor_last_scan_utc": "2026-09-16T19:50:45.747499+00:00",
+  "rumor_integrity_repairs": 1093,
+  "rumor_last_scan_utc": "2026-09-16T20:01:01.592268+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -7441,15 +7440,15 @@
         "underwriter": null
       },
       "semantic_copy_count": 0,
-      "source": "idx.co.id",
+      "source": "PT Bursa Efek Indonesia",
       "source_breakdown": [
         {
           "derivative": false,
-          "group": "idx.co.id",
+          "group": "pt bursa efek indonesia",
           "new_material": 0,
           "quality": "OFFICIAL",
           "semantic_copy": false,
-          "source": "idx.co.id",
+          "source": "PT Bursa Efek Indonesia",
           "tier": 5,
           "weight": 1.1
         }
@@ -7458,13 +7457,13 @@
       "source_quality": "MEDIUM",
       "source_quality_score": 5.5,
       "sources": [
-        "idx.co.id",
-        "PT Bursa Efek Indonesia"
+        "PT Bursa Efek Indonesia",
+        "idx.co.id"
       ],
       "status": "CONFIRMED OFFICIAL",
       "strength": "CONFIRMED OFFICIAL",
       "ticker": "PARA",
-      "title": "KETERBUKAAN INFORMASI KEPADA PARA PEMEGANG SAHAM PT MERDEKA BATTERY MATERIALS TBK TERKAIT RENCANA PEMBELIAN KEMBALI SAHAM DAL - idx.co.id"
+      "title": "KETERBUKAAN INFORMASI KEPADA PARA PEMEGANG SAHAM PT MERDEKA BATTERY MATERIALS TBK TERKAIT RENCANA PEMBELIAN KEMBALI SAHAM DAL - PT Bursa Efek Indonesia"
     },
     "BUYBACK|TITLE|BUYBACK JADI KATALIS PROPERTI AGUAN PT BURSA": {
       "category": "BUYBACK",
@@ -9750,6 +9749,7 @@
     "ea1d49ec1236faf345355f86b1cdbed9030eccbb0655cb8ba4064f4984722fbe": "2026-08-14T10:15:00.868800+00:00",
     "ea5b49df6429cc6c8767991395bc48756a1c9e8d933e341a8141ed16a7888fad": "2026-08-14T23:40:54.238301+00:00",
     "ead38d8001275dd0ffb5706c852bd632a4a09fbc9c7139e273478199e46af600": "2026-08-14T10:15:00.868800+00:00",
+    "eb012a8a1476aa07b4a34dd6391427ea21e8ff1d75d795abfa483b289939ab00": "2026-09-16T20:01:03.331458+00:00",
     "eb3e884736741615c1adbe341beeb86e650e95135ab27ad9385269da6a23693d": "2026-09-05T12:51:23.895949+00:00",
     "eb67253a8680b8515b2e00a883890b74b1f59b4cac07eb4ebb63fe0f8f3bdf72": "2026-08-24T06:21:11.406424+00:00",
     "ebf9222f4fa81f5edccf19fa78a7822d62cbd89b327183d9253e3e780fab7da7": "2026-08-14T10:15:00.868800+00:00",
