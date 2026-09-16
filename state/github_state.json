@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 20,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 598,
-  "early_signal_last_scan_utc": "2026-09-15T07:00:57.458856+00:00",
+  "early_signal_last_scan_utc": "2026-09-16T05:10:45.751198+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -2.49,
@@ -2866,6 +2866,44 @@
         "use_of_funds": []
       },
       "ticker": ""
+    },
+    "M&A / TAKEOVER|TITLE|NAWASENA JADI CALON PENGENDALI BARU SIAP CAPLOK": {
+      "family": "M&A / TAKEOVER",
+      "first_seen_utc": "2026-09-16T05:11:03.419053+00:00",
+      "last_alert_utc": "2026-09-16T05:11:03.419048+00:00",
+      "last_seen_utc": "2026-09-16T05:11:03.419048+00:00",
+      "market_context": {
+        "change_pct": 9.6774,
+        "last_price": 102.0,
+        "market_date": "2026-09-16"
+      },
+      "material_snapshot": {
+        "acquirer": null,
+        "acquirer_confirmed": false,
+        "event_type": "TAKEOVER",
+        "execution_price": null,
+        "ipo_single_price": null,
+        "money": [],
+        "official_authority": null,
+        "official_kind": null,
+        "price_range": null,
+        "ratio": null,
+        "schedule": {},
+        "share_count": "707.322.700 saham",
+        "stage": "CHANGE OF CONTROL",
+        "stage_step": 5,
+        "stage_total": 7,
+        "stake": [
+          66.58
+        ],
+        "standby_buyer": null,
+        "target": null,
+        "target_confirmed": false,
+        "tender_price": null,
+        "underwriter": null,
+        "use_of_funds": []
+      },
+      "ticker": "IDEA"
     },
     "M&A / TAKEOVER|TITLE|PADA SEPI PEMINAT INET HANYA SERAP 240": {
       "family": "M&A / TAKEOVER",
@@ -6030,6 +6068,26 @@
       "verified_at": "2026-09-02T19:21:12.787675+00:00",
       "website": "https://www.ibstower.com"
     },
+    "IDEA": {
+      "business_activity": "PT Idea Indonesia Akademi Tbk focuses on recruiting, training, and distribution of hospitality human resources in collaboration with hotel chains and cruise line companies in Indonesia. The company operates in Educational institutions, HOTE",
+      "controller": null,
+      "industry": "Education & Training Services",
+      "issuer_name": "Idea Indonesia Akademi",
+      "owner_context_sources": 0,
+      "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
+      "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
+      "owner_v6_checked_utc": "2026-09-16T05:11:02.530703+00:00",
+      "owner_v6_pages_fetched": 0,
+      "profile_source": "Yahoo Finance",
+      "profile_source_quality": "FALLBACK",
+      "profile_source_url": null,
+      "sector": "Consumer Defensive",
+      "subindustry": null,
+      "subsector": null,
+      "ticker": "IDEA",
+      "verified_at": "2026-09-16T05:10:59.083904+00:00",
+      "website": "https://www.ideaindonesia.com"
+    },
     "IPAC": {
       "business_activity": "PT Era Graharealty Tbk provides property brokerage services in Indonesia. It engages in the property agency, real estate on contract basis; services related to real estate such as real estate agent and broker activities, brokerage of buying",
       "controller": null,
@@ -6629,7 +6687,7 @@
     }
   },
   "last_keepalive_utc": "2026-09-11T10:21:25.319722+00:00",
-  "last_state_change_utc": "2026-09-15T07:01:24.272788+00:00",
+  "last_state_change_utc": "2026-09-16T05:11:03.420241+00:00",
   "market_noise_suppressed": 5,
   "milestone_alerts": {},
   "rumor_alerts_sent": 17,
@@ -6641,7 +6699,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 16,
   "rumor_integrity_repairs": 1077,
-  "rumor_last_scan_utc": "2026-09-15T07:00:57.447073+00:00",
+  "rumor_last_scan_utc": "2026-09-16T05:10:45.742777+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -9227,6 +9285,7 @@
     "616989ebd24b7809db1cec6e92cdccfa251fb5b0dd665767864ef0d758d8e7e6": "2026-08-14T10:15:00.868800+00:00",
     "646b85801b59b7050b05830457080dbec683e7d99c6192fb3a280114460d7df8": "2026-08-14T10:15:00.868800+00:00",
     "651597f755a571b1795bffd9abc30d78055e9e8dc60ce9a2f18cbd85114e1380": "2026-09-04T21:01:15.994282+00:00",
+    "66cc00243bb6a8bfbc4d97203c2a5f9b1c5cd40ab2956cb5c237193ac3c22fbe": "2026-09-16T05:11:03.419031+00:00",
     "66ed0e932d59d13861d953962d6068888b45db61163663a8c6fb5bb53db04500": "2026-08-26T20:51:36.935635+00:00",
     "6954cec496e573e783ac044e5406aa21e590046c6ce3fc9626acec0a40a9e9f9": "2026-08-23T18:01:17.078390+00:00",
     "6961e4412739374464ff56e1b4e06e5b6475ac1f443c928a76a26014d3ebbf38": "2026-08-14T10:15:00.868800+00:00",
