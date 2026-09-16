@@ -2,15 +2,15 @@
   "baseline_initialized": true,
   "early_signal_alerts_sent": 20,
   "early_signal_baseline_initialized": true,
-  "early_signal_duplicates_suppressed": 625,
-  "early_signal_last_scan_utc": "2026-09-16T11:40:42.217360+00:00",
+  "early_signal_duplicates_suppressed": 626,
+  "early_signal_last_scan_utc": "2026-09-16T11:50:53.444259+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": 11.27,
       "combined": true,
       "direction": "UP",
       "last_alert_utc": "2026-09-02T02:50:49.330825+00:00",
-      "last_seen_utc": "2026-09-16T11:40:42.217351+00:00",
+      "last_seen_utc": "2026-09-16T11:50:53.444249+00:00",
       "level": "HIGH",
       "market_date": "2026-09-16",
       "signature": "BYAN|2026-09-16|HIGH|UP|RUMOR|AKUISISI / TAKEOVER|TICKER|BYAN",
@@ -2978,6 +2978,47 @@
         "use_of_funds": []
       },
       "ticker": ""
+    },
+    "M&A / TAKEOVER|TITLE|NAWASENA 66 58 IDEA SIAP JADI PENGENDALI": {
+      "family": "M&A / TAKEOVER",
+      "first_seen_utc": "2026-09-16T11:51:06.045220+00:00",
+      "last_alert_utc": "2026-09-16T11:51:06.045212+00:00",
+      "last_seen_utc": "2026-09-16T11:51:06.045212+00:00",
+      "market_context": {
+        "change_pct": 9.6774,
+        "last_price": 102.0,
+        "market_date": "2026-09-16"
+      },
+      "material_snapshot": {
+        "acquirer": null,
+        "acquirer_confirmed": false,
+        "event_type": "TAKEOVER",
+        "execution_price": null,
+        "ipo_single_price": null,
+        "money": [],
+        "official_authority": null,
+        "official_kind": null,
+        "price_range": null,
+        "ratio": null,
+        "schedule": {},
+        "share_count": "707,32 juta saham",
+        "stage": "SPA / SIGNED",
+        "stage_step": 4,
+        "stage_total": 7,
+        "stake": [
+          66.58
+        ],
+        "standby_buyer": null,
+        "target": "IDEA",
+        "target_confirmed": true,
+        "tender_price": null,
+        "underwriter": null,
+        "use_of_funds": [
+          "AKUISISI / INVESTASI",
+          "EKSPANSI / CAPEX"
+        ]
+      },
+      "ticker": "IDEA"
     },
     "M&A / TAKEOVER|TITLE|NAWASENA JADI CALON PENGENDALI BARU SIAP CAPLOK": {
       "family": "M&A / TAKEOVER",
@@ -6799,7 +6840,7 @@
     }
   },
   "last_keepalive_utc": "2026-09-11T10:21:25.319722+00:00",
-  "last_state_change_utc": "2026-09-16T11:40:42.238246+00:00",
+  "last_state_change_utc": "2026-09-16T11:51:06.046737+00:00",
   "market_noise_suppressed": 5,
   "milestone_alerts": {},
   "rumor_alerts_sent": 18,
@@ -6811,7 +6852,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 17,
   "rumor_integrity_repairs": 1077,
-  "rumor_last_scan_utc": "2026-09-16T11:40:41.347724+00:00",
+  "rumor_last_scan_utc": "2026-09-16T11:50:53.011549+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -9382,6 +9423,7 @@
     "4e440b65597626aeb9c337edac2f1103fb81d8886d5affb654ce547d687ff0c1": "2026-08-14T10:15:00.868800+00:00",
     "506893ebda30af93e087aec77e99484f293d111128bdf15aaf17dbe027e48693": "2026-08-24T18:40:58.818833+00:00",
     "50ad4d7c9c039627d76169a49ab09b4d4e66fdfb5259614ccc6f0dd634aa5d46": "2026-08-14T10:15:00.868800+00:00",
+    "5113a319f2a00906c0e34afc4632a485058a1e0a13ddb85419f68ac6fd7c93d8": "2026-09-16T11:51:06.045192+00:00",
     "53e95c182b4ff32e6c77f31910f263a3d61f61206ca6a399dd525c83434f0d2d": "2026-08-31T02:30:59.962731+00:00",
     "545b06b3f1d4403eb1cdd1af9eadc9bf16b65070a95108d13313d06039310251": "2026-08-14T10:15:00.868800+00:00",
     "5531875ed0b9be51815ca052b03d674b0a20b8a2f5337a068932188574711052": "2026-08-21T13:01:30.058267+00:00",
