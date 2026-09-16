@@ -2,15 +2,15 @@
   "baseline_initialized": true,
   "early_signal_alerts_sent": 20,
   "early_signal_baseline_initialized": true,
-  "early_signal_duplicates_suppressed": 650,
-  "early_signal_last_scan_utc": "2026-09-16T15:50:50.868634+00:00",
+  "early_signal_duplicates_suppressed": 651,
+  "early_signal_last_scan_utc": "2026-09-16T16:01:20.180231+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": 11.27,
       "combined": true,
       "direction": "UP",
       "last_alert_utc": "2026-09-02T02:50:49.330825+00:00",
-      "last_seen_utc": "2026-09-16T15:50:50.868622+00:00",
+      "last_seen_utc": "2026-09-16T16:01:20.180220+00:00",
       "level": "HIGH",
       "market_date": "2026-09-16",
       "signature": "BYAN|2026-09-16|HIGH|UP|RUMOR|AKUISISI / TAKEOVER|TICKER|BYAN",
@@ -6593,6 +6593,26 @@
       "verified_at": "2026-08-23T05:01:05.574031+00:00",
       "website": "https://www.flexypack.com"
     },
+    "PARA": {
+      "business_activity": null,
+      "controller": null,
+      "industry": null,
+      "issuer_name": "PARA",
+      "owner_context_sources": 0,
+      "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
+      "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
+      "owner_v6_checked_utc": "2026-09-16T16:01:15.454274+00:00",
+      "owner_v6_pages_fetched": 0,
+      "profile_source": "Yahoo Finance",
+      "profile_source_quality": "FALLBACK",
+      "profile_source_url": null,
+      "sector": null,
+      "subindustry": null,
+      "subsector": null,
+      "ticker": "PARA",
+      "verified_at": "2026-09-16T16:01:15.952907+00:00",
+      "website": null
+    },
     "PDSI": {
       "business_activity": null,
       "controller": null,
@@ -6876,7 +6896,7 @@
     }
   },
   "last_keepalive_utc": "2026-09-11T10:21:25.319722+00:00",
-  "last_state_change_utc": "2026-09-16T15:50:50.904426+00:00",
+  "last_state_change_utc": "2026-09-16T16:01:20.212754+00:00",
   "market_noise_suppressed": 5,
   "milestone_alerts": {},
   "rumor_alerts_sent": 18,
@@ -6888,7 +6908,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 17,
   "rumor_integrity_repairs": 1077,
-  "rumor_last_scan_utc": "2026-09-16T15:50:50.129535+00:00",
+  "rumor_last_scan_utc": "2026-09-16T16:01:20.056587+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -7327,6 +7347,84 @@
       "strength": "CONFIRMED OFFICIAL",
       "ticker": "BBHI",
       "title": "BBHI 2026 Share BuyBack Tranche II - Fakta Material - v1.0 Final rev 20260902 - PT Bursa Efek Indonesia"
+    },
+    "BUYBACK|TICKER|PARA": {
+      "category": "BUYBACK",
+      "company_name": "PT MERDEKA BATTERY MATERIALS TBK TERKAIT RENCANA PEMBELIAN KEMBALI SAHAM DAL",
+      "copy_duplicate_count": 0,
+      "credible_effective_independent_count": 1.1,
+      "derivative_source_count": 0,
+      "detected_source_count": 1,
+      "effective_independent_count": 1.1,
+      "entity_aliases": [
+        "MERDEKA BATTERY MATERIALS TBK TERKAIT RENCANA PEMBELIAN KEMBALI SAHAM DAL"
+      ],
+      "entity_resolution_source": null,
+      "first_seen_utc": "2026-09-16T13:59:46+00:00",
+      "high_quality_source_count": 1,
+      "independent_story_count": 1,
+      "issuer_profile": {
+        "business_activity": null,
+        "controller": null,
+        "industry": null,
+        "issuer_name": "PARA",
+        "owner_context_sources": 0,
+        "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
+        "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
+        "owner_v6_checked_utc": "2026-09-16T16:01:15.454274+00:00",
+        "owner_v6_pages_fetched": 0,
+        "profile_source": "Yahoo Finance",
+        "profile_source_quality": "FALLBACK",
+        "profile_source_url": null,
+        "sector": null,
+        "subindustry": null,
+        "subsector": null,
+        "ticker": "PARA",
+        "verified_at": "2026-09-16T16:01:15.952907+00:00",
+        "website": null
+      },
+      "key": "BUYBACK|TICKER|PARA",
+      "last_seen_utc": "2026-09-16T13:59:46+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQXJ4LTlMNU9KeG53a3lmMWZ3UmRJZjg5RGNRZW8xUlBtSV9fRjBaaGZlZ0hybDRtSWdVaEFZeTZUdWZ6MllsbUtzeTlUaGRtN0pPbTlkdFBvUW1fY1E5aHpYcUk4WUtrcDZkcWRtcXBWdzRSUklaQzVBdVY3YURzUVB0eEZlcVZJSnFsZ2hORDRFZ0pFZ1dBVWhxUHhNU1J4M3B2R2dycF9seVZtSWg5N2FRMA?oc=5",
+      "market_data": null,
+      "official_confirmation": null,
+      "premium_source_count": 1,
+      "profile_refresh_utc": "2026-09-16T16:01:20.052886+00:00",
+      "published": "Wed, 16 Sep 2026 13:59:46 GMT",
+      "rumor_details": {
+        "ipo_price": null,
+        "listing_estimate": null,
+        "money": [],
+        "percentages": [],
+        "price_range": null,
+        "rumored_party": null,
+        "share_count": null,
+        "underwriter": null
+      },
+      "semantic_copy_count": 0,
+      "source": "PT Bursa Efek Indonesia",
+      "source_breakdown": [
+        {
+          "derivative": false,
+          "group": "pt bursa efek indonesia",
+          "new_material": 0,
+          "quality": "OFFICIAL",
+          "semantic_copy": false,
+          "source": "PT Bursa Efek Indonesia",
+          "tier": 5,
+          "weight": 1.1
+        }
+      ],
+      "source_count": 1,
+      "source_quality": "MEDIUM",
+      "source_quality_score": 5.5,
+      "sources": [
+        "PT Bursa Efek Indonesia"
+      ],
+      "status": "CONFIRMED OFFICIAL",
+      "strength": "CONFIRMED OFFICIAL",
+      "ticker": "PARA",
+      "title": "KETERBUKAAN INFORMASI KEPADA PARA PEMEGANG SAHAM PT MERDEKA BATTERY MATERIALS TBK TERKAIT RENCANA PEMBELIAN KEMBALI SAHAM DAL - PT Bursa Efek Indonesia"
     },
     "BUYBACK|TITLE|BUYBACK JADI KATALIS PROPERTI AGUAN PT BURSA": {
       "category": "BUYBACK",
