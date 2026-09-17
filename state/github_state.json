@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 21,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 660,
-  "early_signal_last_scan_utc": "2026-09-17T03:41:52.005682+00:00",
+  "early_signal_last_scan_utc": "2026-09-17T04:10:59.632635+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -8.11,
@@ -6641,7 +6641,7 @@
       "owner_context_sources": 0,
       "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
       "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-      "owner_v6_checked_utc": "2026-09-16T16:01:15.454274+00:00",
+      "owner_v6_checked_utc": "2026-09-17T04:10:51.161998+00:00",
       "owner_v6_pages_fetched": 0,
       "profile_source": "Yahoo Finance",
       "profile_source_quality": "FALLBACK",
@@ -6650,7 +6650,7 @@
       "subindustry": null,
       "subsector": null,
       "ticker": "PARA",
-      "verified_at": "2026-09-16T16:01:15.952907+00:00",
+      "verified_at": "2026-09-17T04:10:52.734765+00:00",
       "website": null
     },
     "PDSI": {
@@ -6936,7 +6936,7 @@
     }
   },
   "last_keepalive_utc": "2026-09-11T10:21:25.319722+00:00",
-  "last_state_change_utc": "2026-09-17T03:41:52.007129+00:00",
+  "last_state_change_utc": "2026-09-17T04:10:59.661355+00:00",
   "market_noise_suppressed": 5,
   "milestone_alerts": {},
   "rumor_alerts_sent": 18,
@@ -6948,7 +6948,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 17,
   "rumor_integrity_repairs": 1138,
-  "rumor_last_scan_utc": "2026-09-17T03:41:52.005607+00:00",
+  "rumor_last_scan_utc": "2026-09-17T04:10:59.620681+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -7411,7 +7411,7 @@
         "owner_context_sources": 0,
         "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
         "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-        "owner_v6_checked_utc": "2026-09-16T16:01:15.454274+00:00",
+        "owner_v6_checked_utc": "2026-09-17T04:10:51.161998+00:00",
         "owner_v6_pages_fetched": 0,
         "profile_source": "Yahoo Finance",
         "profile_source_quality": "FALLBACK",
@@ -7420,7 +7420,7 @@
         "subindustry": null,
         "subsector": null,
         "ticker": "PARA",
-        "verified_at": "2026-09-16T16:01:15.952907+00:00",
+        "verified_at": "2026-09-17T04:10:52.734765+00:00",
         "website": null
       },
       "key": "BUYBACK|TICKER|PARA",
@@ -7429,7 +7429,7 @@
       "market_data": null,
       "official_confirmation": null,
       "premium_source_count": 1,
-      "profile_refresh_utc": "2026-09-16T16:01:20.052886+00:00",
+      "profile_refresh_utc": "2026-09-17T04:10:59.619578+00:00",
       "published": "Wed, 16 Sep 2026 13:59:46 GMT",
       "rumor_details": {
         "ipo_price": null,
