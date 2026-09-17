@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 21,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 660,
-  "early_signal_last_scan_utc": "2026-09-17T09:10:44.834212+00:00",
+  "early_signal_last_scan_utc": "2026-09-17T13:40:46.033540+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -8.11,
@@ -562,6 +562,44 @@
         "share_count": null,
         "stage": "RENCANA / PROSPEKTUS",
         "stage_step": 2,
+        "stage_total": 5,
+        "stake": [],
+        "standby_buyer": null,
+        "target": null,
+        "target_confirmed": false,
+        "tender_price": null,
+        "underwriter": null,
+        "use_of_funds": []
+      },
+      "ticker": ""
+    },
+    "IPO|TITLE|OJK UNGKAP TUJUH CALON ANTRE TARGETKAN DANA": {
+      "family": "IPO",
+      "first_seen_utc": "2026-09-17T13:41:16.554144+00:00",
+      "last_alert_utc": "2026-09-17T13:41:16.554137+00:00",
+      "last_seen_utc": "2026-09-17T13:41:16.554137+00:00",
+      "market_context": {
+        "change_pct": null,
+        "last_price": null,
+        "market_date": null
+      },
+      "material_snapshot": {
+        "acquirer": null,
+        "acquirer_confirmed": false,
+        "event_type": "IPO",
+        "execution_price": null,
+        "ipo_single_price": null,
+        "money": [
+          "Rp4,02 triliun"
+        ],
+        "official_authority": null,
+        "official_kind": null,
+        "price_range": null,
+        "ratio": null,
+        "schedule": {},
+        "share_count": null,
+        "stage": "OFFERING",
+        "stage_step": 4,
         "stage_total": 5,
         "stake": [],
         "standby_buyer": null,
@@ -6936,7 +6974,7 @@
     }
   },
   "last_keepalive_utc": "2026-09-11T10:21:25.319722+00:00",
-  "last_state_change_utc": "2026-09-17T09:10:44.867414+00:00",
+  "last_state_change_utc": "2026-09-17T13:41:16.555701+00:00",
   "market_noise_suppressed": 5,
   "milestone_alerts": {},
   "rumor_alerts_sent": 18,
@@ -6948,7 +6986,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 17,
   "rumor_integrity_repairs": 1139,
-  "rumor_last_scan_utc": "2026-09-17T09:10:44.823388+00:00",
+  "rumor_last_scan_utc": "2026-09-17T13:40:46.020791+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -9578,6 +9616,7 @@
     "3a7fea397da12bff007ca10795e61cf589f20784b267f5e8bff9244c53b0c9d3": "2026-08-14T10:15:00.868800+00:00",
     "3bdc208def8f4cdbbd78eaa106220cad71db8e2c272145270ec43c468a39983f": "2026-08-29T15:41:14.282680+00:00",
     "3c39203f674a01980cbde1c95618087830dd92233aecd2ca74bba44a7b7a15be": "2026-08-14T10:15:00.868800+00:00",
+    "3d665ab0cd29f350f3346cba976cb171cb092113b23a8df1bbade56474cec812": "2026-09-17T13:41:16.554119+00:00",
     "3dbdf2f77ee261670cb36301fd0ec3dc867f357387641fa5163a8ee63385a4fd": "2026-08-14T10:15:00.868800+00:00",
     "3dd4c109b4e10e17db4bf5f64714b0479ece921ee46bc49e3cd5356ef1344caa": "2026-08-14T10:15:00.868800+00:00",
     "3eaf23d92beb13f67754f697873e7f546adf2546e6991d8c674875245db09dac": "2026-08-14T10:15:00.868800+00:00",
