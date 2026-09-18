@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 21,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 660,
-  "early_signal_last_scan_utc": "2026-09-18T01:40:47.307594+00:00",
+  "early_signal_last_scan_utc": "2026-09-18T01:51:00.895484+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -8.11,
@@ -3741,6 +3741,47 @@
       },
       "ticker": ""
     },
+    "M&A / TAKEOVER|TITLE|SGI INET 2026 NILAI TRANSAKSI RP280 MILIAR": {
+      "family": "M&A / TAKEOVER",
+      "first_seen_utc": "2026-09-18T01:41:15.519996+00:00",
+      "last_alert_utc": "2026-09-18T01:41:15.519996+00:00",
+      "last_seen_utc": "2026-09-18T01:41:15.519996+00:00",
+      "market_context": {
+        "change_pct": null,
+        "last_price": null,
+        "market_date": null
+      },
+      "material_snapshot": {
+        "acquirer": null,
+        "acquirer_confirmed": false,
+        "event_type": "AKUISISI",
+        "execution_price": null,
+        "ipo_single_price": null,
+        "money": [
+          "Rp280 miliar"
+        ],
+        "official_authority": null,
+        "official_kind": null,
+        "price_range": null,
+        "ratio": null,
+        "schedule": {},
+        "share_count": null,
+        "stage": "SPA / SIGNED",
+        "stage_step": 4,
+        "stage_total": 7,
+        "stake": [],
+        "standby_buyer": null,
+        "target": null,
+        "target_confirmed": false,
+        "tender_price": null,
+        "underwriter": null,
+        "use_of_funds": [
+          "AKUISISI / INVESTASI",
+          "EKSPANSI / CAPEX"
+        ]
+      },
+      "ticker": ""
+    },
     "M&A / TAKEOVER|TITLE|TRACK RECORD MENYELISIK JEJAK PENGENDALI BARU BIKE": {
       "family": "M&A / TAKEOVER",
       "first_seen_utc": "2026-08-23T18:01:17.078414+00:00",
@@ -7120,7 +7161,7 @@
     }
   },
   "last_keepalive_utc": "2026-09-11T10:21:25.319722+00:00",
-  "last_state_change_utc": "2026-09-18T01:41:15.521553+00:00",
+  "last_state_change_utc": "2026-09-18T01:51:00.932383+00:00",
   "market_noise_suppressed": 5,
   "milestone_alerts": {},
   "rumor_alerts_sent": 18,
@@ -7132,7 +7173,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 17,
   "rumor_integrity_repairs": 1139,
-  "rumor_last_scan_utc": "2026-09-18T01:40:47.295071+00:00",
+  "rumor_last_scan_utc": "2026-09-18T01:51:00.882729+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
