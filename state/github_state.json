@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 21,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 660,
-  "early_signal_last_scan_utc": "2026-09-18T20:30:58.812235+00:00",
+  "early_signal_last_scan_utc": "2026-09-18T20:41:27.207852+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -8.11,
@@ -7025,7 +7025,7 @@
       "owner_context_sources": 0,
       "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
       "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-      "owner_v6_checked_utc": "2026-09-18T08:31:26.573660+00:00",
+      "owner_v6_checked_utc": "2026-09-18T20:40:53.417849+00:00",
       "owner_v6_pages_fetched": 0,
       "profile_source": "Yahoo Finance",
       "profile_source_quality": "FALLBACK",
@@ -7034,7 +7034,7 @@
       "subindustry": null,
       "subsector": null,
       "ticker": "PARA",
-      "verified_at": "2026-09-18T08:31:27.156168+00:00",
+      "verified_at": "2026-09-18T20:40:54.785542+00:00",
       "website": null
     },
     "PDSI": {
@@ -7340,7 +7340,7 @@
     }
   },
   "last_keepalive_utc": "2026-09-11T10:21:25.319722+00:00",
-  "last_state_change_utc": "2026-09-18T20:30:58.853681+00:00",
+  "last_state_change_utc": "2026-09-18T20:41:27.245553+00:00",
   "market_noise_suppressed": 5,
   "milestone_alerts": {},
   "rumor_alerts_sent": 18,
@@ -7348,11 +7348,11 @@
   "rumor_confirmed_count": 0,
   "rumor_confirmed_dedups": 0,
   "rumor_denied_count": 0,
-  "rumor_duplicates_suppressed": 498,
+  "rumor_duplicates_suppressed": 499,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 17,
-  "rumor_integrity_repairs": 1209,
-  "rumor_last_scan_utc": "2026-09-18T20:30:58.797759+00:00",
+  "rumor_integrity_repairs": 1210,
+  "rumor_last_scan_utc": "2026-09-18T20:41:27.193497+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -7794,7 +7794,7 @@
     },
     "BUYBACK|TICKER|PARA": {
       "category": "BUYBACK",
-      "company_name": "PT MERDEKA BATTERY MATERIALS TBK TERKAIT RENCANA PEMBELIAN KEMBALI SAHAM DAL",
+      "company_name": "PARA",
       "copy_duplicate_count": 0,
       "credible_effective_independent_count": 1.1,
       "derivative_source_count": 0,
@@ -7815,7 +7815,7 @@
         "owner_context_sources": 0,
         "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
         "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-        "owner_v6_checked_utc": "2026-09-18T08:31:26.573660+00:00",
+        "owner_v6_checked_utc": "2026-09-18T20:40:53.417849+00:00",
         "owner_v6_pages_fetched": 0,
         "profile_source": "Yahoo Finance",
         "profile_source_quality": "FALLBACK",
@@ -7824,7 +7824,7 @@
         "subindustry": null,
         "subsector": null,
         "ticker": "PARA",
-        "verified_at": "2026-09-18T08:31:27.156168+00:00",
+        "verified_at": "2026-09-18T20:40:54.785542+00:00",
         "website": null
       },
       "key": "BUYBACK|TICKER|PARA",
@@ -7833,7 +7833,7 @@
       "market_data": null,
       "official_confirmation": null,
       "premium_source_count": 1,
-      "profile_refresh_utc": "2026-09-18T08:31:31.375286+00:00",
+      "profile_refresh_utc": "2026-09-18T20:41:27.191991+00:00",
       "published": "Wed, 16 Sep 2026 13:59:46 GMT",
       "rumor_details": {
         "ipo_price": null,
@@ -7846,15 +7846,15 @@
         "underwriter": null
       },
       "semantic_copy_count": 0,
-      "source": "idx.co.id",
+      "source": "PT Bursa Efek Indonesia",
       "source_breakdown": [
         {
           "derivative": false,
-          "group": "idx.co.id",
+          "group": "pt bursa efek indonesia",
           "new_material": 0,
           "quality": "OFFICIAL",
           "semantic_copy": false,
-          "source": "idx.co.id",
+          "source": "PT Bursa Efek Indonesia",
           "tier": 5,
           "weight": 1.1
         }
@@ -7863,13 +7863,13 @@
       "source_quality": "MEDIUM",
       "source_quality_score": 5.5,
       "sources": [
-        "idx.co.id",
-        "PT Bursa Efek Indonesia"
+        "PT Bursa Efek Indonesia",
+        "idx.co.id"
       ],
       "status": "CONFIRMED OFFICIAL",
       "strength": "CONFIRMED OFFICIAL",
       "ticker": "PARA",
-      "title": "KETERBUKAAN INFORMASI KEPADA PARA PEMEGANG SAHAM PT MERDEKA BATTERY MATERIALS TBK TERKAIT RENCANA PEMBELIAN KEMBALI SAHAM DAL - idx.co.id"
+      "title": "KETERBUKAAN INFORMASI KEPADA PARA PEMEGANG SAHAM PT MERDEKA BATTERY MATERIALS TBK TERKAIT RENCANA PEMBELIAN KEMBALI SAHAM DAL - PT Bursa Efek Indonesia"
     },
     "BUYBACK|TITLE|BUYBACK JADI KATALIS PROPERTI AGUAN PT BURSA": {
       "category": "BUYBACK",
