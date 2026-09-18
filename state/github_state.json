@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 21,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 660,
-  "early_signal_last_scan_utc": "2026-09-17T23:40:58.122650+00:00",
+  "early_signal_last_scan_utc": "2026-09-18T01:40:47.307594+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -8.11,
@@ -1800,6 +1800,56 @@
         ]
       },
       "ticker": "IDEA"
+    },
+    "M&A / TAKEOVER|TICKER|INET": {
+      "family": "M&A / TAKEOVER",
+      "first_seen_utc": "2026-09-18T01:41:15.520020+00:00",
+      "last_alert_utc": "2026-09-18T01:41:15.520013+00:00",
+      "last_seen_utc": "2026-09-18T01:41:15.520013+00:00",
+      "market_context": {
+        "change_pct": 6.962,
+        "last_price": 338.0,
+        "market_date": "2026-09-17"
+      },
+      "material_snapshot": {
+        "acquirer": null,
+        "acquirer_confirmed": false,
+        "event_type": "AKUISISI",
+        "execution_price": null,
+        "ipo_single_price": null,
+        "money": [
+          "Rp280 miliar",
+          "Rp280,4 miliar",
+          "Rp223,74 miliar",
+          "Rp4,66 miliar",
+          "Rp15,72 miliar"
+        ],
+        "official_authority": null,
+        "official_kind": null,
+        "price_range": null,
+        "ratio": null,
+        "schedule": {},
+        "share_count": null,
+        "stage": "SPA / SIGNED",
+        "stage_step": 4,
+        "stage_total": 7,
+        "stake": [
+          60.0,
+          65.33,
+          100.0
+        ],
+        "standby_buyer": null,
+        "target": "INET",
+        "target_confirmed": true,
+        "tender_price": null,
+        "underwriter": null,
+        "use_of_funds": [
+          "AKUISISI / INVESTASI",
+          "EKSPANSI / CAPEX",
+          "MODAL KERJA"
+        ]
+      },
+      "ticker": "INET"
     },
     "M&A / TAKEOVER|TICKER|INPS": {
       "family": "M&A / TAKEOVER",
@@ -6431,6 +6481,26 @@
       "verified_at": "2026-09-16T05:10:59.083904+00:00",
       "website": "https://www.ideaindonesia.com"
     },
+    "INET": {
+      "business_activity": "PT Sinergi Inti Andalan Prima Tbk engages in the provision of internet services in Indonesia. The company offers data center interconnection, SD-WAN networking, colocation, multi-service port, cloud-centric enterprise network, and managed s",
+      "controller": null,
+      "industry": "Telecom Services",
+      "issuer_name": "Sinergi Inti Andalan Prima",
+      "owner_context_sources": 0,
+      "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
+      "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
+      "owner_v6_checked_utc": "2026-09-18T01:41:15.019545+00:00",
+      "owner_v6_pages_fetched": 0,
+      "profile_source": "Yahoo Finance",
+      "profile_source_quality": "FALLBACK",
+      "profile_source_url": null,
+      "sector": "Communication Services",
+      "subindustry": null,
+      "subsector": null,
+      "ticker": "INET",
+      "verified_at": "2026-09-18T01:41:11.419885+00:00",
+      "website": "https://siapnetworks.co.id"
+    },
     "IPAC": {
       "business_activity": "PT Era Graharealty Tbk provides property brokerage services in Indonesia. It engages in the property agency, real estate on contract basis; services related to real estate such as real estate agent and broker activities, brokerage of buying",
       "controller": null,
@@ -7050,7 +7120,7 @@
     }
   },
   "last_keepalive_utc": "2026-09-11T10:21:25.319722+00:00",
-  "last_state_change_utc": "2026-09-17T23:40:58.322525+00:00",
+  "last_state_change_utc": "2026-09-18T01:41:15.521553+00:00",
   "market_noise_suppressed": 5,
   "milestone_alerts": {},
   "rumor_alerts_sent": 18,
@@ -7062,7 +7132,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 17,
   "rumor_integrity_repairs": 1139,
-  "rumor_last_scan_utc": "2026-09-17T23:40:58.113319+00:00",
+  "rumor_last_scan_utc": "2026-09-18T01:40:47.295071+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -9640,12 +9710,14 @@
     "51d35c607eaa44b9a3cffdac7dbb07b0c41ad213da31323fece5f701ae85aa54": "2026-09-17T19:41:14.787581+00:00",
     "53e95c182b4ff32e6c77f31910f263a3d61f61206ca6a399dd525c83434f0d2d": "2026-08-31T02:30:59.962731+00:00",
     "545b06b3f1d4403eb1cdd1af9eadc9bf16b65070a95108d13313d06039310251": "2026-08-14T10:15:00.868800+00:00",
+    "5530899577172a24e7782183fb75aeadd93a98f4def48e343ef0a8b642b49e6e": "2026-09-18T01:41:15.519996+00:00",
     "5531875ed0b9be51815ca052b03d674b0a20b8a2f5337a068932188574711052": "2026-08-21T13:01:30.058267+00:00",
     "562524ce39b0ace06378da183171f5e396932cfd327cf72e7feabba80eda1c98": "2026-08-14T10:15:00.868800+00:00",
     "567cb3502a7367f757a41f71e44169a4b2cd0e1a75b5eadb8f788aad9d722741": "2026-08-14T10:15:00.868800+00:00",
     "57f2d53c0677b8f21b0d15c45dcf56ccf88e024fe76d0bcb61ca482ad2aa5328": "2026-09-07T09:00:57.296405+00:00",
     "5857fcb1a51610e48aa797a3eb1a64e8fffac1b2d2812c9cb580f2453e2dba9d": "2026-08-14T10:15:00.868800+00:00",
     "588ad493797c372d05a9b74a128bb94595439789e63e64e83e02d62a5c0e95ff": "2026-08-14T10:15:00.868800+00:00",
+    "58e9ec27c1150d25f173acb7e63bd891bd4bf2672b63207badf4d4b5cbfac510": "2026-09-18T01:41:15.519996+00:00",
     "58eff29ec5e4d01bedd3be6c07f8939acaf478b8ecd111fa9af2cbceba007833": "2026-08-14T10:15:00.868800+00:00",
     "5ab4ea9405930f2be6c7ada6afe3359ac36c55f783bce32db38174882bd3566e": "2026-09-16T16:21:12.830013+00:00",
     "5b3542b98065b00c16b28b44a087fb7bf627a8a36ae09581bde630cf44911a3f": "2026-08-25T03:40:44.114758+00:00",
@@ -9688,6 +9760,7 @@
     "7d39fc6ab050a0a2d42c9c3373fb1fd1429b7fb1f5ac87b806bf01873b94f064": "2026-09-07T05:41:22.094975+00:00",
     "7d8e7d6e1fec2363d57c09750844e6d9b711996c3bf54b8b1e2236907115e8e4": "2026-09-16T05:20:51.883358+00:00",
     "7df87c4aa27eae4980c08f2a6fd81624b3e5752a762637585f0752e2c8e809a7": "2026-09-07T05:20:47.269722+00:00",
+    "7e3895e7ee8d0a4e6fc9cd2457a395bf07585a701621d7222d6be4bbe85b500e": "2026-09-18T01:41:15.519996+00:00",
     "7e65651c2e4c9e0ac7012bb00c5f2cf68d72dd43a7e004f5df92db9aad7107d2": "2026-08-14T10:15:00.868800+00:00",
     "80b92a8bd86c4beee1ff71d626bdb2d08e0ddb9c12fe353ff887361f9de06971": "2026-09-02T09:40:52.722208+00:00",
     "81811644b800d39836b917bda6c75d1d71ce1caf280821960e41cc853ca02fb3": "2026-08-14T10:15:00.868800+00:00",
@@ -9711,6 +9784,8 @@
     "92825c7494ba089a9fe2eafd735da0209935a12eda32371d7cde9e781dc55f70": "2026-08-20T03:21:47.165417+00:00",
     "9297deea431daa3bf652ff1541cdc57b1bb3a7abd2ad7c20fd3d1f320feceedf": "2026-09-16T07:11:36.034829+00:00",
     "937bcf265b9799d9ef1073f3563f858ec0f9943f4149046edc16772be85b351b": "2026-08-14T10:15:00.868800+00:00",
+    "93b98e5324b3b4a4d86def42303d6f78f8ce459a0b9be52e4153b2fcce68b9d0": "2026-09-18T01:41:15.519996+00:00",
+    "93d11c210b0c34e836561a6a10e5adfff9c887851bd5edee83cf88211d0c20c8": "2026-09-18T01:41:15.519996+00:00",
     "940457e27405536f1f026a4d193e9c0bd18836110d14cace87b6ddfb6c446e70": "2026-08-14T10:15:00.868800+00:00",
     "94bc6e6bbd238ac06f6779792057b60602901a6ac2da82ca30620c44ed59c65b": "2026-08-14T10:15:00.868800+00:00",
     "974d92ee48b538a04596bb5c980fc09f5cd66608d901837616c28100f1b66ca5": "2026-09-15T04:11:16.787656+00:00",
