@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 21,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 660,
-  "early_signal_last_scan_utc": "2026-09-18T21:50:51.869243+00:00",
+  "early_signal_last_scan_utc": "2026-09-18T22:00:58.449023+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -8.11,
@@ -2967,12 +2967,12 @@
     "M&A / TAKEOVER|TITLE|FRIESLANDCAMPINA JADI PENGENDALI BARU ULTJ VIA INBRENG": {
       "family": "M&A / TAKEOVER",
       "first_seen_utc": "2026-09-18T11:31:09.317779+00:00",
-      "last_alert_utc": "2026-09-18T11:31:09.317773+00:00",
-      "last_seen_utc": "2026-09-18T11:31:09.317773+00:00",
+      "last_alert_utc": "2026-09-18T22:01:40.239590+00:00",
+      "last_seen_utc": "2026-09-18T22:01:40.239590+00:00",
       "market_context": {
-        "change_pct": 8.4211,
-        "last_price": 2060.0,
-        "market_date": "2026-09-18"
+        "change_pct": null,
+        "last_price": null,
+        "market_date": null
       },
       "material_snapshot": {
         "acquirer": null,
@@ -2987,8 +2987,8 @@
         "ratio": null,
         "schedule": {},
         "share_count": "7,9 miliar saham",
-        "stage": "SPA / SIGNED",
-        "stage_step": 4,
+        "stage": "CHANGE OF CONTROL",
+        "stage_step": 5,
         "stage_total": 7,
         "stake": [
           100.0,
@@ -3004,7 +3004,7 @@
           "AKUISISI / INVESTASI"
         ]
       },
-      "ticker": "ULTJ"
+      "ticker": ""
     },
     "M&A / TAKEOVER|TITLE|GRAHA INTI KUASAI 87 48 INPS USAI": {
       "family": "M&A / TAKEOVER",
@@ -7340,7 +7340,7 @@
     }
   },
   "last_keepalive_utc": "2026-09-11T10:21:25.319722+00:00",
-  "last_state_change_utc": "2026-09-18T21:50:51.908915+00:00",
+  "last_state_change_utc": "2026-09-18T22:01:40.241166+00:00",
   "market_noise_suppressed": 5,
   "milestone_alerts": {},
   "rumor_alerts_sent": 18,
@@ -7351,8 +7351,8 @@
   "rumor_duplicates_suppressed": 503,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 17,
-  "rumor_integrity_repairs": 1216,
-  "rumor_last_scan_utc": "2026-09-18T21:50:51.859333+00:00",
+  "rumor_integrity_repairs": 1217,
+  "rumor_last_scan_utc": "2026-09-18T22:00:58.435062+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -9776,6 +9776,7 @@
     "72b408ab954ef06ec31ebdfde647a0fe4173208e5763b3f49889e883efc85de0": "2026-08-24T13:41:05.283219+00:00",
     "7396f28be91c4f70184084961d9bacd6670aaf984b68db3b0c8e67dff0291b7f": "2026-09-11T09:11:04.145656+00:00",
     "73c690717fc2b23b5a0bf40dd848acdab89c1cacf73849b598ddadf35a11c72d": "2026-08-14T10:15:00.868800+00:00",
+    "755dd30c612b52176ee114f2d320148d259f21da18423235fe768edcf8d05fe4": "2026-09-18T22:01:40.239575+00:00",
     "761b66edaef0cc1a0e228ff3651857a37eeb90af5720589dda87e86eb9f325d8": "2026-08-28T13:11:11.093622+00:00",
     "773cf492cad9319831d00e1deb29755796b736a520f6502a73f1bac7cdecdbd6": "2026-09-16T07:11:36.034829+00:00",
     "78e5b74a4f081c12fd05a181fb26f48f1a4539dd0acf87df6f3987e28186f080": "2026-08-30T05:01:07.776281+00:00",
