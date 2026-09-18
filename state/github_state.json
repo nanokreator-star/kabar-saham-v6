@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 21,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 660,
-  "early_signal_last_scan_utc": "2026-09-18T02:20:56.729429+00:00",
+  "early_signal_last_scan_utc": "2026-09-18T02:30:58.350340+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -8.11,
@@ -50,7 +50,7 @@
       "volume_ratio": 0.03
     }
   },
-  "event_duplicates_suppressed": 35,
+  "event_duplicates_suppressed": 36,
   "event_memory": {
     "IPO|TICKER|SWAP": {
       "family": "IPO",
@@ -104,6 +104,42 @@
       "first_seen_utc": "2026-08-14T10:15:00.868800+00:00",
       "last_alert_utc": "2026-08-14T10:15:00.868800+00:00",
       "last_seen_utc": "2026-08-14T10:15:00.868800+00:00",
+      "market_context": {
+        "change_pct": null,
+        "last_price": null,
+        "market_date": null
+      },
+      "material_snapshot": {
+        "acquirer": null,
+        "acquirer_confirmed": false,
+        "event_type": "IPO",
+        "execution_price": null,
+        "ipo_single_price": null,
+        "money": [],
+        "official_authority": null,
+        "official_kind": null,
+        "price_range": null,
+        "ratio": null,
+        "schedule": {},
+        "share_count": null,
+        "stage": "RENCANA / PROSPEKTUS",
+        "stage_step": 2,
+        "stage_total": 5,
+        "stake": [],
+        "standby_buyer": null,
+        "target": null,
+        "target_confirmed": false,
+        "tender_price": null,
+        "underwriter": null,
+        "use_of_funds": []
+      },
+      "ticker": ""
+    },
+    "IPO|TITLE|BIANG KEROK PASAR SEPI OJK BUKA SUARA": {
+      "family": "IPO",
+      "first_seen_utc": "2026-09-18T02:31:38.041094+00:00",
+      "last_alert_utc": "2026-09-18T02:31:38.041087+00:00",
+      "last_seen_utc": "2026-09-18T02:31:38.041087+00:00",
       "market_context": {
         "change_pct": null,
         "last_price": null,
@@ -2927,7 +2963,7 @@
       "family": "M&A / TAKEOVER",
       "first_seen_utc": "2026-09-17T18:01:01.291576+00:00",
       "last_alert_utc": "2026-09-17T18:01:01.291570+00:00",
-      "last_seen_utc": "2026-09-17T18:01:01.291570+00:00",
+      "last_seen_utc": "2026-09-18T02:31:36.685026+00:00",
       "market_context": {
         "change_pct": null,
         "last_price": null,
@@ -7163,7 +7199,7 @@
     }
   },
   "last_keepalive_utc": "2026-09-11T10:21:25.319722+00:00",
-  "last_state_change_utc": "2026-09-18T02:21:20.570150+00:00",
+  "last_state_change_utc": "2026-09-18T02:31:38.042814+00:00",
   "market_noise_suppressed": 5,
   "milestone_alerts": {},
   "rumor_alerts_sent": 18,
@@ -7175,7 +7211,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 17,
   "rumor_integrity_repairs": 1139,
-  "rumor_last_scan_utc": "2026-09-18T02:20:56.721865+00:00",
+  "rumor_last_scan_utc": "2026-09-18T02:30:58.337165+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -9734,6 +9770,7 @@
     "3eaf23d92beb13f67754f697873e7f546adf2546e6991d8c674875245db09dac": "2026-08-14T10:15:00.868800+00:00",
     "3eafed89ddcb9e18b3ed923b48ee02bb847cf1341bc2062f48d39edc355deef6": "2026-08-14T10:15:00.868800+00:00",
     "3f5f2798b673a55b921d89225f03c9775e46d2583d5f426225e6f38a1586de9a": "2026-08-20T03:21:47.165417+00:00",
+    "3f78ae7a42cf76bd1df432f650f2891921b19245b8d8a196ce68ef39c2419fe6": "2026-09-18T02:31:36.685014+00:00",
     "4033cc1087b068c042d2ce1036598043129ccc10f29977111a08b3e34e54c2ae": "2026-08-14T10:15:00.868800+00:00",
     "403f9a1fae38c9a0da7f0d91ab035f88fbd5e5fce81a545a81d175d91c1c6b05": "2026-08-14T10:15:00.868800+00:00",
     "429f6dfbfb27af1f3aad80bf00b3dcbfde708ea095eac66280325e7e424fbc1d": "2026-08-14T10:15:00.868800+00:00",
@@ -9894,6 +9931,7 @@
     "d59294aec9b2690d781e6ea535d9d810dd19e549c74895d8cab442d65a0ba9aa": "2026-09-11T07:21:24.577686+00:00",
     "d629bbd2f818df75a0232a48bcc602bb2dd1546e3357cbf267127350511195d9": "2026-08-14T10:15:00.868800+00:00",
     "d8170ca0f85ab1e1bcb00de59412ee56c6ec5cc990e6f4dae1d885e1de3aa6a9": "2026-08-14T10:15:00.868800+00:00",
+    "d8180a58f1d06a1944b77556f75cbcc31f9d5b39b153808456807cf2281223da": "2026-09-18T02:31:38.041070+00:00",
     "da145c7e7e54b66a1390df603bb67a9e50fe1c133ce68dd0312f96a92b23c990": "2026-08-14T10:15:00.868800+00:00",
     "dae856b25bcfb29963c83f3e6024e1a4fb652ed7a20b709042fb28b08093a6bd": "2026-08-14T10:15:00.868800+00:00",
     "db73471c6739ea54270da405e8edf15b16331f04c63c77531381b39009b021bc": "2026-09-17T19:41:14.787581+00:00",
