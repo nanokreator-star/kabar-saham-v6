@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 21,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 660,
-  "early_signal_last_scan_utc": "2026-09-18T13:30:51.053897+00:00",
+  "early_signal_last_scan_utc": "2026-09-18T13:40:44.165420+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -8.11,
@@ -4015,6 +4015,42 @@
       },
       "ticker": ""
     },
+    "M&A / TAKEOVER|TITLE|ULTJ BELI FRISIAN FLAG RP14 FRIESLANDCAMPINA JADI": {
+      "family": "M&A / TAKEOVER",
+      "first_seen_utc": "2026-09-18T13:40:46.595339+00:00",
+      "last_alert_utc": "2026-09-18T13:40:46.595334+00:00",
+      "last_seen_utc": "2026-09-18T13:40:46.595334+00:00",
+      "market_context": {
+        "change_pct": null,
+        "last_price": null,
+        "market_date": null
+      },
+      "material_snapshot": {
+        "acquirer": null,
+        "acquirer_confirmed": false,
+        "event_type": "TAKEOVER",
+        "execution_price": null,
+        "ipo_single_price": null,
+        "money": [],
+        "official_authority": null,
+        "official_kind": null,
+        "price_range": null,
+        "ratio": null,
+        "schedule": {},
+        "share_count": null,
+        "stage": "CHANGE OF CONTROL",
+        "stage_step": 5,
+        "stage_total": 7,
+        "stake": [],
+        "standby_buyer": null,
+        "target": null,
+        "target_confirmed": false,
+        "tender_price": null,
+        "underwriter": null,
+        "use_of_funds": []
+      },
+      "ticker": ""
+    },
     "M&A / TAKEOVER|TITLE|WAJIB DUA PUTRA UTAMA MAKMUR MUNDUR DANA": {
       "family": "M&A / TAKEOVER",
       "first_seen_utc": "2026-08-29T14:31:13.281166+00:00",
@@ -7304,7 +7340,7 @@
     }
   },
   "last_keepalive_utc": "2026-09-11T10:21:25.319722+00:00",
-  "last_state_change_utc": "2026-09-18T13:31:06.276251+00:00",
+  "last_state_change_utc": "2026-09-18T13:40:46.596592+00:00",
   "market_noise_suppressed": 5,
   "milestone_alerts": {},
   "rumor_alerts_sent": 18,
@@ -7315,8 +7351,8 @@
   "rumor_duplicates_suppressed": 491,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 17,
-  "rumor_integrity_repairs": 1167,
-  "rumor_last_scan_utc": "2026-09-18T13:30:51.042342+00:00",
+  "rumor_integrity_repairs": 1168,
+  "rumor_last_scan_utc": "2026-09-18T13:40:44.156207+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -9689,6 +9725,7 @@
     "0bd81597f759c20cc8c802928a344b88c585b60223a6a234f8b0f6a0f397b4c0": "2026-08-20T03:21:47.165417+00:00",
     "0c76e071ca99093ad0eecc4d7e895e13a9f4c888c7cedae80ec7ad61ff0de3e0": "2026-09-04T05:41:32.728730+00:00",
     "0ebaf4580944fcfc5be448a9dc5d4bb3eaed38e167d01e95b5350bbdfb9a8a75": "2026-08-18T03:31:02.730821+00:00",
+    "0f07586bb610315eb485f41810b46cbe40a9e15da67bb5c6083c7428c0777d26": "2026-09-18T13:40:46.595316+00:00",
     "0f45ebcc704bd30869f708889cd24a6729bb470886b5ee3c4b27bd93f6c6e0ea": "2026-08-14T10:15:00.868800+00:00",
     "0fc3314cafd6225f34e24e2cb82de536fcdb7a7444c7cd8a165b687626fa11d3": "2026-08-24T18:41:06.877019+00:00",
     "11251952642978483e7fc9539628f0695211e38e8f80cec519a59bfb86ad7dd0": "2026-08-14T10:15:00.868800+00:00",
