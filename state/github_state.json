@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 21,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 660,
-  "early_signal_last_scan_utc": "2026-09-18T11:21:25.774381+00:00",
+  "early_signal_last_scan_utc": "2026-09-18T11:30:51.853553+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -8.11,
@@ -2927,6 +2927,48 @@
         "use_of_funds": []
       },
       "ticker": ""
+    },
+    "M&A / TAKEOVER|TITLE|FRIESLANDCAMPINA JADI PENGENDALI BARU ULTJ VIA INBRENG": {
+      "family": "M&A / TAKEOVER",
+      "first_seen_utc": "2026-09-18T11:31:09.317779+00:00",
+      "last_alert_utc": "2026-09-18T11:31:09.317773+00:00",
+      "last_seen_utc": "2026-09-18T11:31:09.317773+00:00",
+      "market_context": {
+        "change_pct": 8.4211,
+        "last_price": 2060.0,
+        "market_date": "2026-09-18"
+      },
+      "material_snapshot": {
+        "acquirer": null,
+        "acquirer_confirmed": false,
+        "event_type": "TAKEOVER",
+        "execution_price": null,
+        "ipo_single_price": null,
+        "money": [],
+        "official_authority": null,
+        "official_kind": null,
+        "price_range": null,
+        "ratio": null,
+        "schedule": {},
+        "share_count": "7,9 miliar saham",
+        "stage": "SPA / SIGNED",
+        "stage_step": 4,
+        "stage_total": 7,
+        "stake": [
+          100.0,
+          30.81,
+          8.42
+        ],
+        "standby_buyer": null,
+        "target": null,
+        "target_confirmed": false,
+        "tender_price": null,
+        "underwriter": null,
+        "use_of_funds": [
+          "AKUISISI / INVESTASI"
+        ]
+      },
+      "ticker": "ULTJ"
     },
     "M&A / TAKEOVER|TITLE|GRAHA INTI KUASAI 87 48 INPS USAI": {
       "family": "M&A / TAKEOVER",
@@ -7143,6 +7185,26 @@
       "verified_at": "2026-09-08T06:31:30.295323+00:00",
       "website": "https://www.tower-bersama.com"
     },
+    "ULTJ": {
+      "business_activity": "PT Ultrajaya Milk Industry & Trading Company Tbk, together with its subsidiaries, operates in the food and beverage industry in Indonesia. The company operates in two segments: Beverages and Foods.",
+      "controller": null,
+      "industry": "Beverages - Non-Alcoholic",
+      "issuer_name": "Kendali Ultrajaya Milk (ULTJ",
+      "owner_context_sources": 0,
+      "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
+      "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
+      "owner_v6_checked_utc": "2026-09-18T11:31:08.761040+00:00",
+      "owner_v6_pages_fetched": 0,
+      "profile_source": "Yahoo Finance",
+      "profile_source_quality": "FALLBACK",
+      "profile_source_url": null,
+      "sector": "Consumer Defensive",
+      "subindustry": null,
+      "subsector": null,
+      "ticker": "ULTJ",
+      "verified_at": "2026-09-18T11:31:04.666293+00:00",
+      "website": "https://www.ultrajaya.co.id"
+    },
     "UNTR": {
       "business_activity": "PT United Tractors Tbk, together with its subsidiaries, provides coal mining services in Indonesia. The company operates in five segments: Construction Machinery, Mining Contracting, Thermal and Metallurgical Coal Mining, Gold and Other Min",
       "controller": null,
@@ -7206,7 +7268,7 @@
     }
   },
   "last_keepalive_utc": "2026-09-11T10:21:25.319722+00:00",
-  "last_state_change_utc": "2026-09-18T11:21:25.814293+00:00",
+  "last_state_change_utc": "2026-09-18T11:31:09.319399+00:00",
   "market_noise_suppressed": 5,
   "milestone_alerts": {},
   "rumor_alerts_sent": 18,
@@ -7217,8 +7279,8 @@
   "rumor_duplicates_suppressed": 487,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 17,
-  "rumor_integrity_repairs": 1154,
-  "rumor_last_scan_utc": "2026-09-18T11:21:25.761304+00:00",
+  "rumor_integrity_repairs": 1155,
+  "rumor_last_scan_utc": "2026-09-18T11:30:51.840726+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -9746,6 +9808,7 @@
     "93b98e5324b3b4a4d86def42303d6f78f8ce459a0b9be52e4153b2fcce68b9d0": "2026-09-18T01:41:15.519996+00:00",
     "93d11c210b0c34e836561a6a10e5adfff9c887851bd5edee83cf88211d0c20c8": "2026-09-18T01:41:15.519996+00:00",
     "940457e27405536f1f026a4d193e9c0bd18836110d14cace87b6ddfb6c446e70": "2026-08-14T10:15:00.868800+00:00",
+    "948783525b501fe439a445b4a38a970df288b4801e1ee21ee4bb6c956a3f4c3d": "2026-09-18T11:31:09.317756+00:00",
     "94bc6e6bbd238ac06f6779792057b60602901a6ac2da82ca30620c44ed59c65b": "2026-08-14T10:15:00.868800+00:00",
     "974d92ee48b538a04596bb5c980fc09f5cd66608d901837616c28100f1b66ca5": "2026-09-15T04:11:16.787656+00:00",
     "97cca75fe23ae26fe2c41baf6f3fdf2f7b6c66b3f1b81d118e61f19471b91ab2": "2026-08-14T10:15:00.868800+00:00",
