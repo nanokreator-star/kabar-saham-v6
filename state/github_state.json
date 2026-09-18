@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 21,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 660,
-  "early_signal_last_scan_utc": "2026-09-18T01:51:00.895484+00:00",
+  "early_signal_last_scan_utc": "2026-09-18T02:20:56.729429+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -8.11,
@@ -1804,12 +1804,12 @@
     "M&A / TAKEOVER|TICKER|INET": {
       "family": "M&A / TAKEOVER",
       "first_seen_utc": "2026-09-18T01:41:15.520020+00:00",
-      "last_alert_utc": "2026-09-18T01:41:15.520013+00:00",
-      "last_seen_utc": "2026-09-18T01:41:15.520013+00:00",
+      "last_alert_utc": "2026-09-18T02:21:20.569129+00:00",
+      "last_seen_utc": "2026-09-18T02:21:20.569129+00:00",
       "market_context": {
-        "change_pct": 6.962,
-        "last_price": 338.0,
-        "market_date": "2026-09-17"
+        "change_pct": 1.1834,
+        "last_price": 342.0,
+        "market_date": "2026-09-18"
       },
       "material_snapshot": {
         "acquirer": null,
@@ -1820,23 +1820,26 @@
         "money": [
           "Rp280 miliar",
           "Rp280,4 miliar",
-          "Rp223,74 miliar",
-          "Rp4,66 miliar",
-          "Rp15,72 miliar"
+          "Rp3,80 triliun",
+          "Rp403,2 miliar",
+          "Rp101 miliar"
         ],
         "official_authority": null,
         "official_kind": null,
         "price_range": null,
         "ratio": null,
         "schedule": {},
-        "share_count": null,
+        "share_count": "180.000 saham",
         "stage": "SPA / SIGNED",
         "stage_step": 4,
         "stage_total": 7,
         "stake": [
           60.0,
-          65.33,
-          100.0
+          99.99,
+          40.0,
+          7.35,
+          6.6,
+          5.67
         ],
         "standby_buyer": null,
         "target": "INET",
@@ -1845,8 +1848,7 @@
         "underwriter": null,
         "use_of_funds": [
           "AKUISISI / INVESTASI",
-          "EKSPANSI / CAPEX",
-          "MODAL KERJA"
+          "EKSPANSI / CAPEX"
         ]
       },
       "ticker": "INET"
@@ -7161,7 +7163,7 @@
     }
   },
   "last_keepalive_utc": "2026-09-11T10:21:25.319722+00:00",
-  "last_state_change_utc": "2026-09-18T01:51:00.932383+00:00",
+  "last_state_change_utc": "2026-09-18T02:21:20.570150+00:00",
   "market_noise_suppressed": 5,
   "milestone_alerts": {},
   "rumor_alerts_sent": 18,
@@ -7173,7 +7175,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 17,
   "rumor_integrity_repairs": 1139,
-  "rumor_last_scan_utc": "2026-09-18T01:51:00.882729+00:00",
+  "rumor_last_scan_utc": "2026-09-18T02:20:56.721865+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -9861,6 +9863,7 @@
     "afa0ad578b19ff37936ed2d63429fdaa8850862afdbb1943b687943c054eb641": "2026-09-07T15:01:20.529162+00:00",
     "afb2a4f2f71e71bc46e76736b72e57eb28b084a7f27574f22995bd97f8473ca4": "2026-08-24T08:01:17.664942+00:00",
     "b03bcc0c45bea5a342212945f54ea2a8480226f3b8c27ec3317acf017bf273e1": "2026-09-07T20:11:02.371381+00:00",
+    "b14fb66083a251c965082ea75e55bcf09188cdbce31c628d6a867eddc81574ad": "2026-09-18T02:21:20.569107+00:00",
     "b7bd20f30f796bf190b07fa5f4ebe9ffd23fd9fef600842cc82874aa15d28fab": "2026-08-19T05:22:31.609048+00:00",
     "b7e2dd72313f82062863e8a488cb6ab2caa15d261ef46487e0f04598f08bf542": "2026-08-14T10:15:00.868800+00:00",
     "b8fd5c8ba61ecaef32be89ae5f4454c5c1cd475328a8acbf36ed4a18ea4d0d3e": "2026-08-29T07:51:10.650528+00:00",
