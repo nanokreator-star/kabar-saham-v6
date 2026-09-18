@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 21,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 660,
-  "early_signal_last_scan_utc": "2026-09-18T12:30:58.005092+00:00",
+  "early_signal_last_scan_utc": "2026-09-18T12:41:07.287417+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -8.11,
@@ -2438,6 +2438,42 @@
         "use_of_funds": []
       },
       "ticker": "SEPI"
+    },
+    "M&A / TAKEOVER|TICKER|ULTJ": {
+      "family": "M&A / TAKEOVER",
+      "first_seen_utc": "2026-09-18T12:41:11.653122+00:00",
+      "last_alert_utc": "2026-09-18T12:41:11.653116+00:00",
+      "last_seen_utc": "2026-09-18T12:41:11.653116+00:00",
+      "market_context": {
+        "change_pct": 8.4211,
+        "last_price": 2060.0,
+        "market_date": "2026-09-18"
+      },
+      "material_snapshot": {
+        "acquirer": null,
+        "acquirer_confirmed": false,
+        "event_type": "TAKEOVER",
+        "execution_price": null,
+        "ipo_single_price": null,
+        "money": [],
+        "official_authority": null,
+        "official_kind": null,
+        "price_range": null,
+        "ratio": null,
+        "schedule": {},
+        "share_count": null,
+        "stage": "CHANGE OF CONTROL",
+        "stage_step": 5,
+        "stage_total": 7,
+        "stake": [],
+        "standby_buyer": null,
+        "target": null,
+        "target_confirmed": false,
+        "tender_price": null,
+        "underwriter": null,
+        "use_of_funds": []
+      },
+      "ticker": "ULTJ"
     },
     "M&A / TAKEOVER|TITLE|51 DOOH RAMPUNG SII SIAP GELAR WAJIB": {
       "family": "M&A / TAKEOVER",
@@ -7268,7 +7304,7 @@
     }
   },
   "last_keepalive_utc": "2026-09-11T10:21:25.319722+00:00",
-  "last_state_change_utc": "2026-09-18T12:30:58.043703+00:00",
+  "last_state_change_utc": "2026-09-18T12:41:11.654145+00:00",
   "market_noise_suppressed": 5,
   "milestone_alerts": {},
   "rumor_alerts_sent": 18,
@@ -7279,8 +7315,8 @@
   "rumor_duplicates_suppressed": 491,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 17,
-  "rumor_integrity_repairs": 1161,
-  "rumor_last_scan_utc": "2026-09-18T12:30:57.991785+00:00",
+  "rumor_integrity_repairs": 1162,
+  "rumor_last_scan_utc": "2026-09-18T12:41:07.279313+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -9738,6 +9774,7 @@
     "57f2d53c0677b8f21b0d15c45dcf56ccf88e024fe76d0bcb61ca482ad2aa5328": "2026-09-07T09:00:57.296405+00:00",
     "5857fcb1a51610e48aa797a3eb1a64e8fffac1b2d2812c9cb580f2453e2dba9d": "2026-08-14T10:15:00.868800+00:00",
     "588ad493797c372d05a9b74a128bb94595439789e63e64e83e02d62a5c0e95ff": "2026-08-14T10:15:00.868800+00:00",
+    "58d9ec0eaa66aa14e95c4fbd31cd6730aba347ef97a89149d3d0d3a1a9463643": "2026-09-18T12:41:11.653094+00:00",
     "58e9ec27c1150d25f173acb7e63bd891bd4bf2672b63207badf4d4b5cbfac510": "2026-09-18T01:41:15.519996+00:00",
     "58eff29ec5e4d01bedd3be6c07f8939acaf478b8ecd111fa9af2cbceba007833": "2026-08-14T10:15:00.868800+00:00",
     "5ab4ea9405930f2be6c7ada6afe3359ac36c55f783bce32db38174882bd3566e": "2026-09-16T16:21:12.830013+00:00",
@@ -9865,6 +9902,7 @@
     "cc89201b1ef5fa9948d89f5df0c8d4a69617312572fb9f482be3993ad6f3ae6b": "2026-08-20T09:34:38.381195+00:00",
     "cdc16ccf5e9b187d5ea494f1c5257dc1848c11926f6fbbd76d3fb2b094fa5c32": "2026-08-21T10:31:03.694239+00:00",
     "ce83235056fd088afa23df4b98a04c61c0ad9cb957d728d14f7cb3b0b9f76de3": "2026-08-28T11:41:09.035515+00:00",
+    "ceadea4b9f989a1e6fe036a012b9a3b29af48f61e83f63fa14f25e55b699e5aa": "2026-09-18T12:41:11.653094+00:00",
     "cee67825f1415edf4af562c32edefdc7c77b7b126ded056f9b5c8fc538bc328f": "2026-09-07T06:00:59.778628+00:00",
     "cf8495ae827ab999df368b8908223a20c78b625df900cc97355ea5b7a1dbec99": "2026-08-14T10:15:00.868800+00:00",
     "cf9826ba978f17fca37a3a329910bca511ebac845da948647b056854ce239ac0": "2026-08-17T12:01:07.243701+00:00",
