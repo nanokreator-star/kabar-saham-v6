@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 21,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 660,
-  "early_signal_last_scan_utc": "2026-09-18T05:20:51.908970+00:00",
+  "early_signal_last_scan_utc": "2026-09-18T06:01:30.280328+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -8.11,
@@ -138,8 +138,8 @@
     "IPO|TITLE|BIANG KEROK PASAR SEPI OJK BUKA SUARA": {
       "family": "IPO",
       "first_seen_utc": "2026-09-18T02:31:38.041094+00:00",
-      "last_alert_utc": "2026-09-18T02:31:38.041087+00:00",
-      "last_seen_utc": "2026-09-18T02:31:38.041087+00:00",
+      "last_alert_utc": "2026-09-18T06:02:03.327548+00:00",
+      "last_seen_utc": "2026-09-18T06:02:03.327548+00:00",
       "market_context": {
         "change_pct": null,
         "last_price": null,
@@ -151,17 +151,24 @@
         "event_type": "IPO",
         "execution_price": null,
         "ipo_single_price": null,
-        "money": [],
+        "money": [
+          "Rp250 triliun",
+          "Rp4,02 triliun",
+          "Rp148,3 triliun",
+          "Rp250,0 triliun"
+        ],
         "official_authority": null,
         "official_kind": null,
         "price_range": null,
         "ratio": null,
         "schedule": {},
         "share_count": null,
-        "stage": "RENCANA / PROSPEKTUS",
-        "stage_step": 2,
+        "stage": "OFFERING",
+        "stage_step": 4,
         "stage_total": 5,
-        "stake": [],
+        "stake": [
+          50.0
+        ],
         "standby_buyer": null,
         "target": null,
         "target_confirmed": false,
@@ -7199,7 +7206,7 @@
     }
   },
   "last_keepalive_utc": "2026-09-11T10:21:25.319722+00:00",
-  "last_state_change_utc": "2026-09-18T05:21:05.458336+00:00",
+  "last_state_change_utc": "2026-09-18T06:02:03.329147+00:00",
   "market_noise_suppressed": 5,
   "milestone_alerts": {},
   "rumor_alerts_sent": 18,
@@ -7211,7 +7218,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 17,
   "rumor_integrity_repairs": 1139,
-  "rumor_last_scan_utc": "2026-09-18T05:20:51.900029+00:00",
+  "rumor_last_scan_utc": "2026-09-18T06:01:30.268245+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -9911,6 +9918,7 @@
     "bcaf8aeff9fc756fd5abefaad9112e31066f5be443285a41d6bde543232d7c2b": "2026-08-14T10:15:00.868800+00:00",
     "bcba1c36104398d407e5a304e692336948e5b924d883349920a2440ee7290793": "2026-09-17T19:41:14.787581+00:00",
     "bd9e42183a955c0cf3c97da106e239a125aac5629b37096f70a70aceacb18d61": "2026-08-23T17:50:45.664101+00:00",
+    "be8c673e02ac41d26cd57b00130e4b816365787aca0763dad8147b1a468b3c01": "2026-09-18T06:02:03.327531+00:00",
     "bf11a8f55c452c95a1e09788c923c25b3aa9d8f47f4e233ec51322d88119a53e": "2026-09-07T10:30:52.503607+00:00",
     "c07e3c51a5c10cda6156604e413ed536b871e8cb7c98e47ece24dc30d43c980d": "2026-08-14T10:15:00.868800+00:00",
     "c0a95ceac0ba5637070bc954dcb30af054e44188df3c6a2de69b1cff09baf43c": "2026-08-14T10:15:00.868800+00:00",
