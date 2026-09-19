@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 21,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 660,
-  "early_signal_last_scan_utc": "2026-09-19T00:51:46.511770+00:00",
+  "early_signal_last_scan_utc": "2026-09-19T03:10:49.655873+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -8.11,
@@ -835,6 +835,44 @@
         "use_of_funds": []
       },
       "ticker": ""
+    },
+    "IPO|TITLE|SEPI PEMINAT CALON MAKIN TAK BERHASRAT EMITENNEWS": {
+      "family": "IPO",
+      "first_seen_utc": "2026-09-19T03:11:06.233116+00:00",
+      "last_alert_utc": "2026-09-19T03:11:06.233110+00:00",
+      "last_seen_utc": "2026-09-19T03:11:06.233110+00:00",
+      "market_context": {
+        "change_pct": null,
+        "last_price": null,
+        "market_date": null
+      },
+      "material_snapshot": {
+        "acquirer": null,
+        "acquirer_confirmed": false,
+        "event_type": "IPO",
+        "execution_price": null,
+        "ipo_single_price": null,
+        "money": [
+          "US$644 miliar"
+        ],
+        "official_authority": null,
+        "official_kind": null,
+        "price_range": null,
+        "ratio": null,
+        "schedule": {},
+        "share_count": null,
+        "stage": "OFFERING",
+        "stage_step": 4,
+        "stage_total": 5,
+        "stake": [],
+        "standby_buyer": null,
+        "target": null,
+        "target_confirmed": false,
+        "tender_price": null,
+        "underwriter": null,
+        "use_of_funds": []
+      },
+      "ticker": "IHSG"
     },
     "IPO|TITLE|SIAP SIAP TUJUH CALON INCAR RP4 TRILIUN": {
       "family": "IPO",
@@ -6681,6 +6719,26 @@
       "verified_at": "2026-09-16T05:10:59.083904+00:00",
       "website": "https://www.ideaindonesia.com"
     },
+    "IHSG": {
+      "business_activity": null,
+      "controller": null,
+      "industry": null,
+      "issuer_name": null,
+      "owner_context_sources": 0,
+      "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
+      "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
+      "owner_v6_checked_utc": "2026-09-19T03:11:05.743620+00:00",
+      "owner_v6_pages_fetched": 0,
+      "profile_source": "Yahoo Finance",
+      "profile_source_quality": "FALLBACK",
+      "profile_source_url": null,
+      "sector": null,
+      "subindustry": null,
+      "subsector": null,
+      "ticker": "IHSG",
+      "verified_at": "2026-09-19T03:11:05.724682+00:00",
+      "website": null
+    },
     "INET": {
       "business_activity": "PT Sinergi Inti Andalan Prima Tbk engages in the provision of internet services in Indonesia. The company offers data center interconnection, SD-WAN networking, colocation, multi-service port, cloud-centric enterprise network, and managed s",
       "controller": null,
@@ -7340,7 +7398,7 @@
     }
   },
   "last_keepalive_utc": "2026-09-11T10:21:25.319722+00:00",
-  "last_state_change_utc": "2026-09-19T00:51:46.513262+00:00",
+  "last_state_change_utc": "2026-09-19T03:11:06.234734+00:00",
   "market_noise_suppressed": 5,
   "milestone_alerts": {},
   "rumor_alerts_sent": 18,
@@ -7352,7 +7410,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 17,
   "rumor_integrity_repairs": 1234,
-  "rumor_last_scan_utc": "2026-09-19T00:51:46.511688+00:00",
+  "rumor_last_scan_utc": "2026-09-19T03:10:49.641583+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -7794,7 +7852,7 @@
     },
     "BUYBACK|TICKER|PARA": {
       "category": "BUYBACK",
-      "company_name": "PARA",
+      "company_name": "PT MERDEKA BATTERY MATERIALS TBK TERKAIT RENCANA PEMBELIAN KEMBALI SAHAM DAL",
       "copy_duplicate_count": 0,
       "credible_effective_independent_count": 1.1,
       "derivative_source_count": 0,
@@ -9770,6 +9828,7 @@
     "6bdad19c48883f375d8ee66130498bd919d86e168ebf0c2398442c45bea37308": "2026-08-14T10:15:00.868800+00:00",
     "6d54bb8221e40afd8a2bd6f7622b02933e1eca3a8fbe421d25d19102dfc1b064": "2026-08-14T10:15:00.868800+00:00",
     "6e5a32e9a0aa796904bdc506d943b6af3b39545246a0386f9d721ca9e532117d": "2026-08-26T04:11:08.935650+00:00",
+    "6efb844fb1727d59e73589e899c5469c4b1406372f6c2c38cec8b43780c5ead0": "2026-09-19T03:11:06.233093+00:00",
     "7003b0d1af4222bb498db8d25d949c60a641ece80cd91fe782deb1edcdb7ef5a": "2026-08-14T10:15:00.868800+00:00",
     "704a2d8eb434a024cce2c86af74ae0387e9693382b18644e5c4f59b141b61ed8": "2026-08-14T10:15:00.868800+00:00",
     "719468d1796c49488b7feb6fcdd87e2058584ac32878cea89d09e7a9eded20d7": "2026-08-14T16:20:54.286441+00:00",
