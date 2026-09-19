@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 21,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 660,
-  "early_signal_last_scan_utc": "2026-09-19T08:51:29.292048+00:00",
+  "early_signal_last_scan_utc": "2026-09-19T09:30:56.805766+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -8.11,
@@ -7456,7 +7456,7 @@
     }
   },
   "last_keepalive_utc": "2026-09-11T10:21:25.319722+00:00",
-  "last_state_change_utc": "2026-09-19T08:51:29.321720+00:00",
+  "last_state_change_utc": "2026-09-19T09:30:56.846931+00:00",
   "market_noise_suppressed": 5,
   "milestone_alerts": {},
   "rumor_alerts_sent": 18,
@@ -7468,7 +7468,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 17,
   "rumor_integrity_repairs": 1268,
-  "rumor_last_scan_utc": "2026-09-19T08:51:29.279283+00:00",
+  "rumor_last_scan_utc": "2026-09-19T09:30:56.792154+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -7740,96 +7740,6 @@
       "ticker": "JARR",
       "title": "JARR dan BYAN Tegaskan Tidak Ada Rencana Akuisisi Saham - SuaraGarut.ID"
     },
-    "AKUISISI / TAKEOVER|TICKER|PGUN": {
-      "category": "AKUISISI / TAKEOVER",
-      "company_name": "Pradiksi Gunatama",
-      "copy_duplicate_count": 0,
-      "credible_effective_independent_count": 1.0,
-      "derivative_source_count": 0,
-      "detected_source_count": 1,
-      "effective_independent_count": 1.0,
-      "entity_aliases": [
-        "Pradiksi Gunatama"
-      ],
-      "entity_resolution_source": null,
-      "first_seen_utc": "2026-08-20T09:22:21+00:00",
-      "high_quality_source_count": 1,
-      "independent_story_count": 1,
-      "issuer_profile": {
-        "business_activity": "PT Pradiksi Gunatama Tbk operates as an oil palm plantation company in Indonesia. The company owns oil palm plantation area in Batu Engau District, Paser Regency, East Kalimantan Province.",
-        "controller": null,
-        "industry": "Farm Products",
-        "issuer_name": "Pradiksi Gunatama",
-        "owner_context_sources": 0,
-        "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
-        "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-        "owner_v6_checked_utc": "2026-08-24T00:20:56.443244+00:00",
-        "owner_v6_pages_fetched": 0,
-        "profile_source": "Yahoo Finance",
-        "profile_source_quality": "FALLBACK",
-        "profile_source_url": null,
-        "sector": "Consumer Defensive",
-        "subindustry": null,
-        "subsector": null,
-        "ticker": "PGUN",
-        "verified_at": "2026-08-24T00:20:57.327559+00:00",
-        "website": "https://www.pradiksi.co.id"
-      },
-      "key": "AKUISISI / TAKEOVER|TICKER|PGUN",
-      "last_alert_utc": "2026-08-20T11:56:30.743733+00:00",
-      "last_seen_utc": "2026-08-20T09:22:21+00:00",
-      "last_state_change_utc": "2026-08-27T09:30:57.163653+00:00",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdU0yYnlySmNyYUkyOXZNcWlCWHoyMjFRTFd4MlRLdXNYMjN2MHVockx0dkxaeHV0eHN6eGFKUndNUTI1WTlOTTM3a3lRTXI1QVVNSUdxSGVxaGltWkZ2M3JlX0c4RTE1aXVQS21lcVNpTlNhNDFsRDZYTl81X2FrY2k2cUZBZzZXOWxHMXN1ZmNqNDVqOHpJS01rdjdKeDhuekFaamRkak5yZw?oc=5",
-      "market_data": {
-        "change_pct": 15.294117647058824,
-        "fetched_at": "2026-08-20T11:55:39.862605+00:00",
-        "last_price": 9800.0,
-        "market_date": "2026-08-20",
-        "previous_close": 8500.0,
-        "source": "Yahoo Finance via yfinance",
-        "symbol": "PGUN.JK",
-        "ticker": "PGUN",
-        "volume": 625500
-      },
-      "official_confirmation": null,
-      "premium_source_count": 1,
-      "profile_refresh_utc": "2026-08-24T00:21:20.844789+00:00",
-      "published": "Thu, 20 Aug 2026 09:22:21 GMT",
-      "rumor_details": {
-        "ipo_price": null,
-        "listing_estimate": null,
-        "money": [],
-        "percentages": [],
-        "price_range": null,
-        "rumored_party": null,
-        "share_count": null,
-        "underwriter": null
-      },
-      "semantic_copy_count": 0,
-      "source": "Bisnis.com - Market",
-      "source_breakdown": [
-        {
-          "derivative": false,
-          "group": "bisnis.com",
-          "new_material": 0,
-          "quality": "HIGH",
-          "semantic_copy": false,
-          "source": "Bisnis.com - Market",
-          "tier": 4,
-          "weight": 1.0
-        }
-      ],
-      "source_count": 1,
-      "source_quality": "MEDIUM",
-      "source_quality_score": 4.0,
-      "sources": [
-        "Bisnis.com - Market"
-      ],
-      "status": "EXPIRED",
-      "strength": "WEAK",
-      "ticker": "PGUN",
-      "title": "PGUN Buka Suara soal Isu Akuisisi Bayan Resources (BYAN) - Bisnis.com - Market"
-    },
     "BUYBACK|TICKER|BBHI": {
       "category": "BUYBACK",
       "company_name": "PT Bur",
@@ -7910,7 +7820,7 @@
     },
     "BUYBACK|TICKER|PARA": {
       "category": "BUYBACK",
-      "company_name": "PARA",
+      "company_name": "PT MERDEKA BATTERY MATERIALS TBK TERKAIT RENCANA PEMBELIAN KEMBALI SAHAM DAL",
       "copy_duplicate_count": 0,
       "credible_effective_independent_count": 1.1,
       "derivative_source_count": 0,
