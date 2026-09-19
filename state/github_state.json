@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 21,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 660,
-  "early_signal_last_scan_utc": "2026-09-19T05:10:43.723376+00:00",
+  "early_signal_last_scan_utc": "2026-09-19T05:20:43.261789+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -8.11,
@@ -3495,6 +3495,44 @@
       },
       "ticker": ""
     },
+    "M&A / TAKEOVER|TITLE|PEMILIK MANFAAT AKHIR PERUBAHAN PENGENDALI FAPA CEK": {
+      "family": "M&A / TAKEOVER",
+      "first_seen_utc": "2026-09-19T05:21:31.766870+00:00",
+      "last_alert_utc": "2026-09-19T05:21:31.766863+00:00",
+      "last_seen_utc": "2026-09-19T05:21:31.766863+00:00",
+      "market_context": {
+        "change_pct": -0.3356,
+        "last_price": 7425.0,
+        "market_date": "2026-09-18"
+      },
+      "material_snapshot": {
+        "acquirer": null,
+        "acquirer_confirmed": false,
+        "event_type": "TAKEOVER",
+        "execution_price": null,
+        "ipo_single_price": null,
+        "money": [],
+        "official_authority": null,
+        "official_kind": null,
+        "price_range": null,
+        "ratio": null,
+        "schedule": {},
+        "share_count": null,
+        "stage": "CHANGE OF CONTROL",
+        "stage_step": 5,
+        "stage_total": 7,
+        "stake": [
+          79.31
+        ],
+        "standby_buyer": null,
+        "target": null,
+        "target_confirmed": false,
+        "tender_price": null,
+        "underwriter": null,
+        "use_of_funds": []
+      },
+      "ticker": "FAPA"
+    },
     "M&A / TAKEOVER|TITLE|PENGAMBILALIHAN WIKA PSBI PENGAMAT INGATKAN PENTINGNYA TRANSPARANSI": {
       "family": "M&A / TAKEOVER",
       "first_seen_utc": "2026-08-21T14:40:55.316495+00:00",
@@ -6679,6 +6717,26 @@
       "verified_at": "2026-08-29T07:51:06.457552+00:00",
       "website": "https://www.duaputra.co.id"
     },
+    "FAPA": {
+      "business_activity": "PT FAP Agri Tbk operates as an oil palm plantation and processing company in Indonesia. It engages in the wholesale of fruit oils, oils, and vegetable fats; agricultural, industrial, and trading activities; and other management consulting a",
+      "controller": null,
+      "industry": "Farm Products",
+      "issuer_name": "FAP Agri",
+      "owner_context_sources": 0,
+      "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
+      "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
+      "owner_v6_checked_utc": "2026-09-19T05:21:31.204016+00:00",
+      "owner_v6_pages_fetched": 0,
+      "profile_source": "Yahoo Finance",
+      "profile_source_quality": "FALLBACK",
+      "profile_source_url": null,
+      "sector": "Consumer Defensive",
+      "subindustry": null,
+      "subsector": null,
+      "ticker": "FAPA",
+      "verified_at": "2026-09-19T05:20:53.590402+00:00",
+      "website": "https://www.fap-agri.com"
+    },
     "IBST": {
       "business_activity": "PT Inti Bangun Sejahtera Tbk provides telecommunication network services in the information, communication, and technology (ITC) sector in Indonesia. The company operates through two segments: Telecommunication Tower Lease and Network Equip",
       "controller": null,
@@ -7398,7 +7456,7 @@
     }
   },
   "last_keepalive_utc": "2026-09-11T10:21:25.319722+00:00",
-  "last_state_change_utc": "2026-09-19T05:10:43.749063+00:00",
+  "last_state_change_utc": "2026-09-19T05:21:31.768467+00:00",
   "market_noise_suppressed": 5,
   "milestone_alerts": {},
   "rumor_alerts_sent": 18,
@@ -7409,8 +7467,8 @@
   "rumor_duplicates_suppressed": 509,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 17,
-  "rumor_integrity_repairs": 1246,
-  "rumor_last_scan_utc": "2026-09-19T05:10:43.713588+00:00",
+  "rumor_integrity_repairs": 1247,
+  "rumor_last_scan_utc": "2026-09-19T05:20:43.247234+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -9910,6 +9968,7 @@
     "afb2a4f2f71e71bc46e76736b72e57eb28b084a7f27574f22995bd97f8473ca4": "2026-08-24T08:01:17.664942+00:00",
     "b03bcc0c45bea5a342212945f54ea2a8480226f3b8c27ec3317acf017bf273e1": "2026-09-07T20:11:02.371381+00:00",
     "b14fb66083a251c965082ea75e55bcf09188cdbce31c628d6a867eddc81574ad": "2026-09-18T02:21:20.569107+00:00",
+    "b6727ff50ea0ff09a88a04d72e46c59db780237b1d7ff4bb40d1066d5bd68b4e": "2026-09-19T05:21:31.766845+00:00",
     "b7bd20f30f796bf190b07fa5f4ebe9ffd23fd9fef600842cc82874aa15d28fab": "2026-08-19T05:22:31.609048+00:00",
     "b7e2dd72313f82062863e8a488cb6ab2caa15d261ef46487e0f04598f08bf542": "2026-08-14T10:15:00.868800+00:00",
     "b8fd5c8ba61ecaef32be89ae5f4454c5c1cd475328a8acbf36ed4a18ea4d0d3e": "2026-08-29T07:51:10.650528+00:00",
