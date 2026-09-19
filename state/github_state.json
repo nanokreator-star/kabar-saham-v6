@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 21,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 660,
-  "early_signal_last_scan_utc": "2026-09-19T21:01:26.440587+00:00",
+  "early_signal_last_scan_utc": "2026-09-19T22:00:56.562768+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -8.11,
@@ -15,17 +15,6 @@
       "market_date": "2026-09-15",
       "signature": "BYAN|2026-09-15|HIGH|DOWN|RUMOR|AKUISISI / TAKEOVER|TICKER|BYAN",
       "volume_ratio": 7.66
-    },
-    "PACK": {
-      "change_pct": 10.0,
-      "combined": true,
-      "direction": "UP",
-      "last_alert_utc": null,
-      "last_seen_utc": "2026-08-20T21:50:55.764733+00:00",
-      "level": "MEDIUM",
-      "market_date": "2026-08-20",
-      "signature": "PACK|2026-08-20|MEDIUM|UP|RUMOR|STRATEGIC INVESTOR|TICKER|PACK",
-      "volume_ratio": 0.58
     },
     "PGUN": {
       "change_pct": 15.29,
@@ -7460,7 +7449,7 @@
     }
   },
   "last_keepalive_utc": "2026-09-11T10:21:25.319722+00:00",
-  "last_state_change_utc": "2026-09-19T21:01:34.670180+00:00",
+  "last_state_change_utc": "2026-09-19T22:00:56.602319+00:00",
   "market_noise_suppressed": 5,
   "milestone_alerts": {},
   "rumor_alerts_sent": 18,
@@ -7472,7 +7461,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 17,
   "rumor_integrity_repairs": 1337,
-  "rumor_last_scan_utc": "2026-09-19T21:01:26.425110+00:00",
+  "rumor_last_scan_utc": "2026-09-19T22:00:56.548290+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -7824,7 +7813,7 @@
     },
     "BUYBACK|TICKER|PARA": {
       "category": "BUYBACK",
-      "company_name": "PARA",
+      "company_name": "PT MERDEKA BATTERY MATERIALS TBK TERKAIT RENCANA PEMBELIAN KEMBALI SAHAM DAL",
       "copy_duplicate_count": 0,
       "credible_effective_independent_count": 1.1,
       "derivative_source_count": 0,
