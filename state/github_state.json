@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 21,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 660,
-  "early_signal_last_scan_utc": "2026-09-19T07:20:50.749719+00:00",
+  "early_signal_last_scan_utc": "2026-09-19T07:30:49.388205+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -8.11,
@@ -2480,8 +2480,8 @@
     "M&A / TAKEOVER|TICKER|ULTJ": {
       "family": "M&A / TAKEOVER",
       "first_seen_utc": "2026-09-18T12:41:11.653122+00:00",
-      "last_alert_utc": "2026-09-18T12:41:11.653116+00:00",
-      "last_seen_utc": "2026-09-18T13:51:19.869431+00:00",
+      "last_alert_utc": "2026-09-19T07:31:15.920371+00:00",
+      "last_seen_utc": "2026-09-19T07:31:15.920371+00:00",
       "market_context": {
         "change_pct": 8.4211,
         "last_price": 2060.0,
@@ -2499,7 +2499,7 @@
         "price_range": null,
         "ratio": null,
         "schedule": {},
-        "share_count": null,
+        "share_count": "7,87 miliar saham",
         "stage": "CHANGE OF CONTROL",
         "stage_step": 5,
         "stage_total": 7,
@@ -7381,7 +7381,7 @@
       "owner_context_sources": 0,
       "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
       "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-      "owner_v6_checked_utc": "2026-09-18T11:31:08.761040+00:00",
+      "owner_v6_checked_utc": "2026-09-19T07:31:15.264355+00:00",
       "owner_v6_pages_fetched": 0,
       "profile_source": "Yahoo Finance",
       "profile_source_quality": "FALLBACK",
@@ -7456,7 +7456,7 @@
     }
   },
   "last_keepalive_utc": "2026-09-11T10:21:25.319722+00:00",
-  "last_state_change_utc": "2026-09-19T07:20:50.774454+00:00",
+  "last_state_change_utc": "2026-09-19T07:31:15.921603+00:00",
   "market_noise_suppressed": 5,
   "milestone_alerts": {},
   "rumor_alerts_sent": 18,
@@ -7467,8 +7467,8 @@
   "rumor_duplicates_suppressed": 511,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 17,
-  "rumor_integrity_repairs": 1259,
-  "rumor_last_scan_utc": "2026-09-19T07:20:50.741604+00:00",
+  "rumor_integrity_repairs": 1260,
+  "rumor_last_scan_utc": "2026-09-19T07:30:49.378330+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -9797,6 +9797,7 @@
     "201cf77a86ce6457775cfd97c1ccb044610671ab3dd6955a5a4ad7235dc2f538": "2026-08-14T10:15:00.868800+00:00",
     "2049bff8ab42f37f16d0bced958e24a47e7c0a04b56f183a9c1ecc15eec945a6": "2026-08-31T19:00:59.639896+00:00",
     "21a67ed64ec7f0464e5f657cab58624d287f7467137cc3796ee1b1cb233b6969": "2026-08-18T10:41:00.074050+00:00",
+    "21f05a8ae55d91ed26906e87c9183cef8c22069e71b45e59f87f9352f12db54a": "2026-09-19T07:31:15.920350+00:00",
     "227886cc07bab0f58145bba9b78623dc7b4178bfc7164e301676060caaeda962": "2026-08-14T10:15:00.868800+00:00",
     "23fa35aa38f62afefc77fe3fa2c34f86bb8a4acd22de199c0ad1aeb46fbaa0e1": "2026-08-24T09:21:00.218640+00:00",
     "24c3f86abf09c13899d6aa5e0c7ff1240908e4d8e2f0f5f1b0e0d6eabd465eeb": "2026-08-20T11:56:54.702749+00:00",
@@ -9998,6 +9999,7 @@
     "cf9826ba978f17fca37a3a329910bca511ebac845da948647b056854ce239ac0": "2026-08-17T12:01:07.243701+00:00",
     "d031742429d4ddc670d1c48c2e160ac9223cac6a7b65bea3f9c3591ee66468e2": "2026-09-17T18:01:01.291552+00:00",
     "d1dd9486c9f886705a4a376ae60d8eaaebfa99ef458cb1140aae1519cf246e55": "2026-08-14T10:15:00.868800+00:00",
+    "d2c572e1eb9fc8d2afe9217144d58afc3cc50cbd621f9321798bfbacc5fbefe5": "2026-09-19T07:31:15.920350+00:00",
     "d39db68952ac6149d7a775f79ff75cd9de63bf8787fe5fab239ef92521949816": "2026-08-14T10:15:00.868800+00:00",
     "d59294aec9b2690d781e6ea535d9d810dd19e549c74895d8cab442d65a0ba9aa": "2026-09-11T07:21:24.577686+00:00",
     "d629bbd2f818df75a0232a48bcc602bb2dd1546e3357cbf267127350511195d9": "2026-08-14T10:15:00.868800+00:00",
