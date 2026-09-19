@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 21,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 660,
-  "early_signal_last_scan_utc": "2026-09-19T20:50:47.868660+00:00",
+  "early_signal_last_scan_utc": "2026-09-19T21:01:26.440587+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -8.11,
@@ -50,7 +50,7 @@
       "volume_ratio": 0.03
     }
   },
-  "event_duplicates_suppressed": 40,
+  "event_duplicates_suppressed": 41,
   "event_memory": {
     "IPO|TICKER|SWAP": {
       "family": "IPO",
@@ -3503,11 +3503,11 @@
       "family": "M&A / TAKEOVER",
       "first_seen_utc": "2026-09-19T05:21:31.766870+00:00",
       "last_alert_utc": "2026-09-19T05:21:31.766863+00:00",
-      "last_seen_utc": "2026-09-19T05:21:31.766863+00:00",
+      "last_seen_utc": "2026-09-19T21:01:34.668598+00:00",
       "market_context": {
-        "change_pct": -0.3356,
-        "last_price": 7425.0,
-        "market_date": "2026-09-18"
+        "change_pct": null,
+        "last_price": null,
+        "market_date": null
       },
       "material_snapshot": {
         "acquirer": null,
@@ -3535,7 +3535,7 @@
         "underwriter": null,
         "use_of_funds": []
       },
-      "ticker": "FAPA"
+      "ticker": ""
     },
     "M&A / TAKEOVER|TITLE|PENGAMBILALIHAN WIKA PSBI PENGAMAT INGATKAN PENTINGNYA TRANSPARANSI": {
       "family": "M&A / TAKEOVER",
@@ -7145,7 +7145,7 @@
       "owner_context_sources": 0,
       "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
       "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-      "owner_v6_checked_utc": "2026-09-19T08:50:58.476608+00:00",
+      "owner_v6_checked_utc": "2026-09-19T21:00:56.729842+00:00",
       "owner_v6_pages_fetched": 0,
       "profile_source": "Yahoo Finance",
       "profile_source_quality": "FALLBACK",
@@ -7154,7 +7154,7 @@
       "subindustry": null,
       "subsector": null,
       "ticker": "PARA",
-      "verified_at": "2026-09-19T08:50:59.827462+00:00",
+      "verified_at": "2026-09-19T21:00:57.449166+00:00",
       "website": null
     },
     "PDSI": {
@@ -7460,7 +7460,7 @@
     }
   },
   "last_keepalive_utc": "2026-09-11T10:21:25.319722+00:00",
-  "last_state_change_utc": "2026-09-19T20:50:47.910780+00:00",
+  "last_state_change_utc": "2026-09-19T21:01:34.670180+00:00",
   "market_noise_suppressed": 5,
   "milestone_alerts": {},
   "rumor_alerts_sent": 18,
@@ -7471,8 +7471,8 @@
   "rumor_duplicates_suppressed": 521,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 17,
-  "rumor_integrity_repairs": 1336,
-  "rumor_last_scan_utc": "2026-09-19T20:50:47.853747+00:00",
+  "rumor_integrity_repairs": 1337,
+  "rumor_last_scan_utc": "2026-09-19T21:01:26.425110+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -7824,7 +7824,7 @@
     },
     "BUYBACK|TICKER|PARA": {
       "category": "BUYBACK",
-      "company_name": "PT MERDEKA BATTERY MATERIALS TBK TERKAIT RENCANA PEMBELIAN KEMBALI SAHAM DAL",
+      "company_name": "PARA",
       "copy_duplicate_count": 0,
       "credible_effective_independent_count": 1.1,
       "derivative_source_count": 0,
@@ -7845,7 +7845,7 @@
         "owner_context_sources": 0,
         "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
         "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-        "owner_v6_checked_utc": "2026-09-19T08:50:58.476608+00:00",
+        "owner_v6_checked_utc": "2026-09-19T21:00:56.729842+00:00",
         "owner_v6_pages_fetched": 0,
         "profile_source": "Yahoo Finance",
         "profile_source_quality": "FALLBACK",
@@ -7854,7 +7854,7 @@
         "subindustry": null,
         "subsector": null,
         "ticker": "PARA",
-        "verified_at": "2026-09-19T08:50:59.827462+00:00",
+        "verified_at": "2026-09-19T21:00:57.449166+00:00",
         "website": null
       },
       "key": "BUYBACK|TICKER|PARA",
@@ -7863,7 +7863,7 @@
       "market_data": null,
       "official_confirmation": null,
       "premium_source_count": 1,
-      "profile_refresh_utc": "2026-09-19T08:51:29.278274+00:00",
+      "profile_refresh_utc": "2026-09-19T21:01:26.423879+00:00",
       "published": "Wed, 16 Sep 2026 13:59:46 GMT",
       "rumor_details": {
         "ipo_price": null,
@@ -9892,6 +9892,7 @@
     "bbe884fbc449fb10cb942b000c191836b7bec3feaead9d86e3532289a87bfdbe": "2026-08-14T10:15:00.868800+00:00",
     "bcaf8aeff9fc756fd5abefaad9112e31066f5be443285a41d6bde543232d7c2b": "2026-08-14T10:15:00.868800+00:00",
     "bcba1c36104398d407e5a304e692336948e5b924d883349920a2440ee7290793": "2026-09-17T19:41:14.787581+00:00",
+    "bce235ee9306d0015bb5993405681159790e296a5f8bb8ddffc21faf83b3c995": "2026-09-19T21:01:34.668584+00:00",
     "bd9e42183a955c0cf3c97da106e239a125aac5629b37096f70a70aceacb18d61": "2026-08-23T17:50:45.664101+00:00",
     "be8c673e02ac41d26cd57b00130e4b816365787aca0763dad8147b1a468b3c01": "2026-09-18T06:02:03.327531+00:00",
     "bf11a8f55c452c95a1e09788c923c25b3aa9d8f47f4e233ec51322d88119a53e": "2026-09-07T10:30:52.503607+00:00",
