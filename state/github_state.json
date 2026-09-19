@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 21,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 660,
-  "early_signal_last_scan_utc": "2026-09-19T00:30:53.818659+00:00",
+  "early_signal_last_scan_utc": "2026-09-19T00:40:44.997953+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -8.11,
@@ -7340,7 +7340,7 @@
     }
   },
   "last_keepalive_utc": "2026-09-11T10:21:25.319722+00:00",
-  "last_state_change_utc": "2026-09-19T00:30:53.962029+00:00",
+  "last_state_change_utc": "2026-09-19T00:40:45.036239+00:00",
   "market_noise_suppressed": 5,
   "milestone_alerts": {},
   "rumor_alerts_sent": 18,
@@ -7348,11 +7348,11 @@
   "rumor_confirmed_count": 0,
   "rumor_confirmed_dedups": 0,
   "rumor_denied_count": 0,
-  "rumor_duplicates_suppressed": 508,
+  "rumor_duplicates_suppressed": 509,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 17,
-  "rumor_integrity_repairs": 1232,
-  "rumor_last_scan_utc": "2026-09-19T00:30:53.805578+00:00",
+  "rumor_integrity_repairs": 1233,
+  "rumor_last_scan_utc": "2026-09-19T00:40:44.984702+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -7846,15 +7846,15 @@
         "underwriter": null
       },
       "semantic_copy_count": 0,
-      "source": "idx.co.id",
+      "source": "PT Bursa Efek Indonesia",
       "source_breakdown": [
         {
           "derivative": false,
-          "group": "idx.co.id",
+          "group": "pt bursa efek indonesia",
           "new_material": 0,
           "quality": "OFFICIAL",
           "semantic_copy": false,
-          "source": "idx.co.id",
+          "source": "PT Bursa Efek Indonesia",
           "tier": 5,
           "weight": 1.1
         }
@@ -7863,13 +7863,13 @@
       "source_quality": "MEDIUM",
       "source_quality_score": 5.5,
       "sources": [
-        "idx.co.id",
-        "PT Bursa Efek Indonesia"
+        "PT Bursa Efek Indonesia",
+        "idx.co.id"
       ],
       "status": "CONFIRMED OFFICIAL",
       "strength": "CONFIRMED OFFICIAL",
       "ticker": "PARA",
-      "title": "KETERBUKAAN INFORMASI KEPADA PARA PEMEGANG SAHAM PT MERDEKA BATTERY MATERIALS TBK TERKAIT RENCANA PEMBELIAN KEMBALI SAHAM DAL - idx.co.id"
+      "title": "KETERBUKAAN INFORMASI KEPADA PARA PEMEGANG SAHAM PT MERDEKA BATTERY MATERIALS TBK TERKAIT RENCANA PEMBELIAN KEMBALI SAHAM DAL - PT Bursa Efek Indonesia"
     },
     "BUYBACK|TITLE|BUYBACK JADI KATALIS PROPERTI AGUAN PT BURSA": {
       "category": "BUYBACK",
