@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 21,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 660,
-  "early_signal_last_scan_utc": "2026-09-20T14:00:55.740071+00:00",
+  "early_signal_last_scan_utc": "2026-09-20T14:20:48.605544+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -8.11,
@@ -7449,7 +7449,7 @@
     }
   },
   "last_keepalive_utc": "2026-09-11T10:21:25.319722+00:00",
-  "last_state_change_utc": "2026-09-20T14:00:55.783054+00:00",
+  "last_state_change_utc": "2026-09-20T14:20:48.645209+00:00",
   "market_noise_suppressed": 5,
   "milestone_alerts": {},
   "rumor_alerts_sent": 18,
@@ -7461,7 +7461,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 17,
   "rumor_integrity_repairs": 1406,
-  "rumor_last_scan_utc": "2026-09-20T14:00:55.725969+00:00",
+  "rumor_last_scan_utc": "2026-09-20T14:20:48.591779+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -9497,6 +9497,63 @@
       "strength": "CONFIRMED OFFICIAL",
       "ticker": "WSKT",
       "title": "042/SP/SEKPER/WSKT/2026 RUPO Disetujui, Waskita Karya Rampungkan Restrukturisasi Utang Jakarta, 3 September 2026. PT Waskita Kar - PT Bursa Efek Indonesia"
+    },
+    "SPIN-OFF / RESTRUCTURING|TITLE|2026 09 KETERBUKAAN INFORMASI ADHI MASUKI TAHAP": {
+      "category": "SPIN-OFF / RESTRUCTURING",
+      "company_name": "PT Bur",
+      "copy_duplicate_count": 0,
+      "credible_effective_independent_count": 1.1,
+      "derivative_source_count": 0,
+      "detected_source_count": 1,
+      "effective_independent_count": 1.1,
+      "entity_aliases": [],
+      "entity_resolution_source": null,
+      "first_seen_utc": "2026-09-17T07:00:00+00:00",
+      "high_quality_source_count": 1,
+      "independent_story_count": 1,
+      "issuer_profile": null,
+      "key": "SPIN-OFF / RESTRUCTURING|TITLE|2026 09 KETERBUKAAN INFORMASI ADHI MASUKI TAHAP",
+      "last_seen_utc": "2026-09-17T07:00:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYkFmTHE0REo4SWFuSWMtQ2dyMmZhVDJPVmh0cmN2TEhYYWZmdlo2QWtVM3p3bE9BYWhocm1Rd2ZWNktLV0Q5RVpKeDZCMWtLWVY2RHpUME5TbUdJY2laUDdQZmtaLVlLanJTVnNLSXJiWEZyUUVRTHVyV2xuTUJQOW5rbEsxU0QxaEo3b1d6a19ZS3Y2Q2dLc0VtY0J6RElkODFTZk1ZUE1nM2tZYXlKaE1vbw?oc=5",
+      "market_data": null,
+      "official_confirmation": null,
+      "premium_source_count": 1,
+      "profile_refresh_utc": null,
+      "published": "Thu, 17 Sep 2026 07:00:00 GMT",
+      "rumor_details": {
+        "ipo_price": null,
+        "listing_estimate": null,
+        "money": [],
+        "percentages": [],
+        "price_range": null,
+        "rumored_party": null,
+        "share_count": null,
+        "underwriter": null
+      },
+      "semantic_copy_count": 0,
+      "source": "PT Bursa Efek Indonesia",
+      "source_breakdown": [
+        {
+          "derivative": false,
+          "group": "pt bursa efek indonesia",
+          "new_material": 0,
+          "quality": "OFFICIAL",
+          "semantic_copy": false,
+          "source": "PT Bursa Efek Indonesia",
+          "tier": 5,
+          "weight": 1.1
+        }
+      ],
+      "source_count": 1,
+      "source_quality": "MEDIUM",
+      "source_quality_score": 5.5,
+      "sources": [
+        "PT Bursa Efek Indonesia"
+      ],
+      "status": "CONFIRMED OFFICIAL",
+      "strength": "CONFIRMED OFFICIAL",
+      "ticker": null,
+      "title": "2026-09 Keterbukaan Informasi_ADHI Masuki Tahap Implementasi Restrukturisasi melalui Penandatanganan Master Restructuring Agreem - PT Bursa Efek Indonesia"
     }
   },
   "schema_version": 3,
