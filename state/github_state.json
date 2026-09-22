@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 21,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 660,
-  "early_signal_last_scan_utc": "2026-09-22T05:50:44.030878+00:00",
+  "early_signal_last_scan_utc": "2026-09-22T07:51:13.591438+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -8.11,
@@ -1045,6 +1045,55 @@
         ]
       },
       "ticker": ""
+    },
+    "M&A / TAKEOVER|PARTIES|GABRIEL REY DAN ANDRY HAKIM|20 SAHAM TRUK": {
+      "family": "M&A / TAKEOVER",
+      "first_seen_utc": "2026-09-22T07:51:40.556452+00:00",
+      "last_alert_utc": "2026-09-22T07:51:40.556447+00:00",
+      "last_seen_utc": "2026-09-22T07:51:40.556447+00:00",
+      "market_context": {
+        "change_pct": 9.9359,
+        "last_price": 1715.0,
+        "market_date": "2026-09-22"
+      },
+      "material_snapshot": {
+        "acquirer": "Gabriel Rey dan Andry Hakim",
+        "acquirer_confirmed": true,
+        "event_type": "AKUISISI",
+        "execution_price": null,
+        "ipo_single_price": null,
+        "money": [
+          "Rp37,24 miliar",
+          "Rp9,31 miliar",
+          "Rp27,93 miliar",
+          "Rp34,5 miliar"
+        ],
+        "official_authority": null,
+        "official_kind": null,
+        "price_range": null,
+        "ratio": null,
+        "schedule": {},
+        "share_count": "21,75 juta saham",
+        "stage": "SPA / SIGNED",
+        "stage_step": 4,
+        "stage_total": 7,
+        "stake": [
+          20.0,
+          15.0,
+          5.0
+        ],
+        "standby_buyer": null,
+        "target": "20% Saham TRUK",
+        "target_confirmed": true,
+        "tender_price": null,
+        "underwriter": null,
+        "use_of_funds": [
+          "AKUISISI / INVESTASI",
+          "EKSPANSI / CAPEX",
+          "PENGEMBANGAN USAHA"
+        ]
+      },
+      "ticker": "TRUK"
     },
     "M&A / TAKEOVER|PARTIES|JARR DAN BYAN TEGASKAN TIDAK ADA RENCANA|": {
       "family": "M&A / TAKEOVER",
@@ -7421,6 +7470,26 @@
       "verified_at": "2026-09-08T06:31:30.295323+00:00",
       "website": "https://www.tower-bersama.com"
     },
+    "TRUK": {
+      "business_activity": "PT Guna Timur Raya Tbk engages in providing land transportation services in Indonesia. It also invests in land transportation services companies.",
+      "controller": null,
+      "industry": "Trucking",
+      "issuer_name": "Guna Timur Raya",
+      "owner_context_sources": 0,
+      "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
+      "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
+      "owner_v6_checked_utc": "2026-09-22T07:51:39.670551+00:00",
+      "owner_v6_pages_fetched": 0,
+      "profile_source": "Yahoo Finance",
+      "profile_source_quality": "FALLBACK",
+      "profile_source_url": null,
+      "sector": "Industrials",
+      "subindustry": null,
+      "subsector": null,
+      "ticker": "TRUK",
+      "verified_at": "2026-09-22T07:51:27.125165+00:00",
+      "website": "https://www.gunatimurraya.com"
+    },
     "ULTJ": {
       "business_activity": "PT Ultrajaya Milk Industry & Trading Company Tbk, together with its subsidiaries, operates in the food and beverage industry in Indonesia. The company operates in two segments: Beverages and Foods.",
       "controller": null,
@@ -7504,7 +7573,7 @@
     }
   },
   "last_keepalive_utc": "2026-09-11T10:21:25.319722+00:00",
-  "last_state_change_utc": "2026-09-22T05:50:44.068188+00:00",
+  "last_state_change_utc": "2026-09-22T07:51:40.557380+00:00",
   "market_noise_suppressed": 5,
   "milestone_alerts": {},
   "rumor_alerts_sent": 18,
@@ -7516,7 +7585,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 18,
   "rumor_integrity_repairs": 1406,
-  "rumor_last_scan_utc": "2026-09-22T05:50:44.018582+00:00",
+  "rumor_last_scan_utc": "2026-09-22T07:51:13.585271+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -9767,6 +9836,7 @@
     "c14b175dec3700ded77111f61fce168509b81587c704f456a1be950be00c6993": "2026-08-14T10:15:00.868800+00:00",
     "c616291a627db7d68ca648b426423abd56611db4a717f82e7f3b6107e4bdedc9": "2026-09-19T15:11:09.477341+00:00",
     "c66ae0af4755f92d87e7e0a2bd7f688c59ce22ebd8c6221103b156150b34fc1f": "2026-08-24T17:41:03.036709+00:00",
+    "c76d361989a26af601c420bc1b9d523e33e80e86539bcdc2da6182debe75a10f": "2026-09-22T07:51:40.556429+00:00",
     "c92ed7abf30342ae38c65851b012643b9f4f22ef67f1f8df2504feed73345645": "2026-08-26T10:51:10.227612+00:00",
     "c9a599b7f347878d098ece2029c152ac0e4564049b3d9084470f451223872dda": "2026-08-14T10:15:00.868800+00:00",
     "cac9c1d8543f1760b917636f01b7d023dc2331644c8af036e297ce2e56feb013": "2026-08-28T18:01:15.825902+00:00",
