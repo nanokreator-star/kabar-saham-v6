@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 21,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 660,
-  "early_signal_last_scan_utc": "2026-09-23T07:30:58.536497+00:00",
+  "early_signal_last_scan_utc": "2026-09-23T10:50:44.276048+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -8.11,
@@ -7705,7 +7705,7 @@
     }
   },
   "last_keepalive_utc": "2026-09-11T10:21:25.319722+00:00",
-  "last_state_change_utc": "2026-09-23T07:30:58.574319+00:00",
+  "last_state_change_utc": "2026-09-23T10:50:44.430702+00:00",
   "market_noise_suppressed": 5,
   "milestone_alerts": {},
   "rumor_alerts_sent": 32,
@@ -7717,7 +7717,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 18,
   "rumor_integrity_repairs": 1413,
-  "rumor_last_scan_utc": "2026-09-23T07:30:58.523581+00:00",
+  "rumor_last_scan_utc": "2026-09-23T10:50:44.266907+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -8810,92 +8810,6 @@
       "ticker": null,
       "title": "Platform Investasi Ajaib Dapat Suntikan Rp 4,8 Triliun, Apakah Akan IPO? - investasi.kontan.co.id"
     },
-    "IPO|TICKER|SWAP": {
-      "category": "IPO",
-      "company_name": "SWAP",
-      "copy_duplicate_count": 0,
-      "credible_effective_independent_count": 0,
-      "derivative_source_count": 0,
-      "detected_source_count": 1,
-      "effective_independent_count": 0.6,
-      "entity_aliases": [
-        "Swayasa Prakarsa (SWAP",
-        "Hilirisasi Riset UGM (SWAP"
-      ],
-      "entity_resolution_source": null,
-      "first_seen_utc": "2026-08-23T22:47:19+00:00",
-      "high_quality_source_count": 0,
-      "independent_story_count": 1,
-      "issuer_profile": {
-        "business_activity": null,
-        "controller": null,
-        "industry": null,
-        "issuer_name": "SWAP",
-        "owner_context_sources": 0,
-        "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
-        "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-        "owner_v6_checked_utc": "2026-08-28T00:41:01.668299+00:00",
-        "owner_v6_pages_fetched": 0,
-        "profile_source": "Yahoo Finance",
-        "profile_source_quality": "FALLBACK",
-        "profile_source_url": null,
-        "sector": null,
-        "subindustry": null,
-        "subsector": null,
-        "ticker": "SWAP",
-        "verified_at": "2026-08-28T00:41:02.233455+00:00",
-        "website": null
-      },
-      "key": "IPO|TICKER|SWAP",
-      "last_alert_utc": "2026-08-26T11:11:08.751542+00:00",
-      "last_seen_utc": "2026-08-24T10:42:00+00:00",
-      "last_state_change_utc": "2026-08-31T10:51:48.610329+00:00",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdWljYlZxZDFaU2VUcTZVNXlhaktMWkJsS2hySkFhanBJVlcyZjY1NlRkMkxmR2E3a2VmUHQ4NTd2eFBUX3luUTlTNjRCQVd4MkQ3UHVPSWpiSzd5RFNTSHZ2bm1mMGpkbkJaekROeS0xNDZydk9vT016QVdyU01nY2lEME9lY09GdGFTNmNyUFJsN09LbGpNWXZn?oc=5",
-      "market_data": null,
-      "official_confirmation": null,
-      "premium_source_count": 0,
-      "profile_refresh_utc": "2026-08-28T00:41:11.902579+00:00",
-      "published": "Mon, 24 Aug 2026 10:42:00 GMT",
-      "rumor_details": {
-        "ipo_price": null,
-        "listing_estimate": null,
-        "money": [
-          "Rp45,2 miliar",
-          "Rp2,13 triliun",
-          "Rp45,22 miliar"
-        ],
-        "percentages": [],
-        "price_range": "Rp2.100\u2013Rp2.500",
-        "rumored_party": null,
-        "share_count": "854,44 juta saham",
-        "underwriter": null
-      },
-      "semantic_copy_count": 0,
-      "source": "maybanktrade.co.id",
-      "source_breakdown": [
-        {
-          "derivative": false,
-          "group": "maybanktrade.co.id",
-          "new_material": 1,
-          "quality": "LOW",
-          "semantic_copy": false,
-          "source": "maybanktrade.co.id",
-          "tier": 1,
-          "weight": 0.55
-        }
-      ],
-      "source_count": 2,
-      "source_quality": "LOW",
-      "source_quality_score": 0.6,
-      "sources": [
-        "maybanktrade.co.id",
-        "SWA.co.id"
-      ],
-      "status": "EXPIRED",
-      "strength": "WEAK",
-      "ticker": "SWAP",
-      "title": "Swayasa Prakarsa (SWAP) Akan IPO, Target Dana Rp45,2 Miliar - maybanktrade.co.id"
-    },
     "MERGER|TICKER|MTEL": {
       "category": "MERGER",
       "company_name": "Dayamitra Telekomunikasi",
@@ -9249,7 +9163,7 @@
     },
     "PRIVATE PLACEMENT|TICKER|EFEK": {
       "category": "PRIVATE PLACEMENT",
-      "company_name": "EFEK",
+      "company_name": "PT MITRA KOMUNIKASI NUSA",
       "copy_duplicate_count": 0,
       "credible_effective_independent_count": 1.1,
       "derivative_source_count": 0,
