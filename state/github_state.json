@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 21,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 660,
-  "early_signal_last_scan_utc": "2026-09-23T03:21:00.819222+00:00",
+  "early_signal_last_scan_utc": "2026-09-23T04:30:48.703789+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -8.11,
@@ -6551,6 +6551,46 @@
         "use_of_funds": []
       },
       "ticker": ""
+    },
+    "RIGHTS ISSUE|TITLE|ULTJ RENCANAKAN RP16 TRILIUN FRISIAN FLAG DEMOKRATIS": {
+      "family": "RIGHTS ISSUE",
+      "first_seen_utc": "2026-09-23T04:30:51.459958+00:00",
+      "last_alert_utc": "2026-09-23T04:30:51.459952+00:00",
+      "last_seen_utc": "2026-09-23T04:30:51.459952+00:00",
+      "market_context": {
+        "change_pct": null,
+        "last_price": null,
+        "market_date": null
+      },
+      "material_snapshot": {
+        "acquirer": null,
+        "acquirer_confirmed": false,
+        "event_type": "RIGHTS ISSUE",
+        "execution_price": null,
+        "ipo_single_price": null,
+        "money": [
+          "Rp16 triliun"
+        ],
+        "official_authority": null,
+        "official_kind": null,
+        "price_range": null,
+        "ratio": null,
+        "schedule": {},
+        "share_count": null,
+        "stage": "RENCANA",
+        "stage_step": 2,
+        "stage_total": 6,
+        "stake": [],
+        "standby_buyer": null,
+        "target": null,
+        "target_confirmed": false,
+        "tender_price": null,
+        "underwriter": null,
+        "use_of_funds": [
+          "AKUISISI / INVESTASI"
+        ]
+      },
+      "ticker": ""
     }
   },
   "issuer_profile_cache": {
@@ -7665,7 +7705,7 @@
     }
   },
   "last_keepalive_utc": "2026-09-11T10:21:25.319722+00:00",
-  "last_state_change_utc": "2026-09-23T03:21:00.850236+00:00",
+  "last_state_change_utc": "2026-09-23T04:30:51.461575+00:00",
   "market_noise_suppressed": 5,
   "milestone_alerts": {},
   "rumor_alerts_sent": 28,
@@ -7677,7 +7717,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 18,
   "rumor_integrity_repairs": 1412,
-  "rumor_last_scan_utc": "2026-09-23T03:21:00.807167+00:00",
+  "rumor_last_scan_utc": "2026-09-23T04:30:48.690144+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -9209,7 +9249,7 @@
     },
     "PRIVATE PLACEMENT|TICKER|EFEK": {
       "category": "PRIVATE PLACEMENT",
-      "company_name": "EFEK",
+      "company_name": "PT MITRA KOMUNIKASI NUSA",
       "copy_duplicate_count": 0,
       "credible_effective_independent_count": 1.1,
       "derivative_source_count": 0,
@@ -9664,6 +9704,7 @@
     "21a67ed64ec7f0464e5f657cab58624d287f7467137cc3796ee1b1cb233b6969": "2026-08-18T10:41:00.074050+00:00",
     "21f05a8ae55d91ed26906e87c9183cef8c22069e71b45e59f87f9352f12db54a": "2026-09-19T07:31:15.920350+00:00",
     "227886cc07bab0f58145bba9b78623dc7b4178bfc7164e301676060caaeda962": "2026-08-14T10:15:00.868800+00:00",
+    "23631988368f35d98ff769a9badb44701656daefbb89abe01028a0ed3998262f": "2026-09-23T04:30:51.459933+00:00",
     "23fa35aa38f62afefc77fe3fa2c34f86bb8a4acd22de199c0ad1aeb46fbaa0e1": "2026-08-24T09:21:00.218640+00:00",
     "24c3f86abf09c13899d6aa5e0c7ff1240908e4d8e2f0f5f1b0e0d6eabd465eeb": "2026-08-20T11:56:54.702749+00:00",
     "2509b9d74e72beba4f0773f976e7cadb2a4b1fa149e824df6c839712e37ba7e2": "2026-08-14T10:15:00.868800+00:00",
