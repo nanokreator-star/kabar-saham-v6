@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 21,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 660,
-  "early_signal_last_scan_utc": "2026-09-24T07:11:01.188191+00:00",
+  "early_signal_last_scan_utc": "2026-09-24T17:01:16.382497+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -8.11,
@@ -6914,7 +6914,7 @@
       "owner_context_sources": 0,
       "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
       "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-      "owner_v6_checked_utc": "2026-09-24T05:00:56.103813+00:00",
+      "owner_v6_checked_utc": "2026-09-24T17:01:08.368842+00:00",
       "owner_v6_pages_fetched": 0,
       "profile_source": "Yahoo Finance",
       "profile_source_quality": "FALLBACK",
@@ -6923,7 +6923,7 @@
       "subindustry": null,
       "subsector": null,
       "ticker": "EFEK",
-      "verified_at": "2026-09-24T07:10:55.187313+00:00",
+      "verified_at": "2026-09-24T17:01:09.989414+00:00",
       "website": null
     },
     "FAPA": {
@@ -7705,7 +7705,7 @@
     }
   },
   "last_keepalive_utc": "2026-09-11T10:21:25.319722+00:00",
-  "last_state_change_utc": "2026-09-24T07:11:01.214909+00:00",
+  "last_state_change_utc": "2026-09-24T17:01:16.420955+00:00",
   "market_noise_suppressed": 5,
   "milestone_alerts": {},
   "rumor_alerts_sent": 62,
@@ -7717,7 +7717,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 18,
   "rumor_integrity_repairs": 1443,
-  "rumor_last_scan_utc": "2026-09-24T07:11:01.177028+00:00",
+  "rumor_last_scan_utc": "2026-09-24T17:01:16.369250+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -9184,7 +9184,7 @@
         "owner_context_sources": 0,
         "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
         "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-        "owner_v6_checked_utc": "2026-09-24T05:00:56.103813+00:00",
+        "owner_v6_checked_utc": "2026-09-24T17:01:08.368842+00:00",
         "owner_v6_pages_fetched": 0,
         "profile_source": "Yahoo Finance",
         "profile_source_quality": "FALLBACK",
@@ -9193,7 +9193,7 @@
         "subindustry": null,
         "subsector": null,
         "ticker": "EFEK",
-        "verified_at": "2026-09-24T07:10:55.187313+00:00",
+        "verified_at": "2026-09-24T17:01:09.989414+00:00",
         "website": null
       },
       "key": "PRIVATE PLACEMENT|TICKER|EFEK",
@@ -9203,7 +9203,7 @@
       "market_data": null,
       "official_confirmation": null,
       "premium_source_count": 1,
-      "profile_refresh_utc": "2026-09-24T05:01:00.746913+00:00",
+      "profile_refresh_utc": "2026-09-24T17:01:16.367780+00:00",
       "published": "Tue, 22 Sep 2026 11:54:10 GMT",
       "rumor_details": {
         "ipo_price": null,
