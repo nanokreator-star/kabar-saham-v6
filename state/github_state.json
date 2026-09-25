@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 21,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 660,
-  "early_signal_last_scan_utc": "2026-09-25T05:10:57.663880+00:00",
+  "early_signal_last_scan_utc": "2026-09-25T08:01:06.051826+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -8.11,
@@ -5174,6 +5174,54 @@
       },
       "ticker": ""
     },
+    "RIGHTS ISSUE|TITLE|BMAS RENCANA MILIAR PERKUAT MODAL CETRO OR": {
+      "family": "RIGHTS ISSUE",
+      "first_seen_utc": "2026-09-25T08:02:07.576936+00:00",
+      "last_alert_utc": "2026-09-25T08:02:07.576930+00:00",
+      "last_seen_utc": "2026-09-25T08:02:07.576930+00:00",
+      "market_context": {
+        "change_pct": -2.0,
+        "last_price": 490.0,
+        "market_date": "2026-09-25"
+      },
+      "material_snapshot": {
+        "acquirer": null,
+        "acquirer_confirmed": false,
+        "event_type": "RIGHTS ISSUE",
+        "execution_price": null,
+        "ipo_single_price": null,
+        "money": [
+          "US$185 juta",
+          "US$285 juta",
+          "Rp4,83 triliun",
+          "Rp1,69 triliun",
+          "US$85 juta"
+        ],
+        "official_authority": null,
+        "official_kind": null,
+        "price_range": null,
+        "ratio": null,
+        "schedule": {},
+        "share_count": "2,9 Miliar saham",
+        "stage": "RENCANA",
+        "stage_step": 2,
+        "stage_total": 6,
+        "stake": [
+          86.03,
+          89.48
+        ],
+        "standby_buyer": null,
+        "target": null,
+        "target_confirmed": false,
+        "tender_price": null,
+        "underwriter": null,
+        "use_of_funds": [
+          "EKSPANSI / CAPEX",
+          "PENGEMBANGAN USAHA"
+        ]
+      },
+      "ticker": "BMAS"
+    },
     "RIGHTS ISSUE|TITLE|BNBR MELONJAK 10 59 PERSEN SAAT GELAR": {
       "family": "RIGHTS ISSUE",
       "first_seen_utc": "2026-08-14T10:15:00.868800+00:00",
@@ -6734,6 +6782,81 @@
       "verified_at": "2026-08-23T18:01:09.235455+00:00",
       "website": "https://sepedabersamaindonesia.co.id"
     },
+    "BMAS": {
+      "business_activity": "PT Bank Kasikorn Indonesia Tbk operates as a commercial bank in Indonesia. It offers savings, deposit, and current accounts; and loan products, including working capital, investment, consumer, and general personal loans, as well as bank gua",
+      "controller": null,
+      "industry": "Banks - Regional",
+      "issuer_name": "Bank Kasikorn Indonesia",
+      "major_shareholders": [
+        {
+          "basis": "OWNER_V5_SECTION_PERCENT",
+          "evidence_text": "Jumlah Saham Nilai Nominal Persentase KASIKORN VISION FINANCIAL COMPANY PTE. LTD. 15.574.208.968 1.557.420.896.800 86,03%",
+          "name": "COMPANY PTE. LTD",
+          "official_registry": false,
+          "primary_company": true,
+          "role": "MAJOR",
+          "source": "kasikornbank.co.id",
+          "source_group": "kasikornbank.co.id",
+          "source_quality": "PRIMARY_COMPANY",
+          "source_tier": 4,
+          "source_url": "https://www.kasikornbank.co.id/investor-relations/general-info/shareholders-information",
+          "stake_pct": 86.03,
+          "verification_level": "PRIMARY_COMPANY_HOLDER_V5",
+          "verified": true
+        },
+        {
+          "basis": "OWNER_V6_STRUCTURED_SOURCE_ONLY",
+          "evidence_text": "KASIKORN VISION FINANCIAL COMPANY PTE. LTD. | 15.574.208.968 | 1.557.420.896.800 | 86,03%",
+          "name": "KASIKORN VISION FINANCIAL COMPANY PTE. LTD",
+          "official_registry": false,
+          "primary_company": true,
+          "role": "MAJOR",
+          "source": "kasikornbank.co.id",
+          "source_group": "kasikornbank.co.id",
+          "source_quality": "PRIMARY_COMPANY",
+          "source_tier": 4,
+          "source_url": "https://www.kasikornbank.co.id/investor-relations/general-info/shareholders-information",
+          "stake_pct": 86.03,
+          "structured_source": true,
+          "verification_level": "PRIMARY_COMPANY_STRUCTURED_HOLDER_V6",
+          "verified": true
+        },
+        {
+          "basis": "OWNER_V5_SECTION_PERCENT",
+          "evidence_text": ".800 2,45% Kasikorn Vision Financial Indonesia, PT 181.026.624 18.102.662.400 1,00% Masyarakat 1.903.524.904 190.352.490.400 10,52%",
+          "name": "Kasikorn Vision Financial Indonesia",
+          "official_registry": false,
+          "primary_company": true,
+          "role": "MAJOR",
+          "source": "kasikornbank.co.id",
+          "source_group": "kasikornbank.co.id",
+          "source_quality": "PRIMARY_COMPANY",
+          "source_tier": 4,
+          "source_url": "https://www.kasikornbank.co.id/investor-relations/general-info/shareholders-information",
+          "stake_pct": 10.52,
+          "verification_level": "PRIMARY_COMPANY_HOLDER_V5",
+          "verified": true
+        }
+      ],
+      "owner_context_sources": 1,
+      "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
+      "owner_holder_resolution_level": "STRUCTURED_MAJOR_HOLDERS_V8",
+      "owner_resolution_level": "MAJOR_HOLDER_CONTEXT",
+      "owner_v6_checked_utc": "2026-09-25T08:02:07.011409+00:00",
+      "owner_v6_pages_fetched": 1,
+      "owner_v6_source_urls": [
+        "https://www.kasikornbank.co.id/investor-relations/general-info/shareholders-information"
+      ],
+      "profile_source": "Yahoo Finance",
+      "profile_source_quality": "FALLBACK",
+      "profile_source_url": null,
+      "sector": "Financial Services",
+      "subindustry": null,
+      "subsector": null,
+      "ticker": "BMAS",
+      "verified_at": "2026-09-25T08:02:00.279697+00:00",
+      "website": "https://www.kasikornbank.co.id"
+    },
     "BYAN": {
       "business_activity": "PT Bayan Resources Tbk., together with its subsidiaries, engages in the open cut mining and sale of coal in Indonesia. It operates through Coal and Non-Coal segments.",
       "controller": {
@@ -7705,7 +7828,7 @@
     }
   },
   "last_keepalive_utc": "2026-09-11T10:21:25.319722+00:00",
-  "last_state_change_utc": "2026-09-25T05:10:57.703444+00:00",
+  "last_state_change_utc": "2026-09-25T08:02:07.578851+00:00",
   "market_noise_suppressed": 5,
   "milestone_alerts": {},
   "rumor_alerts_sent": 70,
@@ -7717,7 +7840,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 18,
   "rumor_integrity_repairs": 1444,
-  "rumor_last_scan_utc": "2026-09-25T05:10:57.649825+00:00",
+  "rumor_last_scan_utc": "2026-09-25T08:01:06.038476+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -9083,7 +9206,7 @@
     },
     "PRIVATE PLACEMENT|TICKER|EFEK": {
       "category": "PRIVATE PLACEMENT",
-      "company_name": "EFEK",
+      "company_name": "PT MITRA KOMUNIKASI NUSA",
       "copy_duplicate_count": 0,
       "credible_effective_independent_count": 1.1,
       "derivative_source_count": 0,
@@ -9583,6 +9706,7 @@
     "830ef1668388081191c8687508173c3815158d8cf7bb5316d542d87beec83270": "2026-08-14T10:15:00.868800+00:00",
     "8369a0ebe7ace864bb10e8d0156174e4aea54db8bba4b8baee0298a69c5d0b36": "2026-09-18T17:10:52.492870+00:00",
     "8437cd91d15e501ded2cfa4e8118f33db2a8cf8a3220888bd8f63a912adcfc1c": "2026-08-14T10:15:00.868800+00:00",
+    "866c40c123dc04907d95aff8779c29984dd7a4c2b8b00dc7a5ed1bb369179f0a": "2026-09-25T08:02:07.576911+00:00",
     "87f77ebc26da199d6ce34b932c439622c0f3666262d65480caeca8b632c8203c": "2026-08-29T02:20:52.174746+00:00",
     "89670fd45200ffdafa4bb1a0a4bb76b7800915f1ccf79ca612e2aabb6870d44a": "2026-08-14T10:15:00.868800+00:00",
     "8c046d3bf4f29943bff2276b0a143ae6155b904b554586104987b04454897db1": "2026-08-26T07:21:13.208813+00:00",
