@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 21,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 660,
-  "early_signal_last_scan_utc": "2026-09-25T17:01:10.962925+00:00",
+  "early_signal_last_scan_utc": "2026-09-25T17:11:12.026784+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -8.11,
@@ -7037,7 +7037,7 @@
       "owner_context_sources": 0,
       "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
       "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-      "owner_v6_checked_utc": "2026-09-25T05:10:53.256557+00:00",
+      "owner_v6_checked_utc": "2026-09-25T17:11:07.467838+00:00",
       "owner_v6_pages_fetched": 0,
       "profile_source": "Yahoo Finance",
       "profile_source_quality": "FALLBACK",
@@ -7046,7 +7046,7 @@
       "subindustry": null,
       "subsector": null,
       "ticker": "EFEK",
-      "verified_at": "2026-09-25T14:21:00.401293+00:00",
+      "verified_at": "2026-09-25T17:11:08.190869+00:00",
       "website": null
     },
     "FAPA": {
@@ -7828,7 +7828,7 @@
     }
   },
   "last_keepalive_utc": "2026-09-25T10:31:06.793440+00:00",
-  "last_state_change_utc": "2026-09-25T17:01:11.002351+00:00",
+  "last_state_change_utc": "2026-09-25T17:11:12.065864+00:00",
   "market_noise_suppressed": 5,
   "milestone_alerts": {},
   "rumor_alerts_sent": 85,
@@ -7839,8 +7839,8 @@
   "rumor_duplicates_suppressed": 531,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 18,
-  "rumor_integrity_repairs": 1458,
-  "rumor_last_scan_utc": "2026-09-25T17:01:10.949224+00:00",
+  "rumor_integrity_repairs": 1459,
+  "rumor_last_scan_utc": "2026-09-25T17:11:12.012397+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -9267,7 +9267,7 @@
     },
     "PRIVATE PLACEMENT|TICKER|EFEK": {
       "category": "PRIVATE PLACEMENT",
-      "company_name": "PT MITRA KOMUNIKASI NUSA",
+      "company_name": "EFEK",
       "copy_duplicate_count": 0,
       "credible_effective_independent_count": 1.1,
       "derivative_source_count": 0,
@@ -9288,7 +9288,7 @@
         "owner_context_sources": 0,
         "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
         "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-        "owner_v6_checked_utc": "2026-09-25T05:10:53.256557+00:00",
+        "owner_v6_checked_utc": "2026-09-25T17:11:07.467838+00:00",
         "owner_v6_pages_fetched": 0,
         "profile_source": "Yahoo Finance",
         "profile_source_quality": "FALLBACK",
@@ -9297,17 +9297,17 @@
         "subindustry": null,
         "subsector": null,
         "ticker": "EFEK",
-        "verified_at": "2026-09-25T14:21:00.401293+00:00",
+        "verified_at": "2026-09-25T17:11:08.190869+00:00",
         "website": null
       },
       "key": "PRIVATE PLACEMENT|TICKER|EFEK",
       "last_alert_utc": "2026-09-25T14:21:07.395150+00:00",
       "last_seen_utc": "2026-09-22T11:54:10+00:00",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRVdBZVZpOXJ2aVNCX016QmM0Q3lpcjRPc1FTdXAyVFZDQWZ4NWtQUnFZZ2d2R1d0eVhfV0tOYjhqOW0wX015a2JyUlNsYkVTR01iZVF4bEU0c1NlbFFFWmdGelRTYlR2bkZzZ0FHS1JqUG0wZUROb1JhdU94cW5OS2xxenVyc2JHWUlNT2VIMkIweXhVenhRWmxIMGxPdEtXanZzYzFnRTl5dXhncS1IT2V0NA?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQY0JKUEEwbW16dkp6Y3YtcndYYjZDUnJFZ0lWVzY4RFNWUU52bXBqamxRa1dSTmdvWXA5eGdYWFk1YzVEX29uSFJUbVdETkZVX0tYVmt0bmpZaXhHemI0bEEwcjhIV0FzOEJXa0hCSXIyc3dkNnpxQzFTNUhGazFZdFp5WHlSem5TNlRTbjNSdlBZUVFwbHBOZGFoYVNSZW5vaDJpdl9tM21hNmpwNHZMS2xSVQ?oc=5",
       "market_data": null,
       "official_confirmation": null,
       "premium_source_count": 1,
-      "profile_refresh_utc": "2026-09-25T05:10:57.648280+00:00",
+      "profile_refresh_utc": "2026-09-25T17:11:12.007375+00:00",
       "published": "Tue, 22 Sep 2026 11:54:10 GMT",
       "rumor_details": {
         "ipo_price": null,
