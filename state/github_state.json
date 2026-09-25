@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 21,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 660,
-  "early_signal_last_scan_utc": "2026-09-25T23:20:46.997784+00:00",
+  "early_signal_last_scan_utc": "2026-09-25T23:30:48.436261+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -8.11,
@@ -7828,7 +7828,7 @@
     }
   },
   "last_keepalive_utc": "2026-09-25T10:31:06.793440+00:00",
-  "last_state_change_utc": "2026-09-25T23:20:47.036163+00:00",
+  "last_state_change_utc": "2026-09-25T23:30:48.463512+00:00",
   "market_noise_suppressed": 5,
   "milestone_alerts": {},
   "rumor_alerts_sent": 89,
@@ -7836,11 +7836,11 @@
   "rumor_confirmed_count": 35,
   "rumor_confirmed_dedups": 0,
   "rumor_denied_count": 0,
-  "rumor_duplicates_suppressed": 543,
+  "rumor_duplicates_suppressed": 544,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 18,
-  "rumor_integrity_repairs": 1467,
-  "rumor_last_scan_utc": "2026-09-25T23:20:46.984060+00:00",
+  "rumor_integrity_repairs": 1468,
+  "rumor_last_scan_utc": "2026-09-25T23:30:48.427017+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -7985,15 +7985,15 @@
         "underwriter": null
       },
       "semantic_copy_count": 0,
-      "source": "Media Indonesia",
+      "source": "mediaindonesia.com",
       "source_breakdown": [
         {
           "derivative": false,
-          "group": "media indonesia",
+          "group": "mediaindonesia.com",
           "new_material": 0,
           "quality": "LOW",
           "semantic_copy": false,
-          "source": "Media Indonesia",
+          "source": "mediaindonesia.com",
           "tier": 1,
           "weight": 0.35
         }
@@ -8002,8 +8002,8 @@
       "source_quality": "LOW",
       "source_quality_score": 0.3,
       "sources": [
-        "Media Indonesia",
         "mediaindonesia.com",
+        "Media Indonesia",
         "Katadata.co.id",
         "Sawitku",
         "sawitku.id",
@@ -8014,7 +8014,7 @@
       "status": "DENIED",
       "strength": "WEAK",
       "ticker": "BYAN",
-      "title": "BCA Bantah Isu Akuisisi Saham oleh Haji Isam - Media Indonesia"
+      "title": "BCA Bantah Isu Akuisisi Saham oleh Haji Isam - mediaindonesia.com"
     },
     "BUYBACK|COMPANY|HARUM ENERGY": {
       "category": "BUYBACK",
