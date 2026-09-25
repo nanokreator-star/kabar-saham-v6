@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 21,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 660,
-  "early_signal_last_scan_utc": "2026-09-25T20:31:34.912294+00:00",
+  "early_signal_last_scan_utc": "2026-09-25T22:01:14.550473+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -8.11,
@@ -7828,7 +7828,7 @@
     }
   },
   "last_keepalive_utc": "2026-09-25T10:31:06.793440+00:00",
-  "last_state_change_utc": "2026-09-25T20:31:34.954071+00:00",
+  "last_state_change_utc": "2026-09-25T22:01:14.590940+00:00",
   "market_noise_suppressed": 5,
   "milestone_alerts": {},
   "rumor_alerts_sent": 89,
@@ -7836,11 +7836,11 @@
   "rumor_confirmed_count": 35,
   "rumor_confirmed_dedups": 0,
   "rumor_denied_count": 0,
-  "rumor_duplicates_suppressed": 535,
+  "rumor_duplicates_suppressed": 536,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 18,
   "rumor_integrity_repairs": 1459,
-  "rumor_last_scan_utc": "2026-09-25T20:31:34.898267+00:00",
+  "rumor_last_scan_utc": "2026-09-25T22:01:14.536154+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -7985,15 +7985,15 @@
         "underwriter": null
       },
       "semantic_copy_count": 0,
-      "source": "Media Indonesia",
+      "source": "mediaindonesia.com",
       "source_breakdown": [
         {
           "derivative": false,
-          "group": "media indonesia",
+          "group": "mediaindonesia.com",
           "new_material": 0,
           "quality": "LOW",
           "semantic_copy": false,
-          "source": "Media Indonesia",
+          "source": "mediaindonesia.com",
           "tier": 1,
           "weight": 0.35
         }
@@ -8002,19 +8002,19 @@
       "source_quality": "LOW",
       "source_quality_score": 0.3,
       "sources": [
+        "mediaindonesia.com",
         "Media Indonesia",
         "Katadata.co.id",
         "Sawitku",
         "sawitku.id",
         "Elshinta",
         "elshinta.com",
-        "CNBC Indonesia",
-        "Periskop.id"
+        "CNBC Indonesia"
       ],
       "status": "DENIED",
       "strength": "WEAK",
       "ticker": "BYAN",
-      "title": "BCA Bantah Isu Akuisisi Saham oleh Haji Isam - Media Indonesia"
+      "title": "BCA Bantah Isu Akuisisi Saham oleh Haji Isam - mediaindonesia.com"
     },
     "BUYBACK|COMPANY|HARUM ENERGY": {
       "category": "BUYBACK",
@@ -9267,7 +9267,7 @@
     },
     "PRIVATE PLACEMENT|TICKER|EFEK": {
       "category": "PRIVATE PLACEMENT",
-      "company_name": "EFEK",
+      "company_name": "PT MITRA KOMUNIKASI NUSA",
       "copy_duplicate_count": 0,
       "credible_effective_independent_count": 1.1,
       "derivative_source_count": 0,
