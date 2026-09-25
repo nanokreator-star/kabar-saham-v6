@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 21,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 660,
-  "early_signal_last_scan_utc": "2026-09-25T11:10:47.184984+00:00",
+  "early_signal_last_scan_utc": "2026-09-25T11:20:54.595529+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -8.11,
@@ -7046,7 +7046,7 @@
       "subindustry": null,
       "subsector": null,
       "ticker": "EFEK",
-      "verified_at": "2026-09-25T10:31:02.354702+00:00",
+      "verified_at": "2026-09-25T11:20:49.756651+00:00",
       "website": null
     },
     "FAPA": {
@@ -7828,19 +7828,19 @@
     }
   },
   "last_keepalive_utc": "2026-09-25T10:31:06.793440+00:00",
-  "last_state_change_utc": "2026-09-25T11:10:47.217871+00:00",
+  "last_state_change_utc": "2026-09-25T11:20:54.634466+00:00",
   "market_noise_suppressed": 5,
   "milestone_alerts": {},
-  "rumor_alerts_sent": 76,
+  "rumor_alerts_sent": 77,
   "rumor_baseline_initialized": true,
   "rumor_confirmed_count": 29,
   "rumor_confirmed_dedups": 0,
   "rumor_denied_count": 0,
-  "rumor_duplicates_suppressed": 523,
+  "rumor_duplicates_suppressed": 524,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 18,
-  "rumor_integrity_repairs": 1451,
-  "rumor_last_scan_utc": "2026-09-25T11:10:47.175726+00:00",
+  "rumor_integrity_repairs": 1452,
+  "rumor_last_scan_utc": "2026-09-25T11:20:54.581892+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -8050,29 +8050,30 @@
         "underwriter": null
       },
       "semantic_copy_count": 0,
-      "source": "PT Bursa Efek Indonesia",
+      "source": "idx.co.id",
       "source_breakdown": [
         {
           "derivative": false,
-          "group": "pt bursa efek indonesia",
+          "group": "idx.co.id",
           "new_material": 0,
           "quality": "OFFICIAL",
           "semantic_copy": false,
-          "source": "PT Bursa Efek Indonesia",
+          "source": "idx.co.id",
           "tier": 5,
           "weight": 1.1
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_quality": "MEDIUM",
       "source_quality_score": 5.5,
       "sources": [
+        "idx.co.id",
         "PT Bursa Efek Indonesia"
       ],
       "status": "CONFIRMED OFFICIAL",
       "strength": "CONFIRMED OFFICIAL",
       "ticker": null,
-      "title": "keterbukaan informasi sehubungan dengan rencana pembelian kembali saham pt harum energy - PT Bursa Efek Indonesia"
+      "title": "keterbukaan informasi sehubungan dengan rencana pembelian kembali saham pt harum energy - idx.co.id"
     },
     "BUYBACK|TICKER|BBHI": {
       "category": "BUYBACK",
@@ -9265,7 +9266,7 @@
     },
     "PRIVATE PLACEMENT|TICKER|EFEK": {
       "category": "PRIVATE PLACEMENT",
-      "company_name": "PT MITRA KOMUNIKASI NUSA",
+      "company_name": "EFEK",
       "copy_duplicate_count": 0,
       "credible_effective_independent_count": 1.1,
       "derivative_source_count": 0,
@@ -9295,13 +9296,13 @@
         "subindustry": null,
         "subsector": null,
         "ticker": "EFEK",
-        "verified_at": "2026-09-25T10:31:02.354702+00:00",
+        "verified_at": "2026-09-25T11:20:49.756651+00:00",
         "website": null
       },
       "key": "PRIVATE PLACEMENT|TICKER|EFEK",
-      "last_alert_utc": "2026-09-25T10:31:06.738622+00:00",
+      "last_alert_utc": "2026-09-25T11:20:54.581514+00:00",
       "last_seen_utc": "2026-09-22T11:54:10+00:00",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRVdBZVZpOXJ2aVNCX016QmM0Q3lpcjRPc1FTdXAyVFZDQWZ4NWtQUnFZZ2d2R1d0eVhfV0tOYjhqOW0wX015a2JyUlNsYkVTR01iZVF4bEU0c1NlbFFFWmdGelRTYlR2bkZzZ0FHS1JqUG0wZUROb1JhdU94cW5OS2xxenVyc2JHWUlNT2VIMkIweXhVenhRWmxIMGxPdEtXanZzYzFnRTl5dXhncS1IT2V0NA?oc=5",
+      "link": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/55967d3fa4_961aecb49c.pdf",
       "market_data": null,
       "official_confirmation": null,
       "premium_source_count": 1,
@@ -9318,15 +9319,15 @@
         "underwriter": null
       },
       "semantic_copy_count": 0,
-      "source": "PT Bursa Efek Indonesia",
+      "source": "idx.co.id",
       "source_breakdown": [
         {
           "derivative": false,
-          "group": "pt bursa efek indonesia",
+          "group": "idx.co.id",
           "new_material": 0,
           "quality": "OFFICIAL",
           "semantic_copy": false,
-          "source": "PT Bursa Efek Indonesia",
+          "source": "idx.co.id",
           "tier": 5,
           "weight": 1.1
         }
@@ -9335,13 +9336,13 @@
       "source_quality": "MEDIUM",
       "source_quality_score": 5.5,
       "sources": [
-        "PT Bursa Efek Indonesia",
-        "idx.co.id"
+        "idx.co.id",
+        "PT Bursa Efek Indonesia"
       ],
-      "status": "CONFIRMED OFFICIAL",
-      "strength": "CONFIRMED OFFICIAL",
+      "status": "ACTIVE",
+      "strength": "MEDIUM",
       "ticker": "EFEK",
-      "title": "PENGUMUMAN RENCANA PELAKSANAAN PENAMBAHAN MODAL TANPA HAK MEMESAN EFEK TERLEBIH DAHULU (\u201cPMTHMETD\u201d) PT MITRA KOMUNIKASI NUSA - PT Bursa Efek Indonesia"
+      "title": "PENGUMUMAN RENCANA PELAKSANAAN PENAMBAHAN MODAL TANPA HAK MEMESAN EFEK TERLEBIH DAHULU (\u201cPMTHMETD\u201d) PT MITRA KOMUNIKASI NUSA - idx.co.id"
     },
     "PRIVATE PLACEMENT|TITLE|SURAT PENGANTAR BUKTI IKLAN RENCANA PMTHMETD IDX": {
       "category": "PRIVATE PLACEMENT",
