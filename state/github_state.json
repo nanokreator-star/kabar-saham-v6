@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 21,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 660,
-  "early_signal_last_scan_utc": "2026-09-25T10:31:06.753326+00:00",
+  "early_signal_last_scan_utc": "2026-09-25T11:01:10.165850+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -8.11,
@@ -7828,7 +7828,7 @@
     }
   },
   "last_keepalive_utc": "2026-09-25T10:31:06.793440+00:00",
-  "last_state_change_utc": "2026-09-25T10:31:06.793446+00:00",
+  "last_state_change_utc": "2026-09-25T11:01:10.202594+00:00",
   "market_noise_suppressed": 5,
   "milestone_alerts": {},
   "rumor_alerts_sent": 76,
@@ -7840,7 +7840,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 18,
   "rumor_integrity_repairs": 1450,
-  "rumor_last_scan_utc": "2026-09-25T10:31:06.738961+00:00",
+  "rumor_last_scan_utc": "2026-09-25T11:01:10.153580+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -8014,6 +8014,65 @@
       "strength": "WEAK",
       "ticker": "BYAN",
       "title": "Saham BYAN Rontok di Tengah Isu Akuisisi, Haji Isam Dapat Harga TMO Lebih Murah? - Katadata.co.id"
+    },
+    "BUYBACK|COMPANY|HARUM ENERGY": {
+      "category": "BUYBACK",
+      "company_name": "PT Harum Energy",
+      "copy_duplicate_count": 0,
+      "credible_effective_independent_count": 1.1,
+      "derivative_source_count": 0,
+      "detected_source_count": 1,
+      "effective_independent_count": 1.1,
+      "entity_aliases": [
+        "Harum Energy"
+      ],
+      "entity_resolution_source": null,
+      "first_seen_utc": "2026-09-25T09:07:14+00:00",
+      "high_quality_source_count": 1,
+      "independent_story_count": 1,
+      "issuer_profile": null,
+      "key": "BUYBACK|COMPANY|HARUM ENERGY",
+      "last_seen_utc": "2026-09-25T09:07:14+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVmRQWEtzWlVWNXBTSXF0NTE5RE1OclM0XzNVbVRoNW9xMkQ5RmgtaDNXcnItdXQzUmhkanY1QlczY3o2RnlpX2E1N2FkZjhqTzhKR2xpZ1oyTzJjS3o0VjI5VW5lUkl6WUM3MVlaV3FIb1NMX0diQlp6ajJPRHdtY3poMlVVYXV3b05jVWZXbWNoeDZjZTlLUkdmSG0xSzRpYWJ4MXRRSFA5WThZTEdjOG50OA?oc=5",
+      "market_data": null,
+      "official_confirmation": null,
+      "premium_source_count": 1,
+      "profile_refresh_utc": null,
+      "published": "Fri, 25 Sep 2026 09:07:14 GMT",
+      "rumor_details": {
+        "ipo_price": null,
+        "listing_estimate": null,
+        "money": [],
+        "percentages": [],
+        "price_range": null,
+        "rumored_party": null,
+        "share_count": null,
+        "underwriter": null
+      },
+      "semantic_copy_count": 0,
+      "source": "PT Bursa Efek Indonesia",
+      "source_breakdown": [
+        {
+          "derivative": false,
+          "group": "pt bursa efek indonesia",
+          "new_material": 0,
+          "quality": "OFFICIAL",
+          "semantic_copy": false,
+          "source": "PT Bursa Efek Indonesia",
+          "tier": 5,
+          "weight": 1.1
+        }
+      ],
+      "source_count": 1,
+      "source_quality": "MEDIUM",
+      "source_quality_score": 5.5,
+      "sources": [
+        "PT Bursa Efek Indonesia"
+      ],
+      "status": "CONFIRMED OFFICIAL",
+      "strength": "CONFIRMED OFFICIAL",
+      "ticker": null,
+      "title": "keterbukaan informasi sehubungan dengan rencana pembelian kembali saham pt harum energy - PT Bursa Efek Indonesia"
     },
     "BUYBACK|TICKER|BBHI": {
       "category": "BUYBACK",
@@ -9206,7 +9265,7 @@
     },
     "PRIVATE PLACEMENT|TICKER|EFEK": {
       "category": "PRIVATE PLACEMENT",
-      "company_name": "EFEK",
+      "company_name": "PT MITRA KOMUNIKASI NUSA",
       "copy_duplicate_count": 0,
       "credible_effective_independent_count": 1.1,
       "derivative_source_count": 0,
