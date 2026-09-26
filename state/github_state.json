@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 21,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 660,
-  "early_signal_last_scan_utc": "2026-09-26T12:40:48.557000+00:00",
+  "early_signal_last_scan_utc": "2026-09-26T13:20:47.967273+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -8.11,
@@ -1482,6 +1482,44 @@
         "stake": [],
         "standby_buyer": null,
         "target": "Perusahaan Gas",
+        "target_confirmed": true,
+        "tender_price": null,
+        "underwriter": null,
+        "use_of_funds": [
+          "AKUISISI / INVESTASI"
+        ]
+      },
+      "ticker": ""
+    },
+    "M&A / TAKEOVER|PARTIES|SEFAS GROUP UMUMKAN RENCANA|ISLA ENERGY": {
+      "family": "M&A / TAKEOVER",
+      "first_seen_utc": "2026-09-26T13:20:51.223668+00:00",
+      "last_alert_utc": "2026-09-26T13:20:51.223660+00:00",
+      "last_seen_utc": "2026-09-26T13:20:51.223660+00:00",
+      "market_context": {
+        "change_pct": null,
+        "last_price": null,
+        "market_date": null
+      },
+      "material_snapshot": {
+        "acquirer": "Sefas Group Umumkan Rencana",
+        "acquirer_confirmed": true,
+        "event_type": "AKUISISI",
+        "execution_price": null,
+        "ipo_single_price": null,
+        "money": [],
+        "official_authority": null,
+        "official_kind": null,
+        "price_range": null,
+        "ratio": null,
+        "schedule": {},
+        "share_count": null,
+        "stage": "RENCANA",
+        "stage_step": 2,
+        "stage_total": 7,
+        "stake": [],
+        "standby_buyer": null,
+        "target": "Isla Energy",
         "target_confirmed": true,
         "tender_price": null,
         "underwriter": null,
@@ -7828,7 +7866,7 @@
     }
   },
   "last_keepalive_utc": "2026-09-25T10:31:06.793440+00:00",
-  "last_state_change_utc": "2026-09-26T12:40:48.595782+00:00",
+  "last_state_change_utc": "2026-09-26T13:20:51.225555+00:00",
   "market_noise_suppressed": 5,
   "milestone_alerts": {},
   "rumor_alerts_sent": 108,
@@ -7840,7 +7878,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 18,
   "rumor_integrity_repairs": 1492,
-  "rumor_last_scan_utc": "2026-09-26T12:40:48.543286+00:00",
+  "rumor_last_scan_utc": "2026-09-26T13:20:47.953662+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -9514,6 +9552,7 @@
     "495de9b968006e16e9a6a266d07c4466fbb79a1ffdfe654091c972916a2bbf89": "2026-08-29T14:31:13.281142+00:00",
     "4c3e55e60c546b9aa3b7f895e7d064df342650b458b7d41f19bd5607aa2ada25": "2026-08-24T07:11:05.738523+00:00",
     "4db158fa131d9bdb7e06da8ba6759fe5073e4e9c9bac3496a711b3431d107ebd": "2026-08-14T10:15:00.868800+00:00",
+    "4e366d9dd5be88b3ad8af4ffbe72644974814223920231aa43dd4153bc11aaf9": "2026-09-26T13:20:51.223636+00:00",
     "4e440b65597626aeb9c337edac2f1103fb81d8886d5affb654ce547d687ff0c1": "2026-08-14T10:15:00.868800+00:00",
     "506893ebda30af93e087aec77e99484f293d111128bdf15aaf17dbe027e48693": "2026-08-24T18:40:58.818833+00:00",
     "50ad4d7c9c039627d76169a49ab09b4d4e66fdfb5259614ccc6f0dd634aa5d46": "2026-08-14T10:15:00.868800+00:00",
