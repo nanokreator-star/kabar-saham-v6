@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 21,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 660,
-  "early_signal_last_scan_utc": "2026-09-27T09:10:47.366818+00:00",
+  "early_signal_last_scan_utc": "2026-09-27T09:40:49.983321+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -8.11,
@@ -5742,6 +5742,42 @@
       },
       "ticker": ""
     },
+    "RIGHTS ISSUE|TITLE|FOLAGO GLOBAL NUSANTARA LANJUTKAN RENCANA DEMOKRATIS CO": {
+      "family": "RIGHTS ISSUE",
+      "first_seen_utc": "2026-09-27T09:40:51.776800+00:00",
+      "last_alert_utc": "2026-09-27T09:40:51.776795+00:00",
+      "last_seen_utc": "2026-09-27T09:40:51.776795+00:00",
+      "market_context": {
+        "change_pct": null,
+        "last_price": null,
+        "market_date": null
+      },
+      "material_snapshot": {
+        "acquirer": null,
+        "acquirer_confirmed": false,
+        "event_type": "RIGHTS ISSUE",
+        "execution_price": null,
+        "ipo_single_price": null,
+        "money": [],
+        "official_authority": null,
+        "official_kind": null,
+        "price_range": null,
+        "ratio": null,
+        "schedule": {},
+        "share_count": null,
+        "stage": "RENCANA",
+        "stage_step": 2,
+        "stage_total": 6,
+        "stake": [],
+        "standby_buyer": null,
+        "target": null,
+        "target_confirmed": false,
+        "tender_price": null,
+        "underwriter": null,
+        "use_of_funds": []
+      },
+      "ticker": ""
+    },
     "RIGHTS ISSUE|TITLE|FORTUNE INDONESIA RAIH RESTU RP 271 TRILIUN": {
       "family": "RIGHTS ISSUE",
       "first_seen_utc": "2026-08-14T10:15:00.868800+00:00",
@@ -7942,7 +7978,7 @@
     }
   },
   "last_keepalive_utc": "2026-09-25T10:31:06.793440+00:00",
-  "last_state_change_utc": "2026-09-27T09:10:47.407599+00:00",
+  "last_state_change_utc": "2026-09-27T09:40:51.778716+00:00",
   "market_noise_suppressed": 5,
   "milestone_alerts": {},
   "rumor_alerts_sent": 108,
@@ -7950,11 +7986,11 @@
   "rumor_confirmed_count": 44,
   "rumor_confirmed_dedups": 0,
   "rumor_denied_count": 0,
-  "rumor_duplicates_suppressed": 592,
+  "rumor_duplicates_suppressed": 593,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 18,
   "rumor_integrity_repairs": 1492,
-  "rumor_last_scan_utc": "2026-09-27T09:10:47.352536+00:00",
+  "rumor_last_scan_utc": "2026-09-27T09:40:49.968863+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -8100,15 +8136,15 @@
         "underwriter": null
       },
       "semantic_copy_count": 0,
-      "source": "mediaindonesia.com",
+      "source": "Media Indonesia",
       "source_breakdown": [
         {
           "derivative": false,
-          "group": "mediaindonesia.com",
+          "group": "media indonesia",
           "new_material": 0,
           "quality": "LOW",
           "semantic_copy": false,
-          "source": "mediaindonesia.com",
+          "source": "Media Indonesia",
           "tier": 1,
           "weight": 0.35
         }
@@ -8117,8 +8153,8 @@
       "source_quality": "LOW",
       "source_quality_score": 0.3,
       "sources": [
-        "mediaindonesia.com",
         "Media Indonesia",
+        "mediaindonesia.com",
         "Katadata.co.id",
         "Sawitku",
         "sawitku.id",
@@ -8129,7 +8165,7 @@
       "status": "DENIED",
       "strength": "WEAK",
       "ticker": "BYAN",
-      "title": "BCA Bantah Isu Akuisisi Saham oleh Haji Isam - mediaindonesia.com"
+      "title": "BCA Bantah Isu Akuisisi Saham oleh Haji Isam - Media Indonesia"
     },
     "BUYBACK|COMPANY|HARUM ENERGY": {
       "category": "BUYBACK",
@@ -9610,6 +9646,7 @@
     "33cd8caf070b1689d28a239c9e5449cad19f070f19bc288fa4ef04429de2ae78": "2026-08-28T13:40:50.293389+00:00",
     "35caa677fedc0bf6c3a8fe7f823443af0bd6f067d0642818b29bccc275122630": "2026-09-15T07:01:24.271273+00:00",
     "373b1b316631890d135041562ced1130c3284bda56678d82bdd6f3d5ba7eaddb": "2026-08-25T02:20:52.960599+00:00",
+    "38cf62fef6a32fd24876cbaf718787cd685b3462d78903fbaf057738f9496dfb": "2026-09-27T09:40:51.776776+00:00",
     "3a7fea397da12bff007ca10795e61cf589f20784b267f5e8bff9244c53b0c9d3": "2026-08-14T10:15:00.868800+00:00",
     "3bdc208def8f4cdbbd78eaa106220cad71db8e2c272145270ec43c468a39983f": "2026-08-29T15:41:14.282680+00:00",
     "3c39203f674a01980cbde1c95618087830dd92233aecd2ca74bba44a7b7a15be": "2026-08-14T10:15:00.868800+00:00",
