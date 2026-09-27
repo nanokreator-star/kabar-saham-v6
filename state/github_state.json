@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 21,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 660,
-  "early_signal_last_scan_utc": "2026-09-27T00:30:48.495994+00:00",
+  "early_signal_last_scan_utc": "2026-09-27T00:50:51.508672+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -8.11,
@@ -1635,6 +1635,46 @@
         "standby_buyer": null,
         "target": null,
         "target_confirmed": false,
+        "tender_price": null,
+        "underwriter": null,
+        "use_of_funds": [
+          "AKUISISI / INVESTASI"
+        ]
+      },
+      "ticker": ""
+    },
+    "M&A / TAKEOVER|PARTIES|ULTRA JAYA RENCANAKAN|FRISIAN FLAG SENILAI RP14": {
+      "family": "M&A / TAKEOVER",
+      "first_seen_utc": "2026-09-27T00:31:18.150625+00:00",
+      "last_alert_utc": "2026-09-27T00:31:18.150625+00:00",
+      "last_seen_utc": "2026-09-27T00:31:18.150625+00:00",
+      "market_context": {
+        "change_pct": null,
+        "last_price": null,
+        "market_date": null
+      },
+      "material_snapshot": {
+        "acquirer": "Ultra Jaya Rencanakan",
+        "acquirer_confirmed": true,
+        "event_type": "AKUISISI",
+        "execution_price": null,
+        "ipo_single_price": null,
+        "money": [
+          "Rp14,6 triliun"
+        ],
+        "official_authority": null,
+        "official_kind": null,
+        "price_range": null,
+        "ratio": null,
+        "schedule": {},
+        "share_count": null,
+        "stage": "M&A INFO",
+        "stage_step": 1,
+        "stage_total": 7,
+        "stake": [],
+        "standby_buyer": null,
+        "target": "Frisian Flag Senilai Rp14",
+        "target_confirmed": true,
         "tender_price": null,
         "underwriter": null,
         "use_of_funds": [
@@ -7902,7 +7942,7 @@
     }
   },
   "last_keepalive_utc": "2026-09-25T10:31:06.793440+00:00",
-  "last_state_change_utc": "2026-09-27T00:31:18.152539+00:00",
+  "last_state_change_utc": "2026-09-27T00:50:51.548689+00:00",
   "market_noise_suppressed": 5,
   "milestone_alerts": {},
   "rumor_alerts_sent": 108,
@@ -7914,7 +7954,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 18,
   "rumor_integrity_repairs": 1492,
-  "rumor_last_scan_utc": "2026-09-27T00:30:48.481306+00:00",
+  "rumor_last_scan_utc": "2026-09-27T00:50:51.494817+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
