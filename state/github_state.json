@@ -2,8 +2,8 @@
   "baseline_initialized": true,
   "early_signal_alerts_sent": 21,
   "early_signal_baseline_initialized": true,
-  "early_signal_duplicates_suppressed": 663,
-  "early_signal_last_scan_utc": "2026-09-28T13:10:50.906389+00:00",
+  "early_signal_duplicates_suppressed": 664,
+  "early_signal_last_scan_utc": "2026-09-28T13:20:55.429730+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -8.11,
@@ -21,7 +21,7 @@
       "combined": true,
       "direction": "DOWN",
       "last_alert_utc": null,
-      "last_seen_utc": "2026-09-28T13:10:50.906380+00:00",
+      "last_seen_utc": "2026-09-28T13:20:55.429719+00:00",
       "level": "HIGH",
       "market_date": "2026-09-28",
       "signature": "EPAC|2026-09-28|HIGH|DOWN|RUMOR|RIGHTS ISSUE|TICKER|EPAC",
@@ -8009,7 +8009,7 @@
     }
   },
   "last_keepalive_utc": "2026-09-25T10:31:06.793440+00:00",
-  "last_state_change_utc": "2026-09-28T13:10:50.940237+00:00",
+  "last_state_change_utc": "2026-09-28T13:20:55.471948+00:00",
   "market_noise_suppressed": 5,
   "milestone_alerts": {},
   "rumor_alerts_sent": 109,
@@ -8017,11 +8017,11 @@
   "rumor_confirmed_count": 44,
   "rumor_confirmed_dedups": 0,
   "rumor_denied_count": 0,
-  "rumor_duplicates_suppressed": 626,
+  "rumor_duplicates_suppressed": 628,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 18,
   "rumor_integrity_repairs": 1492,
-  "rumor_last_scan_utc": "2026-09-28T13:10:49.226644+00:00",
+  "rumor_last_scan_utc": "2026-09-28T13:20:55.169483+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -8167,15 +8167,15 @@
         "underwriter": null
       },
       "semantic_copy_count": 0,
-      "source": "mediaindonesia.com",
+      "source": "Media Indonesia",
       "source_breakdown": [
         {
           "derivative": false,
-          "group": "mediaindonesia.com",
+          "group": "media indonesia",
           "new_material": 0,
           "quality": "LOW",
           "semantic_copy": false,
-          "source": "mediaindonesia.com",
+          "source": "Media Indonesia",
           "tier": 1,
           "weight": 0.35
         }
@@ -8184,8 +8184,8 @@
       "source_quality": "LOW",
       "source_quality_score": 0.3,
       "sources": [
-        "mediaindonesia.com",
         "Media Indonesia",
+        "mediaindonesia.com",
         "Katadata.co.id",
         "Sawitku",
         "sawitku.id",
@@ -8196,7 +8196,7 @@
       "status": "DENIED",
       "strength": "WEAK",
       "ticker": "BYAN",
-      "title": "BCA Bantah Isu Akuisisi Saham oleh Haji Isam - mediaindonesia.com"
+      "title": "BCA Bantah Isu Akuisisi Saham oleh Haji Isam - Media Indonesia"
     },
     "BUYBACK|COMPANY|HARUM ENERGY": {
       "category": "BUYBACK",
@@ -9532,7 +9532,7 @@
         "underwriter": null
       },
       "semantic_copy_count": 0,
-      "source": "emitennews.com",
+      "source": "Emitennews.com",
       "source_breakdown": [
         {
           "derivative": false,
@@ -9540,7 +9540,7 @@
           "new_material": 0,
           "quality": "MEDIUM",
           "semantic_copy": false,
-          "source": "emitennews.com",
+          "source": "Emitennews.com",
           "tier": 3,
           "weight": 0.8
         }
@@ -9549,12 +9549,12 @@
       "source_quality": "LOW",
       "source_quality_score": 2.0,
       "sources": [
-        "emitennews.com"
+        "Emitennews.com"
       ],
       "status": "ACTIVE",
       "strength": "WEAK",
       "ticker": "EPAC",
-      "title": "Emiten Gocap (EPAC) Wacanakan Buyback & Rights Issue Jelang Aturan Rp1 - emitennews.com"
+      "title": "Emiten Gocap (EPAC) Wacanakan Buyback & Rights Issue Jelang Aturan Rp1 - Emitennews.com"
     },
     "SPIN-OFF / RESTRUCTURING|TICKER|WSKT": {
       "category": "SPIN-OFF / RESTRUCTURING",
