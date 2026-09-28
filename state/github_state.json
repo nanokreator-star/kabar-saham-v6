@@ -2,8 +2,8 @@
   "baseline_initialized": true,
   "early_signal_alerts_sent": 21,
   "early_signal_baseline_initialized": true,
-  "early_signal_duplicates_suppressed": 688,
-  "early_signal_last_scan_utc": "2026-09-28T19:10:48.243340+00:00",
+  "early_signal_duplicates_suppressed": 689,
+  "early_signal_last_scan_utc": "2026-09-28T19:21:12.371015+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -8.11,
@@ -21,7 +21,7 @@
       "combined": true,
       "direction": "DOWN",
       "last_alert_utc": null,
-      "last_seen_utc": "2026-09-28T19:10:48.243328+00:00",
+      "last_seen_utc": "2026-09-28T19:21:12.371006+00:00",
       "level": "HIGH",
       "market_date": "2026-09-28",
       "signature": "EPAC|2026-09-28|HIGH|DOWN|RUMOR|RIGHTS ISSUE|TICKER|EPAC",
@@ -7944,6 +7944,26 @@
       "verified_at": "2026-08-28T00:41:02.233455+00:00",
       "website": null
     },
+    "TAMU": {
+      "business_activity": "PT Pelayaran Tamarin Samudra Tbk operates in the offshore oil and gas industry in Indonesia. It provides chartering, re-chartering, delivery of accommodation work barge, and anchor handling tug supply services, as well as arrangement offsho",
+      "controller": null,
+      "industry": "Marine Shipping",
+      "issuer_name": "Pelayaran Tamarin Samudra",
+      "owner_context_sources": 0,
+      "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
+      "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
+      "owner_v6_checked_utc": "2026-09-28T19:21:03.143707+00:00",
+      "owner_v6_pages_fetched": 0,
+      "profile_source": "Yahoo Finance",
+      "profile_source_quality": "FALLBACK",
+      "profile_source_url": null,
+      "sector": "Industrials",
+      "subindustry": null,
+      "subsector": null,
+      "ticker": "TAMU",
+      "verified_at": "2026-09-28T19:21:05.234491+00:00",
+      "website": "https://www.tamarin.co.id"
+    },
     "TBIG": {
       "business_activity": "PT Tower Bersama Infrastructure Tbk, together with its subsidiaries, engages in central telecommunications construction, telecommunications installations, and cable-based telecommunications business. The company operates through Tower, Repe",
       "controller": null,
@@ -8067,7 +8087,7 @@
     }
   },
   "last_keepalive_utc": "2026-09-25T10:31:06.793440+00:00",
-  "last_state_change_utc": "2026-09-28T19:10:48.284273+00:00",
+  "last_state_change_utc": "2026-09-28T19:21:12.411836+00:00",
   "market_noise_suppressed": 5,
   "milestone_alerts": {},
   "rumor_alerts_sent": 109,
@@ -8079,7 +8099,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 18,
   "rumor_integrity_repairs": 1492,
-  "rumor_last_scan_utc": "2026-09-28T19:10:47.906138+00:00",
+  "rumor_last_scan_utc": "2026-09-28T19:21:12.217692+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -9692,6 +9712,84 @@
       "strength": "WEAK",
       "ticker": "EPAC",
       "title": "Emiten Gocap (EPAC) Wacanakan Buyback & Rights Issue Jelang Aturan Rp1 - Emitennews.com"
+    },
+    "SPIN-OFF / RESTRUCTURING|TICKER|TAMU": {
+      "category": "SPIN-OFF / RESTRUCTURING",
+      "company_name": "PT Pelayaran Tamarin Samudra Tbk. TAMU 1 Restrukturisasi utang",
+      "copy_duplicate_count": 0,
+      "credible_effective_independent_count": 1.1,
+      "derivative_source_count": 0,
+      "detected_source_count": 1,
+      "effective_independent_count": 1.1,
+      "entity_aliases": [
+        "Pelayaran Tamarin Samudra Tbk. TAMU 1 Restrukturisasi utang"
+      ],
+      "entity_resolution_source": null,
+      "first_seen_utc": "2026-09-28T16:15:00+00:00",
+      "high_quality_source_count": 1,
+      "independent_story_count": 1,
+      "issuer_profile": {
+        "business_activity": "PT Pelayaran Tamarin Samudra Tbk operates in the offshore oil and gas industry in Indonesia. It provides chartering, re-chartering, delivery of accommodation work barge, and anchor handling tug supply services, as well as arrangement offsho",
+        "controller": null,
+        "industry": "Marine Shipping",
+        "issuer_name": "Pelayaran Tamarin Samudra",
+        "owner_context_sources": 0,
+        "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
+        "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
+        "owner_v6_checked_utc": "2026-09-28T19:21:03.143707+00:00",
+        "owner_v6_pages_fetched": 0,
+        "profile_source": "Yahoo Finance",
+        "profile_source_quality": "FALLBACK",
+        "profile_source_url": null,
+        "sector": "Industrials",
+        "subindustry": null,
+        "subsector": null,
+        "ticker": "TAMU",
+        "verified_at": "2026-09-28T19:21:05.234491+00:00",
+        "website": "https://www.tamarin.co.id"
+      },
+      "key": "SPIN-OFF / RESTRUCTURING|TICKER|TAMU",
+      "last_seen_utc": "2026-09-28T16:15:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWjNKMkxEY2p3blZSdVoxVWpQT1V4cUtyN3BZel95dUdXOWNpWlVTU3RGUG1Wa0NSaTQ3T1RyWGlURVUyNUt5ZlRUN09IcW42LUpRdEFYUHoxdmdaOU9ENmF1cUEwMjhXMmptY25tWTdGd3RqUVFfMldGRnY3OGRheGJGRHU0UzhhMGI0Z2F5NzR1aDU5QVVsU0ZGTXhySzl1a3J6TUtFVUpoUjVUelkwUHNYbw?oc=5",
+      "market_data": null,
+      "official_confirmation": null,
+      "premium_source_count": 1,
+      "profile_refresh_utc": "2026-09-28T19:21:12.211082+00:00",
+      "published": "Mon, 28 Sep 2026 16:15:00 GMT",
+      "rumor_details": {
+        "ipo_price": null,
+        "listing_estimate": null,
+        "money": [],
+        "percentages": [],
+        "price_range": null,
+        "rumored_party": null,
+        "share_count": null,
+        "underwriter": null
+      },
+      "semantic_copy_count": 0,
+      "source": "PT Bursa Efek Indonesia",
+      "source_breakdown": [
+        {
+          "derivative": false,
+          "group": "pt bursa efek indonesia",
+          "new_material": 0,
+          "quality": "OFFICIAL",
+          "semantic_copy": false,
+          "source": "PT Bursa Efek Indonesia",
+          "tier": 5,
+          "weight": 1.1
+        }
+      ],
+      "source_count": 1,
+      "source_quality": "MEDIUM",
+      "source_quality_score": 5.5,
+      "sources": [
+        "PT Bursa Efek Indonesia"
+      ],
+      "status": "CONFIRMED OFFICIAL",
+      "strength": "CONFIRMED OFFICIAL",
+      "ticker": "TAMU",
+      "title": "Nomor Surat Nama Perusahaan Kode Emiten Lampiran Perihal 074/PTS-CS/OJK/IX/2026 PT Pelayaran Tamarin Samudra Tbk. TAMU 1 Restrukturisasi utang - PT Bursa Efek Indonesia"
     },
     "SPIN-OFF / RESTRUCTURING|TICKER|WSKT": {
       "category": "SPIN-OFF / RESTRUCTURING",
