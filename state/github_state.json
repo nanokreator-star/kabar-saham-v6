@@ -2,8 +2,8 @@
   "baseline_initialized": true,
   "early_signal_alerts_sent": 21,
   "early_signal_baseline_initialized": true,
-  "early_signal_duplicates_suppressed": 661,
-  "early_signal_last_scan_utc": "2026-09-28T12:51:51.543993+00:00",
+  "early_signal_duplicates_suppressed": 662,
+  "early_signal_last_scan_utc": "2026-09-28T13:01:00.460189+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -8.11,
@@ -21,7 +21,7 @@
       "combined": true,
       "direction": "DOWN",
       "last_alert_utc": null,
-      "last_seen_utc": "2026-09-28T12:51:51.543981+00:00",
+      "last_seen_utc": "2026-09-28T13:01:00.460176+00:00",
       "level": "HIGH",
       "market_date": "2026-09-28",
       "signature": "EPAC|2026-09-28|HIGH|DOWN|RUMOR|RIGHTS ISSUE|TICKER|EPAC",
@@ -8009,7 +8009,7 @@
     }
   },
   "last_keepalive_utc": "2026-09-25T10:31:06.793440+00:00",
-  "last_state_change_utc": "2026-09-28T12:51:51.581619+00:00",
+  "last_state_change_utc": "2026-09-28T13:01:00.502497+00:00",
   "market_noise_suppressed": 5,
   "milestone_alerts": {},
   "rumor_alerts_sent": 109,
@@ -8017,11 +8017,11 @@
   "rumor_confirmed_count": 44,
   "rumor_confirmed_dedups": 0,
   "rumor_denied_count": 0,
-  "rumor_duplicates_suppressed": 623,
+  "rumor_duplicates_suppressed": 624,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 18,
   "rumor_integrity_repairs": 1492,
-  "rumor_last_scan_utc": "2026-09-28T12:51:51.530500+00:00",
+  "rumor_last_scan_utc": "2026-09-28T13:01:00.197407+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -9496,7 +9496,7 @@
       "key": "RIGHTS ISSUE|TICKER|EPAC",
       "last_alert_utc": "2026-09-28T12:51:51.530160+00:00",
       "last_seen_utc": "2026-09-27T08:43:00+00:00",
-      "link": "https://emitennews.com/news/part-mau-gelar-rights-issue-dan-buyback-simak-rinciannya",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRVB4ajJJRWl3X051cGlveW8ybEg0a19mcGkwWFh3VTVNSTJnUHV0QkludFRPM05uczJHMGN4NHpKMmdMRThWdVdfb1pzaWFsNTdPWVVETmV4anJxcHRHNXVSdzJ5SFFoZFBTZHRPbmYzcUlqOUN4R1RvbW9acXdfQ1UwVy0tdUl5MnVsNm5FT3JOY1M0RUtpUmpB?oc=5",
       "market_data": {
         "change_pct": -14.000000000000002,
         "fetched_at": "2026-09-28T12:51:09.233799+00:00",
@@ -9532,15 +9532,15 @@
         "underwriter": null
       },
       "semantic_copy_count": 0,
-      "source": "emitennews.com",
+      "source": "Emitennews.com",
       "source_breakdown": [
         {
           "derivative": false,
           "group": "emitennews.com",
-          "new_material": 5,
+          "new_material": 0,
           "quality": "MEDIUM",
           "semantic_copy": false,
-          "source": "emitennews.com",
+          "source": "Emitennews.com",
           "tier": 3,
           "weight": 0.8
         }
@@ -9549,12 +9549,12 @@
       "source_quality": "LOW",
       "source_quality_score": 2.0,
       "sources": [
-        "emitennews.com"
+        "Emitennews.com"
       ],
       "status": "ACTIVE",
       "strength": "WEAK",
       "ticker": "EPAC",
-      "title": "Emiten Gocap (EPAC) Wacanakan Buyback & Rights Issue Jelang Aturan Rp1 - emitennews.com"
+      "title": "Emiten Gocap (EPAC) Wacanakan Buyback & Rights Issue Jelang Aturan Rp1 - Emitennews.com"
     },
     "SPIN-OFF / RESTRUCTURING|TICKER|WSKT": {
       "category": "SPIN-OFF / RESTRUCTURING",
