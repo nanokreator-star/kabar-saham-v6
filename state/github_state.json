@@ -2,8 +2,8 @@
   "baseline_initialized": true,
   "early_signal_alerts_sent": 21,
   "early_signal_baseline_initialized": true,
-  "early_signal_duplicates_suppressed": 669,
-  "early_signal_last_scan_utc": "2026-09-28T14:10:48.670248+00:00",
+  "early_signal_duplicates_suppressed": 670,
+  "early_signal_last_scan_utc": "2026-09-28T14:20:59.291895+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -8.11,
@@ -21,7 +21,7 @@
       "combined": true,
       "direction": "DOWN",
       "last_alert_utc": null,
-      "last_seen_utc": "2026-09-28T14:10:48.670236+00:00",
+      "last_seen_utc": "2026-09-28T14:20:59.291884+00:00",
       "level": "HIGH",
       "market_date": "2026-09-28",
       "signature": "EPAC|2026-09-28|HIGH|DOWN|RUMOR|RIGHTS ISSUE|TICKER|EPAC",
@@ -7250,6 +7250,26 @@
       "verified_at": "2026-09-19T05:20:53.590402+00:00",
       "website": "https://www.fap-agri.com"
     },
+    "FROM": {
+      "business_activity": null,
+      "controller": null,
+      "industry": null,
+      "issuer_name": "ASHMORE ASSET MANAGEMENT INDONESIA",
+      "owner_context_sources": 0,
+      "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
+      "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
+      "owner_v6_checked_utc": "2026-09-28T14:20:55.862836+00:00",
+      "owner_v6_pages_fetched": 0,
+      "profile_source": "Yahoo Finance",
+      "profile_source_quality": "FALLBACK",
+      "profile_source_url": null,
+      "sector": null,
+      "subindustry": null,
+      "subsector": null,
+      "ticker": "FROM",
+      "verified_at": "2026-09-28T14:20:56.955942+00:00",
+      "website": null
+    },
     "IBST": {
       "business_activity": "PT Inti Bangun Sejahtera Tbk provides telecommunication network services in the information, communication, and technology (ITC) sector in Indonesia. The company operates through two segments: Telecommunication Tower Lease and Network Equip",
       "controller": null,
@@ -8009,7 +8029,7 @@
     }
   },
   "last_keepalive_utc": "2026-09-25T10:31:06.793440+00:00",
-  "last_state_change_utc": "2026-09-28T14:10:48.711831+00:00",
+  "last_state_change_utc": "2026-09-28T14:20:59.473661+00:00",
   "market_noise_suppressed": 5,
   "milestone_alerts": {},
   "rumor_alerts_sent": 109,
@@ -8017,11 +8037,11 @@
   "rumor_confirmed_count": 44,
   "rumor_confirmed_dedups": 0,
   "rumor_denied_count": 0,
-  "rumor_duplicates_suppressed": 629,
+  "rumor_duplicates_suppressed": 630,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 18,
   "rumor_integrity_repairs": 1492,
-  "rumor_last_scan_utc": "2026-09-28T14:10:48.352904+00:00",
+  "rumor_last_scan_utc": "2026-09-28T14:20:58.861286+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -8335,6 +8355,85 @@
       "strength": "CONFIRMED OFFICIAL",
       "ticker": "BBHI",
       "title": "BBHI 2026 Share BuyBack Tranche II - Fakta Material - v1.0 Final rev 20260902 - PT Bursa Efek Indonesia"
+    },
+    "BUYBACK|TICKER|FROM": {
+      "category": "BUYBACK",
+      "company_name": "ASHMORE ASSET MANAGEMENT INDONESIA",
+      "copy_duplicate_count": 0,
+      "credible_effective_independent_count": 1.1,
+      "derivative_source_count": 0,
+      "detected_source_count": 1,
+      "effective_independent_count": 1.1,
+      "entity_aliases": [
+        "ASHMORE ASSET MANAGEMENT INDONESIA",
+        "ASHMORE ASSET MANAGEMENT INDONESIA TBK (&qu"
+      ],
+      "entity_resolution_source": null,
+      "first_seen_utc": "2026-09-28T10:54:46+00:00",
+      "high_quality_source_count": 1,
+      "independent_story_count": 1,
+      "issuer_profile": {
+        "business_activity": null,
+        "controller": null,
+        "industry": null,
+        "issuer_name": "ASHMORE ASSET MANAGEMENT INDONESIA",
+        "owner_context_sources": 0,
+        "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
+        "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
+        "owner_v6_checked_utc": "2026-09-28T14:20:55.862836+00:00",
+        "owner_v6_pages_fetched": 0,
+        "profile_source": "Yahoo Finance",
+        "profile_source_quality": "FALLBACK",
+        "profile_source_url": null,
+        "sector": null,
+        "subindustry": null,
+        "subsector": null,
+        "ticker": "FROM",
+        "verified_at": "2026-09-28T14:20:56.955942+00:00",
+        "website": null
+      },
+      "key": "BUYBACK|TICKER|FROM",
+      "last_seen_utc": "2026-09-28T10:54:46+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQmhQSlVxdVFKRDBReTZEYndaNVROZ1RMNWs3RTFqaHRmOUhFRl91ME05eHlHUUl3T1Y2QUR4ZEVnSkF3X19ocjVWRFZHUHA5dENVTkE1dkNacXRzenZkM0J6bHRTdGhGREp3aVJWeWVqTk04SGlpNmt3M1VpR2pkLUNNM2NsVzR4bUU3SF9LVHRPTFo4dnNHNG51MEV3NkdENEZzYkNOVWV2SXk2QXVkRk1mWQ?oc=5",
+      "market_data": null,
+      "official_confirmation": null,
+      "premium_source_count": 1,
+      "profile_refresh_utc": "2026-09-28T14:20:58.856521+00:00",
+      "published": "Mon, 28 Sep 2026 10:54:46 GMT",
+      "rumor_details": {
+        "ipo_price": null,
+        "listing_estimate": null,
+        "money": [],
+        "percentages": [],
+        "price_range": null,
+        "rumored_party": null,
+        "share_count": null,
+        "underwriter": null
+      },
+      "semantic_copy_count": 0,
+      "source": "PT Bursa Efek Indonesia",
+      "source_breakdown": [
+        {
+          "derivative": false,
+          "group": "pt bursa efek indonesia",
+          "new_material": 0,
+          "quality": "OFFICIAL",
+          "semantic_copy": false,
+          "source": "PT Bursa Efek Indonesia",
+          "tier": 5,
+          "weight": 1.1
+        }
+      ],
+      "source_count": 1,
+      "source_quality": "MEDIUM",
+      "source_quality_score": 5.5,
+      "sources": [
+        "PT Bursa Efek Indonesia"
+      ],
+      "status": "CONFIRMED OFFICIAL",
+      "strength": "CONFIRMED OFFICIAL",
+      "ticker": "FROM",
+      "title": "INFORMATION DISCLOSURE PROPOSED TRANSFER OF THE SHARES RESULTING FROM THE BUYBACK PT ASHMORE ASSET MANAGEMENT INDONESIA TBK (&qu - PT Bursa Efek Indonesia"
     },
     "BUYBACK|TICKER|PARA": {
       "category": "BUYBACK",
@@ -9532,7 +9631,7 @@
         "underwriter": null
       },
       "semantic_copy_count": 0,
-      "source": "emitennews.com",
+      "source": "Emitennews.com",
       "source_breakdown": [
         {
           "derivative": false,
@@ -9540,7 +9639,7 @@
           "new_material": 0,
           "quality": "MEDIUM",
           "semantic_copy": false,
-          "source": "emitennews.com",
+          "source": "Emitennews.com",
           "tier": 3,
           "weight": 0.8
         }
@@ -9549,12 +9648,12 @@
       "source_quality": "LOW",
       "source_quality_score": 2.0,
       "sources": [
-        "emitennews.com"
+        "Emitennews.com"
       ],
       "status": "ACTIVE",
       "strength": "WEAK",
       "ticker": "EPAC",
-      "title": "Emiten Gocap (EPAC) Wacanakan Buyback & Rights Issue Jelang Aturan Rp1 - emitennews.com"
+      "title": "Emiten Gocap (EPAC) Wacanakan Buyback & Rights Issue Jelang Aturan Rp1 - Emitennews.com"
     },
     "SPIN-OFF / RESTRUCTURING|TICKER|WSKT": {
       "category": "SPIN-OFF / RESTRUCTURING",
