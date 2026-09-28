@@ -2,8 +2,8 @@
   "baseline_initialized": true,
   "early_signal_alerts_sent": 21,
   "early_signal_baseline_initialized": true,
-  "early_signal_duplicates_suppressed": 695,
-  "early_signal_last_scan_utc": "2026-09-28T20:20:59.847391+00:00",
+  "early_signal_duplicates_suppressed": 696,
+  "early_signal_last_scan_utc": "2026-09-28T20:30:54.267918+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -8.11,
@@ -21,7 +21,7 @@
       "combined": true,
       "direction": "DOWN",
       "last_alert_utc": null,
-      "last_seen_utc": "2026-09-28T20:20:59.847379+00:00",
+      "last_seen_utc": "2026-09-28T20:30:54.267910+00:00",
       "level": "HIGH",
       "market_date": "2026-09-28",
       "signature": "EPAC|2026-09-28|HIGH|DOWN|RUMOR|RIGHTS ISSUE|TICKER|EPAC",
@@ -3203,6 +3203,44 @@
         "tender_price": null,
         "underwriter": null,
         "use_of_funds": []
+      },
+      "ticker": ""
+    },
+    "M&A / TAKEOVER|TITLE|FFI BERLANJUT CEK JADWAL WAJIB ULTJ SINAR": {
+      "family": "M&A / TAKEOVER",
+      "first_seen_utc": "2026-09-28T20:30:55.922503+00:00",
+      "last_alert_utc": "2026-09-28T20:30:55.922498+00:00",
+      "last_seen_utc": "2026-09-28T20:30:55.922498+00:00",
+      "market_context": {
+        "change_pct": null,
+        "last_price": null,
+        "market_date": null
+      },
+      "material_snapshot": {
+        "acquirer": null,
+        "acquirer_confirmed": false,
+        "event_type": "TENDER OFFER",
+        "execution_price": null,
+        "ipo_single_price": null,
+        "money": [],
+        "official_authority": null,
+        "official_kind": null,
+        "price_range": null,
+        "ratio": null,
+        "schedule": {},
+        "share_count": null,
+        "stage": "TENDER OFFER",
+        "stage_step": 6,
+        "stage_total": 7,
+        "stake": [],
+        "standby_buyer": null,
+        "target": null,
+        "target_confirmed": false,
+        "tender_price": null,
+        "underwriter": null,
+        "use_of_funds": [
+          "AKUISISI / INVESTASI"
+        ]
       },
       "ticker": ""
     },
@@ -8087,7 +8125,7 @@
     }
   },
   "last_keepalive_utc": "2026-09-25T10:31:06.793440+00:00",
-  "last_state_change_utc": "2026-09-28T20:20:59.877441+00:00",
+  "last_state_change_utc": "2026-09-28T20:30:55.924034+00:00",
   "market_noise_suppressed": 5,
   "milestone_alerts": {},
   "rumor_alerts_sent": 109,
@@ -8098,8 +8136,8 @@
   "rumor_duplicates_suppressed": 644,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 18,
-  "rumor_integrity_repairs": 1495,
-  "rumor_last_scan_utc": "2026-09-28T20:20:58.886345+00:00",
+  "rumor_integrity_repairs": 1496,
+  "rumor_last_scan_utc": "2026-09-28T20:30:53.640045+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -10135,6 +10173,7 @@
     "9ac69e909a620f15a2891b5de03535724de24710e982007f7a3876bd66dfd1af": "2026-09-17T19:41:14.787581+00:00",
     "9b876251da3c9da8dfb6d2b7ff374bcf7c1e87ec257978594c08fd6a1c119e12": "2026-09-16T14:41:04.317367+00:00",
     "9d3fc465ce464234bddf59f0d978bc50685ec987b06f0553e0d0af7bbedfc0a6": "2026-08-14T10:15:00.868800+00:00",
+    "9ebcccd0e6a3986d65ba657ccbc6f3bd20eaafde819b6855bf5a108e95955890": "2026-09-28T20:30:55.922481+00:00",
     "9f71a7635b17ac7558c2f03c191c657e6ed1c66594357ef909c6839ffacb08be": "2026-08-14T10:15:00.868800+00:00",
     "a0122d5c3c2c93456f86af53b3928e029b1dd537a9028200bfc392e0ab931145": "2026-08-20T03:21:47.165417+00:00",
     "a0aaef4681fe1e5ff35b0dbd9da81ab1af3c65b7445c2a93b8b4b08878619e16": "2026-08-14T10:15:00.868800+00:00",
