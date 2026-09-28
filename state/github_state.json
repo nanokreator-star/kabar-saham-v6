@@ -2,8 +2,8 @@
   "baseline_initialized": true,
   "early_signal_alerts_sent": 21,
   "early_signal_baseline_initialized": true,
-  "early_signal_duplicates_suppressed": 692,
-  "early_signal_last_scan_utc": "2026-09-28T19:50:56.427943+00:00",
+  "early_signal_duplicates_suppressed": 693,
+  "early_signal_last_scan_utc": "2026-09-28T20:01:02.126025+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -8.11,
@@ -21,7 +21,7 @@
       "combined": true,
       "direction": "DOWN",
       "last_alert_utc": null,
-      "last_seen_utc": "2026-09-28T19:50:56.427931+00:00",
+      "last_seen_utc": "2026-09-28T20:01:02.126015+00:00",
       "level": "HIGH",
       "market_date": "2026-09-28",
       "signature": "EPAC|2026-09-28|HIGH|DOWN|RUMOR|RIGHTS ISSUE|TICKER|EPAC",
@@ -8087,7 +8087,7 @@
     }
   },
   "last_keepalive_utc": "2026-09-25T10:31:06.793440+00:00",
-  "last_state_change_utc": "2026-09-28T19:50:56.469314+00:00",
+  "last_state_change_utc": "2026-09-28T20:01:02.167996+00:00",
   "market_noise_suppressed": 5,
   "milestone_alerts": {},
   "rumor_alerts_sent": 109,
@@ -8099,7 +8099,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 18,
   "rumor_integrity_repairs": 1493,
-  "rumor_last_scan_utc": "2026-09-28T19:50:55.910136+00:00",
+  "rumor_last_scan_utc": "2026-09-28T20:01:01.754789+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -9715,7 +9715,7 @@
     },
     "SPIN-OFF / RESTRUCTURING|TICKER|TAMU": {
       "category": "SPIN-OFF / RESTRUCTURING",
-      "company_name": "Pelayaran Tamarin Samudra",
+      "company_name": "PT Pelayaran Tamarin Samudra Tbk. TAMU 1 Restrukturisasi utang",
       "copy_duplicate_count": 0,
       "credible_effective_independent_count": 1.1,
       "derivative_source_count": 0,
