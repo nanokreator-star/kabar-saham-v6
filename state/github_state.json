@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 21,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 697,
-  "early_signal_last_scan_utc": "2026-09-29T06:51:58.123018+00:00",
+  "early_signal_last_scan_utc": "2026-09-29T07:31:11.836766+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -8.11,
@@ -8084,7 +8084,7 @@
       "owner_context_sources": 0,
       "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
       "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-      "owner_v6_checked_utc": "2026-09-28T19:21:03.143707+00:00",
+      "owner_v6_checked_utc": "2026-09-29T07:31:03.385882+00:00",
       "owner_v6_pages_fetched": 0,
       "profile_source": "Yahoo Finance",
       "profile_source_quality": "FALLBACK",
@@ -8093,7 +8093,7 @@
       "subindustry": null,
       "subsector": null,
       "ticker": "TAMU",
-      "verified_at": "2026-09-28T19:21:05.234491+00:00",
+      "verified_at": "2026-09-29T07:31:04.341477+00:00",
       "website": "https://www.tamarin.co.id"
     },
     "TBIG": {
@@ -8219,7 +8219,7 @@
     }
   },
   "last_keepalive_utc": "2026-09-25T10:31:06.793440+00:00",
-  "last_state_change_utc": "2026-09-29T06:51:58.125009+00:00",
+  "last_state_change_utc": "2026-09-29T07:31:11.867509+00:00",
   "market_noise_suppressed": 5,
   "milestone_alerts": {},
   "rumor_alerts_sent": 110,
@@ -8231,7 +8231,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 18,
   "rumor_integrity_repairs": 1556,
-  "rumor_last_scan_utc": "2026-09-29T06:51:56.874304+00:00",
+  "rumor_last_scan_utc": "2026-09-29T07:31:11.348805+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -9948,7 +9948,7 @@
         "owner_context_sources": 0,
         "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
         "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-        "owner_v6_checked_utc": "2026-09-28T19:21:03.143707+00:00",
+        "owner_v6_checked_utc": "2026-09-29T07:31:03.385882+00:00",
         "owner_v6_pages_fetched": 0,
         "profile_source": "Yahoo Finance",
         "profile_source_quality": "FALLBACK",
@@ -9957,7 +9957,7 @@
         "subindustry": null,
         "subsector": null,
         "ticker": "TAMU",
-        "verified_at": "2026-09-28T19:21:05.234491+00:00",
+        "verified_at": "2026-09-29T07:31:04.341477+00:00",
         "website": "https://www.tamarin.co.id"
       },
       "key": "SPIN-OFF / RESTRUCTURING|TICKER|TAMU",
@@ -9966,7 +9966,7 @@
       "market_data": null,
       "official_confirmation": null,
       "premium_source_count": 1,
-      "profile_refresh_utc": "2026-09-28T19:21:12.211082+00:00",
+      "profile_refresh_utc": "2026-09-29T07:31:11.343281+00:00",
       "published": "Mon, 28 Sep 2026 16:15:00 GMT",
       "rumor_details": {
         "ipo_price": null,
