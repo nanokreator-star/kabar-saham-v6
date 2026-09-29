@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 21,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 697,
-  "early_signal_last_scan_utc": "2026-09-29T00:50:48.802693+00:00",
+  "early_signal_last_scan_utc": "2026-09-29T01:01:23.896078+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -8.11,
@@ -7294,7 +7294,7 @@
       "owner_context_sources": 0,
       "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
       "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-      "owner_v6_checked_utc": "2026-09-28T12:50:58.727673+00:00",
+      "owner_v6_checked_utc": "2026-09-29T01:01:08.680572+00:00",
       "owner_v6_pages_fetched": 0,
       "profile_source": "Yahoo Finance",
       "profile_source_quality": "FALLBACK",
@@ -7303,7 +7303,7 @@
       "subindustry": null,
       "subsector": null,
       "ticker": "EPAC",
-      "verified_at": "2026-09-28T12:51:33.288566+00:00",
+      "verified_at": "2026-09-29T01:01:09.530313+00:00",
       "website": "https://www.epack.co.id"
     },
     "FAPA": {
@@ -8145,7 +8145,7 @@
     }
   },
   "last_keepalive_utc": "2026-09-25T10:31:06.793440+00:00",
-  "last_state_change_utc": "2026-09-29T00:50:48.843987+00:00",
+  "last_state_change_utc": "2026-09-29T01:01:23.925933+00:00",
   "market_noise_suppressed": 5,
   "milestone_alerts": {},
   "rumor_alerts_sent": 110,
@@ -8153,11 +8153,11 @@
   "rumor_confirmed_count": 44,
   "rumor_confirmed_dedups": 0,
   "rumor_denied_count": 0,
-  "rumor_duplicates_suppressed": 652,
+  "rumor_duplicates_suppressed": 653,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 18,
-  "rumor_integrity_repairs": 1520,
-  "rumor_last_scan_utc": "2026-09-29T00:50:48.306465+00:00",
+  "rumor_integrity_repairs": 1521,
+  "rumor_last_scan_utc": "2026-09-29T01:01:23.438414+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -8303,15 +8303,15 @@
         "underwriter": null
       },
       "semantic_copy_count": 0,
-      "source": "Media Indonesia",
+      "source": "mediaindonesia.com",
       "source_breakdown": [
         {
           "derivative": false,
-          "group": "media indonesia",
+          "group": "mediaindonesia.com",
           "new_material": 0,
           "quality": "LOW",
           "semantic_copy": false,
-          "source": "Media Indonesia",
+          "source": "mediaindonesia.com",
           "tier": 1,
           "weight": 0.35
         }
@@ -8320,8 +8320,8 @@
       "source_quality": "LOW",
       "source_quality_score": 0.3,
       "sources": [
-        "Media Indonesia",
         "mediaindonesia.com",
+        "Media Indonesia",
         "Katadata.co.id",
         "Sawitku",
         "sawitku.id",
@@ -8332,7 +8332,7 @@
       "status": "DENIED",
       "strength": "WEAK",
       "ticker": "BYAN",
-      "title": "BCA Bantah Isu Akuisisi Saham oleh Haji Isam - Media Indonesia"
+      "title": "BCA Bantah Isu Akuisisi Saham oleh Haji Isam - mediaindonesia.com"
     },
     "AKUISISI / TAKEOVER|TICKER|HAJI": {
       "category": "AKUISISI / TAKEOVER",
@@ -9775,7 +9775,7 @@
         "owner_context_sources": 0,
         "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
         "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-        "owner_v6_checked_utc": "2026-09-28T12:50:58.727673+00:00",
+        "owner_v6_checked_utc": "2026-09-29T01:01:08.680572+00:00",
         "owner_v6_pages_fetched": 0,
         "profile_source": "Yahoo Finance",
         "profile_source_quality": "FALLBACK",
@@ -9784,7 +9784,7 @@
         "subindustry": null,
         "subsector": null,
         "ticker": "EPAC",
-        "verified_at": "2026-09-28T12:51:33.288566+00:00",
+        "verified_at": "2026-09-29T01:01:09.530313+00:00",
         "website": "https://www.epack.co.id"
       },
       "key": "RIGHTS ISSUE|TICKER|EPAC",
@@ -9807,7 +9807,7 @@
       },
       "official_confirmation": null,
       "premium_source_count": 0,
-      "profile_refresh_utc": "2026-09-28T12:51:09.790223+00:00",
+      "profile_refresh_utc": "2026-09-29T01:01:23.437108+00:00",
       "published": "Sun, 27 Sep 2026 08:43:00 GMT",
       "rumor_details": {
         "ipo_price": null,
