@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 21,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 697,
-  "early_signal_last_scan_utc": "2026-09-29T12:50:55.301202+00:00",
+  "early_signal_last_scan_utc": "2026-09-29T13:01:12.497274+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -8.11,
@@ -6055,6 +6055,44 @@
       },
       "ticker": ""
     },
+    "RIGHTS ISSUE|TITLE|FOTO VKTR KANTONGI PERNYATAAN EFEKTIF OJK RP3": {
+      "family": "RIGHTS ISSUE",
+      "first_seen_utc": "2026-09-29T13:01:44.943979+00:00",
+      "last_alert_utc": "2026-09-29T13:01:44.943974+00:00",
+      "last_seen_utc": "2026-09-29T13:01:44.943974+00:00",
+      "market_context": {
+        "change_pct": null,
+        "last_price": null,
+        "market_date": null
+      },
+      "material_snapshot": {
+        "acquirer": null,
+        "acquirer_confirmed": false,
+        "event_type": "RIGHTS ISSUE",
+        "execution_price": null,
+        "ipo_single_price": null,
+        "money": [
+          "Rp3 triliun"
+        ],
+        "official_authority": null,
+        "official_kind": null,
+        "price_range": null,
+        "ratio": null,
+        "schedule": {},
+        "share_count": null,
+        "stage": "EFEKTIF",
+        "stage_step": 4,
+        "stage_total": 6,
+        "stake": [],
+        "standby_buyer": null,
+        "target": null,
+        "target_confirmed": false,
+        "tender_price": null,
+        "underwriter": null,
+        "use_of_funds": []
+      },
+      "ticker": "FOTO"
+    },
     "RIGHTS ISSUE|TITLE|GELAR RP372 61 MILIAR BRNA TEBAR 181": {
       "family": "RIGHTS ISSUE",
       "first_seen_utc": "2026-08-14T10:15:00.868800+00:00",
@@ -7438,6 +7476,26 @@
       "verified_at": "2026-09-19T05:20:53.590402+00:00",
       "website": "https://www.fap-agri.com"
     },
+    "FOTO": {
+      "business_activity": null,
+      "controller": null,
+      "industry": null,
+      "issuer_name": null,
+      "owner_context_sources": 0,
+      "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
+      "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
+      "owner_v6_checked_utc": "2026-09-29T13:01:44.283696+00:00",
+      "owner_v6_pages_fetched": 0,
+      "profile_source": "Yahoo Finance",
+      "profile_source_quality": "FALLBACK",
+      "profile_source_url": null,
+      "sector": null,
+      "subindustry": null,
+      "subsector": null,
+      "ticker": "FOTO",
+      "verified_at": "2026-09-29T13:01:44.260669+00:00",
+      "website": null
+    },
     "FROM": {
       "business_activity": null,
       "controller": null,
@@ -8277,7 +8335,7 @@
     }
   },
   "last_keepalive_utc": "2026-09-25T10:31:06.793440+00:00",
-  "last_state_change_utc": "2026-09-29T12:50:56.022828+00:00",
+  "last_state_change_utc": "2026-09-29T13:01:44.945302+00:00",
   "market_noise_suppressed": 5,
   "milestone_alerts": {},
   "rumor_alerts_sent": 110,
@@ -8288,8 +8346,8 @@
   "rumor_duplicates_suppressed": 672,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 19,
-  "rumor_integrity_repairs": 1579,
-  "rumor_last_scan_utc": "2026-09-29T12:50:54.350563+00:00",
+  "rumor_integrity_repairs": 1580,
+  "rumor_last_scan_utc": "2026-09-29T13:01:10.620799+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -10280,6 +10338,7 @@
     "35caa677fedc0bf6c3a8fe7f823443af0bd6f067d0642818b29bccc275122630": "2026-09-15T07:01:24.271273+00:00",
     "373b1b316631890d135041562ced1130c3284bda56678d82bdd6f3d5ba7eaddb": "2026-08-25T02:20:52.960599+00:00",
     "38cf62fef6a32fd24876cbaf718787cd685b3462d78903fbaf057738f9496dfb": "2026-09-27T09:40:51.776776+00:00",
+    "393da6b9936f17f7eca1493737d72866299b2311ee2f267b96b8c5a06fe7dec5": "2026-09-29T13:01:44.943954+00:00",
     "3a7fea397da12bff007ca10795e61cf589f20784b267f5e8bff9244c53b0c9d3": "2026-08-14T10:15:00.868800+00:00",
     "3bdc208def8f4cdbbd78eaa106220cad71db8e2c272145270ec43c468a39983f": "2026-08-29T15:41:14.282680+00:00",
     "3c39203f674a01980cbde1c95618087830dd92233aecd2ca74bba44a7b7a15be": "2026-08-14T10:15:00.868800+00:00",
