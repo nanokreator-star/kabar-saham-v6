@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 21,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 697,
-  "early_signal_last_scan_utc": "2026-09-29T16:20:53.239013+00:00",
+  "early_signal_last_scan_utc": "2026-09-29T16:30:56.969077+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -8.11,
@@ -8373,7 +8373,7 @@
     }
   },
   "last_keepalive_utc": "2026-09-25T10:31:06.793440+00:00",
-  "last_state_change_utc": "2026-09-29T16:20:53.284135+00:00",
+  "last_state_change_utc": "2026-09-29T16:30:57.013490+00:00",
   "market_noise_suppressed": 5,
   "milestone_alerts": {},
   "rumor_alerts_sent": 110,
@@ -8384,8 +8384,8 @@
   "rumor_duplicates_suppressed": 674,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 19,
-  "rumor_integrity_repairs": 1600,
-  "rumor_last_scan_utc": "2026-09-29T16:20:51.555745+00:00",
+  "rumor_integrity_repairs": 1601,
+  "rumor_last_scan_utc": "2026-09-29T16:30:56.217476+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
