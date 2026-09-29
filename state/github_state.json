@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 21,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 697,
-  "early_signal_last_scan_utc": "2026-09-29T09:01:00.986380+00:00",
+  "early_signal_last_scan_utc": "2026-09-29T09:10:50.569101+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -8.11,
@@ -6950,6 +6950,44 @@
         ]
       },
       "ticker": ""
+    },
+    "RIGHTS ISSUE|TITLE|VKTR KANTONGI PERNYATAAN EFEKTIF OJK RP3 TRILIUN": {
+      "family": "RIGHTS ISSUE",
+      "first_seen_utc": "2026-09-29T09:11:28.029122+00:00",
+      "last_alert_utc": "2026-09-29T09:11:28.029118+00:00",
+      "last_seen_utc": "2026-09-29T09:11:28.029118+00:00",
+      "market_context": {
+        "change_pct": 7.7922,
+        "last_price": 830.0,
+        "market_date": "2026-09-29"
+      },
+      "material_snapshot": {
+        "acquirer": null,
+        "acquirer_confirmed": false,
+        "event_type": "RIGHTS ISSUE",
+        "execution_price": null,
+        "ipo_single_price": null,
+        "money": [
+          "Rp3 triliun"
+        ],
+        "official_authority": null,
+        "official_kind": null,
+        "price_range": null,
+        "ratio": null,
+        "schedule": {},
+        "share_count": null,
+        "stage": "EFEKTIF",
+        "stage_step": 4,
+        "stage_total": 6,
+        "stake": [],
+        "standby_buyer": null,
+        "target": null,
+        "target_confirmed": false,
+        "tender_price": null,
+        "underwriter": null,
+        "use_of_funds": []
+      },
+      "ticker": "VKTR"
     }
   },
   "issuer_profile_cache": {
@@ -8176,6 +8214,26 @@
       "verified_at": "2026-09-07T11:10:54.074500+00:00",
       "website": "https://www.unitedtractors.com"
     },
+    "VKTR": {
+      "business_activity": "PT VKTR Teknologi Mobilitas Tbk, together with its subsidiaries, manufactures and trades in automotive and metal components in Indonesia and internationally. The company offers electric buses, trucks, forklifts, and loaders, as well as foun",
+      "controller": null,
+      "industry": "Recreational Vehicles",
+      "issuer_name": "VKTR Teknologi Mobilitas",
+      "owner_context_sources": 0,
+      "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
+      "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
+      "owner_v6_checked_utc": "2026-09-29T09:11:27.406492+00:00",
+      "owner_v6_pages_fetched": 0,
+      "profile_source": "Yahoo Finance",
+      "profile_source_quality": "FALLBACK",
+      "profile_source_url": null,
+      "sector": "Consumer Cyclical",
+      "subindustry": null,
+      "subsector": null,
+      "ticker": "VKTR",
+      "verified_at": "2026-09-29T09:11:21.994502+00:00",
+      "website": "https://vktr.id"
+    },
     "WIKA": {
       "business_activity": "PT Wijaya Karya (Persero) Tbk operates as an integrated construction company in Indonesia and internationally. It operates through Infrastructure and Building, Energy and Industrial Plant, Industry, Hotel, Realty and Property, and Investmen",
       "controller": null,
@@ -8219,7 +8277,7 @@
     }
   },
   "last_keepalive_utc": "2026-09-25T10:31:06.793440+00:00",
-  "last_state_change_utc": "2026-09-29T09:01:01.028541+00:00",
+  "last_state_change_utc": "2026-09-29T09:11:28.030538+00:00",
   "market_noise_suppressed": 5,
   "milestone_alerts": {},
   "rumor_alerts_sent": 110,
@@ -8230,8 +8288,8 @@
   "rumor_duplicates_suppressed": 666,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 18,
-  "rumor_integrity_repairs": 1558,
-  "rumor_last_scan_utc": "2026-09-29T09:01:00.328673+00:00",
+  "rumor_integrity_repairs": 1559,
+  "rumor_last_scan_utc": "2026-09-29T09:10:49.765209+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -8635,8 +8693,8 @@
       "detected_source_count": 1,
       "effective_independent_count": 1.1,
       "entity_aliases": [
-        "ASHMORE ASSET MANAGEMENT INDONESIA",
-        "ASHMORE ASSET MANAGEMENT INDONESIA TBK (&qu"
+        "ASHMORE ASSET MANAGEMENT INDONESIA TBK (&qu",
+        "ASHMORE ASSET MANAGEMENT INDONESIA"
       ],
       "entity_resolution_source": null,
       "first_seen_utc": "2026-09-28T10:54:46+00:00",
@@ -10254,6 +10312,7 @@
     "51dc6ae76cc3955348be3a01c45aab793bed20599a1d706491733efe549d73a5": "2026-09-18T13:51:19.869418+00:00",
     "53e95c182b4ff32e6c77f31910f263a3d61f61206ca6a399dd525c83434f0d2d": "2026-08-31T02:30:59.962731+00:00",
     "545b06b3f1d4403eb1cdd1af9eadc9bf16b65070a95108d13313d06039310251": "2026-08-14T10:15:00.868800+00:00",
+    "550f201918f7cf2700a041970f674372c494e11acecd03a6c07b01a97ac8d5f9": "2026-09-29T09:11:28.029100+00:00",
     "5530899577172a24e7782183fb75aeadd93a98f4def48e343ef0a8b642b49e6e": "2026-09-18T01:41:15.519996+00:00",
     "5531875ed0b9be51815ca052b03d674b0a20b8a2f5337a068932188574711052": "2026-08-21T13:01:30.058267+00:00",
     "562524ce39b0ace06378da183171f5e396932cfd327cf72e7feabba80eda1c98": "2026-08-14T10:15:00.868800+00:00",
