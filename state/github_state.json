@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 21,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 697,
-  "early_signal_last_scan_utc": "2026-09-29T13:01:12.497274+00:00",
+  "early_signal_last_scan_utc": "2026-09-29T13:11:11.832460+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -8.11,
@@ -7444,7 +7444,7 @@
       "owner_context_sources": 0,
       "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
       "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-      "owner_v6_checked_utc": "2026-09-29T01:01:08.680572+00:00",
+      "owner_v6_checked_utc": "2026-09-29T13:10:55.648382+00:00",
       "owner_v6_pages_fetched": 0,
       "profile_source": "Yahoo Finance",
       "profile_source_quality": "FALLBACK",
@@ -7453,7 +7453,7 @@
       "subindustry": null,
       "subsector": null,
       "ticker": "EPAC",
-      "verified_at": "2026-09-29T01:01:09.530313+00:00",
+      "verified_at": "2026-09-29T13:10:56.619376+00:00",
       "website": "https://www.epack.co.id"
     },
     "FAPA": {
@@ -8335,7 +8335,7 @@
     }
   },
   "last_keepalive_utc": "2026-09-25T10:31:06.793440+00:00",
-  "last_state_change_utc": "2026-09-29T13:01:44.945302+00:00",
+  "last_state_change_utc": "2026-09-29T13:11:11.875409+00:00",
   "market_noise_suppressed": 5,
   "milestone_alerts": {},
   "rumor_alerts_sent": 110,
@@ -8343,11 +8343,11 @@
   "rumor_confirmed_count": 44,
   "rumor_confirmed_dedups": 0,
   "rumor_denied_count": 0,
-  "rumor_duplicates_suppressed": 672,
+  "rumor_duplicates_suppressed": 673,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 19,
-  "rumor_integrity_repairs": 1580,
-  "rumor_last_scan_utc": "2026-09-29T13:01:10.620799+00:00",
+  "rumor_integrity_repairs": 1581,
+  "rumor_last_scan_utc": "2026-09-29T13:11:11.298415+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -8371,7 +8371,7 @@
         "dari Low Tuck Kwong Jadi Kenyataan",
         "BYAN oleh Haji Isam"
       ],
-      "entity_resolution_source": "CORPORATE_ACTION_BATCH+ISSUER_ALIAS_MEMORY",
+      "entity_resolution_source": "ISSUER_ALIAS_MEMORY",
       "first_seen_utc": "2026-08-18T02:41:36+00:00",
       "high_quality_source_count": 0,
       "independent_story_count": 1,
@@ -8494,15 +8494,15 @@
         "underwriter": null
       },
       "semantic_copy_count": 0,
-      "source": "Media Indonesia",
+      "source": "mediaindonesia.com",
       "source_breakdown": [
         {
           "derivative": false,
-          "group": "media indonesia",
+          "group": "mediaindonesia.com",
           "new_material": 0,
           "quality": "LOW",
           "semantic_copy": false,
-          "source": "Media Indonesia",
+          "source": "mediaindonesia.com",
           "tier": 1,
           "weight": 0.35
         }
@@ -8511,8 +8511,8 @@
       "source_quality": "LOW",
       "source_quality_score": 0.3,
       "sources": [
-        "Media Indonesia",
         "mediaindonesia.com",
+        "Media Indonesia",
         "Katadata.co.id",
         "Sawitku",
         "sawitku.id",
@@ -8523,7 +8523,7 @@
       "status": "DENIED",
       "strength": "WEAK",
       "ticker": "BYAN",
-      "title": "BCA Bantah Isu Akuisisi Saham oleh Haji Isam - Media Indonesia"
+      "title": "BCA Bantah Isu Akuisisi Saham oleh Haji Isam - mediaindonesia.com"
     },
     "AKUISISI / TAKEOVER|TICKER|HAJI": {
       "category": "AKUISISI / TAKEOVER",
@@ -9967,7 +9967,7 @@
         "owner_context_sources": 0,
         "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
         "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-        "owner_v6_checked_utc": "2026-09-29T01:01:08.680572+00:00",
+        "owner_v6_checked_utc": "2026-09-29T13:10:55.648382+00:00",
         "owner_v6_pages_fetched": 0,
         "profile_source": "Yahoo Finance",
         "profile_source_quality": "FALLBACK",
@@ -9976,7 +9976,7 @@
         "subindustry": null,
         "subsector": null,
         "ticker": "EPAC",
-        "verified_at": "2026-09-29T01:01:09.530313+00:00",
+        "verified_at": "2026-09-29T13:10:56.619376+00:00",
         "website": "https://www.epack.co.id"
       },
       "key": "RIGHTS ISSUE|TICKER|EPAC",
@@ -9999,7 +9999,7 @@
       },
       "official_confirmation": null,
       "premium_source_count": 0,
-      "profile_refresh_utc": "2026-09-29T01:01:23.437108+00:00",
+      "profile_refresh_utc": "2026-09-29T13:11:11.296557+00:00",
       "published": "Sun, 27 Sep 2026 08:43:00 GMT",
       "rumor_details": {
         "ipo_price": null,
