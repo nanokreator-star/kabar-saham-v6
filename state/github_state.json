@@ -2,15 +2,15 @@
   "baseline_initialized": true,
   "early_signal_alerts_sent": 24,
   "early_signal_baseline_initialized": true,
-  "early_signal_duplicates_suppressed": 773,
-  "early_signal_last_scan_utc": "2026-09-30T22:20:54.574892+00:00",
+  "early_signal_duplicates_suppressed": 774,
+  "early_signal_last_scan_utc": "2026-09-30T22:30:53.401977+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
       "combined": true,
       "direction": "DOWN",
       "last_alert_utc": "2026-09-30T18:40:49.887779+00:00",
-      "last_seen_utc": "2026-09-30T22:20:54.574883+00:00",
+      "last_seen_utc": "2026-09-30T22:30:53.401966+00:00",
       "level": "MEDIUM",
       "market_date": "2026-09-30",
       "signature": "BBCA|2026-09-30|MEDIUM|DOWN|RUMOR|AKUISISI / TAKEOVER|TICKER|BBCA",
@@ -8582,7 +8582,7 @@
     }
   },
   "last_keepalive_utc": "2026-09-25T10:31:06.793440+00:00",
-  "last_state_change_utc": "2026-09-30T22:20:54.624133+00:00",
+  "last_state_change_utc": "2026-09-30T22:30:53.435700+00:00",
   "market_noise_suppressed": 5,
   "milestone_alerts": {},
   "rumor_alerts_sent": 111,
@@ -8590,11 +8590,11 @@
   "rumor_confirmed_count": 44,
   "rumor_confirmed_dedups": 0,
   "rumor_denied_count": 0,
-  "rumor_duplicates_suppressed": 691,
+  "rumor_duplicates_suppressed": 692,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 19,
   "rumor_integrity_repairs": 1729,
-  "rumor_last_scan_utc": "2026-09-30T22:20:54.136058+00:00",
+  "rumor_last_scan_utc": "2026-09-30T22:30:52.832297+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -9710,84 +9710,6 @@
       "ticker": null,
       "title": "keterbukaan informasi transaksi pelepasan ekuitas atau divestasi kepemilikan saham entitas - PT Bursa Efek Indonesia"
     },
-    "IPO|COMPANY|PLATFORM INVESTASI AJAIB DAPAT SUNTIKAN RP 4 8 TRILIUN APAKAH": {
-      "category": "IPO",
-      "company_name": "Platform Investasi Ajaib Dapat Suntikan Rp 4,8 Triliun, Apakah",
-      "copy_duplicate_count": 0,
-      "credible_effective_independent_count": 1.0,
-      "derivative_source_count": 0,
-      "detected_source_count": 1,
-      "effective_independent_count": 1.0,
-      "entity_aliases": [
-        "Platform Investasi Ajaib Dapat Suntikan Rp 4,8 Triliun, Apakah"
-      ],
-      "entity_resolution_source": null,
-      "first_seen_utc": "2026-08-31T22:26:51+00:00",
-      "high_quality_source_count": 1,
-      "independent_story_count": 1,
-      "issuer_profile": {
-        "business_activity": null,
-        "controller": null,
-        "industry": null,
-        "issuer_name": "Platform Investasi Ajaib Dapat Suntikan Rp 4,8 Triliun, Apakah",
-        "major_shareholders": [],
-        "profile_source": "MULTI-SOURCE MEDIA CONTEXT (1)",
-        "profile_source_quality": "MEDIA_CONTEXT",
-        "sector": null,
-        "subsector": null,
-        "ticker": null,
-        "verified_at": "2026-08-31T22:40:58.576553+00:00"
-      },
-      "key": "IPO|COMPANY|PLATFORM INVESTASI AJAIB DAPAT SUNTIKAN RP 4 8 TRILIUN APAKAH",
-      "last_alert_utc": "2026-08-31T22:40:59.165661+00:00",
-      "last_seen_utc": "2026-08-31T22:26:51+00:00",
-      "last_state_change_utc": "2026-09-07T22:30:57.934344+00:00",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQT2p1bmJMVVFpWUdEZEljZFdzenJYNEZSTVlEY0tLeF9mZ01PSmdGSGxLdy1SZFpYbHpkbUtjcllBczZtUnhzMmZxcFFLQm9SS2E1cWdMY1lCWGJ1UWpXaVhZaUlIVWxDMXJTb3czaU53azY3TUpRMWo4cTAxa2w2ckI1NHcyS3lqQ2Y1Q1Fnd0I2RWdjUTZfd05mVzQ0QkZaWHNVeThCdHTSAaABQVVfeXFMUGVITVFmRDByZHM3SmpOOG55b2hxNEw2ekphSlNXSVVVTjJKS3h2b2JEUzhHTVRPOHN2WTRKZzhiTFlLdDlCcVJjY0tlM01PcUpSRDV5WDFxSGRCMUdjMGR4UHNzcnB6MGlqbmFFNDVvMVFLWHNGNVZOdE11WEgwaWZWcVVJbUhkZGRwczE4VzFiUVFyd3RjQXRlRkRWYXBZTQ?oc=5",
-      "market_data": null,
-      "official_confirmation": null,
-      "premium_source_count": 1,
-      "profile_refresh_utc": null,
-      "published": "Mon, 31 Aug 2026 22:26:51 GMT",
-      "rumor_details": {
-        "ipo_price": null,
-        "listing_estimate": null,
-        "money": [
-          "Rp4,8 triliun"
-        ],
-        "percentages": [],
-        "price_range": null,
-        "rumored_party": null,
-        "share_count": null,
-        "underwriter": null
-      },
-      "semantic_copy_count": 0,
-      "source": "investasi.kontan.co.id",
-      "source_breakdown": [
-        {
-          "derivative": false,
-          "group": "kontan.co.id",
-          "new_material": 1,
-          "quality": "HIGH",
-          "semantic_copy": false,
-          "source": "investasi.kontan.co.id",
-          "tier": 4,
-          "weight": 1.0
-        }
-      ],
-      "source_count": 4,
-      "source_quality": "MEDIUM",
-      "source_quality_score": 4.0,
-      "sources": [
-        "investasi.kontan.co.id",
-        "kontan.co.id",
-        "KONTAN",
-        "insight.kontan.co.id"
-      ],
-      "status": "EXPIRED",
-      "strength": "WEAK",
-      "ticker": null,
-      "title": "Platform Investasi Ajaib Dapat Suntikan Rp 4,8 Triliun, Apakah Akan IPO? - investasi.kontan.co.id"
-    },
     "MERGER|TICKER|PDSI": {
       "category": "MERGER",
       "company_name": "PDSI",
@@ -10225,7 +10147,7 @@
         "underwriter": null
       },
       "semantic_copy_count": 0,
-      "source": "emitennews.com",
+      "source": "Emitennews.com",
       "source_breakdown": [
         {
           "derivative": false,
@@ -10233,7 +10155,7 @@
           "new_material": 0,
           "quality": "MEDIUM",
           "semantic_copy": false,
-          "source": "emitennews.com",
+          "source": "Emitennews.com",
           "tier": 3,
           "weight": 0.8
         }
@@ -10242,16 +10164,16 @@
       "source_quality": "LOW",
       "source_quality_score": 2.0,
       "sources": [
-        "emitennews.com"
+        "Emitennews.com"
       ],
       "status": "ACTIVE",
       "strength": "WEAK",
       "ticker": "EPAC",
-      "title": "Emiten Gocap (EPAC) Wacanakan Buyback & Rights Issue Jelang Aturan Rp1 - emitennews.com"
+      "title": "Emiten Gocap (EPAC) Wacanakan Buyback & Rights Issue Jelang Aturan Rp1 - Emitennews.com"
     },
     "SPIN-OFF / RESTRUCTURING|TICKER|TAMU": {
       "category": "SPIN-OFF / RESTRUCTURING",
-      "company_name": "Pelayaran Tamarin Samudra",
+      "company_name": "PT Pelayaran Tamarin Samudra Tbk. TAMU 1 Restrukturisasi utang",
       "copy_duplicate_count": 0,
       "credible_effective_independent_count": 1.1,
       "derivative_source_count": 0,
