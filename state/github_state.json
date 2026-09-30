@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 21,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 697,
-  "early_signal_last_scan_utc": "2026-09-30T06:20:57.556947+00:00",
+  "early_signal_last_scan_utc": "2026-09-30T06:31:02.488715+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -8.11,
@@ -5569,6 +5569,52 @@
       },
       "ticker": ""
     },
+    "RIGHTS ISSUE|TITLE|BSI RENCANAKAN TERBITKAN KOMMA MILIAR BARU SUARAGARUT": {
+      "family": "RIGHTS ISSUE",
+      "first_seen_utc": "2026-09-30T06:31:11.701334+00:00",
+      "last_alert_utc": "2026-09-30T06:31:11.701328+00:00",
+      "last_seen_utc": "2026-09-30T06:31:11.701328+00:00",
+      "market_context": {
+        "change_pct": null,
+        "last_price": null,
+        "market_date": null
+      },
+      "material_snapshot": {
+        "acquirer": null,
+        "acquirer_confirmed": false,
+        "event_type": "RIGHTS ISSUE",
+        "execution_price": null,
+        "ipo_single_price": null,
+        "money": [
+          "Rp3,4 triliun",
+          "Rp51,07 triliun",
+          "Rp64,41 triliun"
+        ],
+        "official_authority": null,
+        "official_kind": null,
+        "price_range": null,
+        "ratio": null,
+        "schedule": {},
+        "share_count": "8 Miliar saham",
+        "stage": "EFEKTIF",
+        "stage_step": 4,
+        "stage_total": 6,
+        "stake": [
+          20.38,
+          23.31,
+          12.85
+        ],
+        "standby_buyer": null,
+        "target": null,
+        "target_confirmed": false,
+        "tender_price": null,
+        "underwriter": null,
+        "use_of_funds": [
+          "EKSPANSI / CAPEX"
+        ]
+      },
+      "ticker": ""
+    },
     "RIGHTS ISSUE|TITLE|BULL DIRUMORKAN DIKAITKAN DENGAN INJEKSI 30 KAPAL": {
       "family": "RIGHTS ISSUE",
       "first_seen_utc": "2026-08-14T10:15:00.868800+00:00",
@@ -8429,7 +8475,7 @@
     }
   },
   "last_keepalive_utc": "2026-09-25T10:31:06.793440+00:00",
-  "last_state_change_utc": "2026-09-30T06:20:57.604773+00:00",
+  "last_state_change_utc": "2026-09-30T06:31:11.703303+00:00",
   "market_noise_suppressed": 5,
   "milestone_alerts": {},
   "rumor_alerts_sent": 111,
@@ -8441,7 +8487,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 19,
   "rumor_integrity_repairs": 1653,
-  "rumor_last_scan_utc": "2026-09-30T06:20:57.300010+00:00",
+  "rumor_last_scan_utc": "2026-09-30T06:31:01.269517+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -10159,7 +10205,7 @@
     },
     "SPIN-OFF / RESTRUCTURING|TICKER|TAMU": {
       "category": "SPIN-OFF / RESTRUCTURING",
-      "company_name": "Pelayaran Tamarin Samudra",
+      "company_name": "PT Pelayaran Tamarin Samudra Tbk. TAMU 1 Restrukturisasi utang",
       "copy_duplicate_count": 0,
       "credible_effective_independent_count": 1.1,
       "derivative_source_count": 0,
@@ -10414,6 +10460,7 @@
     "1962c723d96cdbeb17d3e5f5219b57782e8db06b60bbbfeccaeb294012c16873": "2026-09-26T18:20:53.491933+00:00",
     "1b2cd9b2bd6a771ea2ea969e1c6bcc61201fb3dcf0db87227874ff9f76b3317b": "2026-08-21T03:11:07.382924+00:00",
     "1bd8f6063a72b9667300b2c7e4a2718aa76ff4b3c6e17a3abfbd739fb077503b": "2026-08-14T10:15:00.868800+00:00",
+    "1c5b380735bd1ad2389f2e0f4655850eadfbc1a18a12ee7f2b93b191c0bfbc81": "2026-09-30T06:31:11.701312+00:00",
     "1cbab3154354e118815ed27dc3fc238c0b615ae06d1e585160aaae3552d17417": "2026-09-07T08:41:01.960525+00:00",
     "1ddfb4e184602043dd7de7e31c3b828108e4dc8a72ccb30c3938716cdda57452": "2026-08-25T22:10:55.251443+00:00",
     "1edc20362f784a6c9bd9c963b92b0ce8d36d392af90c2a91f7dd1c95bdb5237e": "2026-09-09T02:53:23.259378+00:00",
