@@ -2,15 +2,15 @@
   "baseline_initialized": true,
   "early_signal_alerts_sent": 24,
   "early_signal_baseline_initialized": true,
-  "early_signal_duplicates_suppressed": 772,
-  "early_signal_last_scan_utc": "2026-09-30T22:10:50.616557+00:00",
+  "early_signal_duplicates_suppressed": 773,
+  "early_signal_last_scan_utc": "2026-09-30T22:20:54.574892+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
       "combined": true,
       "direction": "DOWN",
       "last_alert_utc": "2026-09-30T18:40:49.887779+00:00",
-      "last_seen_utc": "2026-09-30T22:10:50.616502+00:00",
+      "last_seen_utc": "2026-09-30T22:20:54.574883+00:00",
       "level": "MEDIUM",
       "market_date": "2026-09-30",
       "signature": "BBCA|2026-09-30|MEDIUM|DOWN|RUMOR|AKUISISI / TAKEOVER|TICKER|BBCA",
@@ -8582,7 +8582,7 @@
     }
   },
   "last_keepalive_utc": "2026-09-25T10:31:06.793440+00:00",
-  "last_state_change_utc": "2026-09-30T22:10:50.665374+00:00",
+  "last_state_change_utc": "2026-09-30T22:20:54.624133+00:00",
   "market_noise_suppressed": 5,
   "milestone_alerts": {},
   "rumor_alerts_sent": 111,
@@ -8590,11 +8590,11 @@
   "rumor_confirmed_count": 44,
   "rumor_confirmed_dedups": 0,
   "rumor_denied_count": 0,
-  "rumor_duplicates_suppressed": 690,
+  "rumor_duplicates_suppressed": 691,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 19,
   "rumor_integrity_repairs": 1729,
-  "rumor_last_scan_utc": "2026-09-30T22:10:50.181915+00:00",
+  "rumor_last_scan_utc": "2026-09-30T22:20:54.136058+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -10225,7 +10225,7 @@
         "underwriter": null
       },
       "semantic_copy_count": 0,
-      "source": "Emitennews.com",
+      "source": "emitennews.com",
       "source_breakdown": [
         {
           "derivative": false,
@@ -10233,7 +10233,7 @@
           "new_material": 0,
           "quality": "MEDIUM",
           "semantic_copy": false,
-          "source": "Emitennews.com",
+          "source": "emitennews.com",
           "tier": 3,
           "weight": 0.8
         }
@@ -10242,12 +10242,12 @@
       "source_quality": "LOW",
       "source_quality_score": 2.0,
       "sources": [
-        "Emitennews.com"
+        "emitennews.com"
       ],
       "status": "ACTIVE",
       "strength": "WEAK",
       "ticker": "EPAC",
-      "title": "Emiten Gocap (EPAC) Wacanakan Buyback & Rights Issue Jelang Aturan Rp1 - Emitennews.com"
+      "title": "Emiten Gocap (EPAC) Wacanakan Buyback & Rights Issue Jelang Aturan Rp1 - emitennews.com"
     },
     "SPIN-OFF / RESTRUCTURING|TICKER|TAMU": {
       "category": "SPIN-OFF / RESTRUCTURING",
