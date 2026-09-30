@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 21,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 697,
-  "early_signal_last_scan_utc": "2026-09-30T06:31:02.488715+00:00",
+  "early_signal_last_scan_utc": "2026-09-30T06:40:52.023142+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -8.11,
@@ -5533,6 +5533,44 @@
       },
       "ticker": ""
     },
+    "RIGHTS ISSUE|TITLE|BRIS SIAPKAN RENCANA MILIAR KUARTAL 2027 RCTIPLUS": {
+      "family": "RIGHTS ISSUE",
+      "first_seen_utc": "2026-09-30T06:41:24.283090+00:00",
+      "last_alert_utc": "2026-09-30T06:41:24.283084+00:00",
+      "last_seen_utc": "2026-09-30T06:41:24.283084+00:00",
+      "market_context": {
+        "change_pct": -2.6403,
+        "last_price": 1475.0,
+        "market_date": "2026-09-30"
+      },
+      "material_snapshot": {
+        "acquirer": null,
+        "acquirer_confirmed": false,
+        "event_type": "RIGHTS ISSUE",
+        "execution_price": null,
+        "ipo_single_price": null,
+        "money": [],
+        "official_authority": null,
+        "official_kind": null,
+        "price_range": null,
+        "ratio": null,
+        "schedule": {},
+        "share_count": "6,8 Miliar saham",
+        "stage": "RENCANA",
+        "stage_step": 2,
+        "stage_total": 6,
+        "stake": [],
+        "standby_buyer": null,
+        "target": null,
+        "target_confirmed": false,
+        "tender_price": null,
+        "underwriter": null,
+        "use_of_funds": [
+          "MODAL KERJA"
+        ]
+      },
+      "ticker": "BRIS"
+    },
     "RIGHTS ISSUE|TITLE|BRNA CUM DATE RASIO KALKULASI UNTUNG RUGI": {
       "family": "RIGHTS ISSUE",
       "first_seen_utc": "2026-08-14T10:15:00.868800+00:00",
@@ -7384,6 +7422,26 @@
       "verified_at": "2026-09-25T08:02:00.279697+00:00",
       "website": "https://www.kasikornbank.co.id"
     },
+    "BRIS": {
+      "business_activity": "PT Bank Syariah Indonesia Tbk provides various commercial banking products and services for individuals and corporations in Indonesia. It operates through Corporate Banking, Commercial Banking, Institutional Relation, Retail Banking, and Tr",
+      "controller": null,
+      "industry": "Banks - Regional",
+      "issuer_name": "Bank Syariah Indonesia",
+      "owner_context_sources": 0,
+      "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
+      "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
+      "owner_v6_checked_utc": "2026-09-30T06:41:23.536667+00:00",
+      "owner_v6_pages_fetched": 0,
+      "profile_source": "Yahoo Finance",
+      "profile_source_quality": "FALLBACK",
+      "profile_source_url": null,
+      "sector": "Financial Services",
+      "subindustry": null,
+      "subsector": null,
+      "ticker": "BRIS",
+      "verified_at": "2026-09-30T06:41:17.044784+00:00",
+      "website": "https://www.bankbsi.co.id"
+    },
     "BYAN": {
       "business_activity": "PT Bayan Resources Tbk., together with its subsidiaries, engages in the open cut mining and sale of coal in Indonesia. It operates through Coal and Non-Coal segments.",
       "controller": {
@@ -8475,7 +8533,7 @@
     }
   },
   "last_keepalive_utc": "2026-09-25T10:31:06.793440+00:00",
-  "last_state_change_utc": "2026-09-30T06:31:11.703303+00:00",
+  "last_state_change_utc": "2026-09-30T06:41:24.285097+00:00",
   "market_noise_suppressed": 5,
   "milestone_alerts": {},
   "rumor_alerts_sent": 111,
@@ -8486,8 +8544,8 @@
   "rumor_duplicates_suppressed": 680,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 19,
-  "rumor_integrity_repairs": 1653,
-  "rumor_last_scan_utc": "2026-09-30T06:31:01.269517+00:00",
+  "rumor_integrity_repairs": 1654,
+  "rumor_last_scan_utc": "2026-09-30T06:40:51.598056+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -10689,6 +10747,7 @@
     "cc89201b1ef5fa9948d89f5df0c8d4a69617312572fb9f482be3993ad6f3ae6b": "2026-08-20T09:34:38.381195+00:00",
     "cdc16ccf5e9b187d5ea494f1c5257dc1848c11926f6fbbd76d3fb2b094fa5c32": "2026-08-21T10:31:03.694239+00:00",
     "ce83235056fd088afa23df4b98a04c61c0ad9cb957d728d14f7cb3b0b9f76de3": "2026-08-28T11:41:09.035515+00:00",
+    "ce8e551323b705c6b9d10316b8ee83da618a0685855dfd1e43f75fe4c968329e": "2026-09-30T06:41:24.283066+00:00",
     "ceadea4b9f989a1e6fe036a012b9a3b29af48f61e83f63fa14f25e55b699e5aa": "2026-09-18T12:41:11.653094+00:00",
     "cee67825f1415edf4af562c32edefdc7c77b7b126ded056f9b5c8fc538bc328f": "2026-09-07T06:00:59.778628+00:00",
     "cf32ab1ffdd74efa7bc91db12ccdd343635e42f241654a6304bbeba05b7892dc": "2026-09-18T13:51:19.869418+00:00",
