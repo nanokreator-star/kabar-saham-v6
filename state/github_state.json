@@ -2,15 +2,15 @@
   "baseline_initialized": true,
   "early_signal_alerts_sent": 22,
   "early_signal_baseline_initialized": true,
-  "early_signal_duplicates_suppressed": 732,
-  "early_signal_last_scan_utc": "2026-09-30T15:02:07.267681+00:00",
+  "early_signal_duplicates_suppressed": 733,
+  "early_signal_last_scan_utc": "2026-09-30T15:11:03.921802+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
       "combined": true,
       "direction": "DOWN",
       "last_alert_utc": "2026-09-30T09:10:52.643951+00:00",
-      "last_seen_utc": "2026-09-30T15:02:07.267671+00:00",
+      "last_seen_utc": "2026-09-30T15:11:03.921792+00:00",
       "level": "MEDIUM",
       "market_date": "2026-09-30",
       "signature": "BBCA|2026-09-30|MEDIUM|DOWN|RUMOR|AKUISISI / TAKEOVER|TICKER|BBCA",
@@ -7751,7 +7751,7 @@
       "owner_context_sources": 0,
       "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
       "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-      "owner_v6_checked_utc": "2026-09-30T02:50:48.162950+00:00",
+      "owner_v6_checked_utc": "2026-09-30T15:11:00.357503+00:00",
       "owner_v6_pages_fetched": 0,
       "profile_source": "Yahoo Finance",
       "profile_source_quality": "FALLBACK",
@@ -7760,7 +7760,7 @@
       "subindustry": null,
       "subsector": null,
       "ticker": "FROM",
-      "verified_at": "2026-09-30T02:50:49.815360+00:00",
+      "verified_at": "2026-09-30T15:11:01.778413+00:00",
       "website": null
     },
     "HAJI": {
@@ -8582,7 +8582,7 @@
     }
   },
   "last_keepalive_utc": "2026-09-25T10:31:06.793440+00:00",
-  "last_state_change_utc": "2026-09-30T15:02:07.269684+00:00",
+  "last_state_change_utc": "2026-09-30T15:11:03.961410+00:00",
   "market_noise_suppressed": 5,
   "milestone_alerts": {},
   "rumor_alerts_sent": 111,
@@ -8594,7 +8594,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 19,
   "rumor_integrity_repairs": 1693,
-  "rumor_last_scan_utc": "2026-09-30T15:02:06.890987+00:00",
+  "rumor_last_scan_utc": "2026-09-30T15:11:03.639758+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -9105,7 +9105,7 @@
         "owner_context_sources": 0,
         "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
         "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-        "owner_v6_checked_utc": "2026-09-30T02:50:48.162950+00:00",
+        "owner_v6_checked_utc": "2026-09-30T15:11:00.357503+00:00",
         "owner_v6_pages_fetched": 0,
         "profile_source": "Yahoo Finance",
         "profile_source_quality": "FALLBACK",
@@ -9114,7 +9114,7 @@
         "subindustry": null,
         "subsector": null,
         "ticker": "FROM",
-        "verified_at": "2026-09-30T02:50:49.815360+00:00",
+        "verified_at": "2026-09-30T15:11:01.778413+00:00",
         "website": null
       },
       "key": "BUYBACK|TICKER|FROM",
@@ -9123,7 +9123,7 @@
       "market_data": null,
       "official_confirmation": null,
       "premium_source_count": 1,
-      "profile_refresh_utc": "2026-09-30T02:50:51.984073+00:00",
+      "profile_refresh_utc": "2026-09-30T15:11:03.637423+00:00",
       "published": "Mon, 28 Sep 2026 10:54:46 GMT",
       "rumor_details": {
         "ipo_price": null,
@@ -10193,7 +10193,7 @@
     },
     "SPIN-OFF / RESTRUCTURING|TICKER|TAMU": {
       "category": "SPIN-OFF / RESTRUCTURING",
-      "company_name": "Pelayaran Tamarin Samudra",
+      "company_name": "PT Pelayaran Tamarin Samudra Tbk. TAMU 1 Restrukturisasi utang",
       "copy_duplicate_count": 0,
       "credible_effective_independent_count": 1.1,
       "derivative_source_count": 0,
