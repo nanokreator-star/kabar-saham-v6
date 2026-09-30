@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 21,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 697,
-  "early_signal_last_scan_utc": "2026-09-30T05:51:24.031867+00:00",
+  "early_signal_last_scan_utc": "2026-09-30T06:01:03.624588+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -8.11,
@@ -5497,6 +5497,42 @@
       },
       "ticker": ""
     },
+    "RIGHTS ISSUE|TITLE|BRIS SIAPKAN RENCANA MILIAR KUARTAL 2027 RCTI": {
+      "family": "RIGHTS ISSUE",
+      "first_seen_utc": "2026-09-30T06:01:06.349411+00:00",
+      "last_alert_utc": "2026-09-30T06:01:06.349405+00:00",
+      "last_seen_utc": "2026-09-30T06:01:06.349405+00:00",
+      "market_context": {
+        "change_pct": null,
+        "last_price": null,
+        "market_date": null
+      },
+      "material_snapshot": {
+        "acquirer": null,
+        "acquirer_confirmed": false,
+        "event_type": "RIGHTS ISSUE",
+        "execution_price": null,
+        "ipo_single_price": null,
+        "money": [],
+        "official_authority": null,
+        "official_kind": null,
+        "price_range": null,
+        "ratio": null,
+        "schedule": {},
+        "share_count": "6,8 Miliar saham",
+        "stage": "RENCANA",
+        "stage_step": 2,
+        "stage_total": 6,
+        "stake": [],
+        "standby_buyer": null,
+        "target": null,
+        "target_confirmed": false,
+        "tender_price": null,
+        "underwriter": null,
+        "use_of_funds": []
+      },
+      "ticker": ""
+    },
     "RIGHTS ISSUE|TITLE|BRNA CUM DATE RASIO KALKULASI UNTUNG RUGI": {
       "family": "RIGHTS ISSUE",
       "first_seen_utc": "2026-08-14T10:15:00.868800+00:00",
@@ -8393,7 +8429,7 @@
     }
   },
   "last_keepalive_utc": "2026-09-25T10:31:06.793440+00:00",
-  "last_state_change_utc": "2026-09-30T05:51:24.079313+00:00",
+  "last_state_change_utc": "2026-09-30T06:01:06.351461+00:00",
   "market_noise_suppressed": 5,
   "milestone_alerts": {},
   "rumor_alerts_sent": 111,
@@ -8404,8 +8440,8 @@
   "rumor_duplicates_suppressed": 678,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 19,
-  "rumor_integrity_repairs": 1650,
-  "rumor_last_scan_utc": "2026-09-30T05:51:23.742482+00:00",
+  "rumor_integrity_repairs": 1651,
+  "rumor_last_scan_utc": "2026-09-30T06:01:03.281974+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -10414,6 +10450,7 @@
     "2f635c686abb45a9914b5c32e19214749de08da89fb5a7719085e877d22d9cb6": "2026-08-14T10:15:00.868800+00:00",
     "30d8f6f1cbecf8d5037a22e94d438f85f617b3203d43a2fc1f0ea8d6e98b60e1": "2026-08-14T10:15:00.868800+00:00",
     "32a03db354f787a7abe2405f9ad29567f8ccc17313ae160654afff4a4f3eda0e": "2026-09-02T19:21:15.784045+00:00",
+    "32bcea9c3f7f5848c5a1c3a99b398bfc823558d6ac18e2dce3ffedb95dd6c5df": "2026-09-30T06:01:06.349388+00:00",
     "33cd8caf070b1689d28a239c9e5449cad19f070f19bc288fa4ef04429de2ae78": "2026-08-28T13:40:50.293389+00:00",
     "35caa677fedc0bf6c3a8fe7f823443af0bd6f067d0642818b29bccc275122630": "2026-09-15T07:01:24.271273+00:00",
     "373b1b316631890d135041562ced1130c3284bda56678d82bdd6f3d5ba7eaddb": "2026-08-25T02:20:52.960599+00:00",
