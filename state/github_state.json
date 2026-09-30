@@ -2,15 +2,15 @@
   "baseline_initialized": true,
   "early_signal_alerts_sent": 24,
   "early_signal_baseline_initialized": true,
-  "early_signal_duplicates_suppressed": 777,
-  "early_signal_last_scan_utc": "2026-09-30T23:00:59.307964+00:00",
+  "early_signal_duplicates_suppressed": 778,
+  "early_signal_last_scan_utc": "2026-09-30T23:10:49.573514+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
       "combined": true,
       "direction": "DOWN",
       "last_alert_utc": "2026-09-30T18:40:49.887779+00:00",
-      "last_seen_utc": "2026-09-30T23:00:58.968137+00:00",
+      "last_seen_utc": "2026-09-30T23:10:49.036472+00:00",
       "level": "MEDIUM",
       "market_date": "2026-09-30",
       "signature": "BBCA|2026-09-30|MEDIUM|DOWN|RUMOR|AKUISISI / TAKEOVER|TICKER|BBCA",
@@ -6224,6 +6224,42 @@
       },
       "ticker": "FOTO"
     },
+    "RIGHTS ISSUE|TITLE|GARUDA INDONESIA BERENCANA INBRENG GMFI DEMOKRATIS CO": {
+      "family": "RIGHTS ISSUE",
+      "first_seen_utc": "2026-09-30T23:10:52.487597+00:00",
+      "last_alert_utc": "2026-09-30T23:10:52.487589+00:00",
+      "last_seen_utc": "2026-09-30T23:10:52.487589+00:00",
+      "market_context": {
+        "change_pct": null,
+        "last_price": null,
+        "market_date": null
+      },
+      "material_snapshot": {
+        "acquirer": null,
+        "acquirer_confirmed": false,
+        "event_type": "RIGHTS ISSUE",
+        "execution_price": null,
+        "ipo_single_price": null,
+        "money": [],
+        "official_authority": null,
+        "official_kind": null,
+        "price_range": null,
+        "ratio": null,
+        "schedule": {},
+        "share_count": null,
+        "stage": "RENCANA",
+        "stage_step": 2,
+        "stage_total": 6,
+        "stake": [],
+        "standby_buyer": null,
+        "target": null,
+        "target_confirmed": false,
+        "tender_price": null,
+        "underwriter": null,
+        "use_of_funds": []
+      },
+      "ticker": ""
+    },
     "RIGHTS ISSUE|TITLE|GELAR RP372 61 MILIAR BRNA TEBAR 181": {
       "family": "RIGHTS ISSUE",
       "first_seen_utc": "2026-08-14T10:15:00.868800+00:00",
@@ -8602,7 +8638,7 @@
     }
   },
   "last_keepalive_utc": "2026-09-25T10:31:06.793440+00:00",
-  "last_state_change_utc": "2026-09-30T23:00:59.352120+00:00",
+  "last_state_change_utc": "2026-09-30T23:10:52.489632+00:00",
   "market_noise_suppressed": 5,
   "milestone_alerts": {},
   "rumor_alerts_sent": 112,
@@ -8610,11 +8646,11 @@
   "rumor_confirmed_count": 44,
   "rumor_confirmed_dedups": 0,
   "rumor_denied_count": 0,
-  "rumor_duplicates_suppressed": 695,
+  "rumor_duplicates_suppressed": 696,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 19,
-  "rumor_integrity_repairs": 1731,
-  "rumor_last_scan_utc": "2026-09-30T23:00:58.593616+00:00",
+  "rumor_integrity_repairs": 1732,
+  "rumor_last_scan_utc": "2026-09-30T23:10:48.739974+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -9783,7 +9819,7 @@
         "underwriter": null
       },
       "semantic_copy_count": 0,
-      "source": "ekonomi.bisnis.com",
+      "source": "Bisnis.com - Ekonomi",
       "source_breakdown": [
         {
           "derivative": false,
@@ -9791,7 +9827,7 @@
           "new_material": 0,
           "quality": "HIGH",
           "semantic_copy": false,
-          "source": "ekonomi.bisnis.com",
+          "source": "Bisnis.com - Ekonomi",
           "tier": 4,
           "weight": 1.0
         }
@@ -9800,13 +9836,13 @@
       "source_quality": "MEDIUM",
       "source_quality_score": 4.0,
       "sources": [
-        "ekonomi.bisnis.com",
-        "Bisnis.com - Ekonomi"
+        "Bisnis.com - Ekonomi",
+        "ekonomi.bisnis.com"
       ],
       "status": "ACTIVE",
       "strength": "WEAK",
       "ticker": "ASDP",
-      "title": "Bos Danantara Buka Suara soal Wacana Merger ASDP dan Pelni - ekonomi.bisnis.com"
+      "title": "Bos Danantara Buka Suara soal Wacana Merger ASDP dan Pelni - Bisnis.com - Ekonomi"
     },
     "MERGER|TICKER|PDSI": {
       "category": "MERGER",
@@ -10704,6 +10740,7 @@
     "a0aaef4681fe1e5ff35b0dbd9da81ab1af3c65b7445c2a93b8b4b08878619e16": "2026-08-14T10:15:00.868800+00:00",
     "a1ec20cbc6200644cb2ca36e4100d4987bc2adb9cf6c941c755e2d5d6644dc51": "2026-09-11T08:01:14.955541+00:00",
     "a2ca1e0da9ffb3edfc2af75bfbbc98cc266e3253042b9de9cced630247084add": "2026-08-14T10:15:00.868800+00:00",
+    "a3662b48ea46b6d71edde2164209df4ea953ba5b171e391cf6faca9f0d8a9868": "2026-09-30T23:10:52.487570+00:00",
     "a3864ebea6aaac013de22cc1b986f34e671379ce0e1be0fc53773f378a0ff38b": "2026-08-17T12:10:53.623227+00:00",
     "a610c7c5b697ee7f7548e70e3eb1ba6d2b4d6e8d6aba9c70f5a36ca3c2998a7d": "2026-09-07T11:10:59.517731+00:00",
     "a756f94948679cb9e44f144a87f88e2767b95f261c152c0dc6161ad83b48ed7e": "2026-08-29T13:01:39.906036+00:00",
