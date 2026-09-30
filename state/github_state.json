@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 21,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 697,
-  "early_signal_last_scan_utc": "2026-09-29T22:01:36.135031+00:00",
+  "early_signal_last_scan_utc": "2026-09-30T01:21:01.922532+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -8.11,
@@ -7482,7 +7482,7 @@
       "owner_context_sources": 0,
       "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
       "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-      "owner_v6_checked_utc": "2026-09-29T13:10:55.648382+00:00",
+      "owner_v6_checked_utc": "2026-09-30T01:20:50.892151+00:00",
       "owner_v6_pages_fetched": 0,
       "profile_source": "Yahoo Finance",
       "profile_source_quality": "FALLBACK",
@@ -7491,7 +7491,7 @@
       "subindustry": null,
       "subsector": null,
       "ticker": "EPAC",
-      "verified_at": "2026-09-29T13:10:56.619376+00:00",
+      "verified_at": "2026-09-30T01:20:51.625530+00:00",
       "website": "https://www.epack.co.id"
     },
     "FAPA": {
@@ -8373,7 +8373,7 @@
     }
   },
   "last_keepalive_utc": "2026-09-25T10:31:06.793440+00:00",
-  "last_state_change_utc": "2026-09-29T22:01:36.161675+00:00",
+  "last_state_change_utc": "2026-09-30T01:21:01.968142+00:00",
   "market_noise_suppressed": 5,
   "milestone_alerts": {},
   "rumor_alerts_sent": 110,
@@ -8385,7 +8385,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 19,
   "rumor_integrity_repairs": 1623,
-  "rumor_last_scan_utc": "2026-09-29T22:01:36.124549+00:00",
+  "rumor_last_scan_utc": "2026-09-30T01:21:01.906423+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -10005,7 +10005,7 @@
         "owner_context_sources": 0,
         "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
         "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-        "owner_v6_checked_utc": "2026-09-29T13:10:55.648382+00:00",
+        "owner_v6_checked_utc": "2026-09-30T01:20:50.892151+00:00",
         "owner_v6_pages_fetched": 0,
         "profile_source": "Yahoo Finance",
         "profile_source_quality": "FALLBACK",
@@ -10014,7 +10014,7 @@
         "subindustry": null,
         "subsector": null,
         "ticker": "EPAC",
-        "verified_at": "2026-09-29T13:10:56.619376+00:00",
+        "verified_at": "2026-09-30T01:20:51.625530+00:00",
         "website": "https://www.epack.co.id"
       },
       "key": "RIGHTS ISSUE|TICKER|EPAC",
@@ -10037,7 +10037,7 @@
       },
       "official_confirmation": null,
       "premium_source_count": 0,
-      "profile_refresh_utc": "2026-09-29T13:11:11.296557+00:00",
+      "profile_refresh_utc": "2026-09-30T01:21:01.904554+00:00",
       "published": "Sun, 27 Sep 2026 08:43:00 GMT",
       "rumor_details": {
         "ipo_price": null,
@@ -10082,7 +10082,7 @@
     },
     "SPIN-OFF / RESTRUCTURING|TICKER|TAMU": {
       "category": "SPIN-OFF / RESTRUCTURING",
-      "company_name": "Pelayaran Tamarin Samudra",
+      "company_name": "PT Pelayaran Tamarin Samudra Tbk. TAMU 1 Restrukturisasi utang",
       "copy_duplicate_count": 0,
       "credible_effective_independent_count": 1.1,
       "derivative_source_count": 0,
