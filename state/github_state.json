@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 21,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 697,
-  "early_signal_last_scan_utc": "2026-09-30T06:01:03.624588+00:00",
+  "early_signal_last_scan_utc": "2026-09-30T06:10:45.221515+00:00",
   "early_signal_memory": {
     "BYAN": {
       "change_pct": -8.11,
@@ -8429,7 +8429,7 @@
     }
   },
   "last_keepalive_utc": "2026-09-25T10:31:06.793440+00:00",
-  "last_state_change_utc": "2026-09-30T06:01:06.351461+00:00",
+  "last_state_change_utc": "2026-09-30T06:10:45.255540+00:00",
   "market_noise_suppressed": 5,
   "milestone_alerts": {},
   "rumor_alerts_sent": 111,
@@ -8437,11 +8437,11 @@
   "rumor_confirmed_count": 44,
   "rumor_confirmed_dedups": 0,
   "rumor_denied_count": 0,
-  "rumor_duplicates_suppressed": 678,
+  "rumor_duplicates_suppressed": 679,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 19,
-  "rumor_integrity_repairs": 1651,
-  "rumor_last_scan_utc": "2026-09-30T06:01:03.281974+00:00",
+  "rumor_integrity_repairs": 1652,
+  "rumor_last_scan_utc": "2026-09-30T06:10:44.922553+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -10133,7 +10133,7 @@
         "underwriter": null
       },
       "semantic_copy_count": 0,
-      "source": "Emitennews.com",
+      "source": "emitennews.com",
       "source_breakdown": [
         {
           "derivative": false,
@@ -10141,7 +10141,7 @@
           "new_material": 0,
           "quality": "MEDIUM",
           "semantic_copy": false,
-          "source": "Emitennews.com",
+          "source": "emitennews.com",
           "tier": 3,
           "weight": 0.8
         }
@@ -10150,12 +10150,12 @@
       "source_quality": "LOW",
       "source_quality_score": 2.0,
       "sources": [
-        "Emitennews.com"
+        "emitennews.com"
       ],
       "status": "ACTIVE",
       "strength": "WEAK",
       "ticker": "EPAC",
-      "title": "Emiten Gocap (EPAC) Wacanakan Buyback & Rights Issue Jelang Aturan Rp1 - Emitennews.com"
+      "title": "Emiten Gocap (EPAC) Wacanakan Buyback & Rights Issue Jelang Aturan Rp1 - emitennews.com"
     },
     "SPIN-OFF / RESTRUCTURING|TICKER|TAMU": {
       "category": "SPIN-OFF / RESTRUCTURING",
