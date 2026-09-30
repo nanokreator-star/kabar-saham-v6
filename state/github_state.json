@@ -2,15 +2,15 @@
   "baseline_initialized": true,
   "early_signal_alerts_sent": 22,
   "early_signal_baseline_initialized": true,
-  "early_signal_duplicates_suppressed": 734,
-  "early_signal_last_scan_utc": "2026-09-30T15:20:50.563495+00:00",
+  "early_signal_duplicates_suppressed": 735,
+  "early_signal_last_scan_utc": "2026-09-30T15:30:55.602771+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
       "combined": true,
       "direction": "DOWN",
       "last_alert_utc": "2026-09-30T09:10:52.643951+00:00",
-      "last_seen_utc": "2026-09-30T15:20:50.563485+00:00",
+      "last_seen_utc": "2026-09-30T15:30:55.602761+00:00",
       "level": "MEDIUM",
       "market_date": "2026-09-30",
       "signature": "BBCA|2026-09-30|MEDIUM|DOWN|RUMOR|AKUISISI / TAKEOVER|TICKER|BBCA",
@@ -8582,7 +8582,7 @@
     }
   },
   "last_keepalive_utc": "2026-09-25T10:31:06.793440+00:00",
-  "last_state_change_utc": "2026-09-30T15:20:50.612506+00:00",
+  "last_state_change_utc": "2026-09-30T15:30:55.650915+00:00",
   "market_noise_suppressed": 5,
   "milestone_alerts": {},
   "rumor_alerts_sent": 111,
@@ -8590,11 +8590,11 @@
   "rumor_confirmed_count": 44,
   "rumor_confirmed_dedups": 0,
   "rumor_denied_count": 0,
-  "rumor_duplicates_suppressed": 685,
+  "rumor_duplicates_suppressed": 686,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 19,
-  "rumor_integrity_repairs": 1694,
-  "rumor_last_scan_utc": "2026-09-30T15:20:50.119087+00:00",
+  "rumor_integrity_repairs": 1695,
+  "rumor_last_scan_utc": "2026-09-30T15:30:54.948080+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -8664,15 +8664,15 @@
         "underwriter": null
       },
       "semantic_copy_count": 0,
-      "source": "bursanusantara.com",
+      "source": "Bursa Nusantara",
       "source_breakdown": [
         {
           "derivative": false,
-          "group": "bursanusantara.com",
+          "group": "bursa nusantara",
           "new_material": 0,
           "quality": "LOW",
           "semantic_copy": false,
-          "source": "bursanusantara.com",
+          "source": "Bursa Nusantara",
           "tier": 1,
           "weight": 0.35
         }
@@ -8681,13 +8681,13 @@
       "source_quality": "LOW",
       "source_quality_score": 0.3,
       "sources": [
-        "bursanusantara.com",
-        "Bursa Nusantara"
+        "Bursa Nusantara",
+        "bursanusantara.com"
       ],
       "status": "ACTIVE",
       "strength": "WEAK",
       "ticker": "BBCA",
-      "title": "Isu Akuisisi Saham BBCA Dibantah, Ini Sikap Manajemen - bursanusantara.com"
+      "title": "Isu Akuisisi Saham BBCA Dibantah, Ini Sikap Manajemen - Bursa Nusantara"
     },
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
