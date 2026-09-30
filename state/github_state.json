@@ -2,15 +2,15 @@
   "baseline_initialized": true,
   "early_signal_alerts_sent": 24,
   "early_signal_baseline_initialized": true,
-  "early_signal_duplicates_suppressed": 774,
-  "early_signal_last_scan_utc": "2026-09-30T22:30:53.401977+00:00",
+  "early_signal_duplicates_suppressed": 775,
+  "early_signal_last_scan_utc": "2026-09-30T22:40:54.960689+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
       "combined": true,
       "direction": "DOWN",
       "last_alert_utc": "2026-09-30T18:40:49.887779+00:00",
-      "last_seen_utc": "2026-09-30T22:30:53.401966+00:00",
+      "last_seen_utc": "2026-09-30T22:40:54.960675+00:00",
       "level": "MEDIUM",
       "market_date": "2026-09-30",
       "signature": "BBCA|2026-09-30|MEDIUM|DOWN|RUMOR|AKUISISI / TAKEOVER|TICKER|BBCA",
@@ -7296,6 +7296,26 @@
       "verified_at": "2026-09-07T15:01:17.610896+00:00",
       "website": "https://www.arkora-hydro.com"
     },
+    "ASDP": {
+      "business_activity": null,
+      "controller": null,
+      "industry": null,
+      "issuer_name": "ASDP",
+      "owner_context_sources": 0,
+      "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
+      "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
+      "owner_v6_checked_utc": "2026-09-30T22:40:47.558284+00:00",
+      "owner_v6_pages_fetched": 0,
+      "profile_source": "Yahoo Finance",
+      "profile_source_quality": "FALLBACK",
+      "profile_source_url": null,
+      "sector": null,
+      "subindustry": null,
+      "subsector": null,
+      "ticker": "ASDP",
+      "verified_at": "2026-09-30T22:40:52.739580+00:00",
+      "website": null
+    },
     "ASII": {
       "business_activity": "PT Astra International Tbk, together with its subsidiaries, operates in the automotive, financial services, heavy equipment, mining, construction, energy, agri, infrastructure and logistics, information technology, and property businesses i",
       "controller": null,
@@ -8582,19 +8602,19 @@
     }
   },
   "last_keepalive_utc": "2026-09-25T10:31:06.793440+00:00",
-  "last_state_change_utc": "2026-09-30T22:30:53.435700+00:00",
+  "last_state_change_utc": "2026-09-30T22:40:55.010239+00:00",
   "market_noise_suppressed": 5,
   "milestone_alerts": {},
-  "rumor_alerts_sent": 111,
+  "rumor_alerts_sent": 112,
   "rumor_baseline_initialized": true,
   "rumor_confirmed_count": 44,
   "rumor_confirmed_dedups": 0,
   "rumor_denied_count": 0,
-  "rumor_duplicates_suppressed": 692,
+  "rumor_duplicates_suppressed": 693,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 19,
-  "rumor_integrity_repairs": 1729,
-  "rumor_last_scan_utc": "2026-09-30T22:30:52.832297+00:00",
+  "rumor_integrity_repairs": 1730,
+  "rumor_last_scan_utc": "2026-09-30T22:40:54.777564+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -9710,6 +9730,83 @@
       "ticker": null,
       "title": "keterbukaan informasi transaksi pelepasan ekuitas atau divestasi kepemilikan saham entitas - PT Bursa Efek Indonesia"
     },
+    "MERGER|TICKER|ASDP": {
+      "category": "MERGER",
+      "company_name": "ASDP",
+      "copy_duplicate_count": 0,
+      "credible_effective_independent_count": 1.0,
+      "derivative_source_count": 0,
+      "detected_source_count": 1,
+      "effective_independent_count": 1.0,
+      "entity_aliases": [],
+      "entity_resolution_source": null,
+      "first_seen_utc": "2026-09-30T19:30:00+00:00",
+      "high_quality_source_count": 1,
+      "independent_story_count": 1,
+      "issuer_profile": {
+        "business_activity": null,
+        "controller": null,
+        "industry": null,
+        "issuer_name": "ASDP",
+        "owner_context_sources": 0,
+        "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
+        "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
+        "owner_v6_checked_utc": "2026-09-30T22:40:47.558284+00:00",
+        "owner_v6_pages_fetched": 0,
+        "profile_source": "Yahoo Finance",
+        "profile_source_quality": "FALLBACK",
+        "profile_source_url": null,
+        "sector": null,
+        "subindustry": null,
+        "subsector": null,
+        "ticker": "ASDP",
+        "verified_at": "2026-09-30T22:40:52.739580+00:00",
+        "website": null
+      },
+      "key": "MERGER|TICKER|ASDP",
+      "last_alert_utc": "2026-09-30T22:40:54.775504+00:00",
+      "last_seen_utc": "2026-09-30T19:30:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNkRIdkpfTFpsWl9KS3Q2X2FFbk4yR1VHa1V6d3RFd0VCSERtaFNGTndJLXFKc3ZBMy1XRGF5eDVaR1p6S3hxSWtfT2hkVlJrTURpdGRaN1hDNDVVRG1sOERRbzM3RERNYjVxWGhVT2Y2TXBLT3Q0c043Z2laMUJlbC1aSDU2VkNhR1locTY5NVBpRlF0VV9TQkNEdV9pUTlPdTd2NktMN2ZXVEFzMmw0?oc=5",
+      "market_data": null,
+      "official_confirmation": null,
+      "premium_source_count": 1,
+      "profile_refresh_utc": "2026-09-30T22:40:49.738208+00:00",
+      "published": "Wed, 30 Sep 2026 19:30:00 GMT",
+      "rumor_details": {
+        "ipo_price": null,
+        "listing_estimate": null,
+        "money": [],
+        "percentages": [],
+        "price_range": null,
+        "rumored_party": null,
+        "share_count": null,
+        "underwriter": null
+      },
+      "semantic_copy_count": 0,
+      "source": "Bisnis.com - Ekonomi",
+      "source_breakdown": [
+        {
+          "derivative": false,
+          "group": "bisnis.com",
+          "new_material": 0,
+          "quality": "HIGH",
+          "semantic_copy": false,
+          "source": "Bisnis.com - Ekonomi",
+          "tier": 4,
+          "weight": 1.0
+        }
+      ],
+      "source_count": 1,
+      "source_quality": "MEDIUM",
+      "source_quality_score": 4.0,
+      "sources": [
+        "Bisnis.com - Ekonomi"
+      ],
+      "status": "ACTIVE",
+      "strength": "WEAK",
+      "ticker": "ASDP",
+      "title": "Bos Danantara Buka Suara soal Wacana Merger ASDP dan Pelni - Bisnis.com - Ekonomi"
+    },
     "MERGER|TICKER|PDSI": {
       "category": "MERGER",
       "company_name": "PDSI",
@@ -10147,7 +10244,7 @@
         "underwriter": null
       },
       "semantic_copy_count": 0,
-      "source": "Emitennews.com",
+      "source": "emitennews.com",
       "source_breakdown": [
         {
           "derivative": false,
@@ -10155,7 +10252,7 @@
           "new_material": 0,
           "quality": "MEDIUM",
           "semantic_copy": false,
-          "source": "Emitennews.com",
+          "source": "emitennews.com",
           "tier": 3,
           "weight": 0.8
         }
@@ -10164,16 +10261,16 @@
       "source_quality": "LOW",
       "source_quality_score": 2.0,
       "sources": [
-        "Emitennews.com"
+        "emitennews.com"
       ],
       "status": "ACTIVE",
       "strength": "WEAK",
       "ticker": "EPAC",
-      "title": "Emiten Gocap (EPAC) Wacanakan Buyback & Rights Issue Jelang Aturan Rp1 - Emitennews.com"
+      "title": "Emiten Gocap (EPAC) Wacanakan Buyback & Rights Issue Jelang Aturan Rp1 - emitennews.com"
     },
     "SPIN-OFF / RESTRUCTURING|TICKER|TAMU": {
       "category": "SPIN-OFF / RESTRUCTURING",
-      "company_name": "PT Pelayaran Tamarin Samudra Tbk. TAMU 1 Restrukturisasi utang",
+      "company_name": "Pelayaran Tamarin Samudra",
       "copy_duplicate_count": 0,
       "credible_effective_independent_count": 1.1,
       "derivative_source_count": 0,
