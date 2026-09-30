@@ -2,15 +2,15 @@
   "baseline_initialized": true,
   "early_signal_alerts_sent": 23,
   "early_signal_baseline_initialized": true,
-  "early_signal_duplicates_suppressed": 745,
-  "early_signal_last_scan_utc": "2026-09-30T17:30:58.073892+00:00",
+  "early_signal_duplicates_suppressed": 746,
+  "early_signal_last_scan_utc": "2026-09-30T17:40:51.230121+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.2,
       "combined": true,
       "direction": "DOWN",
       "last_alert_utc": "2026-09-30T17:10:52.733199+00:00",
-      "last_seen_utc": "2026-09-30T17:30:58.073883+00:00",
+      "last_seen_utc": "2026-09-30T17:40:51.230112+00:00",
       "level": "MEDIUM",
       "market_date": "2026-09-29",
       "signature": "BBCA|2026-09-29|MEDIUM|DOWN|RUMOR|AKUISISI / TAKEOVER|TICKER|BBCA",
@@ -8582,7 +8582,7 @@
     }
   },
   "last_keepalive_utc": "2026-09-25T10:31:06.793440+00:00",
-  "last_state_change_utc": "2026-09-30T17:30:58.111492+00:00",
+  "last_state_change_utc": "2026-09-30T17:40:51.267716+00:00",
   "market_noise_suppressed": 5,
   "milestone_alerts": {},
   "rumor_alerts_sent": 111,
@@ -8593,8 +8593,8 @@
   "rumor_duplicates_suppressed": 686,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 19,
-  "rumor_integrity_repairs": 1705,
-  "rumor_last_scan_utc": "2026-09-30T17:30:57.679302+00:00",
+  "rumor_integrity_repairs": 1706,
+  "rumor_last_scan_utc": "2026-09-30T17:40:50.668796+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -9652,6 +9652,63 @@
       "strength": "CONFIRMED OFFICIAL",
       "ticker": "SINI",
       "title": "Nomor Surat Nama Perusahaan Kode Emiten Lampiran Perihal 05/SP/IX/2026 PT Singaraja Putra Tbk. SINI 1 Pelaksanaan Divestasi Saham PT Interkayu Nusantara oleh Perseroan. - PT Bursa Efek Indonesia"
+    },
+    "DIVESTASI|TITLE|KETERBUKAAN INFORMASI TRANSAKSI PELEPASAN EKUITAS ATAU DIVESTASI": {
+      "category": "DIVESTASI",
+      "company_name": "PT Bur",
+      "copy_duplicate_count": 0,
+      "credible_effective_independent_count": 1.1,
+      "derivative_source_count": 0,
+      "detected_source_count": 1,
+      "effective_independent_count": 1.1,
+      "entity_aliases": [],
+      "entity_resolution_source": null,
+      "first_seen_utc": "2026-09-28T07:00:00+00:00",
+      "high_quality_source_count": 1,
+      "independent_story_count": 1,
+      "issuer_profile": null,
+      "key": "DIVESTASI|TITLE|KETERBUKAAN INFORMASI TRANSAKSI PELEPASAN EKUITAS ATAU DIVESTASI",
+      "last_seen_utc": "2026-09-28T07:00:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPM2Q1V09ZM1ZZLTN5TktSVldrbUJzeTZlSWlzazAtaFktaHhJZUxqZGNRUEtjWUsxYjBJWVVfV2U2NjhIN0s3RWdaeUN0dWNiOF9WMEdRdTFxdFFReWtuT21aaE1hZkZBbVNFcmhWNDNOMUZ4X1BEREw5TXhwTlNybjJCdEU1YWlEa01yN3JCbG01RTh6UzJ4YldWT1pIekEwU3o1aFpaYnVPVnp1N1RXMWltSQ?oc=5",
+      "market_data": null,
+      "official_confirmation": null,
+      "premium_source_count": 1,
+      "profile_refresh_utc": null,
+      "published": "Mon, 28 Sep 2026 07:00:00 GMT",
+      "rumor_details": {
+        "ipo_price": null,
+        "listing_estimate": null,
+        "money": [],
+        "percentages": [],
+        "price_range": null,
+        "rumored_party": null,
+        "share_count": null,
+        "underwriter": null
+      },
+      "semantic_copy_count": 0,
+      "source": "PT Bursa Efek Indonesia",
+      "source_breakdown": [
+        {
+          "derivative": false,
+          "group": "pt bursa efek indonesia",
+          "new_material": 0,
+          "quality": "OFFICIAL",
+          "semantic_copy": false,
+          "source": "PT Bursa Efek Indonesia",
+          "tier": 5,
+          "weight": 1.1
+        }
+      ],
+      "source_count": 1,
+      "source_quality": "MEDIUM",
+      "source_quality_score": 5.5,
+      "sources": [
+        "PT Bursa Efek Indonesia"
+      ],
+      "status": "CONFIRMED OFFICIAL",
+      "strength": "CONFIRMED OFFICIAL",
+      "ticker": null,
+      "title": "keterbukaan informasi transaksi pelepasan ekuitas atau divestasi kepemilikan saham entitas - PT Bursa Efek Indonesia"
     },
     "IPO|COMPANY|PLATFORM INVESTASI AJAIB DAPAT SUNTIKAN RP 4 8 TRILIUN APAKAH": {
       "category": "IPO",
