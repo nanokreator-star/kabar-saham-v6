@@ -2,15 +2,15 @@
   "baseline_initialized": true,
   "early_signal_alerts_sent": 22,
   "early_signal_baseline_initialized": true,
-  "early_signal_duplicates_suppressed": 722,
-  "early_signal_last_scan_utc": "2026-09-30T13:20:47.248806+00:00",
+  "early_signal_duplicates_suppressed": 723,
+  "early_signal_last_scan_utc": "2026-09-30T13:31:23.725246+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
       "combined": true,
       "direction": "DOWN",
       "last_alert_utc": "2026-09-30T09:10:52.643951+00:00",
-      "last_seen_utc": "2026-09-30T13:20:47.248793+00:00",
+      "last_seen_utc": "2026-09-30T13:31:23.725236+00:00",
       "level": "MEDIUM",
       "market_date": "2026-09-30",
       "signature": "BBCA|2026-09-30|MEDIUM|DOWN|RUMOR|AKUISISI / TAKEOVER|TICKER|BBCA",
@@ -7691,7 +7691,7 @@
       "owner_context_sources": 0,
       "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
       "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-      "owner_v6_checked_utc": "2026-09-30T01:20:50.892151+00:00",
+      "owner_v6_checked_utc": "2026-09-30T13:31:08.035003+00:00",
       "owner_v6_pages_fetched": 0,
       "profile_source": "Yahoo Finance",
       "profile_source_quality": "FALLBACK",
@@ -7700,7 +7700,7 @@
       "subindustry": null,
       "subsector": null,
       "ticker": "EPAC",
-      "verified_at": "2026-09-30T01:20:51.625530+00:00",
+      "verified_at": "2026-09-30T13:31:09.038049+00:00",
       "website": "https://www.epack.co.id"
     },
     "FAPA": {
@@ -8582,7 +8582,7 @@
     }
   },
   "last_keepalive_utc": "2026-09-25T10:31:06.793440+00:00",
-  "last_state_change_utc": "2026-09-30T13:20:47.277042+00:00",
+  "last_state_change_utc": "2026-09-30T13:31:23.774511+00:00",
   "market_noise_suppressed": 5,
   "milestone_alerts": {},
   "rumor_alerts_sent": 111,
@@ -8593,8 +8593,8 @@
   "rumor_duplicates_suppressed": 684,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 19,
-  "rumor_integrity_repairs": 1683,
-  "rumor_last_scan_utc": "2026-09-30T13:20:46.628892+00:00",
+  "rumor_integrity_repairs": 1684,
+  "rumor_last_scan_utc": "2026-09-30T13:31:23.545636+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -10116,7 +10116,7 @@
         "owner_context_sources": 0,
         "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
         "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-        "owner_v6_checked_utc": "2026-09-30T01:20:50.892151+00:00",
+        "owner_v6_checked_utc": "2026-09-30T13:31:08.035003+00:00",
         "owner_v6_pages_fetched": 0,
         "profile_source": "Yahoo Finance",
         "profile_source_quality": "FALLBACK",
@@ -10125,7 +10125,7 @@
         "subindustry": null,
         "subsector": null,
         "ticker": "EPAC",
-        "verified_at": "2026-09-30T01:20:51.625530+00:00",
+        "verified_at": "2026-09-30T13:31:09.038049+00:00",
         "website": "https://www.epack.co.id"
       },
       "key": "RIGHTS ISSUE|TICKER|EPAC",
@@ -10148,7 +10148,7 @@
       },
       "official_confirmation": null,
       "premium_source_count": 0,
-      "profile_refresh_utc": "2026-09-30T01:21:01.904554+00:00",
+      "profile_refresh_utc": "2026-09-30T13:31:23.543837+00:00",
       "published": "Sun, 27 Sep 2026 08:43:00 GMT",
       "rumor_details": {
         "ipo_price": null,
