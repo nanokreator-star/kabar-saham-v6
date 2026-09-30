@@ -2,15 +2,15 @@
   "baseline_initialized": true,
   "early_signal_alerts_sent": 22,
   "early_signal_baseline_initialized": true,
-  "early_signal_duplicates_suppressed": 709,
-  "early_signal_last_scan_utc": "2026-09-30T11:10:50.652515+00:00",
+  "early_signal_duplicates_suppressed": 710,
+  "early_signal_last_scan_utc": "2026-09-30T11:21:26.215438+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
       "combined": true,
       "direction": "DOWN",
       "last_alert_utc": "2026-09-30T09:10:52.643951+00:00",
-      "last_seen_utc": "2026-09-30T11:10:50.652503+00:00",
+      "last_seen_utc": "2026-09-30T11:21:26.215429+00:00",
       "level": "MEDIUM",
       "market_date": "2026-09-30",
       "signature": "BBCA|2026-09-30|MEDIUM|DOWN|RUMOR|AKUISISI / TAKEOVER|TICKER|BBCA",
@@ -50,7 +50,7 @@
       "volume_ratio": 0.03
     }
   },
-  "event_duplicates_suppressed": 46,
+  "event_duplicates_suppressed": 47,
   "event_memory": {
     "IPO|TICKER|SWAP": {
       "family": "IPO",
@@ -7200,7 +7200,7 @@
       "family": "RIGHTS ISSUE",
       "first_seen_utc": "2026-09-30T11:11:06.442605+00:00",
       "last_alert_utc": "2026-09-30T11:11:06.442600+00:00",
-      "last_seen_utc": "2026-09-30T11:11:06.442600+00:00",
+      "last_seen_utc": "2026-09-30T11:21:40.393101+00:00",
       "market_context": {
         "change_pct": -4.8193,
         "last_price": 790.0,
@@ -8582,7 +8582,7 @@
     }
   },
   "last_keepalive_utc": "2026-09-25T10:31:06.793440+00:00",
-  "last_state_change_utc": "2026-09-30T11:11:06.444677+00:00",
+  "last_state_change_utc": "2026-09-30T11:21:40.395103+00:00",
   "market_noise_suppressed": 5,
   "milestone_alerts": {},
   "rumor_alerts_sent": 111,
@@ -8593,8 +8593,8 @@
   "rumor_duplicates_suppressed": 682,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 19,
-  "rumor_integrity_repairs": 1670,
-  "rumor_last_scan_utc": "2026-09-30T11:10:50.298998+00:00",
+  "rumor_integrity_repairs": 1671,
+  "rumor_last_scan_utc": "2026-09-30T11:21:25.036519+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -10461,6 +10461,7 @@
     "21d7a129fa1053cb02a82727ee86a0da13ebb702eb7fc4b0f2ed2b7a9649fc58": "2026-09-25T16:20:50.588575+00:00",
     "21f05a8ae55d91ed26906e87c9183cef8c22069e71b45e59f87f9352f12db54a": "2026-09-19T07:31:15.920350+00:00",
     "227886cc07bab0f58145bba9b78623dc7b4178bfc7164e301676060caaeda962": "2026-08-14T10:15:00.868800+00:00",
+    "23009cecac49a7bdb0c49820a59b69c655a8feca6af91712bf1db5e9b9622bfd": "2026-09-30T11:21:40.393091+00:00",
     "23631988368f35d98ff769a9badb44701656daefbb89abe01028a0ed3998262f": "2026-09-23T04:30:51.459933+00:00",
     "23fa35aa38f62afefc77fe3fa2c34f86bb8a4acd22de199c0ad1aeb46fbaa0e1": "2026-08-24T09:21:00.218640+00:00",
     "24c3f86abf09c13899d6aa5e0c7ff1240908e4d8e2f0f5f1b0e0d6eabd465eeb": "2026-08-20T11:56:54.702749+00:00",
