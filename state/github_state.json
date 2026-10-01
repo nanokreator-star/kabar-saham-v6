@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 24,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 795,
-  "early_signal_last_scan_utc": "2026-10-01T16:20:50.103486+00:00",
+  "early_signal_last_scan_utc": "2026-10-01T16:31:15.070782+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -50,7 +50,7 @@
       "volume_ratio": 0.03
     }
   },
-  "event_duplicates_suppressed": 51,
+  "event_duplicates_suppressed": 52,
   "event_memory": {
     "IPO|TICKER|SWAP": {
       "family": "IPO",
@@ -1432,7 +1432,7 @@
       "family": "M&A / TAKEOVER",
       "first_seen_utc": "2026-10-01T16:11:00.916745+00:00",
       "last_alert_utc": "2026-10-01T16:11:00.916739+00:00",
-      "last_seen_utc": "2026-10-01T16:11:00.916739+00:00",
+      "last_seen_utc": "2026-10-01T16:31:16.621228+00:00",
       "market_context": {
         "change_pct": null,
         "last_price": null,
@@ -8815,7 +8815,7 @@
     }
   },
   "last_keepalive_utc": "2026-09-25T10:31:06.793440+00:00",
-  "last_state_change_utc": "2026-10-01T16:20:50.157442+00:00",
+  "last_state_change_utc": "2026-10-01T16:31:16.623262+00:00",
   "market_noise_suppressed": 5,
   "milestone_alerts": {},
   "rumor_alerts_sent": 115,
@@ -8826,8 +8826,8 @@
   "rumor_duplicates_suppressed": 710,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 19,
-  "rumor_integrity_repairs": 1813,
-  "rumor_last_scan_utc": "2026-10-01T16:20:49.261867+00:00",
+  "rumor_integrity_repairs": 1814,
+  "rumor_last_scan_utc": "2026-10-01T16:31:14.131638+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -8911,11 +8911,11 @@
         },
         {
           "derivative": true,
-          "group": "bursanusantara.com",
+          "group": "bursa nusantara",
           "new_material": 0,
           "quality": "LOW",
           "semantic_copy": false,
-          "source": "bursanusantara.com",
+          "source": "Bursa Nusantara",
           "tier": 1,
           "weight": 0.25
         }
@@ -8925,8 +8925,8 @@
       "source_quality_score": 4.2,
       "sources": [
         "kontan.co.id",
-        "bursanusantara.com",
         "Bursa Nusantara",
+        "bursanusantara.com",
         "investasi.kontan.co.id"
       ],
       "status": "ACTIVE",
@@ -10758,6 +10758,7 @@
     "940457e27405536f1f026a4d193e9c0bd18836110d14cace87b6ddfb6c446e70": "2026-08-14T10:15:00.868800+00:00",
     "948783525b501fe439a445b4a38a970df288b4801e1ee21ee4bb6c956a3f4c3d": "2026-09-18T11:31:09.317756+00:00",
     "94bc6e6bbd238ac06f6779792057b60602901a6ac2da82ca30620c44ed59c65b": "2026-08-14T10:15:00.868800+00:00",
+    "96a520e53f7155a3f8e60e112b5f1bf8ac54101b0125add0d1b18b0d9d4a8652": "2026-10-01T16:31:16.621213+00:00",
     "974d92ee48b538a04596bb5c980fc09f5cd66608d901837616c28100f1b66ca5": "2026-09-15T04:11:16.787656+00:00",
     "97cca75fe23ae26fe2c41baf6f3fdf2f7b6c66b3f1b81d118e61f19471b91ab2": "2026-08-14T10:15:00.868800+00:00",
     "99043a2b0ab24c3479def238819a5cea3085b4b90ab75eb93d29577cf3a808c4": "2026-08-14T10:15:00.868800+00:00",
