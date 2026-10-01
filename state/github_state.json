@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 24,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 795,
-  "early_signal_last_scan_utc": "2026-10-01T02:31:58.539462+00:00",
+  "early_signal_last_scan_utc": "2026-10-01T03:01:14.748376+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -7400,7 +7400,7 @@
       "owner_context_sources": 0,
       "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
       "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-      "owner_v6_checked_utc": "2026-09-30T14:41:06.287977+00:00",
+      "owner_v6_checked_utc": "2026-10-01T03:01:04.752438+00:00",
       "owner_v6_pages_fetched": 0,
       "profile_source": "Yahoo Finance",
       "profile_source_quality": "FALLBACK",
@@ -7409,7 +7409,7 @@
       "subindustry": null,
       "subsector": null,
       "ticker": "BBCA",
-      "verified_at": "2026-09-30T14:41:07.005653+00:00",
+      "verified_at": "2026-10-01T03:01:05.526980+00:00",
       "website": "https://www.bca.co.id"
     },
     "BBHI": {
@@ -8638,7 +8638,7 @@
     }
   },
   "last_keepalive_utc": "2026-09-25T10:31:06.793440+00:00",
-  "last_state_change_utc": "2026-10-01T02:31:58.541451+00:00",
+  "last_state_change_utc": "2026-10-01T03:01:14.796922+00:00",
   "market_noise_suppressed": 5,
   "milestone_alerts": {},
   "rumor_alerts_sent": 112,
@@ -8650,7 +8650,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 19,
   "rumor_integrity_repairs": 1751,
-  "rumor_last_scan_utc": "2026-10-01T02:31:57.602538+00:00",
+  "rumor_last_scan_utc": "2026-10-01T03:01:14.068851+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -8675,7 +8675,7 @@
         "owner_context_sources": 0,
         "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
         "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-        "owner_v6_checked_utc": "2026-09-30T14:41:06.287977+00:00",
+        "owner_v6_checked_utc": "2026-10-01T03:01:04.752438+00:00",
         "owner_v6_pages_fetched": 0,
         "profile_source": "Yahoo Finance",
         "profile_source_quality": "FALLBACK",
@@ -8684,7 +8684,7 @@
         "subindustry": null,
         "subsector": null,
         "ticker": "BBCA",
-        "verified_at": "2026-09-30T14:41:07.005653+00:00",
+        "verified_at": "2026-10-01T03:01:05.526980+00:00",
         "website": "https://www.bca.co.id"
       },
       "key": "AKUISISI / TAKEOVER|TICKER|BBCA",
@@ -8707,7 +8707,7 @@
       },
       "official_confirmation": null,
       "premium_source_count": 0,
-      "profile_refresh_utc": "2026-09-30T14:41:17.428924+00:00",
+      "profile_refresh_utc": "2026-10-01T03:01:14.066406+00:00",
       "published": "Tue, 29 Sep 2026 22:30:00 GMT",
       "rumor_details": {
         "ipo_price": null,
@@ -10307,7 +10307,7 @@
     },
     "SPIN-OFF / RESTRUCTURING|TICKER|TAMU": {
       "category": "SPIN-OFF / RESTRUCTURING",
-      "company_name": "Pelayaran Tamarin Samudra",
+      "company_name": "PT Pelayaran Tamarin Samudra Tbk. TAMU 1 Restrukturisasi utang",
       "copy_duplicate_count": 0,
       "credible_effective_independent_count": 1.1,
       "derivative_source_count": 0,
