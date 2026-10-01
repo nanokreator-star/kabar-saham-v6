@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 24,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 795,
-  "early_signal_last_scan_utc": "2026-10-01T08:21:05.507360+00:00",
+  "early_signal_last_scan_utc": "2026-10-01T10:11:09.306520+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -7910,7 +7910,7 @@
       "owner_context_sources": 0,
       "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
       "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-      "owner_v6_checked_utc": "2026-09-28T22:50:57.152443+00:00",
+      "owner_v6_checked_utc": "2026-10-01T10:10:51.958323+00:00",
       "owner_v6_pages_fetched": 0,
       "profile_source": "Yahoo Finance",
       "profile_source_quality": "FALLBACK",
@@ -7919,7 +7919,7 @@
       "subindustry": null,
       "subsector": null,
       "ticker": "HAJI",
-      "verified_at": "2026-09-28T22:51:15.538412+00:00",
+      "verified_at": "2026-10-01T10:10:53.535314+00:00",
       "website": null
     },
     "IBST": {
@@ -8741,7 +8741,7 @@
     }
   },
   "last_keepalive_utc": "2026-09-25T10:31:06.793440+00:00",
-  "last_state_change_utc": "2026-10-01T08:21:05.561037+00:00",
+  "last_state_change_utc": "2026-10-01T10:11:09.346743+00:00",
   "market_noise_suppressed": 5,
   "milestone_alerts": {},
   "rumor_alerts_sent": 115,
@@ -8753,7 +8753,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 19,
   "rumor_integrity_repairs": 1779,
-  "rumor_last_scan_utc": "2026-10-01T08:21:04.688603+00:00",
+  "rumor_last_scan_utc": "2026-10-01T10:11:08.150789+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -9059,7 +9059,7 @@
         "owner_context_sources": 0,
         "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
         "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-        "owner_v6_checked_utc": "2026-09-28T22:50:57.152443+00:00",
+        "owner_v6_checked_utc": "2026-10-01T10:10:51.958323+00:00",
         "owner_v6_pages_fetched": 0,
         "profile_source": "Yahoo Finance",
         "profile_source_quality": "FALLBACK",
@@ -9068,7 +9068,7 @@
         "subindustry": null,
         "subsector": null,
         "ticker": "HAJI",
-        "verified_at": "2026-09-28T22:51:15.538412+00:00",
+        "verified_at": "2026-10-01T10:10:53.535314+00:00",
         "website": null
       },
       "key": "AKUISISI / TAKEOVER|TICKER|HAJI",
@@ -9078,7 +9078,7 @@
       "market_data": null,
       "official_confirmation": null,
       "premium_source_count": 0,
-      "profile_refresh_utc": "2026-09-28T22:51:09.793034+00:00",
+      "profile_refresh_utc": "2026-10-01T10:11:08.148188+00:00",
       "published": "Mon, 28 Sep 2026 06:18:00 GMT",
       "rumor_details": {
         "ipo_price": null,
@@ -10260,7 +10260,7 @@
     },
     "SPIN-OFF / RESTRUCTURING|TICKER|TAMU": {
       "category": "SPIN-OFF / RESTRUCTURING",
-      "company_name": "Pelayaran Tamarin Samudra",
+      "company_name": "PT Pelayaran Tamarin Samudra Tbk. TAMU 1 Restrukturisasi utang",
       "copy_duplicate_count": 0,
       "credible_effective_independent_count": 1.1,
       "derivative_source_count": 0,
