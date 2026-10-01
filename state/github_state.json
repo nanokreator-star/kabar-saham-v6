@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 24,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 795,
-  "early_signal_last_scan_utc": "2026-10-01T04:01:19.259904+00:00",
+  "early_signal_last_scan_utc": "2026-10-01T04:10:49.213125+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -8674,7 +8674,7 @@
     }
   },
   "last_keepalive_utc": "2026-09-25T10:31:06.793440+00:00",
-  "last_state_change_utc": "2026-10-01T04:01:19.305403+00:00",
+  "last_state_change_utc": "2026-10-01T04:10:49.262627+00:00",
   "market_noise_suppressed": 5,
   "milestone_alerts": {},
   "rumor_alerts_sent": 114,
@@ -8685,8 +8685,8 @@
   "rumor_duplicates_suppressed": 701,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 19,
-  "rumor_integrity_repairs": 1757,
-  "rumor_last_scan_utc": "2026-10-01T04:01:18.725302+00:00",
+  "rumor_integrity_repairs": 1758,
+  "rumor_last_scan_utc": "2026-10-01T04:10:48.398218+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -8726,7 +8726,7 @@
       "key": "AKUISISI / TAKEOVER|TICKER|BBCA",
       "last_alert_utc": "2026-10-01T04:01:18.723742+00:00",
       "last_seen_utc": "2026-10-01T00:53:20+00:00",
-      "link": "https://investasi.kontan.co.id/news/sempat-terjadi-crossing-114-juta-saham-bbca-benarkah-terkait-isu-akuisisi",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPb003ZEQxcGFBS0wyU1g2WFVRYlZhZzFLX3ltcUI0VE40UmlDMFVpXzdWeUpGeVBMM2ZhWWR3ZDBRaWFNdndtSVdRTk9pX09odjlfZGFCOFBla1B2eTNtTXZ0dVZwelM0RjhQcFIyb05sM0lMMmRLbm91eklzd1E0ZGdMczZWb3BFSjVjRmVwLU9ERUI1NFVPYmRWSF9HZ01iQklfZ3lUQkVyY1kxX1HSAaYBQVVfeXFMT0xyTlE1MzlvQUp4aktVMlRHZmp0SDltT21LcFM0bmxwTUJ6cUNPYnZaa2Y5aTJPVnpQUFM4QUNmRG13NXl5MjNSOGlKRG53MnVmZ0c2UHZrUjlNWFl6X3NoNl9SSkdpZnhLOG1ZczBQU0pSVDhkeXBzVmR1by1oSFBvU0RZMXh1STU5RkxSZ2dUbkhpX3lZY1h4WTFYM0pLX2tFV0tkUQ?oc=5",
       "market_data": {
         "change_pct": 0.411522633744856,
         "fetched_at": "2026-10-01T04:01:18.137209+00:00",
@@ -8760,7 +8760,7 @@
       "source_breakdown": [
         {
           "derivative": false,
-          "group": "investasi.kontan.co.id",
+          "group": "kontan.co.id",
           "new_material": 1,
           "quality": "HIGH",
           "semantic_copy": false,
@@ -8783,8 +8783,8 @@
       "source_quality": "MEDIUM",
       "source_quality_score": 4.2,
       "sources": [
-        "Bursa Nusantara",
         "kontan.co.id",
+        "Bursa Nusantara",
         "bursanusantara.com"
       ],
       "status": "ACTIVE",
