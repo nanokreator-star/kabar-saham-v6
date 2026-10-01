@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 24,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 795,
-  "early_signal_last_scan_utc": "2026-10-01T05:00:57.071922+00:00",
+  "early_signal_last_scan_utc": "2026-10-01T05:11:24.947482+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -5621,8 +5621,8 @@
     "RIGHTS ISSUE|TITLE|BSI RENCANAKAN TERBITKAN KOMMA MILIAR BARU SUARAGARUT": {
       "family": "RIGHTS ISSUE",
       "first_seen_utc": "2026-09-30T06:31:11.701334+00:00",
-      "last_alert_utc": "2026-09-30T06:31:11.701328+00:00",
-      "last_seen_utc": "2026-09-30T06:31:11.701328+00:00",
+      "last_alert_utc": "2026-10-01T05:11:33.747633+00:00",
+      "last_seen_utc": "2026-10-01T05:11:33.747633+00:00",
       "market_context": {
         "change_pct": null,
         "last_price": null,
@@ -5635,7 +5635,6 @@
         "execution_price": null,
         "ipo_single_price": null,
         "money": [
-          "Rp3,4 triliun",
           "Rp51,07 triliun",
           "Rp64,41 triliun"
         ],
@@ -5645,13 +5644,16 @@
         "ratio": null,
         "schedule": {},
         "share_count": "8 Miliar saham",
-        "stage": "EFEKTIF",
-        "stage_step": 4,
+        "stage": "PERDAGANGAN HMETD",
+        "stage_step": 5,
         "stage_total": 6,
         "stake": [
           20.38,
           23.31,
-          12.85
+          12.85,
+          88.4,
+          2.8,
+          16.0
         ],
         "standby_buyer": null,
         "target": null,
@@ -5662,7 +5664,7 @@
           "EKSPANSI / CAPEX"
         ]
       },
-      "ticker": ""
+      "ticker": "KBMI"
     },
     "RIGHTS ISSUE|TITLE|BSI RENCANAKAN TERBITKAN MILIAR BARU SUARAGARUT ID": {
       "family": "RIGHTS ISSUE",
@@ -8088,6 +8090,26 @@
       "verified_at": "2026-08-24T21:51:01.139179+00:00",
       "website": "https://www.jungleseries.co.id"
     },
+    "KBMI": {
+      "business_activity": null,
+      "controller": null,
+      "industry": null,
+      "issuer_name": null,
+      "owner_context_sources": 0,
+      "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
+      "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
+      "owner_v6_checked_utc": "2026-10-01T05:11:33.251187+00:00",
+      "owner_v6_pages_fetched": 0,
+      "profile_source": "Yahoo Finance",
+      "profile_source_quality": "FALLBACK",
+      "profile_source_url": null,
+      "sector": null,
+      "subindustry": null,
+      "subsector": null,
+      "ticker": "KBMI",
+      "verified_at": "2026-10-01T05:11:33.232785+00:00",
+      "website": null
+    },
     "KOTA": {
       "business_activity": "PT DMS Propertindo Tbk operates as a property development and hospitality management company in Indonesia. The company engages in real estate and property, and hotels.",
       "controller": null,
@@ -8719,7 +8741,7 @@
     }
   },
   "last_keepalive_utc": "2026-09-25T10:31:06.793440+00:00",
-  "last_state_change_utc": "2026-10-01T05:00:57.102745+00:00",
+  "last_state_change_utc": "2026-10-01T05:11:33.749636+00:00",
   "market_noise_suppressed": 5,
   "milestone_alerts": {},
   "rumor_alerts_sent": 114,
@@ -8730,8 +8752,8 @@
   "rumor_duplicates_suppressed": 701,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 19,
-  "rumor_integrity_repairs": 1763,
-  "rumor_last_scan_utc": "2026-10-01T05:00:55.974795+00:00",
+  "rumor_integrity_repairs": 1764,
+  "rumor_last_scan_utc": "2026-10-01T05:11:24.051097+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -10582,6 +10604,7 @@
     "58d9ec0eaa66aa14e95c4fbd31cd6730aba347ef97a89149d3d0d3a1a9463643": "2026-09-18T12:41:11.653094+00:00",
     "58e9ec27c1150d25f173acb7e63bd891bd4bf2672b63207badf4d4b5cbfac510": "2026-09-18T01:41:15.519996+00:00",
     "58eff29ec5e4d01bedd3be6c07f8939acaf478b8ecd111fa9af2cbceba007833": "2026-08-14T10:15:00.868800+00:00",
+    "59bf7cec8b2fee94332a9a86d991d698044cdbe6a510f98e71efcb5ae209208f": "2026-10-01T05:11:33.747619+00:00",
     "5ab4ea9405930f2be6c7ada6afe3359ac36c55f783bce32db38174882bd3566e": "2026-09-16T16:21:12.830013+00:00",
     "5b3542b98065b00c16b28b44a087fb7bf627a8a36ae09581bde630cf44911a3f": "2026-08-25T03:40:44.114758+00:00",
     "5be15da3fca768f0c815b109f114a4b1fa61e3a93e79205595f207779d70e8a6": "2026-09-09T04:11:04.533512+00:00",
