@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 24,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 795,
-  "early_signal_last_scan_utc": "2026-10-01T16:01:22.173811+00:00",
+  "early_signal_last_scan_utc": "2026-10-01T16:10:58.971162+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -1419,6 +1419,44 @@
         "stake": [],
         "standby_buyer": null,
         "target": "Perusahaan Asing untuk Adopsi Teknologi",
+        "target_confirmed": true,
+        "tender_price": null,
+        "underwriter": null,
+        "use_of_funds": [
+          "AKUISISI / INVESTASI"
+        ]
+      },
+      "ticker": ""
+    },
+    "M&A / TAKEOVER|PARTIES|RENCANA|EMITEN DUA KONGLOMERAT": {
+      "family": "M&A / TAKEOVER",
+      "first_seen_utc": "2026-10-01T16:11:00.916745+00:00",
+      "last_alert_utc": "2026-10-01T16:11:00.916739+00:00",
+      "last_seen_utc": "2026-10-01T16:11:00.916739+00:00",
+      "market_context": {
+        "change_pct": null,
+        "last_price": null,
+        "market_date": null
+      },
+      "material_snapshot": {
+        "acquirer": "Rencana",
+        "acquirer_confirmed": true,
+        "event_type": "AKUISISI",
+        "execution_price": null,
+        "ipo_single_price": null,
+        "money": [],
+        "official_authority": null,
+        "official_kind": null,
+        "price_range": null,
+        "ratio": null,
+        "schedule": {},
+        "share_count": null,
+        "stage": "RENCANA",
+        "stage_step": 2,
+        "stage_total": 7,
+        "stake": [],
+        "standby_buyer": null,
+        "target": "Emiten Dua Konglomerat",
         "target_confirmed": true,
         "tender_price": null,
         "underwriter": null,
@@ -8777,7 +8815,7 @@
     }
   },
   "last_keepalive_utc": "2026-09-25T10:31:06.793440+00:00",
-  "last_state_change_utc": "2026-10-01T16:01:22.224540+00:00",
+  "last_state_change_utc": "2026-10-01T16:11:00.918772+00:00",
   "market_noise_suppressed": 5,
   "milestone_alerts": {},
   "rumor_alerts_sent": 115,
@@ -8788,8 +8826,8 @@
   "rumor_duplicates_suppressed": 710,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 19,
-  "rumor_integrity_repairs": 1811,
-  "rumor_last_scan_utc": "2026-10-01T16:01:21.139679+00:00",
+  "rumor_integrity_repairs": 1812,
+  "rumor_last_scan_utc": "2026-10-01T16:10:57.987566+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -8873,11 +8911,11 @@
         },
         {
           "derivative": true,
-          "group": "bursa nusantara",
+          "group": "bursanusantara.com",
           "new_material": 0,
           "quality": "LOW",
           "semantic_copy": false,
-          "source": "Bursa Nusantara",
+          "source": "bursanusantara.com",
           "tier": 1,
           "weight": 0.25
         }
@@ -8887,8 +8925,8 @@
       "source_quality_score": 4.2,
       "sources": [
         "kontan.co.id",
-        "Bursa Nusantara",
         "bursanusantara.com",
+        "Bursa Nusantara",
         "investasi.kontan.co.id"
       ],
       "status": "ACTIVE",
@@ -10755,6 +10793,7 @@
     "afa0ad578b19ff37936ed2d63429fdaa8850862afdbb1943b687943c054eb641": "2026-09-07T15:01:20.529162+00:00",
     "afb2a4f2f71e71bc46e76736b72e57eb28b084a7f27574f22995bd97f8473ca4": "2026-08-24T08:01:17.664942+00:00",
     "b03bcc0c45bea5a342212945f54ea2a8480226f3b8c27ec3317acf017bf273e1": "2026-09-07T20:11:02.371381+00:00",
+    "b0f45eb33805a9b223649a508d62856160dc61068e1bb77ce40d1a16b5c25642": "2026-10-01T16:11:00.916718+00:00",
     "b14fb66083a251c965082ea75e55bcf09188cdbce31c628d6a867eddc81574ad": "2026-09-18T02:21:20.569107+00:00",
     "b6727ff50ea0ff09a88a04d72e46c59db780237b1d7ff4bb40d1066d5bd68b4e": "2026-09-19T05:21:31.766845+00:00",
     "b762b850223a20385d61ea79b86e2e92478caf860083f112902a68fd8268dccf": "2026-09-25T16:20:50.588575+00:00",
