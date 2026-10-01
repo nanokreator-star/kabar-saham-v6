@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 24,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 795,
-  "early_signal_last_scan_utc": "2026-10-01T20:31:12.678530+00:00",
+  "early_signal_last_scan_utc": "2026-10-01T21:20:59.939573+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -50,7 +50,7 @@
       "volume_ratio": 0.03
     }
   },
-  "event_duplicates_suppressed": 52,
+  "event_duplicates_suppressed": 53,
   "event_memory": {
     "IPO|TICKER|SWAP": {
       "family": "IPO",
@@ -5586,11 +5586,11 @@
       "family": "RIGHTS ISSUE",
       "first_seen_utc": "2026-09-30T06:41:24.283090+00:00",
       "last_alert_utc": "2026-09-30T06:41:24.283084+00:00",
-      "last_seen_utc": "2026-09-30T06:41:24.283084+00:00",
+      "last_seen_utc": "2026-10-01T21:21:27.299516+00:00",
       "market_context": {
-        "change_pct": -2.6403,
-        "last_price": 1475.0,
-        "market_date": "2026-09-30"
+        "change_pct": 0.3521,
+        "last_price": 1425.0,
+        "market_date": "2026-10-01"
       },
       "material_snapshot": {
         "acquirer": null,
@@ -7692,7 +7692,7 @@
       "owner_context_sources": 0,
       "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
       "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-      "owner_v6_checked_utc": "2026-09-30T06:41:23.536667+00:00",
+      "owner_v6_checked_utc": "2026-10-01T21:21:27.299329+00:00",
       "owner_v6_pages_fetched": 0,
       "profile_source": "Yahoo Finance",
       "profile_source_quality": "FALLBACK",
@@ -8815,8 +8815,8 @@
     }
   },
   "last_keepalive_utc": "2026-09-25T10:31:06.793440+00:00",
-  "last_state_change_utc": "2026-10-01T20:31:12.732844+00:00",
-  "market_noise_suppressed": 5,
+  "last_state_change_utc": "2026-10-01T21:21:27.301572+00:00",
+  "market_noise_suppressed": 6,
   "milestone_alerts": {},
   "rumor_alerts_sent": 115,
   "rumor_baseline_initialized": true,
@@ -8827,7 +8827,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 19,
   "rumor_integrity_repairs": 1831,
-  "rumor_last_scan_utc": "2026-10-01T20:31:11.816290+00:00",
+  "rumor_last_scan_utc": "2026-10-01T21:20:59.182292+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -10334,7 +10334,7 @@
     },
     "SPIN-OFF / RESTRUCTURING|TICKER|TAMU": {
       "category": "SPIN-OFF / RESTRUCTURING",
-      "company_name": "Pelayaran Tamarin Samudra",
+      "company_name": "PT Pelayaran Tamarin Samudra Tbk. TAMU 1 Restrukturisasi utang",
       "copy_duplicate_count": 0,
       "credible_effective_independent_count": 1.1,
       "derivative_source_count": 0,
@@ -10558,6 +10558,7 @@
     "0555193e66d8a69ab5a2bb8a62abad3aad6b70881e8f1c0d14a7011eba9be2c5": "2026-08-14T10:15:00.868800+00:00",
     "05e8b875128c06b0c81fb4ceac0282f1f7af0a96cc6291448d65f63d308c32b2": "2026-08-14T10:15:00.868800+00:00",
     "06f426459cc9ad3bf6d657e73233ff1fb2944b44bdc17e574b7a1ef4d177e1bd": "2026-08-14T10:15:00.868800+00:00",
+    "0761df22880b3203f821508eb6d56949191d4281192f9a2596534925d4ccad0a": "2026-10-01T21:21:27.299508+00:00",
     "07ba4b56ef997cf11763aed6485075e34d3cfa958c3ee604e19d1af47ca81cc3": "2026-08-14T10:15:00.868800+00:00",
     "0943528bea6dc6b7dcaba77141dcfe9a9fad654c91d961d241daaf91bd4b32a6": "2026-09-11T10:40:56.534079+00:00",
     "09b8dc547be673d3cfe48d7936774f66ac705e9e5ec90eb7100f63d636c131f4": "2026-09-21T11:31:28.132179+00:00",
