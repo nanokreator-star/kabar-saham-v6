@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 24,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 795,
-  "early_signal_last_scan_utc": "2026-10-01T04:10:49.213125+00:00",
+  "early_signal_last_scan_utc": "2026-10-01T04:20:45.378973+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -5664,6 +5664,51 @@
       },
       "ticker": ""
     },
+    "RIGHTS ISSUE|TITLE|BSI RENCANAKAN TERBITKAN MILIAR BARU SUARAGARUT ID": {
+      "family": "RIGHTS ISSUE",
+      "first_seen_utc": "2026-10-01T04:20:53.436225+00:00",
+      "last_alert_utc": "2026-10-01T04:20:53.436219+00:00",
+      "last_seen_utc": "2026-10-01T04:20:53.436219+00:00",
+      "market_context": {
+        "change_pct": null,
+        "last_price": null,
+        "market_date": null
+      },
+      "material_snapshot": {
+        "acquirer": null,
+        "acquirer_confirmed": false,
+        "event_type": "RIGHTS ISSUE",
+        "execution_price": null,
+        "ipo_single_price": null,
+        "money": [
+          "Rp51,07 triliun",
+          "Rp64,41 triliun"
+        ],
+        "official_authority": null,
+        "official_kind": null,
+        "price_range": null,
+        "ratio": null,
+        "schedule": {},
+        "share_count": "6,8 Miliar saham",
+        "stage": "EFEKTIF",
+        "stage_step": 4,
+        "stage_total": 6,
+        "stake": [
+          20.38,
+          23.31,
+          12.85
+        ],
+        "standby_buyer": null,
+        "target": null,
+        "target_confirmed": false,
+        "tender_price": null,
+        "underwriter": null,
+        "use_of_funds": [
+          "EKSPANSI / CAPEX"
+        ]
+      },
+      "ticker": ""
+    },
     "RIGHTS ISSUE|TITLE|BULL DIRUMORKAN DIKAITKAN DENGAN INJEKSI 30 KAPAL": {
       "family": "RIGHTS ISSUE",
       "first_seen_utc": "2026-08-14T10:15:00.868800+00:00",
@@ -8674,7 +8719,7 @@
     }
   },
   "last_keepalive_utc": "2026-09-25T10:31:06.793440+00:00",
-  "last_state_change_utc": "2026-10-01T04:10:49.262627+00:00",
+  "last_state_change_utc": "2026-10-01T04:20:53.438283+00:00",
   "market_noise_suppressed": 5,
   "milestone_alerts": {},
   "rumor_alerts_sent": 114,
@@ -8685,8 +8730,8 @@
   "rumor_duplicates_suppressed": 701,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 19,
-  "rumor_integrity_repairs": 1758,
-  "rumor_last_scan_utc": "2026-10-01T04:10:48.398218+00:00",
+  "rumor_integrity_repairs": 1759,
+  "rumor_last_scan_utc": "2026-10-01T04:20:44.521729+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -10892,6 +10937,7 @@
     "eec14a0862b95a363f351455262fa038a07531e49340f298c45b5099198bcba4": "2026-09-10T06:01:09.957995+00:00",
     "eed4e6f8638345167d3f10414aa243ba57c50ea626945d33ebdf86ef5af43d6c": "2026-09-21T19:31:05.916952+00:00",
     "eeeb576b25a6317eb10cd22d2b5050abfc359a10722c68c62cec800026a13763": "2026-08-14T10:15:00.868800+00:00",
+    "ef252ce99bc63d93b1c1ad161ecd084313db25210179079ec71a946a2cb9236f": "2026-10-01T04:20:53.436202+00:00",
     "ef334664d2d58cf8910cfc1797033de3a59c8e48548589754854410b0f328174": "2026-08-29T05:40:45.259633+00:00",
     "f029f6b94673c5cacdb8f9ccba97ce172cf53cc74451a8f95ba8e289d3b3703e": "2026-08-14T10:15:00.868800+00:00",
     "f0386d9f94ef54bbd8c48be22b7763713dd07a604978b5da63f91177073fd2cf": "2026-08-21T13:01:30.058267+00:00",
