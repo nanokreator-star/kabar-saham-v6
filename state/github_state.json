@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 24,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 795,
-  "early_signal_last_scan_utc": "2026-10-01T13:01:18.268750+00:00",
+  "early_signal_last_scan_utc": "2026-10-01T13:10:50.605755+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -50,7 +50,7 @@
       "volume_ratio": 0.03
     }
   },
-  "event_duplicates_suppressed": 50,
+  "event_duplicates_suppressed": 51,
   "event_memory": {
     "IPO|TICKER|SWAP": {
       "family": "IPO",
@@ -5512,7 +5512,7 @@
       "family": "RIGHTS ISSUE",
       "first_seen_utc": "2026-09-30T06:01:06.349411+00:00",
       "last_alert_utc": "2026-09-30T06:01:06.349405+00:00",
-      "last_seen_utc": "2026-09-30T14:01:06.994375+00:00",
+      "last_seen_utc": "2026-10-01T13:10:51.936258+00:00",
       "market_context": {
         "change_pct": null,
         "last_price": null,
@@ -8777,7 +8777,7 @@
     }
   },
   "last_keepalive_utc": "2026-09-25T10:31:06.793440+00:00",
-  "last_state_change_utc": "2026-10-01T13:01:18.322107+00:00",
+  "last_state_change_utc": "2026-10-01T13:10:51.938426+00:00",
   "market_noise_suppressed": 5,
   "milestone_alerts": {},
   "rumor_alerts_sent": 115,
@@ -8789,7 +8789,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 19,
   "rumor_integrity_repairs": 1796,
-  "rumor_last_scan_utc": "2026-10-01T13:01:17.413209+00:00",
+  "rumor_last_scan_utc": "2026-10-01T13:10:49.644385+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -10296,7 +10296,7 @@
     },
     "SPIN-OFF / RESTRUCTURING|TICKER|TAMU": {
       "category": "SPIN-OFF / RESTRUCTURING",
-      "company_name": "Pelayaran Tamarin Samudra",
+      "company_name": "PT Pelayaran Tamarin Samudra Tbk. TAMU 1 Restrukturisasi utang",
       "copy_duplicate_count": 0,
       "credible_effective_independent_count": 1.1,
       "derivative_source_count": 0,
@@ -10808,6 +10808,7 @@
     "db73471c6739ea54270da405e8edf15b16331f04c63c77531381b39009b021bc": "2026-09-17T19:41:14.787581+00:00",
     "db953a8993c872959c7a093023ec584e401db28da72b68d8637e91521fe9bb18": "2026-08-30T09:20:57.406987+00:00",
     "dc8d46bae2e24725d7c967c2c2d45f1bb33cee2accd200d84085dae4a3e993eb": "2026-09-30T14:11:10.184761+00:00",
+    "dcb8a0ec91d1638ae4106e9f3288479f55453dd41d82f7009a3f30f3c6d545d7": "2026-10-01T13:10:51.936210+00:00",
     "dcf9d128cd684d7cf53b9707470c7e20087589a97a5bd8042231fdf347ca70dd": "2026-08-14T10:15:00.868800+00:00",
     "ddd08590d04a2bdcfacf755cd553b2e16b72aed565d1b93b4c31364443ff73b3": "2026-08-14T10:15:00.868800+00:00",
     "ded8319bd7a86ffbc6862e363b62e5ff6480cd72b40a6d752f4cd57796f00a71": "2026-08-14T10:15:00.868800+00:00",
