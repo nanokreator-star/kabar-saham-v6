@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 24,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 795,
-  "early_signal_last_scan_utc": "2026-10-01T15:01:39.102735+00:00",
+  "early_signal_last_scan_utc": "2026-10-01T15:10:55.053099+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -8777,7 +8777,7 @@
     }
   },
   "last_keepalive_utc": "2026-09-25T10:31:06.793440+00:00",
-  "last_state_change_utc": "2026-10-01T15:01:39.159208+00:00",
+  "last_state_change_utc": "2026-10-01T15:10:55.107011+00:00",
   "market_noise_suppressed": 5,
   "milestone_alerts": {},
   "rumor_alerts_sent": 115,
@@ -8788,8 +8788,8 @@
   "rumor_duplicates_suppressed": 710,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 19,
-  "rumor_integrity_repairs": 1805,
-  "rumor_last_scan_utc": "2026-10-01T15:01:37.940358+00:00",
+  "rumor_integrity_repairs": 1806,
+  "rumor_last_scan_utc": "2026-10-01T15:10:54.068033+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -8873,11 +8873,11 @@
         },
         {
           "derivative": true,
-          "group": "bursanusantara.com",
+          "group": "bursa nusantara",
           "new_material": 0,
           "quality": "LOW",
           "semantic_copy": false,
-          "source": "bursanusantara.com",
+          "source": "Bursa Nusantara",
           "tier": 1,
           "weight": 0.25
         }
@@ -8887,9 +8887,9 @@
       "source_quality_score": 4.2,
       "sources": [
         "kontan.co.id",
+        "Bursa Nusantara",
         "bursanusantara.com",
-        "investasi.kontan.co.id",
-        "Bursa Nusantara"
+        "investasi.kontan.co.id"
       ],
       "status": "ACTIVE",
       "strength": "MEDIUM",
