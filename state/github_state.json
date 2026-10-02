@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 24,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 795,
-  "early_signal_last_scan_utc": "2026-10-02T22:30:50.988872+00:00",
+  "early_signal_last_scan_utc": "2026-10-02T22:40:48.490986+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -289,6 +289,51 @@
         "use_of_funds": []
       },
       "ticker": ""
+    },
+    "IPO|TITLE|BURSA EFEK INDONESIA MEMPERKETAT SELEKSI CALON SUARAGARUT": {
+      "family": "IPO",
+      "first_seen_utc": "2026-10-02T22:41:01.482439+00:00",
+      "last_alert_utc": "2026-10-02T22:41:01.482434+00:00",
+      "last_seen_utc": "2026-10-02T22:41:01.482434+00:00",
+      "market_context": {
+        "change_pct": null,
+        "last_price": null,
+        "market_date": null
+      },
+      "material_snapshot": {
+        "acquirer": null,
+        "acquirer_confirmed": false,
+        "event_type": "IPO",
+        "execution_price": null,
+        "ipo_single_price": null,
+        "money": [
+          "Rp4,28 miliar"
+        ],
+        "official_authority": null,
+        "official_kind": null,
+        "price_range": null,
+        "ratio": null,
+        "schedule": {},
+        "share_count": "2026, saham",
+        "stage": "RENCANA / PROSPEKTUS",
+        "stage_step": 2,
+        "stage_total": 5,
+        "stake": [
+          14.28,
+          78.47,
+          21.53,
+          0.47
+        ],
+        "standby_buyer": null,
+        "target": null,
+        "target_confirmed": false,
+        "tender_price": null,
+        "underwriter": null,
+        "use_of_funds": [
+          "AKUISISI / INVESTASI"
+        ]
+      },
+      "ticker": "DADA"
     },
     "IPO|TITLE|CALON BARU ANTRE ADA YANG PUNYA ASET": {
       "family": "IPO",
@@ -8214,6 +8259,26 @@
       "verified_at": "2026-09-04T05:41:08.061749+00:00",
       "website": "https://www.petrindo.co.id"
     },
+    "DADA": {
+      "business_activity": "PT Diamond Citra Propertindo Tbk, together with its subsidiaries, engages in real estate business in Indonesia. It is involved in house, aparthouse, low-rise, high-rise, and mixed-used projects.",
+      "controller": null,
+      "industry": "Real Estate Services",
+      "issuer_name": "Diamond Citra Propertindo",
+      "owner_context_sources": 0,
+      "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
+      "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
+      "owner_v6_checked_utc": "2026-10-02T22:41:00.781753+00:00",
+      "owner_v6_pages_fetched": 0,
+      "profile_source": "Yahoo Finance",
+      "profile_source_quality": "FALLBACK",
+      "profile_source_url": null,
+      "sector": "Real Estate",
+      "subindustry": null,
+      "subsector": null,
+      "ticker": "DADA",
+      "verified_at": "2026-10-02T22:40:57.245873+00:00",
+      "website": "https://diamondland.co.id"
+    },
     "DOOH": {
       "business_activity": "PT Era Media Sejahtera Tbk operates as an advertising media company in Indonesia. It operates through Advertising, Consulting, and Media Content segments.",
       "controller": {
@@ -9228,7 +9293,7 @@
     }
   },
   "last_keepalive_utc": "2026-09-25T10:31:06.793440+00:00",
-  "last_state_change_utc": "2026-10-02T22:30:51.039960+00:00",
+  "last_state_change_utc": "2026-10-02T22:41:01.484043+00:00",
   "market_noise_suppressed": 7,
   "milestone_alerts": {},
   "rumor_alerts_sent": 116,
@@ -9239,8 +9304,8 @@
   "rumor_duplicates_suppressed": 734,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 19,
-  "rumor_integrity_repairs": 1930,
-  "rumor_last_scan_utc": "2026-10-02T22:30:50.970572+00:00",
+  "rumor_integrity_repairs": 1931,
+  "rumor_last_scan_utc": "2026-10-02T22:40:48.477754+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -10982,6 +11047,7 @@
     "0bc383e38ef89792db4ac5da55a293d15cba4c87a2ea9d68ed10d510cccdd477": "2026-08-20T03:21:47.165417+00:00",
     "0bd81597f759c20cc8c802928a344b88c585b60223a6a234f8b0f6a0f397b4c0": "2026-08-20T03:21:47.165417+00:00",
     "0c76e071ca99093ad0eecc4d7e895e13a9f4c888c7cedae80ec7ad61ff0de3e0": "2026-09-04T05:41:32.728730+00:00",
+    "0d5860f7f65369c0ad8bd6309e2a6f64201ec4b2b420337eea62b645038bacc7": "2026-10-02T22:41:01.482416+00:00",
     "0ebaf4580944fcfc5be448a9dc5d4bb3eaed38e167d01e95b5350bbdfb9a8a75": "2026-08-18T03:31:02.730821+00:00",
     "0f07586bb610315eb485f41810b46cbe40a9e15da67bb5c6083c7428c0777d26": "2026-09-18T13:40:46.595316+00:00",
     "0f45ebcc704bd30869f708889cd24a6729bb470886b5ee3c4b27bd93f6c6e0ea": "2026-08-14T10:15:00.868800+00:00",
