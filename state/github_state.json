@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 24,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 795,
-  "early_signal_last_scan_utc": "2026-10-02T11:10:54.338612+00:00",
+  "early_signal_last_scan_utc": "2026-10-02T11:20:50.769511+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -1104,6 +1104,48 @@
         "use_of_funds": [
           "AKUISISI / INVESTASI",
           "EKSPANSI / CAPEX"
+        ]
+      },
+      "ticker": ""
+    },
+    "M&A / TAKEOVER|PARTIES|DOOH BERENCANA|": {
+      "family": "M&A / TAKEOVER",
+      "first_seen_utc": "2026-10-02T11:21:05.054751+00:00",
+      "last_alert_utc": "2026-10-02T11:21:05.054746+00:00",
+      "last_seen_utc": "2026-10-02T11:21:05.054746+00:00",
+      "market_context": {
+        "change_pct": null,
+        "last_price": null,
+        "market_date": null
+      },
+      "material_snapshot": {
+        "acquirer": "\ud83e\udd1d DOOH Berencana",
+        "acquirer_confirmed": true,
+        "event_type": "AKUISISI",
+        "execution_price": null,
+        "ipo_single_price": null,
+        "money": [],
+        "official_authority": null,
+        "official_kind": null,
+        "price_range": null,
+        "ratio": null,
+        "schedule": {},
+        "share_count": "154,8 miliar saham",
+        "stage": "RENCANA",
+        "stage_step": 2,
+        "stage_total": 7,
+        "stake": [
+          29.88,
+          7.5,
+          95.24
+        ],
+        "standby_buyer": null,
+        "target": null,
+        "target_confirmed": false,
+        "tender_price": null,
+        "underwriter": null,
+        "use_of_funds": [
+          "AKUISISI / INVESTASI"
         ]
       },
       "ticker": ""
@@ -9186,7 +9228,7 @@
     }
   },
   "last_keepalive_utc": "2026-09-25T10:31:06.793440+00:00",
-  "last_state_change_utc": "2026-10-02T11:10:54.393488+00:00",
+  "last_state_change_utc": "2026-10-02T11:21:05.056793+00:00",
   "market_noise_suppressed": 7,
   "milestone_alerts": {},
   "rumor_alerts_sent": 115,
@@ -9197,8 +9239,8 @@
   "rumor_duplicates_suppressed": 722,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 19,
-  "rumor_integrity_repairs": 1881,
-  "rumor_last_scan_utc": "2026-10-02T11:10:53.925988+00:00",
+  "rumor_integrity_repairs": 1882,
+  "rumor_last_scan_utc": "2026-10-02T11:20:50.285023+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -11250,6 +11292,7 @@
     "e7a14e7a29ac6843f16808b7f3642a1cb34fb40004cd444ae14be203d0c93cfb": "2026-08-20T03:21:47.165417+00:00",
     "e93e5d0c3d6b46be06568f45420d6336e6ca9b5279bc6f03d289eba0f76a4a3e": "2026-08-14T10:15:00.868800+00:00",
     "e9ac5621abccdacf7d20863612e836c96881aff9f06ffe212d01b2cb5c47a5a7": "2026-08-24T21:51:20.210067+00:00",
+    "e9f8b13ad76af2f0ce60ccbe58934a08a4072c8a7061aa37bbdbe7c27ca8521e": "2026-10-02T11:21:05.054730+00:00",
     "ea1d49ec1236faf345355f86b1cdbed9030eccbb0655cb8ba4064f4984722fbe": "2026-08-14T10:15:00.868800+00:00",
     "ea5b49df6429cc6c8767991395bc48756a1c9e8d933e341a8141ed16a7888fad": "2026-08-14T23:40:54.238301+00:00",
     "ead38d8001275dd0ffb5706c852bd632a4a09fbc9c7139e273478199e46af600": "2026-08-14T10:15:00.868800+00:00",
