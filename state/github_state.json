@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 24,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 795,
-  "early_signal_last_scan_utc": "2026-10-02T10:40:42.046303+00:00",
+  "early_signal_last_scan_utc": "2026-10-02T10:51:23.909298+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -3149,6 +3149,44 @@
         "use_of_funds": []
       },
       "ticker": ""
+    },
+    "M&A / TAKEOVER|TITLE|DOOH RAMPUNGKAN PENGENDALI BARU GELAR WAJIB HARGA": {
+      "family": "M&A / TAKEOVER",
+      "first_seen_utc": "2026-10-02T10:51:37.467320+00:00",
+      "last_alert_utc": "2026-10-02T10:51:37.467315+00:00",
+      "last_seen_utc": "2026-10-02T10:51:37.467315+00:00",
+      "market_context": {
+        "change_pct": 5.7803,
+        "last_price": 366.0,
+        "market_date": "2026-10-02"
+      },
+      "material_snapshot": {
+        "acquirer": null,
+        "acquirer_confirmed": false,
+        "event_type": "TENDER OFFER",
+        "execution_price": null,
+        "ipo_single_price": null,
+        "money": [],
+        "official_authority": null,
+        "official_kind": null,
+        "price_range": null,
+        "ratio": null,
+        "schedule": {},
+        "share_count": null,
+        "stage": "TENDER OFFER",
+        "stage_step": 6,
+        "stage_total": 7,
+        "stake": [],
+        "standby_buyer": null,
+        "target": null,
+        "target_confirmed": false,
+        "tender_price": null,
+        "underwriter": null,
+        "use_of_funds": [
+          "AKUISISI / INVESTASI"
+        ]
+      },
+      "ticker": "DOOH"
     },
     "M&A / TAKEOVER|TITLE|DOOH TUNTAS SINERGI INTERNASIONAL GELAR WAJIB IDX": {
       "family": "M&A / TAKEOVER",
@@ -8136,23 +8174,13 @@
     },
     "DOOH": {
       "business_activity": "PT Era Media Sejahtera Tbk operates as an advertising media company in Indonesia. It operates through Advertising, Consulting, and Media Content segments.",
-      "controller": {
-        "basis": "OFFICIAL_CONTROL_CHANGE_EVENT",
-        "name": "Pengendali baru DOOH",
-        "source": "IDX",
-        "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSWRNOVVfY0NhNXkwZkdZOUh3dkVsVFo3RGxSSXZYMkVMN3FYTDdnOTJiWmplSWdXVnU2X0xBVjIzTGUwaG9xWjQ2eFVTTkFhODdvVmVqUElScy1iMG9sZ3pFS1lCbWU3RlV3ZnVYTUo4aFNZREQyZVNPY25rSlQ0UzhlUHNKaDZxajFKYVNLczZHVXR6U3FhX1ZjWVFXVUNaV2JHWEhNLXRNVDdtRnQyTlhjZw?oc=5",
-        "stake_pct": 80.0,
-        "verification_level": "OFFICIAL_EVENT_ROLE",
-        "verified": true
-      },
+      "controller": null,
       "industry": "Advertising Agencies",
       "issuer_name": "Era Media Sejahtera",
       "owner_context_sources": 0,
       "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
       "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-      "owner_v5_repaired_utc": "2026-08-20T09:39:57.598970+00:00",
-      "owner_v5_safety_repairs": 18,
-      "owner_v6_checked_utc": "2026-08-20T09:34:37.697363+00:00",
+      "owner_v6_checked_utc": "2026-10-02T10:51:36.950566+00:00",
       "owner_v6_pages_fetched": 0,
       "profile_source": "Yahoo Finance",
       "profile_source_quality": "FALLBACK",
@@ -8161,7 +8189,7 @@
       "subindustry": null,
       "subsector": null,
       "ticker": "DOOH",
-      "verified_at": "2026-08-20T09:34:34.688015+00:00",
+      "verified_at": "2026-10-02T10:51:33.115336+00:00",
       "website": "https://www.sspace.id"
     },
     "DPUM": {
@@ -9148,7 +9176,7 @@
     }
   },
   "last_keepalive_utc": "2026-09-25T10:31:06.793440+00:00",
-  "last_state_change_utc": "2026-10-02T10:40:42.103650+00:00",
+  "last_state_change_utc": "2026-10-02T10:51:37.469237+00:00",
   "market_noise_suppressed": 7,
   "milestone_alerts": {},
   "rumor_alerts_sent": 115,
@@ -9159,8 +9187,8 @@
   "rumor_duplicates_suppressed": 722,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 19,
-  "rumor_integrity_repairs": 1878,
-  "rumor_last_scan_utc": "2026-10-02T10:40:41.733223+00:00",
+  "rumor_integrity_repairs": 1879,
+  "rumor_last_scan_utc": "2026-10-02T10:51:23.483706+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -11182,6 +11210,7 @@
     "974d92ee48b538a04596bb5c980fc09f5cd66608d901837616c28100f1b66ca5": "2026-09-15T04:11:16.787656+00:00",
     "97cca75fe23ae26fe2c41baf6f3fdf2f7b6c66b3f1b81d118e61f19471b91ab2": "2026-08-14T10:15:00.868800+00:00",
     "99043a2b0ab24c3479def238819a5cea3085b4b90ab75eb93d29577cf3a808c4": "2026-08-14T10:15:00.868800+00:00",
+    "99eddadc9391f8427e37eeb6b516b6d89ae153203f43ad5b3c9b2299549b5b22": "2026-10-02T10:51:37.467291+00:00",
     "9ac69e909a620f15a2891b5de03535724de24710e982007f7a3876bd66dfd1af": "2026-09-17T19:41:14.787581+00:00",
     "9b876251da3c9da8dfb6d2b7ff374bcf7c1e87ec257978594c08fd6a1c119e12": "2026-09-16T14:41:04.317367+00:00",
     "9d3fc465ce464234bddf59f0d978bc50685ec987b06f0553e0d0af7bbedfc0a6": "2026-08-14T10:15:00.868800+00:00",
