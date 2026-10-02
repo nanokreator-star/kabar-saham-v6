@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 24,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 795,
-  "early_signal_last_scan_utc": "2026-10-02T03:11:10.018677+00:00",
+  "early_signal_last_scan_utc": "2026-10-02T03:30:58.757675+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -7964,7 +7964,7 @@
       "owner_context_sources": 0,
       "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
       "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-      "owner_v6_checked_utc": "2026-10-01T15:20:56.857354+00:00",
+      "owner_v6_checked_utc": "2026-10-02T03:30:55.890320+00:00",
       "owner_v6_pages_fetched": 0,
       "profile_source": "Yahoo Finance",
       "profile_source_quality": "FALLBACK",
@@ -7973,7 +7973,7 @@
       "subindustry": null,
       "subsector": null,
       "ticker": "FROM",
-      "verified_at": "2026-10-01T15:20:58.578074+00:00",
+      "verified_at": "2026-10-02T03:30:56.531664+00:00",
       "website": null
     },
     "HAJI": {
@@ -8815,7 +8815,7 @@
     }
   },
   "last_keepalive_utc": "2026-09-25T10:31:06.793440+00:00",
-  "last_state_change_utc": "2026-10-02T03:11:10.073633+00:00",
+  "last_state_change_utc": "2026-10-02T03:30:58.811623+00:00",
   "market_noise_suppressed": 6,
   "milestone_alerts": {},
   "rumor_alerts_sent": 115,
@@ -8827,7 +8827,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 19,
   "rumor_integrity_repairs": 1851,
-  "rumor_last_scan_utc": "2026-10-02T03:11:09.370039+00:00",
+  "rumor_last_scan_utc": "2026-10-02T03:30:58.096998+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -9351,7 +9351,7 @@
         "owner_context_sources": 0,
         "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
         "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-        "owner_v6_checked_utc": "2026-10-01T15:20:56.857354+00:00",
+        "owner_v6_checked_utc": "2026-10-02T03:30:55.890320+00:00",
         "owner_v6_pages_fetched": 0,
         "profile_source": "Yahoo Finance",
         "profile_source_quality": "FALLBACK",
@@ -9360,7 +9360,7 @@
         "subindustry": null,
         "subsector": null,
         "ticker": "FROM",
-        "verified_at": "2026-10-01T15:20:58.578074+00:00",
+        "verified_at": "2026-10-02T03:30:56.531664+00:00",
         "website": null
       },
       "key": "BUYBACK|TICKER|FROM",
@@ -9369,7 +9369,7 @@
       "market_data": null,
       "official_confirmation": null,
       "premium_source_count": 1,
-      "profile_refresh_utc": "2026-10-01T15:21:00.648340+00:00",
+      "profile_refresh_utc": "2026-10-02T03:30:58.094399+00:00",
       "published": "Mon, 28 Sep 2026 10:54:46 GMT",
       "rumor_details": {
         "ipo_price": null,
@@ -10334,7 +10334,7 @@
     },
     "SPIN-OFF / RESTRUCTURING|TICKER|TAMU": {
       "category": "SPIN-OFF / RESTRUCTURING",
-      "company_name": "Pelayaran Tamarin Samudra",
+      "company_name": "PT Pelayaran Tamarin Samudra Tbk. TAMU 1 Restrukturisasi utang",
       "copy_duplicate_count": 0,
       "credible_effective_independent_count": 1.1,
       "derivative_source_count": 0,
