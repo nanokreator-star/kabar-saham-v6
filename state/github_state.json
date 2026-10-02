@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 24,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 795,
-  "early_signal_last_scan_utc": "2026-10-02T04:00:58.525280+00:00",
+  "early_signal_last_scan_utc": "2026-10-02T04:10:41.264222+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -3635,6 +3635,42 @@
       },
       "ticker": "DPUM"
     },
+    "M&A / TAKEOVER|TITLE|KETERBUKAAN INFORMASI DIBUAT DALAM RANGKA WAJIB YANG": {
+      "family": "M&A / TAKEOVER",
+      "first_seen_utc": "2026-10-02T04:10:42.623353+00:00",
+      "last_alert_utc": "2026-10-02T04:10:42.623348+00:00",
+      "last_seen_utc": "2026-10-02T04:10:42.623348+00:00",
+      "market_context": {
+        "change_pct": null,
+        "last_price": null,
+        "market_date": null
+      },
+      "material_snapshot": {
+        "acquirer": null,
+        "acquirer_confirmed": false,
+        "event_type": "TENDER OFFER",
+        "execution_price": null,
+        "ipo_single_price": null,
+        "money": [],
+        "official_authority": "IDX",
+        "official_kind": "PRIMARY",
+        "price_range": null,
+        "ratio": null,
+        "schedule": {},
+        "share_count": null,
+        "stage": "TENDER OFFER",
+        "stage_step": 6,
+        "stage_total": 7,
+        "stake": [],
+        "standby_buyer": null,
+        "target": null,
+        "target_confirmed": false,
+        "tender_price": null,
+        "underwriter": null,
+        "use_of_funds": []
+      },
+      "ticker": ""
+    },
     "M&A / TAKEOVER|TITLE|KUASAI 29 41 PERSEN NAYZ SAIKO CONSULTANCY": {
       "family": "M&A / TAKEOVER",
       "first_seen_utc": "2026-08-20T11:56:54.702773+00:00",
@@ -3857,6 +3893,42 @@
         "use_of_funds": []
       },
       "ticker": "IDEA"
+    },
+    "M&A / TAKEOVER|TITLE|NOMOR SURAT NAMA KODE LAMPIRAN PERIHAL 079": {
+      "family": "M&A / TAKEOVER",
+      "first_seen_utc": "2026-10-02T04:10:43.845766+00:00",
+      "last_alert_utc": "2026-10-02T04:10:43.845760+00:00",
+      "last_seen_utc": "2026-10-02T04:10:43.845760+00:00",
+      "market_context": {
+        "change_pct": null,
+        "last_price": null,
+        "market_date": null
+      },
+      "material_snapshot": {
+        "acquirer": null,
+        "acquirer_confirmed": false,
+        "event_type": "TENDER OFFER",
+        "execution_price": null,
+        "ipo_single_price": null,
+        "money": [],
+        "official_authority": "IDX",
+        "official_kind": "PRIMARY",
+        "price_range": null,
+        "ratio": null,
+        "schedule": {},
+        "share_count": null,
+        "stage": "TENDER OFFER",
+        "stage_step": 6,
+        "stage_total": 7,
+        "stake": [],
+        "standby_buyer": null,
+        "target": null,
+        "target_confirmed": false,
+        "tender_price": null,
+        "underwriter": null,
+        "use_of_funds": []
+      },
+      "ticker": ""
     },
     "M&A / TAKEOVER|TITLE|PADA SEPI PEMINAT INET HANYA SERAP 240": {
       "family": "M&A / TAKEOVER",
@@ -4379,6 +4451,49 @@
         ]
       },
       "ticker": ""
+    },
+    "M&A / TAKEOVER|TITLE|SINGAPURA SAIKO PATOK NAYZ RP75 SINYAL BACKDOOR": {
+      "family": "M&A / TAKEOVER",
+      "first_seen_utc": "2026-10-02T04:11:18.451102+00:00",
+      "last_alert_utc": "2026-10-02T04:11:18.451097+00:00",
+      "last_seen_utc": "2026-10-02T04:11:18.451097+00:00",
+      "market_context": {
+        "change_pct": 2.7778,
+        "last_price": 74.0,
+        "market_date": "2026-10-02"
+      },
+      "material_snapshot": {
+        "acquirer": null,
+        "acquirer_confirmed": false,
+        "event_type": "TENDER OFFER",
+        "execution_price": null,
+        "ipo_single_price": null,
+        "money": [
+          "Rp3,12 miliar",
+          "Rp87,67 miliar"
+        ],
+        "official_authority": null,
+        "official_kind": null,
+        "price_range": null,
+        "ratio": null,
+        "schedule": {
+          "tender_start": "3 November 2026"
+        },
+        "share_count": "750 juta saham",
+        "stage": "SPA / SIGNED",
+        "stage_step": 4,
+        "stage_total": 7,
+        "stake": [],
+        "standby_buyer": null,
+        "target": null,
+        "target_confirmed": false,
+        "tender_price": "Rp75,",
+        "underwriter": null,
+        "use_of_funds": [
+          "AKUISISI / INVESTASI"
+        ]
+      },
+      "ticker": "NAYZ"
     },
     "M&A / TAKEOVER|TITLE|TRACK RECORD MENYELISIK JEJAK PENGENDALI BARU BIKE": {
       "family": "M&A / TAKEOVER",
@@ -8380,6 +8495,11 @@
       "controller": null,
       "industry": "Packaged Foods",
       "issuer_name": "Hassana Boga Sejahtera",
+      "owner_context_sources": 0,
+      "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
+      "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
+      "owner_v6_checked_utc": "2026-10-02T04:11:17.908017+00:00",
+      "owner_v6_pages_fetched": 0,
       "profile_source": "Yahoo Finance",
       "profile_source_quality": "FALLBACK",
       "profile_source_url": null,
@@ -8387,7 +8507,7 @@
       "subindustry": null,
       "subsector": null,
       "ticker": "NAYZ",
-      "verified_at": "2026-08-20T03:24:18.724401+00:00",
+      "verified_at": "2026-10-02T04:10:59.816234+00:00",
       "website": "https://hassana.co.id"
     },
     "PACK": {
@@ -8815,7 +8935,7 @@
     }
   },
   "last_keepalive_utc": "2026-09-25T10:31:06.793440+00:00",
-  "last_state_change_utc": "2026-10-02T04:00:58.564217+00:00",
+  "last_state_change_utc": "2026-10-02T04:11:18.453265+00:00",
   "market_noise_suppressed": 6,
   "milestone_alerts": {},
   "rumor_alerts_sent": 115,
@@ -8826,8 +8946,8 @@
   "rumor_duplicates_suppressed": 720,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 19,
-  "rumor_integrity_repairs": 1854,
-  "rumor_last_scan_utc": "2026-10-02T04:00:56.977641+00:00",
+  "rumor_integrity_repairs": 1855,
+  "rumor_last_scan_utc": "2026-10-02T04:10:39.961176+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -10548,6 +10668,7 @@
   },
   "schema_version": 3,
   "sent": {
+    "0041c3eddec72a75940c506a654c729fbd1897b0cb4930f663bf354f9da72a41": "2026-10-02T04:10:42.623331+00:00",
     "012e596a93e964d4908648da9297384f9ea68eb165f47ad9c1c9978b1fbb8b7c": "2026-08-14T10:15:00.868800+00:00",
     "01b1f973b10e02a81324bdb7d72a4442994e3fe9c1600e874211cc67b202e2a0": "2026-08-14T10:15:00.868800+00:00",
     "01d582be60e9e1df12473cf195820a7d5d8e0e44d2e9bca680e3440f70b97bfe": "2026-08-20T03:24:19.258267+00:00",
@@ -10630,6 +10751,7 @@
     "32a03db354f787a7abe2405f9ad29567f8ccc17313ae160654afff4a4f3eda0e": "2026-09-02T19:21:15.784045+00:00",
     "32bcea9c3f7f5848c5a1c3a99b398bfc823558d6ac18e2dce3ffedb95dd6c5df": "2026-09-30T06:01:06.349388+00:00",
     "33cd8caf070b1689d28a239c9e5449cad19f070f19bc288fa4ef04429de2ae78": "2026-08-28T13:40:50.293389+00:00",
+    "34ea868b6aee641a69a186443b53e7ab78c18365f012bde6c4620ba5eef707b1": "2026-10-02T04:11:18.451080+00:00",
     "35caa677fedc0bf6c3a8fe7f823443af0bd6f067d0642818b29bccc275122630": "2026-09-15T07:01:24.271273+00:00",
     "373b1b316631890d135041562ced1130c3284bda56678d82bdd6f3d5ba7eaddb": "2026-08-25T02:20:52.960599+00:00",
     "38cf62fef6a32fd24876cbaf718787cd685b3462d78903fbaf057738f9496dfb": "2026-09-27T09:40:51.776776+00:00",
@@ -10717,6 +10839,7 @@
     "73c690717fc2b23b5a0bf40dd848acdab89c1cacf73849b598ddadf35a11c72d": "2026-08-14T10:15:00.868800+00:00",
     "755dd30c612b52176ee114f2d320148d259f21da18423235fe768edcf8d05fe4": "2026-09-18T22:01:40.239575+00:00",
     "761b66edaef0cc1a0e228ff3651857a37eeb90af5720589dda87e86eb9f325d8": "2026-08-28T13:11:11.093622+00:00",
+    "7722b644adec231ec4e88b83fff0f8258ac8f795c12f01250323942a7984b0c1": "2026-10-02T04:10:43.845715+00:00",
     "773cf492cad9319831d00e1deb29755796b736a520f6502a73f1bac7cdecdbd6": "2026-09-16T07:11:36.034829+00:00",
     "78e5b74a4f081c12fd05a181fb26f48f1a4539dd0acf87df6f3987e28186f080": "2026-08-30T05:01:07.776281+00:00",
     "7b71f33e1720dbc5671d8524fc03a0094289261b9a2cd4d10f2ee2e55536d20d": "2026-08-26T16:11:07.765627+00:00",
