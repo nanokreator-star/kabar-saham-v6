@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 24,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 795,
-  "early_signal_last_scan_utc": "2026-10-02T05:20:44.641588+00:00",
+  "early_signal_last_scan_utc": "2026-10-02T05:30:55.025226+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -4449,6 +4449,42 @@
           "AKUISISI / INVESTASI",
           "EKSPANSI / CAPEX"
         ]
+      },
+      "ticker": ""
+    },
+    "M&A / TAKEOVER|TITLE|SIAP SIAP SINGAPURA MAU NAYZ CNBC INDONESIA": {
+      "family": "M&A / TAKEOVER",
+      "first_seen_utc": "2026-10-02T05:30:57.313908+00:00",
+      "last_alert_utc": "2026-10-02T05:30:57.313901+00:00",
+      "last_seen_utc": "2026-10-02T05:30:57.313901+00:00",
+      "market_context": {
+        "change_pct": null,
+        "last_price": null,
+        "market_date": null
+      },
+      "material_snapshot": {
+        "acquirer": null,
+        "acquirer_confirmed": false,
+        "event_type": "TENDER OFFER",
+        "execution_price": null,
+        "ipo_single_price": null,
+        "money": [],
+        "official_authority": null,
+        "official_kind": null,
+        "price_range": null,
+        "ratio": null,
+        "schedule": {},
+        "share_count": null,
+        "stage": "TENDER OFFER",
+        "stage_step": 6,
+        "stage_total": 7,
+        "stake": [],
+        "standby_buyer": null,
+        "target": null,
+        "target_confirmed": false,
+        "tender_price": null,
+        "underwriter": null,
+        "use_of_funds": []
       },
       "ticker": ""
     },
@@ -8971,7 +9007,7 @@
     }
   },
   "last_keepalive_utc": "2026-09-25T10:31:06.793440+00:00",
-  "last_state_change_utc": "2026-10-02T05:20:44.696859+00:00",
+  "last_state_change_utc": "2026-10-02T05:30:57.316092+00:00",
   "market_noise_suppressed": 7,
   "milestone_alerts": {},
   "rumor_alerts_sent": 115,
@@ -8982,8 +9018,8 @@
   "rumor_duplicates_suppressed": 720,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 19,
-  "rumor_integrity_repairs": 1862,
-  "rumor_last_scan_utc": "2026-10-02T05:20:43.869034+00:00",
+  "rumor_integrity_repairs": 1863,
+  "rumor_last_scan_utc": "2026-10-02T05:30:54.080907+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -10866,6 +10902,7 @@
     "6bdad19c48883f375d8ee66130498bd919d86e168ebf0c2398442c45bea37308": "2026-08-14T10:15:00.868800+00:00",
     "6d484b9307bc337b49fd3acc64a2c4dc82a7bc529561dd3b17521d38be0dbce5": "2026-09-23T02:51:16.322581+00:00",
     "6d54bb8221e40afd8a2bd6f7622b02933e1eca3a8fbe421d25d19102dfc1b064": "2026-08-14T10:15:00.868800+00:00",
+    "6e0f7fec7fa965a9fbcefbb7838d761e7672209e2e9ab21e4fd5737537a1bd4d": "2026-10-02T05:30:57.313883+00:00",
     "6e5a32e9a0aa796904bdc506d943b6af3b39545246a0386f9d721ca9e532117d": "2026-08-26T04:11:08.935650+00:00",
     "6efb844fb1727d59e73589e899c5469c4b1406372f6c2c38cec8b43780c5ead0": "2026-09-19T03:11:06.233093+00:00",
     "7003b0d1af4222bb498db8d25d949c60a641ece80cd91fe782deb1edcdb7ef5a": "2026-08-14T10:15:00.868800+00:00",
