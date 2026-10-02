@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 24,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 795,
-  "early_signal_last_scan_utc": "2026-10-02T06:50:47.227008+00:00",
+  "early_signal_last_scan_utc": "2026-10-02T07:01:04.474949+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -1058,6 +1058,47 @@
         "stake": [],
         "standby_buyer": null,
         "target": "Dua Perusahaan untuk Ekspansi Land Bank Rp 4",
+        "target_confirmed": true,
+        "tender_price": null,
+        "underwriter": null,
+        "use_of_funds": [
+          "AKUISISI / INVESTASI",
+          "EKSPANSI / CAPEX"
+        ]
+      },
+      "ticker": ""
+    },
+    "M&A / TAKEOVER|PARTIES|DOOH EKSPANSI BISNIS DIGITAL RP2 TRILIUN|SAHAM INET": {
+      "family": "M&A / TAKEOVER",
+      "first_seen_utc": "2026-10-02T07:01:09.583794+00:00",
+      "last_alert_utc": "2026-10-02T07:01:09.583789+00:00",
+      "last_seen_utc": "2026-10-02T07:01:09.583789+00:00",
+      "market_context": {
+        "change_pct": null,
+        "last_price": null,
+        "market_date": null
+      },
+      "material_snapshot": {
+        "acquirer": "DOOH Ekspansi Bisnis Digital Rp2 Triliun",
+        "acquirer_confirmed": true,
+        "event_type": "AKUISISI",
+        "execution_price": null,
+        "ipo_single_price": null,
+        "money": [
+          "Rp2 triliun"
+        ],
+        "official_authority": null,
+        "official_kind": null,
+        "price_range": null,
+        "ratio": null,
+        "schedule": {},
+        "share_count": null,
+        "stage": "SPA / SIGNED",
+        "stage_step": 4,
+        "stage_total": 7,
+        "stake": [],
+        "standby_buyer": null,
+        "target": "Saham INET",
         "target_confirmed": true,
         "tender_price": null,
         "underwriter": null,
@@ -4368,6 +4409,44 @@
         "stake": [
           51.0
         ],
+        "standby_buyer": null,
+        "target": null,
+        "target_confirmed": false,
+        "tender_price": null,
+        "underwriter": null,
+        "use_of_funds": []
+      },
+      "ticker": ""
+    },
+    "M&A / TAKEOVER|TITLE|SAIKO CONSULTANCY SIAPKAN RP87 68 MILIAR WAJIB": {
+      "family": "M&A / TAKEOVER",
+      "first_seen_utc": "2026-10-02T07:01:11.904978+00:00",
+      "last_alert_utc": "2026-10-02T07:01:11.904972+00:00",
+      "last_seen_utc": "2026-10-02T07:01:11.904972+00:00",
+      "market_context": {
+        "change_pct": null,
+        "last_price": null,
+        "market_date": null
+      },
+      "material_snapshot": {
+        "acquirer": null,
+        "acquirer_confirmed": false,
+        "event_type": "TENDER OFFER",
+        "execution_price": null,
+        "ipo_single_price": null,
+        "money": [
+          "Rp87,68 miliar"
+        ],
+        "official_authority": null,
+        "official_kind": null,
+        "price_range": null,
+        "ratio": null,
+        "schedule": {},
+        "share_count": null,
+        "stage": "TENDER OFFER",
+        "stage_step": 6,
+        "stage_total": 7,
+        "stake": [],
         "standby_buyer": null,
         "target": null,
         "target_confirmed": false,
@@ -9009,7 +9088,7 @@
     }
   },
   "last_keepalive_utc": "2026-09-25T10:31:06.793440+00:00",
-  "last_state_change_utc": "2026-10-02T06:50:58.198466+00:00",
+  "last_state_change_utc": "2026-10-02T07:01:11.906720+00:00",
   "market_noise_suppressed": 7,
   "milestone_alerts": {},
   "rumor_alerts_sent": 115,
@@ -9020,8 +9099,8 @@
   "rumor_duplicates_suppressed": 720,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 19,
-  "rumor_integrity_repairs": 1866,
-  "rumor_last_scan_utc": "2026-10-02T06:50:45.894560+00:00",
+  "rumor_integrity_repairs": 1867,
+  "rumor_last_scan_utc": "2026-10-02T07:01:02.931527+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -10953,6 +11032,7 @@
     "905a0fcc01e6c259a6603314b0e24151ece6f211f37da79bd81458c70fa20646": "2026-09-17T19:41:04.147700+00:00",
     "91179b276a8babd4e5455627b8a58e07c700e166438a6a5770ecac9f2215e44d": "2026-09-10T02:03:20.729169+00:00",
     "91d8cd071c3982aa64f684578a778eb869703cb3c89f5f82e9daa5afa0b2de61": "2026-08-14T10:15:00.868800+00:00",
+    "92007265263dd099abf4875816da7e304d6cb1cbced47139c5593d83dc42e641": "2026-10-02T07:01:11.904954+00:00",
     "92825c7494ba089a9fe2eafd735da0209935a12eda32371d7cde9e781dc55f70": "2026-08-20T03:21:47.165417+00:00",
     "9297deea431daa3bf652ff1541cdc57b1bb3a7abd2ad7c20fd3d1f320feceedf": "2026-09-16T07:11:36.034829+00:00",
     "937bcf265b9799d9ef1073f3563f858ec0f9943f4149046edc16772be85b351b": "2026-08-14T10:15:00.868800+00:00",
@@ -11039,6 +11119,7 @@
     "d031742429d4ddc670d1c48c2e160ac9223cac6a7b65bea3f9c3591ee66468e2": "2026-09-17T18:01:01.291552+00:00",
     "d1dd9486c9f886705a4a376ae60d8eaaebfa99ef458cb1140aae1519cf246e55": "2026-08-14T10:15:00.868800+00:00",
     "d2c572e1eb9fc8d2afe9217144d58afc3cc50cbd621f9321798bfbacc5fbefe5": "2026-09-19T07:31:15.920350+00:00",
+    "d32c6d69d1423bead33e60a6da00f37aa57b87853d93e2e53cab58f288ce3e35": "2026-10-02T07:01:09.583770+00:00",
     "d39db68952ac6149d7a775f79ff75cd9de63bf8787fe5fab239ef92521949816": "2026-08-14T10:15:00.868800+00:00",
     "d59294aec9b2690d781e6ea535d9d810dd19e549c74895d8cab442d65a0ba9aa": "2026-09-11T07:21:24.577686+00:00",
     "d629bbd2f818df75a0232a48bcc602bb2dd1546e3357cbf267127350511195d9": "2026-08-14T10:15:00.868800+00:00",
