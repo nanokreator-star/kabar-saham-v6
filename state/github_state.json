@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 24,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 795,
-  "early_signal_last_scan_utc": "2026-10-02T00:30:56.754999+00:00",
+  "early_signal_last_scan_utc": "2026-10-02T00:50:49.180709+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -8815,7 +8815,7 @@
     }
   },
   "last_keepalive_utc": "2026-09-25T10:31:06.793440+00:00",
-  "last_state_change_utc": "2026-10-02T00:30:56.859159+00:00",
+  "last_state_change_utc": "2026-10-02T00:50:49.234781+00:00",
   "market_noise_suppressed": 6,
   "milestone_alerts": {},
   "rumor_alerts_sent": 115,
@@ -8823,11 +8823,11 @@
   "rumor_confirmed_count": 44,
   "rumor_confirmed_dedups": 0,
   "rumor_denied_count": 0,
-  "rumor_duplicates_suppressed": 718,
+  "rumor_duplicates_suppressed": 719,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 19,
   "rumor_integrity_repairs": 1850,
-  "rumor_last_scan_utc": "2026-10-02T00:30:54.598537+00:00",
+  "rumor_last_scan_utc": "2026-10-02T00:50:48.294242+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -8897,7 +8897,7 @@
         "underwriter": null
       },
       "semantic_copy_count": 0,
-      "source": "kontan.co.id",
+      "source": "investasi.kontan.co.id",
       "source_breakdown": [
         {
           "derivative": false,
@@ -8905,7 +8905,7 @@
           "new_material": 1,
           "quality": "HIGH",
           "semantic_copy": false,
-          "source": "kontan.co.id",
+          "source": "investasi.kontan.co.id",
           "tier": 4,
           "weight": 1.0
         },
@@ -8924,15 +8924,15 @@
       "source_quality": "MEDIUM",
       "source_quality_score": 4.2,
       "sources": [
-        "kontan.co.id",
-        "Bursa Nusantara",
         "investasi.kontan.co.id",
+        "Bursa Nusantara",
+        "kontan.co.id",
         "bursanusantara.com"
       ],
       "status": "ACTIVE",
       "strength": "MEDIUM",
       "ticker": "BBCA",
-      "title": "Sempat Terjadi Crossing 114 Juta Saham BBCA, Benarkah Terkait Isu Akuisisi? - kontan.co.id"
+      "title": "Sempat Terjadi Crossing 114 Juta Saham BBCA, Benarkah Terkait Isu Akuisisi? - investasi.kontan.co.id"
     },
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -10334,7 +10334,7 @@
     },
     "SPIN-OFF / RESTRUCTURING|TICKER|TAMU": {
       "category": "SPIN-OFF / RESTRUCTURING",
-      "company_name": "Pelayaran Tamarin Samudra",
+      "company_name": "PT Pelayaran Tamarin Samudra Tbk. TAMU 1 Restrukturisasi utang",
       "copy_duplicate_count": 0,
       "credible_effective_independent_count": 1.1,
       "derivative_source_count": 0,
