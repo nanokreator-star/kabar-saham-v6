@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 24,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 795,
-  "early_signal_last_scan_utc": "2026-10-02T09:50:49.321698+00:00",
+  "early_signal_last_scan_utc": "2026-10-02T10:07:55.385992+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -7701,11 +7701,11 @@
       "business_activity": "PT Adhi Karya (Persero) Tbk engages in the construction service businesses in Indonesia. It operates through The Engineering and Construction; Property and Hospitality; Manufacturing; and Investments and Concessions segments.",
       "controller": null,
       "industry": "Engineering & Construction",
-      "issuer_name": "Adhi Karya (Persero",
+      "issuer_name": "Entitas ADHI",
       "owner_context_sources": 0,
       "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
       "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-      "owner_v6_checked_utc": "2026-08-28T04:33:06.436535+00:00",
+      "owner_v6_checked_utc": "2026-10-02T10:03:18.464009+00:00",
       "owner_v6_pages_fetched": 0,
       "profile_source": "Yahoo Finance",
       "profile_source_quality": "FALLBACK",
@@ -7714,7 +7714,7 @@
       "subindustry": null,
       "subsector": null,
       "ticker": "ADHI",
-      "verified_at": "2026-08-28T04:33:07.144648+00:00",
+      "verified_at": "2026-10-02T10:03:18.938018+00:00",
       "website": "https://adhi.co.id"
     },
     "ANAK": {
@@ -8243,6 +8243,26 @@
       "ticker": "FROM",
       "verified_at": "2026-10-02T03:30:56.531664+00:00",
       "website": null
+    },
+    "FUTR": {
+      "business_activity": "PT Futura Energi Global Tbk provides construction support services in Indonesia. It operates through Trading and Construction Support Services, Advertising and Consulting, Data Services, Product Development, and Creative Warehouse segments.",
+      "controller": null,
+      "industry": "Utilities - Renewable",
+      "issuer_name": "Entitas ADHI",
+      "owner_context_sources": 0,
+      "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
+      "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
+      "owner_v6_checked_utc": "2026-10-02T10:07:54.909357+00:00",
+      "owner_v6_pages_fetched": 0,
+      "profile_source": "Yahoo Finance",
+      "profile_source_quality": "FALLBACK",
+      "profile_source_url": null,
+      "sector": "Utilities",
+      "subindustry": null,
+      "subsector": null,
+      "ticker": "FUTR",
+      "verified_at": "2026-10-02T10:05:39.763382+00:00",
+      "website": "https://futura-energi.com"
     },
     "HAJI": {
       "business_activity": null,
@@ -9088,7 +9108,7 @@
     }
   },
   "last_keepalive_utc": "2026-09-25T10:31:06.793440+00:00",
-  "last_state_change_utc": "2026-10-02T09:50:49.352097+00:00",
+  "last_state_change_utc": "2026-10-02T10:07:55.440627+00:00",
   "market_noise_suppressed": 7,
   "milestone_alerts": {},
   "rumor_alerts_sent": 115,
@@ -9099,8 +9119,8 @@
   "rumor_duplicates_suppressed": 722,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 19,
-  "rumor_integrity_repairs": 1873,
-  "rumor_last_scan_utc": "2026-10-02T09:50:48.810509+00:00",
+  "rumor_integrity_repairs": 1874,
+  "rumor_last_scan_utc": "2026-10-02T10:07:55.229265+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -10604,6 +10624,82 @@
       "strength": "WEAK",
       "ticker": "EPAC",
       "title": "Emiten Gocap (EPAC) Wacanakan Buyback & Rights Issue Jelang Aturan Rp1 - Emitennews.com"
+    },
+    "SPIN-OFF / RESTRUCTURING|TICKER|ADHI": {
+      "category": "SPIN-OFF / RESTRUCTURING",
+      "company_name": "PT Bur",
+      "copy_duplicate_count": 0,
+      "credible_effective_independent_count": 1.1,
+      "derivative_source_count": 0,
+      "detected_source_count": 1,
+      "effective_independent_count": 1.1,
+      "entity_aliases": [],
+      "entity_resolution_source": null,
+      "first_seen_utc": "2026-09-30T07:00:00+00:00",
+      "high_quality_source_count": 1,
+      "independent_story_count": 1,
+      "issuer_profile": {
+        "business_activity": "PT Adhi Karya (Persero) Tbk engages in the construction service businesses in Indonesia. It operates through The Engineering and Construction; Property and Hospitality; Manufacturing; and Investments and Concessions segments.",
+        "controller": null,
+        "industry": "Engineering & Construction",
+        "issuer_name": "Entitas ADHI",
+        "owner_context_sources": 0,
+        "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
+        "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
+        "owner_v6_checked_utc": "2026-10-02T10:03:18.464009+00:00",
+        "owner_v6_pages_fetched": 0,
+        "profile_source": "Yahoo Finance",
+        "profile_source_quality": "FALLBACK",
+        "profile_source_url": null,
+        "sector": "Industrials",
+        "subindustry": null,
+        "subsector": null,
+        "ticker": "ADHI",
+        "verified_at": "2026-10-02T10:03:18.938018+00:00",
+        "website": "https://adhi.co.id"
+      },
+      "key": "SPIN-OFF / RESTRUCTURING|TICKER|ADHI",
+      "last_seen_utc": "2026-09-30T07:00:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQLVlZN2FQY3A1bVQ0MXJCazZ2Sjh2QXlWQ2stRDBuSXYwd2lfci1heHhheV9Va2dJNS04d3FJaFVTTUFwcGMyeU05c2xtck5xWGlLZzkwekpFSGRTTkFKUFB0SFZERDc1a1haWVR2QndjMXJCQk82ZTdOQTlXZWNPcXg1NWNab1lGS2l1aW82SFVSOWpBaGF5SHVwTjhDb3Z5NnlHcVVSSHVKQmNXNlp3M1dWNA?oc=5",
+      "market_data": null,
+      "official_confirmation": null,
+      "premium_source_count": 1,
+      "profile_refresh_utc": "2026-10-02T10:07:55.225842+00:00",
+      "published": "Wed, 30 Sep 2026 07:00:00 GMT",
+      "rumor_details": {
+        "ipo_price": null,
+        "listing_estimate": null,
+        "money": [],
+        "percentages": [],
+        "price_range": null,
+        "rumored_party": null,
+        "share_count": null,
+        "underwriter": null
+      },
+      "semantic_copy_count": 0,
+      "source": "PT Bursa Efek Indonesia",
+      "source_breakdown": [
+        {
+          "derivative": false,
+          "group": "pt bursa efek indonesia",
+          "new_material": 0,
+          "quality": "OFFICIAL",
+          "semantic_copy": false,
+          "source": "PT Bursa Efek Indonesia",
+          "tier": 5,
+          "weight": 1.1
+        }
+      ],
+      "source_count": 1,
+      "source_quality": "MEDIUM",
+      "source_quality_score": 5.5,
+      "sources": [
+        "PT Bursa Efek Indonesia"
+      ],
+      "status": "CONFIRMED OFFICIAL",
+      "strength": "CONFIRMED OFFICIAL",
+      "ticker": "ADHI",
+      "title": "RUPSLB ADHI 30 September 2026 Setujui Agenda Restrukturisasi dan Penyehatan Perseroan - PT Bursa Efek Indonesia"
     },
     "SPIN-OFF / RESTRUCTURING|TICKER|TAMU": {
       "category": "SPIN-OFF / RESTRUCTURING",
