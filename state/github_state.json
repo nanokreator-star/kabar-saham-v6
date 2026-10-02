@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 24,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 795,
-  "early_signal_last_scan_utc": "2026-10-02T04:20:50.031335+00:00",
+  "early_signal_last_scan_utc": "2026-10-02T04:30:50.976458+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -50,7 +50,7 @@
       "volume_ratio": 0.03
     }
   },
-  "event_duplicates_suppressed": 53,
+  "event_duplicates_suppressed": 54,
   "event_memory": {
     "IPO|TICKER|SWAP": {
       "family": "IPO",
@@ -5701,11 +5701,11 @@
       "family": "RIGHTS ISSUE",
       "first_seen_utc": "2026-09-30T06:41:24.283090+00:00",
       "last_alert_utc": "2026-09-30T06:41:24.283084+00:00",
-      "last_seen_utc": "2026-10-01T21:21:27.299516+00:00",
+      "last_seen_utc": "2026-10-02T04:31:12.378983+00:00",
       "market_context": {
-        "change_pct": 0.3521,
-        "last_price": 1425.0,
-        "market_date": "2026-10-01"
+        "change_pct": -2.1053,
+        "last_price": 1395.0,
+        "market_date": "2026-10-02"
       },
       "material_snapshot": {
         "acquirer": null,
@@ -8935,8 +8935,8 @@
     }
   },
   "last_keepalive_utc": "2026-09-25T10:31:06.793440+00:00",
-  "last_state_change_utc": "2026-10-02T04:20:50.071770+00:00",
-  "market_noise_suppressed": 6,
+  "last_state_change_utc": "2026-10-02T04:31:12.380191+00:00",
+  "market_noise_suppressed": 7,
   "milestone_alerts": {},
   "rumor_alerts_sent": 115,
   "rumor_baseline_initialized": true,
@@ -8946,8 +8946,8 @@
   "rumor_duplicates_suppressed": 720,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 19,
-  "rumor_integrity_repairs": 1856,
-  "rumor_last_scan_utc": "2026-10-02T04:20:48.412404+00:00",
+  "rumor_integrity_repairs": 1857,
+  "rumor_last_scan_utc": "2026-10-02T04:30:49.890000+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -11011,6 +11011,7 @@
     "f584f718a9664b3a17407a798e0136cd0fd2b2f69fff0f9869fc1673a16ac898": "2026-08-20T03:21:47.165417+00:00",
     "f68bffc1acd84fae237e431671e5a4ce8f03b6a0ec6df570afa0d6847c22ae5a": "2026-08-14T10:15:00.868800+00:00",
     "f78fbc179b94291b2eeb2fd8853c62a5ebb9156fca5529b9c929980c4b861776": "2026-08-14T10:15:00.868800+00:00",
+    "f7c7ebe6089542a2dee5847b151054d979c1fdae2a6b2938c13784a03cfc332a": "2026-10-02T04:31:12.378972+00:00",
     "f8a8224a34feba0a0cb2efd2e8f2e27a367a7d367963714b3bebac09ae8f88c6": "2026-08-14T10:15:00.868800+00:00",
     "f8fb1eea7f3931c8c49eda5628d65af20d0a78b4aa4a20d5cc9c1b4ce4e73b29": "2026-08-14T10:15:00.868800+00:00",
     "fcdbae73571cb3a9f90be1262db52468ce7b912e97ee5d9ea3ec9ae4a5d8a4b0": "2026-08-14T10:15:00.868800+00:00",
