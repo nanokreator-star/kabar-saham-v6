@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 24,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 795,
-  "early_signal_last_scan_utc": "2026-10-02T05:50:48.199726+00:00",
+  "early_signal_last_scan_utc": "2026-10-02T06:01:00.463823+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -50,7 +50,7 @@
       "volume_ratio": 0.03
     }
   },
-  "event_duplicates_suppressed": 54,
+  "event_duplicates_suppressed": 56,
   "event_memory": {
     "IPO|TICKER|SWAP": {
       "family": "IPO",
@@ -3639,7 +3639,7 @@
       "family": "M&A / TAKEOVER",
       "first_seen_utc": "2026-10-02T04:10:42.623353+00:00",
       "last_alert_utc": "2026-10-02T04:10:42.623348+00:00",
-      "last_seen_utc": "2026-10-02T04:10:42.623348+00:00",
+      "last_seen_utc": "2026-10-02T06:01:01.800074+00:00",
       "market_context": {
         "change_pct": null,
         "last_price": null,
@@ -3898,7 +3898,7 @@
       "family": "M&A / TAKEOVER",
       "first_seen_utc": "2026-10-02T04:10:43.845766+00:00",
       "last_alert_utc": "2026-10-02T04:10:43.845760+00:00",
-      "last_seen_utc": "2026-10-02T04:10:43.845760+00:00",
+      "last_seen_utc": "2026-10-02T06:01:02.686666+00:00",
       "market_context": {
         "change_pct": null,
         "last_price": null,
@@ -9007,7 +9007,7 @@
     }
   },
   "last_keepalive_utc": "2026-09-25T10:31:06.793440+00:00",
-  "last_state_change_utc": "2026-10-02T05:50:48.237999+00:00",
+  "last_state_change_utc": "2026-10-02T06:01:02.688682+00:00",
   "market_noise_suppressed": 7,
   "milestone_alerts": {},
   "rumor_alerts_sent": 115,
@@ -9018,8 +9018,8 @@
   "rumor_duplicates_suppressed": 720,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 19,
-  "rumor_integrity_repairs": 1865,
-  "rumor_last_scan_utc": "2026-10-02T05:50:47.478344+00:00",
+  "rumor_integrity_repairs": 1866,
+  "rumor_last_scan_utc": "2026-10-02T06:00:59.638000+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -10526,7 +10526,7 @@
     },
     "SPIN-OFF / RESTRUCTURING|TICKER|TAMU": {
       "category": "SPIN-OFF / RESTRUCTURING",
-      "company_name": "PT Pelayaran Tamarin Samudra Tbk. TAMU 1 Restrukturisasi utang",
+      "company_name": "Pelayaran Tamarin Samudra",
       "copy_duplicate_count": 0,
       "credible_effective_independent_count": 1.1,
       "derivative_source_count": 0,
@@ -10780,7 +10780,9 @@
     "151f17f0267fb563ce82e18323c9b9ff31657d6d28084d531ee223c8ed0b8276": "2026-08-29T06:30:55.462288+00:00",
     "17d166eda3d2eaf971408220a84e44295105a841ca0747bbcc0a82e96f4fa06b": "2026-09-18T05:21:05.457166+00:00",
     "18beeebad9d1af50f22cc31ba32cf7cd3d7f43b1e9c7f390145e19aa869f8355": "2026-09-04T07:31:09.699142+00:00",
+    "194e34aadbbadb29ea6284201a6dd105ccc6ce0854cc6e659ade2124e03624a8": "2026-10-02T06:01:02.686653+00:00",
     "1962c723d96cdbeb17d3e5f5219b57782e8db06b60bbbfeccaeb294012c16873": "2026-09-26T18:20:53.491933+00:00",
+    "1ab368b7959516aa246d345837c3dd014878bdd9353fcf714c094b8d4ff8aa59": "2026-10-02T06:01:01.800061+00:00",
     "1b2cd9b2bd6a771ea2ea969e1c6bcc61201fb3dcf0db87227874ff9f76b3317b": "2026-08-21T03:11:07.382924+00:00",
     "1bd8f6063a72b9667300b2c7e4a2718aa76ff4b3c6e17a3abfbd739fb077503b": "2026-08-14T10:15:00.868800+00:00",
     "1c5b380735bd1ad2389f2e0f4655850eadfbc1a18a12ee7f2b93b191c0bfbc81": "2026-09-30T06:31:11.701312+00:00",
