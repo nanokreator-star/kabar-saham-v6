@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 24,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 795,
-  "early_signal_last_scan_utc": "2026-10-02T08:10:48.670515+00:00",
+  "early_signal_last_scan_utc": "2026-10-02T08:51:04.247452+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -8933,7 +8933,7 @@
       "owner_context_sources": 0,
       "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
       "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-      "owner_v6_checked_utc": "2026-10-01T20:31:04.122180+00:00",
+      "owner_v6_checked_utc": "2026-10-02T08:50:56.680044+00:00",
       "owner_v6_pages_fetched": 0,
       "profile_source": "Yahoo Finance",
       "profile_source_quality": "FALLBACK",
@@ -8942,7 +8942,7 @@
       "subindustry": null,
       "subsector": null,
       "ticker": "TAMU",
-      "verified_at": "2026-10-01T20:31:04.948739+00:00",
+      "verified_at": "2026-10-02T08:50:57.372913+00:00",
       "website": "https://www.tamarin.co.id"
     },
     "TBIG": {
@@ -9088,7 +9088,7 @@
     }
   },
   "last_keepalive_utc": "2026-09-25T10:31:06.793440+00:00",
-  "last_state_change_utc": "2026-10-02T08:10:48.750191+00:00",
+  "last_state_change_utc": "2026-10-02T08:51:04.296300+00:00",
   "market_noise_suppressed": 7,
   "milestone_alerts": {},
   "rumor_alerts_sent": 115,
@@ -9100,7 +9100,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 19,
   "rumor_integrity_repairs": 1871,
-  "rumor_last_scan_utc": "2026-10-02T08:10:48.316762+00:00",
+  "rumor_last_scan_utc": "2026-10-02T08:51:04.086623+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -9184,11 +9184,11 @@
         },
         {
           "derivative": true,
-          "group": "bursanusantara.com",
+          "group": "bursa nusantara",
           "new_material": 0,
           "quality": "LOW",
           "semantic_copy": false,
-          "source": "bursanusantara.com",
+          "source": "Bursa Nusantara",
           "tier": 1,
           "weight": 0.25
         }
@@ -9198,8 +9198,8 @@
       "source_quality_score": 4.2,
       "sources": [
         "kontan.co.id",
-        "bursanusantara.com",
         "Bursa Nusantara",
+        "bursanusantara.com",
         "investasi.kontan.co.id"
       ],
       "status": "ACTIVE",
@@ -10628,7 +10628,7 @@
         "owner_context_sources": 0,
         "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
         "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-        "owner_v6_checked_utc": "2026-10-01T20:31:04.122180+00:00",
+        "owner_v6_checked_utc": "2026-10-02T08:50:56.680044+00:00",
         "owner_v6_pages_fetched": 0,
         "profile_source": "Yahoo Finance",
         "profile_source_quality": "FALLBACK",
@@ -10637,7 +10637,7 @@
         "subindustry": null,
         "subsector": null,
         "ticker": "TAMU",
-        "verified_at": "2026-10-01T20:31:04.948739+00:00",
+        "verified_at": "2026-10-02T08:50:57.372913+00:00",
         "website": "https://www.tamarin.co.id"
       },
       "key": "SPIN-OFF / RESTRUCTURING|TICKER|TAMU",
@@ -10646,7 +10646,7 @@
       "market_data": null,
       "official_confirmation": null,
       "premium_source_count": 1,
-      "profile_refresh_utc": "2026-10-01T20:31:11.812991+00:00",
+      "profile_refresh_utc": "2026-10-02T08:51:04.083698+00:00",
       "published": "Mon, 28 Sep 2026 16:15:00 GMT",
       "rumor_details": {
         "ipo_price": null,
