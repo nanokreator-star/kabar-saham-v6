@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 24,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 795,
-  "early_signal_last_scan_utc": "2026-10-02T08:51:04.247452+00:00",
+  "early_signal_last_scan_utc": "2026-10-02T09:20:53.570918+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -50,7 +50,7 @@
       "volume_ratio": 0.03
     }
   },
-  "event_duplicates_suppressed": 57,
+  "event_duplicates_suppressed": 58,
   "event_memory": {
     "IPO|TICKER|SWAP": {
       "family": "IPO",
@@ -2501,7 +2501,7 @@
       "family": "M&A / TAKEOVER",
       "first_seen_utc": "2026-08-20T03:24:19.258288+00:00",
       "last_alert_utc": "2026-10-02T06:50:58.197340+00:00",
-      "last_seen_utc": "2026-10-02T06:50:58.197340+00:00",
+      "last_seen_utc": "2026-10-02T09:21:04.459541+00:00",
       "market_context": {
         "change_pct": 1.3889,
         "last_price": 73.0,
@@ -9088,7 +9088,7 @@
     }
   },
   "last_keepalive_utc": "2026-09-25T10:31:06.793440+00:00",
-  "last_state_change_utc": "2026-10-02T08:51:04.296300+00:00",
+  "last_state_change_utc": "2026-10-02T09:21:04.461091+00:00",
   "market_noise_suppressed": 7,
   "milestone_alerts": {},
   "rumor_alerts_sent": 115,
@@ -9096,11 +9096,11 @@
   "rumor_confirmed_count": 44,
   "rumor_confirmed_dedups": 0,
   "rumor_denied_count": 0,
-  "rumor_duplicates_suppressed": 720,
+  "rumor_duplicates_suppressed": 721,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 19,
   "rumor_integrity_repairs": 1871,
-  "rumor_last_scan_utc": "2026-10-02T08:51:04.086623+00:00",
+  "rumor_last_scan_utc": "2026-10-02T09:20:53.267926+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -9170,7 +9170,7 @@
         "underwriter": null
       },
       "semantic_copy_count": 0,
-      "source": "kontan.co.id",
+      "source": "investasi.kontan.co.id",
       "source_breakdown": [
         {
           "derivative": false,
@@ -9178,7 +9178,7 @@
           "new_material": 1,
           "quality": "HIGH",
           "semantic_copy": false,
-          "source": "kontan.co.id",
+          "source": "investasi.kontan.co.id",
           "tier": 4,
           "weight": 1.0
         },
@@ -9197,15 +9197,15 @@
       "source_quality": "MEDIUM",
       "source_quality_score": 4.2,
       "sources": [
-        "kontan.co.id",
+        "investasi.kontan.co.id",
         "Bursa Nusantara",
-        "bursanusantara.com",
-        "investasi.kontan.co.id"
+        "kontan.co.id",
+        "bursanusantara.com"
       ],
       "status": "ACTIVE",
       "strength": "MEDIUM",
       "ticker": "BBCA",
-      "title": "Sempat Terjadi Crossing 114 Juta Saham BBCA, Benarkah Terkait Isu Akuisisi? - kontan.co.id"
+      "title": "Sempat Terjadi Crossing 114 Juta Saham BBCA, Benarkah Terkait Isu Akuisisi? - investasi.kontan.co.id"
     },
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -10903,6 +10903,7 @@
     "2f5eda602204daafb29695f8c8a2f76211cc1929371765dc19765e91b9d7d1e6": "2026-08-14T10:15:00.868800+00:00",
     "2f635c686abb45a9914b5c32e19214749de08da89fb5a7719085e877d22d9cb6": "2026-08-14T10:15:00.868800+00:00",
     "30d8f6f1cbecf8d5037a22e94d438f85f617b3203d43a2fc1f0ea8d6e98b60e1": "2026-08-14T10:15:00.868800+00:00",
+    "326a70fb3abcfad7b31c10f6b77c01969306fcb01b89af0b2f6f6f2e1c0b419e": "2026-10-02T09:21:04.459531+00:00",
     "32a03db354f787a7abe2405f9ad29567f8ccc17313ae160654afff4a4f3eda0e": "2026-09-02T19:21:15.784045+00:00",
     "32bcea9c3f7f5848c5a1c3a99b398bfc823558d6ac18e2dce3ffedb95dd6c5df": "2026-09-30T06:01:06.349388+00:00",
     "33cd8caf070b1689d28a239c9e5449cad19f070f19bc288fa4ef04429de2ae78": "2026-08-28T13:40:50.293389+00:00",
