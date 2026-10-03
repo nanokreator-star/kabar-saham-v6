@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 24,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 795,
-  "early_signal_last_scan_utc": "2026-10-03T15:30:57.658349+00:00",
+  "early_signal_last_scan_utc": "2026-10-03T15:41:02.731272+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -8182,7 +8182,7 @@
       "owner_context_sources": 0,
       "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
       "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-      "owner_v6_checked_utc": "2026-10-03T03:31:03.120182+00:00",
+      "owner_v6_checked_utc": "2026-10-03T15:40:53.034175+00:00",
       "owner_v6_pages_fetched": 0,
       "profile_source": "Yahoo Finance",
       "profile_source_quality": "FALLBACK",
@@ -8191,7 +8191,7 @@
       "subindustry": null,
       "subsector": null,
       "ticker": "BBCA",
-      "verified_at": "2026-10-03T03:31:03.944504+00:00",
+      "verified_at": "2026-10-03T15:40:54.049831+00:00",
       "website": "https://www.bca.co.id"
     },
     "BBHI": {
@@ -9485,7 +9485,7 @@
     }
   },
   "last_keepalive_utc": "2026-09-25T10:31:06.793440+00:00",
-  "last_state_change_utc": "2026-10-03T15:30:57.708172+00:00",
+  "last_state_change_utc": "2026-10-03T15:41:02.764311+00:00",
   "market_noise_suppressed": 7,
   "milestone_alerts": {},
   "rumor_alerts_sent": 116,
@@ -9496,8 +9496,8 @@
   "rumor_duplicates_suppressed": 736,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 19,
-  "rumor_integrity_repairs": 1970,
-  "rumor_last_scan_utc": "2026-10-03T15:30:57.640390+00:00",
+  "rumor_integrity_repairs": 1971,
+  "rumor_last_scan_utc": "2026-10-03T15:41:02.717091+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -9522,7 +9522,7 @@
         "owner_context_sources": 0,
         "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
         "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-        "owner_v6_checked_utc": "2026-10-03T03:31:03.120182+00:00",
+        "owner_v6_checked_utc": "2026-10-03T15:40:53.034175+00:00",
         "owner_v6_pages_fetched": 0,
         "profile_source": "Yahoo Finance",
         "profile_source_quality": "FALLBACK",
@@ -9531,7 +9531,7 @@
         "subindustry": null,
         "subsector": null,
         "ticker": "BBCA",
-        "verified_at": "2026-10-03T03:31:03.944504+00:00",
+        "verified_at": "2026-10-03T15:40:54.049831+00:00",
         "website": "https://www.bca.co.id"
       },
       "key": "AKUISISI / TAKEOVER|TICKER|BBCA",
@@ -9554,7 +9554,7 @@
       },
       "official_confirmation": null,
       "premium_source_count": 1,
-      "profile_refresh_utc": "2026-10-03T03:31:18.046822+00:00",
+      "profile_refresh_utc": "2026-10-03T15:41:02.715731+00:00",
       "published": "Thu, 01 Oct 2026 00:53:20 GMT",
       "rumor_details": {
         "ipo_price": null,
@@ -10577,7 +10577,7 @@
     },
     "PRIVATE PLACEMENT|TICKER|EFEK": {
       "category": "PRIVATE PLACEMENT",
-      "company_name": "PT Remitra Global Interna",
+      "company_name": "EFEK",
       "copy_duplicate_count": 0,
       "credible_effective_independent_count": 1.1,
       "derivative_source_count": 0,
