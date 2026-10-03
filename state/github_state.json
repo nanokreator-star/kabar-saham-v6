@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 24,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 795,
-  "early_signal_last_scan_utc": "2026-10-03T10:50:42.869003+00:00",
+  "early_signal_last_scan_utc": "2026-10-03T13:10:58.366521+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -3051,6 +3051,42 @@
         "target": null,
         "target_confirmed": false,
         "tender_price": "Rp858",
+        "underwriter": null,
+        "use_of_funds": []
+      },
+      "ticker": ""
+    },
+    "M&A / TAKEOVER|TITLE|ASTRA INTERNATIONAL SIAP ASTRA OTOPARTS KORIDOR CO": {
+      "family": "M&A / TAKEOVER",
+      "first_seen_utc": "2026-10-03T13:11:01.547435+00:00",
+      "last_alert_utc": "2026-10-03T13:11:01.547431+00:00",
+      "last_seen_utc": "2026-10-03T13:11:01.547431+00:00",
+      "market_context": {
+        "change_pct": null,
+        "last_price": null,
+        "market_date": null
+      },
+      "material_snapshot": {
+        "acquirer": null,
+        "acquirer_confirmed": false,
+        "event_type": "TENDER OFFER",
+        "execution_price": null,
+        "ipo_single_price": null,
+        "money": [],
+        "official_authority": null,
+        "official_kind": null,
+        "price_range": null,
+        "ratio": null,
+        "schedule": {},
+        "share_count": null,
+        "stage": "TENDER OFFER",
+        "stage_step": 6,
+        "stage_total": 7,
+        "stake": [],
+        "standby_buyer": null,
+        "target": null,
+        "target_confirmed": false,
+        "tender_price": null,
         "underwriter": null,
         "use_of_funds": []
       },
@@ -9413,7 +9449,7 @@
     }
   },
   "last_keepalive_utc": "2026-09-25T10:31:06.793440+00:00",
-  "last_state_change_utc": "2026-10-03T10:50:42.900665+00:00",
+  "last_state_change_utc": "2026-10-03T13:11:01.548749+00:00",
   "market_noise_suppressed": 7,
   "milestone_alerts": {},
   "rumor_alerts_sent": 116,
@@ -9425,7 +9461,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 19,
   "rumor_integrity_repairs": 1957,
-  "rumor_last_scan_utc": "2026-10-03T10:50:42.855198+00:00",
+  "rumor_last_scan_utc": "2026-10-03T13:10:58.355332+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -10562,7 +10598,7 @@
     },
     "PRIVATE PLACEMENT|TICKER|EFEK": {
       "category": "PRIVATE PLACEMENT",
-      "company_name": "EFEK",
+      "company_name": "PT Remitra Global Interna",
       "copy_duplicate_count": 0,
       "credible_effective_independent_count": 1.1,
       "derivative_source_count": 0,
@@ -11384,6 +11420,7 @@
     "9f71a7635b17ac7558c2f03c191c657e6ed1c66594357ef909c6839ffacb08be": "2026-08-14T10:15:00.868800+00:00",
     "9f99458747642855c74d4e2cbe37f8a6cb073ee77eec71179a419b97056f4117": "2026-10-03T09:30:54.541000+00:00",
     "a0122d5c3c2c93456f86af53b3928e029b1dd537a9028200bfc392e0ab931145": "2026-08-20T03:21:47.165417+00:00",
+    "a05ce50ce611f2f9bdba9077e9bb743111bed97e79ccebfac4f2c4a0d7a1d509": "2026-10-03T13:11:01.547411+00:00",
     "a0aaef4681fe1e5ff35b0dbd9da81ab1af3c65b7445c2a93b8b4b08878619e16": "2026-08-14T10:15:00.868800+00:00",
     "a1ec20cbc6200644cb2ca36e4100d4987bc2adb9cf6c941c755e2d5d6644dc51": "2026-09-11T08:01:14.955541+00:00",
     "a2ca1e0da9ffb3edfc2af75bfbbc98cc266e3253042b9de9cced630247084add": "2026-08-14T10:15:00.868800+00:00",
