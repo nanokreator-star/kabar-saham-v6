@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 24,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 795,
-  "early_signal_last_scan_utc": "2026-10-03T03:31:18.067874+00:00",
+  "early_signal_last_scan_utc": "2026-10-03T05:10:48.196517+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -1156,20 +1156,22 @@
     "M&A / TAKEOVER|PARTIES|DOOH BERENCANA|": {
       "family": "M&A / TAKEOVER",
       "first_seen_utc": "2026-10-02T11:21:05.054751+00:00",
-      "last_alert_utc": "2026-10-02T11:21:05.054746+00:00",
-      "last_seen_utc": "2026-10-02T14:01:27.297333+00:00",
+      "last_alert_utc": "2026-10-03T05:10:50.217617+00:00",
+      "last_seen_utc": "2026-10-03T05:10:50.217617+00:00",
       "market_context": {
         "change_pct": null,
         "last_price": null,
         "market_date": null
       },
       "material_snapshot": {
-        "acquirer": "\ud83e\udd1d DOOH Berencana",
+        "acquirer": "DOOH Berencana",
         "acquirer_confirmed": true,
         "event_type": "AKUISISI",
         "execution_price": null,
         "ipo_single_price": null,
-        "money": [],
+        "money": [
+          "Rp2 triliun"
+        ],
         "official_authority": null,
         "official_kind": null,
         "price_range": null,
@@ -9293,7 +9295,7 @@
     }
   },
   "last_keepalive_utc": "2026-09-25T10:31:06.793440+00:00",
-  "last_state_change_utc": "2026-10-03T03:31:18.121087+00:00",
+  "last_state_change_utc": "2026-10-03T05:10:50.219755+00:00",
   "market_noise_suppressed": 7,
   "milestone_alerts": {},
   "rumor_alerts_sent": 116,
@@ -9305,7 +9307,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 19,
   "rumor_integrity_repairs": 1956,
-  "rumor_last_scan_utc": "2026-10-03T03:31:18.048793+00:00",
+  "rumor_last_scan_utc": "2026-10-03T05:10:48.177611+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -11045,6 +11047,7 @@
     "0b66cabc49649ae7a9fa512eb90cf15c654bf40ce47585c71e2d5a51a37d1c07": "2026-09-07T05:01:00.193835+00:00",
     "0b8ae5a6574e1b06db243a58436c327ab01fce8519adb6e48e1af8c307984b49": "2026-09-25T16:20:50.588575+00:00",
     "0bc383e38ef89792db4ac5da55a293d15cba4c87a2ea9d68ed10d510cccdd477": "2026-08-20T03:21:47.165417+00:00",
+    "0bd0099b0c3ea99ea3607d1693e7e66bf24eecb588be05d24f0272f87c67d27d": "2026-10-03T05:10:50.217598+00:00",
     "0bd81597f759c20cc8c802928a344b88c585b60223a6a234f8b0f6a0f397b4c0": "2026-08-20T03:21:47.165417+00:00",
     "0c76e071ca99093ad0eecc4d7e895e13a9f4c888c7cedae80ec7ad61ff0de3e0": "2026-09-04T05:41:32.728730+00:00",
     "0d5860f7f65369c0ad8bd6309e2a6f64201ec4b2b420337eea62b645038bacc7": "2026-10-02T22:41:01.482416+00:00",
