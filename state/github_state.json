@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 24,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 795,
-  "early_signal_last_scan_utc": "2026-10-03T14:40:49.880610+00:00",
+  "early_signal_last_scan_utc": "2026-10-03T14:50:42.925721+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -98,6 +98,42 @@
         ]
       },
       "ticker": "SWAP"
+    },
+    "IPO|TITLE|ANTHROPIC AKUI RISIKO EKSISTENSIAL AI DALAM PROSPEKTUS": {
+      "family": "IPO",
+      "first_seen_utc": "2026-10-03T14:50:45.376166+00:00",
+      "last_alert_utc": "2026-10-03T14:50:45.376162+00:00",
+      "last_seen_utc": "2026-10-03T14:50:45.376162+00:00",
+      "market_context": {
+        "change_pct": null,
+        "last_price": null,
+        "market_date": null
+      },
+      "material_snapshot": {
+        "acquirer": null,
+        "acquirer_confirmed": false,
+        "event_type": "IPO",
+        "execution_price": null,
+        "ipo_single_price": null,
+        "money": [],
+        "official_authority": null,
+        "official_kind": null,
+        "price_range": null,
+        "ratio": null,
+        "schedule": {},
+        "share_count": null,
+        "stage": "RENCANA / PROSPEKTUS",
+        "stage_step": 2,
+        "stage_total": 5,
+        "stake": [],
+        "standby_buyer": null,
+        "target": null,
+        "target_confirmed": false,
+        "tender_price": null,
+        "underwriter": null,
+        "use_of_funds": []
+      },
+      "ticker": ""
     },
     "IPO|TITLE|BEI ADA CALON ANTRE DUA BERASAL SEKTOR": {
       "family": "IPO",
@@ -9449,7 +9485,7 @@
     }
   },
   "last_keepalive_utc": "2026-09-25T10:31:06.793440+00:00",
-  "last_state_change_utc": "2026-10-03T14:40:49.934466+00:00",
+  "last_state_change_utc": "2026-10-03T14:50:45.377394+00:00",
   "market_noise_suppressed": 7,
   "milestone_alerts": {},
   "rumor_alerts_sent": 116,
@@ -9460,8 +9496,8 @@
   "rumor_duplicates_suppressed": 736,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 19,
-  "rumor_integrity_repairs": 1966,
-  "rumor_last_scan_utc": "2026-10-03T14:40:49.861961+00:00",
+  "rumor_integrity_repairs": 1967,
+  "rumor_last_scan_utc": "2026-10-03T14:50:42.915612+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -11245,6 +11281,7 @@
     "23009cecac49a7bdb0c49820a59b69c655a8feca6af91712bf1db5e9b9622bfd": "2026-09-30T11:21:40.393091+00:00",
     "23631988368f35d98ff769a9badb44701656daefbb89abe01028a0ed3998262f": "2026-09-23T04:30:51.459933+00:00",
     "23fa35aa38f62afefc77fe3fa2c34f86bb8a4acd22de199c0ad1aeb46fbaa0e1": "2026-08-24T09:21:00.218640+00:00",
+    "2425eaf6c4692970aeb9afa3e92df36eb3c0ea9648a7ca63fe7406865db786ea": "2026-10-03T14:50:45.376143+00:00",
     "24c3f86abf09c13899d6aa5e0c7ff1240908e4d8e2f0f5f1b0e0d6eabd465eeb": "2026-08-20T11:56:54.702749+00:00",
     "2509b9d74e72beba4f0773f976e7cadb2a4b1fa149e824df6c839712e37ba7e2": "2026-08-14T10:15:00.868800+00:00",
     "254c500915afa0c07572e1269d8fe55758b52d547473a5368a65e9fac288b9f9": "2026-08-14T10:15:00.868800+00:00",
