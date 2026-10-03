@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 24,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 795,
-  "early_signal_last_scan_utc": "2026-10-03T09:30:51.229243+00:00",
+  "early_signal_last_scan_utc": "2026-10-03T10:45:45.754233+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -7990,7 +7990,7 @@
       "owner_context_sources": 0,
       "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
       "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-      "owner_v6_checked_utc": "2026-10-02T22:13:08.191094+00:00",
+      "owner_v6_checked_utc": "2026-10-03T10:43:03.257395+00:00",
       "owner_v6_pages_fetched": 0,
       "profile_source": "Yahoo Finance",
       "profile_source_quality": "FALLBACK",
@@ -7999,7 +7999,7 @@
       "subindustry": null,
       "subsector": null,
       "ticker": "ADHI",
-      "verified_at": "2026-10-02T22:13:08.987948+00:00",
+      "verified_at": "2026-10-03T10:43:03.952744+00:00",
       "website": "https://adhi.co.id"
     },
     "ANAK": {
@@ -8557,7 +8557,7 @@
       "owner_context_sources": 0,
       "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
       "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-      "owner_v6_checked_utc": "2026-10-02T22:15:53.397003+00:00",
+      "owner_v6_checked_utc": "2026-10-03T10:45:45.357160+00:00",
       "owner_v6_pages_fetched": 0,
       "profile_source": "Yahoo Finance",
       "profile_source_quality": "FALLBACK",
@@ -9413,7 +9413,7 @@
     }
   },
   "last_keepalive_utc": "2026-09-25T10:31:06.793440+00:00",
-  "last_state_change_utc": "2026-10-03T09:30:54.542351+00:00",
+  "last_state_change_utc": "2026-10-03T10:45:45.804979+00:00",
   "market_noise_suppressed": 7,
   "milestone_alerts": {},
   "rumor_alerts_sent": 116,
@@ -9425,7 +9425,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 19,
   "rumor_integrity_repairs": 1956,
-  "rumor_last_scan_utc": "2026-10-03T09:30:51.217842+00:00",
+  "rumor_last_scan_utc": "2026-10-03T10:45:45.735484+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -10562,7 +10562,7 @@
     },
     "PRIVATE PLACEMENT|TICKER|EFEK": {
       "category": "PRIVATE PLACEMENT",
-      "company_name": "EFEK",
+      "company_name": "PT Remitra Global Interna",
       "copy_duplicate_count": 0,
       "credible_effective_independent_count": 1.1,
       "derivative_source_count": 0,
@@ -10874,7 +10874,7 @@
         "owner_context_sources": 0,
         "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
         "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-        "owner_v6_checked_utc": "2026-10-02T22:13:08.191094+00:00",
+        "owner_v6_checked_utc": "2026-10-03T10:43:03.257395+00:00",
         "owner_v6_pages_fetched": 0,
         "profile_source": "Yahoo Finance",
         "profile_source_quality": "FALLBACK",
@@ -10883,7 +10883,7 @@
         "subindustry": null,
         "subsector": null,
         "ticker": "ADHI",
-        "verified_at": "2026-10-02T22:13:08.987948+00:00",
+        "verified_at": "2026-10-03T10:43:03.952744+00:00",
         "website": "https://adhi.co.id"
       },
       "key": "SPIN-OFF / RESTRUCTURING|TICKER|ADHI",
@@ -10892,7 +10892,7 @@
       "market_data": null,
       "official_confirmation": null,
       "premium_source_count": 1,
-      "profile_refresh_utc": "2026-10-02T22:15:53.777723+00:00",
+      "profile_refresh_utc": "2026-10-03T10:45:45.733180+00:00",
       "published": "Wed, 30 Sep 2026 07:00:00 GMT",
       "rumor_details": {
         "ipo_price": null,
