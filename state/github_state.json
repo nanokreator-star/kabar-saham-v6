@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 24,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 795,
-  "early_signal_last_scan_utc": "2026-10-04T09:40:55.483085+00:00",
+  "early_signal_last_scan_utc": "2026-10-04T09:50:43.784879+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -9523,7 +9523,7 @@
     }
   },
   "last_keepalive_utc": "2026-09-25T10:31:06.793440+00:00",
-  "last_state_change_utc": "2026-10-04T09:40:55.527006+00:00",
+  "last_state_change_utc": "2026-10-04T09:50:43.836869+00:00",
   "market_noise_suppressed": 7,
   "milestone_alerts": {},
   "rumor_alerts_sent": 116,
@@ -9531,11 +9531,11 @@
   "rumor_confirmed_count": 44,
   "rumor_confirmed_dedups": 0,
   "rumor_denied_count": 0,
-  "rumor_duplicates_suppressed": 753,
+  "rumor_duplicates_suppressed": 754,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 20,
-  "rumor_integrity_repairs": 2027,
-  "rumor_last_scan_utc": "2026-10-04T09:40:55.469919+00:00",
+  "rumor_integrity_repairs": 2028,
+  "rumor_last_scan_utc": "2026-10-04T09:50:43.766407+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -10409,7 +10409,7 @@
         "underwriter": null
       },
       "semantic_copy_count": 0,
-      "source": "ekonomi.bisnis.com",
+      "source": "Bisnis.com - Ekonomi",
       "source_breakdown": [
         {
           "derivative": false,
@@ -10417,7 +10417,7 @@
           "new_material": 0,
           "quality": "HIGH",
           "semantic_copy": false,
-          "source": "ekonomi.bisnis.com",
+          "source": "Bisnis.com - Ekonomi",
           "tier": 4,
           "weight": 1.0
         }
@@ -10426,13 +10426,13 @@
       "source_quality": "MEDIUM",
       "source_quality_score": 4.0,
       "sources": [
-        "ekonomi.bisnis.com",
-        "Bisnis.com - Ekonomi"
+        "Bisnis.com - Ekonomi",
+        "ekonomi.bisnis.com"
       ],
       "status": "ACTIVE",
       "strength": "WEAK",
       "ticker": "ASDP",
-      "title": "Bos Danantara Buka Suara soal Wacana Merger ASDP dan Pelni - ekonomi.bisnis.com"
+      "title": "Bos Danantara Buka Suara soal Wacana Merger ASDP dan Pelni - Bisnis.com - Ekonomi"
     },
     "MERGER|TICKER|PDSI": {
       "category": "MERGER",
