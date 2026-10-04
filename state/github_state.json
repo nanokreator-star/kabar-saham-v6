@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 24,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 795,
-  "early_signal_last_scan_utc": "2026-10-04T03:40:46.539434+00:00",
+  "early_signal_last_scan_utc": "2026-10-04T03:51:07.798535+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -8182,7 +8182,7 @@
       "owner_context_sources": 0,
       "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
       "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-      "owner_v6_checked_utc": "2026-10-03T15:40:53.034175+00:00",
+      "owner_v6_checked_utc": "2026-10-04T03:50:57.746868+00:00",
       "owner_v6_pages_fetched": 0,
       "profile_source": "Yahoo Finance",
       "profile_source_quality": "FALLBACK",
@@ -8191,7 +8191,7 @@
       "subindustry": null,
       "subsector": null,
       "ticker": "BBCA",
-      "verified_at": "2026-10-03T15:40:54.049831+00:00",
+      "verified_at": "2026-10-04T03:50:58.771225+00:00",
       "website": "https://www.bca.co.id"
     },
     "BBHI": {
@@ -9485,7 +9485,7 @@
     }
   },
   "last_keepalive_utc": "2026-09-25T10:31:06.793440+00:00",
-  "last_state_change_utc": "2026-10-04T03:40:46.590941+00:00",
+  "last_state_change_utc": "2026-10-04T03:51:07.825025+00:00",
   "market_noise_suppressed": 7,
   "milestone_alerts": {},
   "rumor_alerts_sent": 116,
@@ -9493,11 +9493,11 @@
   "rumor_confirmed_count": 44,
   "rumor_confirmed_dedups": 0,
   "rumor_denied_count": 0,
-  "rumor_duplicates_suppressed": 749,
+  "rumor_duplicates_suppressed": 750,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 19,
-  "rumor_integrity_repairs": 1992,
-  "rumor_last_scan_utc": "2026-10-04T03:40:46.520835+00:00",
+  "rumor_integrity_repairs": 1993,
+  "rumor_last_scan_utc": "2026-10-04T03:51:07.789342+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -9522,7 +9522,7 @@
         "owner_context_sources": 0,
         "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
         "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-        "owner_v6_checked_utc": "2026-10-03T15:40:53.034175+00:00",
+        "owner_v6_checked_utc": "2026-10-04T03:50:57.746868+00:00",
         "owner_v6_pages_fetched": 0,
         "profile_source": "Yahoo Finance",
         "profile_source_quality": "FALLBACK",
@@ -9531,7 +9531,7 @@
         "subindustry": null,
         "subsector": null,
         "ticker": "BBCA",
-        "verified_at": "2026-10-03T15:40:54.049831+00:00",
+        "verified_at": "2026-10-04T03:50:58.771225+00:00",
         "website": "https://www.bca.co.id"
       },
       "key": "AKUISISI / TAKEOVER|TICKER|BBCA",
@@ -9554,7 +9554,7 @@
       },
       "official_confirmation": null,
       "premium_source_count": 1,
-      "profile_refresh_utc": "2026-10-03T15:41:02.715731+00:00",
+      "profile_refresh_utc": "2026-10-04T03:51:07.788074+00:00",
       "published": "Thu, 01 Oct 2026 00:53:20 GMT",
       "rumor_details": {
         "ipo_price": null,
@@ -9567,7 +9567,7 @@
         "underwriter": null
       },
       "semantic_copy_count": 0,
-      "source": "investasi.kontan.co.id",
+      "source": "kontan.co.id",
       "source_breakdown": [
         {
           "derivative": false,
@@ -9575,7 +9575,7 @@
           "new_material": 1,
           "quality": "HIGH",
           "semantic_copy": false,
-          "source": "investasi.kontan.co.id",
+          "source": "kontan.co.id",
           "tier": 4,
           "weight": 1.0
         }
@@ -9584,15 +9584,15 @@
       "source_quality": "MEDIUM",
       "source_quality_score": 4.0,
       "sources": [
-        "investasi.kontan.co.id",
         "kontan.co.id",
+        "investasi.kontan.co.id",
         "Bursa Nusantara",
         "bursanusantara.com"
       ],
       "status": "ACTIVE",
       "strength": "MEDIUM",
       "ticker": "BBCA",
-      "title": "Sempat Terjadi Crossing 114 Juta Saham BBCA, Benarkah Terkait Isu Akuisisi? - investasi.kontan.co.id"
+      "title": "Sempat Terjadi Crossing 114 Juta Saham BBCA, Benarkah Terkait Isu Akuisisi? - kontan.co.id"
     },
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
