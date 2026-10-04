@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 24,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 795,
-  "early_signal_last_scan_utc": "2026-10-04T10:50:45.435086+00:00",
+  "early_signal_last_scan_utc": "2026-10-04T11:31:06.003742+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -3314,6 +3314,42 @@
         "use_of_funds": []
       },
       "ticker": "DOOH"
+    },
+    "M&A / TAKEOVER|TITLE|DOOH GELAR MANDATORY RP148 PER LEMBAR KORIDOR": {
+      "family": "M&A / TAKEOVER",
+      "first_seen_utc": "2026-10-04T11:31:08.065539+00:00",
+      "last_alert_utc": "2026-10-04T11:31:08.065534+00:00",
+      "last_seen_utc": "2026-10-04T11:31:08.065534+00:00",
+      "market_context": {
+        "change_pct": null,
+        "last_price": null,
+        "market_date": null
+      },
+      "material_snapshot": {
+        "acquirer": null,
+        "acquirer_confirmed": false,
+        "event_type": "TENDER OFFER",
+        "execution_price": null,
+        "ipo_single_price": null,
+        "money": [],
+        "official_authority": null,
+        "official_kind": null,
+        "price_range": null,
+        "ratio": null,
+        "schedule": {},
+        "share_count": null,
+        "stage": "TENDER OFFER",
+        "stage_step": 6,
+        "stage_total": 7,
+        "stake": [],
+        "standby_buyer": null,
+        "target": null,
+        "target_confirmed": false,
+        "tender_price": "Rp148",
+        "underwriter": null,
+        "use_of_funds": []
+      },
+      "ticker": ""
     },
     "M&A / TAKEOVER|TITLE|DOOH GELAR WAJIB AKHIR AGUSTUS BLOOMBERG TECHNOZ": {
       "family": "M&A / TAKEOVER",
@@ -9523,7 +9559,7 @@
     }
   },
   "last_keepalive_utc": "2026-09-25T10:31:06.793440+00:00",
-  "last_state_change_utc": "2026-10-04T10:50:45.487541+00:00",
+  "last_state_change_utc": "2026-10-04T11:31:08.067654+00:00",
   "market_noise_suppressed": 7,
   "milestone_alerts": {},
   "rumor_alerts_sent": 116,
@@ -9535,7 +9571,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 20,
   "rumor_integrity_repairs": 2034,
-  "rumor_last_scan_utc": "2026-10-04T10:50:45.416051+00:00",
+  "rumor_last_scan_utc": "2026-10-04T11:31:05.985319+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -10605,7 +10641,7 @@
     },
     "PRIVATE PLACEMENT|TICKER|EFEK": {
       "category": "PRIVATE PLACEMENT",
-      "company_name": "EFEK",
+      "company_name": "PT Remitra Global Interna",
       "copy_duplicate_count": 0,
       "credible_effective_independent_count": 1.1,
       "derivative_source_count": 0,
@@ -11404,6 +11440,7 @@
     "c14b175dec3700ded77111f61fce168509b81587c704f456a1be950be00c6993": "2026-08-14T10:15:00.868800+00:00",
     "c28bc902c738a869195fe1d31710091ea6dae89a717dcac2f2dadeb1329df870": "2026-09-25T16:20:50.588575+00:00",
     "c616291a627db7d68ca648b426423abd56611db4a717f82e7f3b6107e4bdedc9": "2026-09-19T15:11:09.477341+00:00",
+    "c63377493101a073fc2455a1859c87967c9c41e36f8ee40e31341eeb3ccaa791": "2026-10-04T11:31:08.065517+00:00",
     "c66ae0af4755f92d87e7e0a2bd7f688c59ce22ebd8c6221103b156150b34fc1f": "2026-08-24T17:41:03.036709+00:00",
     "c76d361989a26af601c420bc1b9d523e33e80e86539bcdc2da6182debe75a10f": "2026-09-22T07:51:40.556429+00:00",
     "c7a6013a2c6ba6faf8230cc799e19e7982746659652ed0c38308607bfcd0c98d": "2026-09-27T02:21:22.105985+00:00",
