@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 24,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 795,
-  "early_signal_last_scan_utc": "2026-10-04T18:30:54.586059+00:00",
+  "early_signal_last_scan_utc": "2026-10-04T20:11:24.530659+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -2296,6 +2296,44 @@
         "use_of_funds": []
       },
       "ticker": "DPUM"
+    },
+    "M&A / TAKEOVER|TICKER|ENVY": {
+      "family": "M&A / TAKEOVER",
+      "first_seen_utc": "2026-10-04T20:11:30.748858+00:00",
+      "last_alert_utc": "2026-10-04T20:11:30.748853+00:00",
+      "last_seen_utc": "2026-10-04T20:11:30.748853+00:00",
+      "market_context": {
+        "change_pct": null,
+        "last_price": null,
+        "market_date": null
+      },
+      "material_snapshot": {
+        "acquirer": "PT Envy Technologies Indonesia (ENVY) Rencana",
+        "acquirer_confirmed": true,
+        "event_type": "AKUISISI",
+        "execution_price": null,
+        "ipo_single_price": null,
+        "money": [],
+        "official_authority": null,
+        "official_kind": null,
+        "price_range": null,
+        "ratio": null,
+        "schedule": {},
+        "share_count": null,
+        "stage": "RENCANA",
+        "stage_step": 2,
+        "stage_total": 7,
+        "stake": [],
+        "standby_buyer": null,
+        "target": "Perusahaan Jasa Pemasaran",
+        "target_confirmed": true,
+        "tender_price": null,
+        "underwriter": null,
+        "use_of_funds": [
+          "AKUISISI / INVESTASI"
+        ]
+      },
+      "ticker": "ENVY"
     },
     "M&A / TAKEOVER|TICKER|IDEA": {
       "family": "M&A / TAKEOVER",
@@ -8653,6 +8691,26 @@
       "verified_at": "2026-10-04T15:50:41.555419+00:00",
       "website": null
     },
+    "ENVY": {
+      "business_activity": null,
+      "controller": null,
+      "industry": null,
+      "issuer_name": "Jasa Pemasaran",
+      "owner_context_sources": 0,
+      "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
+      "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
+      "owner_v6_checked_utc": "2026-10-04T20:11:30.139500+00:00",
+      "owner_v6_pages_fetched": 0,
+      "profile_source": "Yahoo Finance",
+      "profile_source_quality": "FALLBACK",
+      "profile_source_url": null,
+      "sector": null,
+      "subindustry": null,
+      "subsector": null,
+      "ticker": "ENVY",
+      "verified_at": "2026-10-04T20:11:30.123006+00:00",
+      "website": null
+    },
     "EPAC": {
       "business_activity": "PT Megalestari Epack Sentosaraya Tbk engages in packaging manufacturing business in Indonesia. It offers PET, metallized PET, PE, and BOPP; high barrier and recyclable films; matte, soft touch, and gloss finishes; laminates; and child resis",
       "controller": null,
@@ -9597,7 +9655,7 @@
     }
   },
   "last_keepalive_utc": "2026-09-25T10:31:06.793440+00:00",
-  "last_state_change_utc": "2026-10-04T18:30:55.273238+00:00",
+  "last_state_change_utc": "2026-10-04T20:11:30.750513+00:00",
   "market_noise_suppressed": 7,
   "milestone_alerts": {},
   "rumor_alerts_sent": 116,
@@ -9609,7 +9667,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 20,
   "rumor_integrity_repairs": 2048,
-  "rumor_last_scan_utc": "2026-10-04T18:30:54.564691+00:00",
+  "rumor_last_scan_utc": "2026-10-04T20:11:24.516321+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -11280,6 +11338,7 @@
     "34ea868b6aee641a69a186443b53e7ab78c18365f012bde6c4620ba5eef707b1": "2026-10-02T04:11:18.451080+00:00",
     "35caa677fedc0bf6c3a8fe7f823443af0bd6f067d0642818b29bccc275122630": "2026-09-15T07:01:24.271273+00:00",
     "373b1b316631890d135041562ced1130c3284bda56678d82bdd6f3d5ba7eaddb": "2026-08-25T02:20:52.960599+00:00",
+    "386419857714651762ed9b41d3ad0cd769a3c078803d2f99a33cd8e4996d8917": "2026-10-04T20:11:30.748833+00:00",
     "38cf62fef6a32fd24876cbaf718787cd685b3462d78903fbaf057738f9496dfb": "2026-09-27T09:40:51.776776+00:00",
     "393da6b9936f17f7eca1493737d72866299b2311ee2f267b96b8c5a06fe7dec5": "2026-09-29T13:01:44.943954+00:00",
     "3a4875e1de75f9cc2fa4c39faaf66d5d6f5681f649e7fda2796fe0b99a97265b": "2026-10-01T03:50:57.652725+00:00",
