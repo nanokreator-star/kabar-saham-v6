@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 24,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 795,
-  "early_signal_last_scan_utc": "2026-10-05T06:20:41.999356+00:00",
+  "early_signal_last_scan_utc": "2026-10-05T10:20:53.813732+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -6321,6 +6321,42 @@
       },
       "ticker": ""
     },
+    "RIGHTS ISSUE|TITLE|BRIS RENCANAKAN MILIAR SERI DEMOKRATIS CO ID": {
+      "family": "RIGHTS ISSUE",
+      "first_seen_utc": "2026-10-05T10:20:56.446742+00:00",
+      "last_alert_utc": "2026-10-05T10:20:56.446737+00:00",
+      "last_seen_utc": "2026-10-05T10:20:56.446737+00:00",
+      "market_context": {
+        "change_pct": null,
+        "last_price": null,
+        "market_date": null
+      },
+      "material_snapshot": {
+        "acquirer": null,
+        "acquirer_confirmed": false,
+        "event_type": "RIGHTS ISSUE",
+        "execution_price": null,
+        "ipo_single_price": null,
+        "money": [],
+        "official_authority": null,
+        "official_kind": null,
+        "price_range": null,
+        "ratio": null,
+        "schedule": {},
+        "share_count": "6.8 Miliar saham",
+        "stage": "RENCANA",
+        "stage_step": 2,
+        "stage_total": 6,
+        "stake": [],
+        "standby_buyer": null,
+        "target": null,
+        "target_confirmed": false,
+        "tender_price": null,
+        "underwriter": null,
+        "use_of_funds": []
+      },
+      "ticker": ""
+    },
     "RIGHTS ISSUE|TITLE|BRIS SIAPKAN RENCANA MILIAR KUARTAL 2027 RCTI": {
       "family": "RIGHTS ISSUE",
       "first_seen_utc": "2026-09-30T06:01:06.349411+00:00",
@@ -9655,7 +9691,7 @@
     }
   },
   "last_keepalive_utc": "2026-09-25T10:31:06.793440+00:00",
-  "last_state_change_utc": "2026-10-05T06:20:42.028025+00:00",
+  "last_state_change_utc": "2026-10-05T10:20:56.448808+00:00",
   "market_noise_suppressed": 7,
   "milestone_alerts": {},
   "rumor_alerts_sent": 116,
@@ -9667,7 +9703,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 21,
   "rumor_integrity_repairs": 2048,
-  "rumor_last_scan_utc": "2026-10-05T06:20:41.989099+00:00",
+  "rumor_last_scan_utc": "2026-10-05T10:20:53.794174+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -10738,7 +10774,7 @@
     },
     "PRIVATE PLACEMENT|TICKER|EFEK": {
       "category": "PRIVATE PLACEMENT",
-      "company_name": "EFEK",
+      "company_name": "PT Remitra Global Interna",
       "copy_duplicate_count": 0,
       "credible_effective_independent_count": 1.1,
       "derivative_source_count": 0,
@@ -11347,6 +11383,7 @@
     "3bdc208def8f4cdbbd78eaa106220cad71db8e2c272145270ec43c468a39983f": "2026-08-29T15:41:14.282680+00:00",
     "3c39203f674a01980cbde1c95618087830dd92233aecd2ca74bba44a7b7a15be": "2026-08-14T10:15:00.868800+00:00",
     "3cb1e65c7c056003db642d79b5c4e498f50090270355fc725829e19c7875a3f6": "2026-10-02T05:10:53.526242+00:00",
+    "3d4eb95434199021a37aa9a8184304a4cd908c2a961fa001d79a84975f263298": "2026-10-05T10:20:56.446724+00:00",
     "3d64696f6f22cf2829b00f9dcba3f9c3af8ca884c47866459a317cb62d944c2d": "2026-09-27T00:31:18.150625+00:00",
     "3d665ab0cd29f350f3346cba976cb171cb092113b23a8df1bbade56474cec812": "2026-09-17T13:41:16.554119+00:00",
     "3dbdf2f77ee261670cb36301fd0ec3dc867f357387641fa5163a8ee63385a4fd": "2026-08-14T10:15:00.868800+00:00",
