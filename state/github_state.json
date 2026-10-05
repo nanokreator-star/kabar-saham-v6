@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 24,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 795,
-  "early_signal_last_scan_utc": "2026-10-05T12:30:57.432029+00:00",
+  "early_signal_last_scan_utc": "2026-10-05T12:40:59.365159+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -174,8 +174,8 @@
     "IPO|TITLE|BEI MAKIN SELEKTIF 60 PERSEN CALON YANG": {
       "family": "IPO",
       "first_seen_utc": "2026-10-05T12:20:50.233553+00:00",
-      "last_alert_utc": "2026-10-05T12:20:50.233549+00:00",
-      "last_seen_utc": "2026-10-05T12:20:50.233549+00:00",
+      "last_alert_utc": "2026-10-05T12:41:28.033522+00:00",
+      "last_seen_utc": "2026-10-05T12:41:28.033522+00:00",
       "market_context": {
         "change_pct": null,
         "last_price": null,
@@ -194,10 +194,12 @@
         "ratio": null,
         "schedule": {},
         "share_count": null,
-        "stage": "RENCANA / PROSPEKTUS",
-        "stage_step": 2,
+        "stage": "OFFERING",
+        "stage_step": 4,
         "stage_total": 5,
-        "stake": [],
+        "stake": [
+          60.0
+        ],
         "standby_buyer": null,
         "target": null,
         "target_confirmed": false,
@@ -205,7 +207,7 @@
         "underwriter": null,
         "use_of_funds": []
       },
-      "ticker": ""
+      "ticker": "RANS"
     },
     "IPO|TITLE|BEI PERKETAT SELEKSI PENOLAKAN CALON CAPAI 60": {
       "family": "IPO",
@@ -9553,6 +9555,29 @@
       "verified_at": "2026-08-28T16:40:50.650027+00:00",
       "website": null
     },
+    "RANS": {
+      "business_activity": "PT Rans Entertainmen Indonesia Tbk operates as an integrated lifestyle and media company. The company offers services, such as media and digital content creation, animation studios, creative agency services, event and production house servi",
+      "controller": null,
+      "industry": "Conglomerates",
+      "issuer_name": "Rans Entertainmen Indonesia",
+      "owner_context_sources": 0,
+      "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
+      "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
+      "owner_v6_checked_utc": "2026-10-05T12:41:27.498181+00:00",
+      "owner_v6_pages_fetched": 1,
+      "owner_v6_source_urls": [
+        "https://ransentertainment.co.id/shareholders-information"
+      ],
+      "profile_source": "Yahoo Finance",
+      "profile_source_quality": "FALLBACK",
+      "profile_source_url": null,
+      "sector": "Industrials",
+      "subindustry": null,
+      "subsector": null,
+      "ticker": "RANS",
+      "verified_at": "2026-10-05T12:41:17.604112+00:00",
+      "website": "https://ransentertainment.co.id"
+    },
     "SEPI": {
       "business_activity": null,
       "controller": null,
@@ -9836,7 +9861,7 @@
     }
   },
   "last_keepalive_utc": "2026-09-25T10:31:06.793440+00:00",
-  "last_state_change_utc": "2026-10-05T12:30:57.485914+00:00",
+  "last_state_change_utc": "2026-10-05T12:41:28.035610+00:00",
   "market_noise_suppressed": 7,
   "milestone_alerts": {},
   "rumor_alerts_sent": 116,
@@ -9847,8 +9872,8 @@
   "rumor_duplicates_suppressed": 756,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 21,
-  "rumor_integrity_repairs": 2056,
-  "rumor_last_scan_utc": "2026-10-05T12:30:57.412211+00:00",
+  "rumor_integrity_repairs": 2057,
+  "rumor_last_scan_utc": "2026-10-05T12:40:59.347493+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -11696,6 +11721,7 @@
     "ac7305378c01f4e11d447c01070c69fd484a413be45e0062f3668f4f7933ffc8": "2026-09-25T16:20:50.588575+00:00",
     "acb72e87943af90a14485f30f1044d5d2acde6387f81233cdba01c039de9385d": "2026-08-14T10:15:00.868800+00:00",
     "ad291d62b611b627e4a4f50088661fa7d01d706dc07f044f6239bbf0ad8457e0": "2026-08-25T01:41:06.993837+00:00",
+    "ad5958ad49731502a760ce31751bb4e9ada90ed8e2492f18081d3728fdd9b511": "2026-10-05T12:41:28.033499+00:00",
     "ad7c0b6878acb68a59dd58d4ee90327bb89550a712f3a8b3c951ecc749cebce1": "2026-09-16T10:51:01.710363+00:00",
     "ae25fd4a781a37f79ee93c65a06f6d056336164211ea3e9029f28a1a9e0d4baa": "2026-08-28T23:40:56.125604+00:00",
     "afa0ad578b19ff37936ed2d63429fdaa8850862afdbb1943b687943c054eb641": "2026-09-07T15:01:20.529162+00:00",
@@ -11716,6 +11742,7 @@
     "bcba1c36104398d407e5a304e692336948e5b924d883349920a2440ee7290793": "2026-09-17T19:41:14.787581+00:00",
     "bce235ee9306d0015bb5993405681159790e296a5f8bb8ddffc21faf83b3c995": "2026-09-19T21:01:34.668584+00:00",
     "bd9e42183a955c0cf3c97da106e239a125aac5629b37096f70a70aceacb18d61": "2026-08-23T17:50:45.664101+00:00",
+    "be1a33426ce740ba5b00de3c99f7a715ce2e8b852ec0ed64f2d3bf6e0eb3c2f3": "2026-10-05T12:41:28.033499+00:00",
     "be8c673e02ac41d26cd57b00130e4b816365787aca0763dad8147b1a468b3c01": "2026-09-18T06:02:03.327531+00:00",
     "bf11a8f55c452c95a1e09788c923c25b3aa9d8f47f4e233ec51322d88119a53e": "2026-09-07T10:30:52.503607+00:00",
     "bf22e20fd9feda46226a1048d56cd3380097f250ab02c7b46f58bf349c1cfb25": "2026-09-30T11:11:06.442586+00:00",
