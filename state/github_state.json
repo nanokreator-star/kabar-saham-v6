@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 24,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 795,
-  "early_signal_last_scan_utc": "2026-10-05T11:40:45.516608+00:00",
+  "early_signal_last_scan_utc": "2026-10-05T11:50:58.598795+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -2029,6 +2029,52 @@
         ]
       },
       "ticker": ""
+    },
+    "M&A / TAKEOVER|PARTIES|VCG JADI PENGENDALI BARU TGUK USAI|": {
+      "family": "M&A / TAKEOVER",
+      "first_seen_utc": "2026-10-05T11:52:02.589754+00:00",
+      "last_alert_utc": "2026-10-05T11:52:02.589747+00:00",
+      "last_seen_utc": "2026-10-05T11:52:02.589747+00:00",
+      "market_context": {
+        "change_pct": 9.4828,
+        "last_price": 127.0,
+        "market_date": "2026-10-05"
+      },
+      "material_snapshot": {
+        "acquirer": "VCG Jadi Pengendali Baru TGUK Usai",
+        "acquirer_confirmed": true,
+        "event_type": "TENDER OFFER",
+        "execution_price": null,
+        "ipo_single_price": null,
+        "money": [
+          "Rp40,60 miliar"
+        ],
+        "official_authority": null,
+        "official_kind": null,
+        "price_range": null,
+        "ratio": null,
+        "schedule": {},
+        "share_count": "2,03 miliar saham",
+        "stage": "TENDER OFFER",
+        "stage_step": 6,
+        "stage_total": 7,
+        "stake": [
+          56.84,
+          85.0,
+          5.0,
+          100.0
+        ],
+        "standby_buyer": null,
+        "target": null,
+        "target_confirmed": false,
+        "tender_price": null,
+        "underwriter": null,
+        "use_of_funds": [
+          "AKUISISI / INVESTASI",
+          "PENGEMBANGAN USAHA"
+        ]
+      },
+      "ticker": "TGUK"
     },
     "M&A / TAKEOVER|PARTIES||51 SAHAM AGAR": {
       "family": "M&A / TAKEOVER",
@@ -9611,6 +9657,26 @@
       "verified_at": "2026-09-08T06:31:30.295323+00:00",
       "website": "https://www.tower-bersama.com"
     },
+    "TGUK": {
+      "business_activity": "PT Platinum Wahab Nusantara Tbk engages in the food and beverage stall business under the Teguk trademark in Indonesia and the United States. The company offers fruit, coffee, coconut series of products.",
+      "controller": null,
+      "industry": "Food Distribution",
+      "issuer_name": "Platinum Wahab Nusantara",
+      "owner_context_sources": 0,
+      "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
+      "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
+      "owner_v6_checked_utc": "2026-10-05T11:52:01.510358+00:00",
+      "owner_v6_pages_fetched": 0,
+      "profile_source": "Yahoo Finance",
+      "profile_source_quality": "FALLBACK",
+      "profile_source_url": null,
+      "sector": "Consumer Defensive",
+      "subindustry": null,
+      "subsector": null,
+      "ticker": "TGUK",
+      "verified_at": "2026-10-05T11:51:13.733152+00:00",
+      "website": "https://teguk.co.id"
+    },
     "TRUK": {
       "business_activity": "PT Guna Timur Raya Tbk engages in providing land transportation services in Indonesia. It also invests in land transportation services companies.",
       "controller": null,
@@ -9734,7 +9800,7 @@
     }
   },
   "last_keepalive_utc": "2026-09-25T10:31:06.793440+00:00",
-  "last_state_change_utc": "2026-10-05T11:41:00.568729+00:00",
+  "last_state_change_utc": "2026-10-05T11:52:02.591803+00:00",
   "market_noise_suppressed": 7,
   "milestone_alerts": {},
   "rumor_alerts_sent": 116,
@@ -9745,8 +9811,8 @@
   "rumor_duplicates_suppressed": 756,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 21,
-  "rumor_integrity_repairs": 2054,
-  "rumor_last_scan_utc": "2026-10-05T11:40:45.506144+00:00",
+  "rumor_integrity_repairs": 2055,
+  "rumor_last_scan_utc": "2026-10-05T11:50:58.579242+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -10817,7 +10883,7 @@
     },
     "PRIVATE PLACEMENT|TICKER|EFEK": {
       "category": "PRIVATE PLACEMENT",
-      "company_name": "PT Remitra Global Interna",
+      "company_name": "EFEK",
       "copy_duplicate_count": 0,
       "credible_effective_independent_count": 1.1,
       "derivative_source_count": 0,
@@ -11373,6 +11439,7 @@
     "1bd8f6063a72b9667300b2c7e4a2718aa76ff4b3c6e17a3abfbd739fb077503b": "2026-08-14T10:15:00.868800+00:00",
     "1c5b380735bd1ad2389f2e0f4655850eadfbc1a18a12ee7f2b93b191c0bfbc81": "2026-09-30T06:31:11.701312+00:00",
     "1cbab3154354e118815ed27dc3fc238c0b615ae06d1e585160aaae3552d17417": "2026-09-07T08:41:01.960525+00:00",
+    "1d7123549ca4174d97c5964462be4bd756eac59d99ce6ca54fd83d4777f82076": "2026-10-05T11:52:02.589730+00:00",
     "1ddfb4e184602043dd7de7e31c3b828108e4dc8a72ccb30c3938716cdda57452": "2026-08-25T22:10:55.251443+00:00",
     "1edc20362f784a6c9bd9c963b92b0ce8d36d392af90c2a91f7dd1c95bdb5237e": "2026-09-09T02:53:23.259378+00:00",
     "1f0f838dbcc7db9cdb6b85d5fb96821724ca15d8ae40dfab1d99d75359e6efe9": "2026-09-11T11:40:56.657911+00:00",
