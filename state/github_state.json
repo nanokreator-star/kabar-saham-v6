@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 24,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 795,
-  "early_signal_last_scan_utc": "2026-10-06T06:50:53.380998+00:00",
+  "early_signal_last_scan_utc": "2026-10-06T07:00:58.714996+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -50,13 +50,13 @@
       "volume_ratio": 0.03
     }
   },
-  "event_duplicates_suppressed": 66,
+  "event_duplicates_suppressed": 68,
   "event_memory": {
     "IPO|TICKER|FOTO": {
       "family": "IPO",
       "first_seen_utc": "2026-10-06T04:41:03.093356+00:00",
       "last_alert_utc": "2026-10-06T04:41:03.093352+00:00",
-      "last_seen_utc": "2026-10-06T04:41:03.093352+00:00",
+      "last_seen_utc": "2026-10-06T07:01:29.114334+00:00",
       "market_context": {
         "change_pct": null,
         "last_price": null,
@@ -3141,7 +3141,7 @@
       "family": "M&A / TAKEOVER",
       "first_seen_utc": "2026-10-06T06:11:51.459044+00:00",
       "last_alert_utc": "2026-10-06T06:11:51.459038+00:00",
-      "last_seen_utc": "2026-10-06T06:11:51.459038+00:00",
+      "last_seen_utc": "2026-10-06T07:01:11.470415+00:00",
       "market_context": {
         "change_pct": 9.4488,
         "last_price": 139.0,
@@ -10011,7 +10011,7 @@
     }
   },
   "last_keepalive_utc": "2026-09-25T10:31:06.793440+00:00",
-  "last_state_change_utc": "2026-10-06T06:50:53.425286+00:00",
+  "last_state_change_utc": "2026-10-06T07:01:29.116111+00:00",
   "market_noise_suppressed": 7,
   "milestone_alerts": {},
   "rumor_alerts_sent": 116,
@@ -10022,8 +10022,8 @@
   "rumor_duplicates_suppressed": 756,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 21,
-  "rumor_integrity_repairs": 2082,
-  "rumor_last_scan_utc": "2026-10-06T06:50:53.366256+00:00",
+  "rumor_integrity_repairs": 2083,
+  "rumor_last_scan_utc": "2026-10-06T07:00:58.697060+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -11094,7 +11094,7 @@
     },
     "PRIVATE PLACEMENT|TICKER|EFEK": {
       "category": "PRIVATE PLACEMENT",
-      "company_name": "PT Remitra Global Interna",
+      "company_name": "EFEK",
       "copy_duplicate_count": 0,
       "credible_effective_independent_count": 1.1,
       "derivative_source_count": 0,
@@ -11705,6 +11705,7 @@
     "3bdc208def8f4cdbbd78eaa106220cad71db8e2c272145270ec43c468a39983f": "2026-08-29T15:41:14.282680+00:00",
     "3c39203f674a01980cbde1c95618087830dd92233aecd2ca74bba44a7b7a15be": "2026-08-14T10:15:00.868800+00:00",
     "3cb1e65c7c056003db642d79b5c4e498f50090270355fc725829e19c7875a3f6": "2026-10-02T05:10:53.526242+00:00",
+    "3d426e146d6a81357ce8cb313523d1e1565667cb0137f8e488b6700406816f3c": "2026-10-06T07:01:29.114321+00:00",
     "3d4eb95434199021a37aa9a8184304a4cd908c2a961fa001d79a84975f263298": "2026-10-05T10:20:56.446724+00:00",
     "3d64696f6f22cf2829b00f9dcba3f9c3af8ca884c47866459a317cb62d944c2d": "2026-09-27T00:31:18.150625+00:00",
     "3d665ab0cd29f350f3346cba976cb171cb092113b23a8df1bbade56474cec812": "2026-09-17T13:41:16.554119+00:00",
@@ -11737,6 +11738,7 @@
     "51dc6ae76cc3955348be3a01c45aab793bed20599a1d706491733efe549d73a5": "2026-09-18T13:51:19.869418+00:00",
     "53e95c182b4ff32e6c77f31910f263a3d61f61206ca6a399dd525c83434f0d2d": "2026-08-31T02:30:59.962731+00:00",
     "545b06b3f1d4403eb1cdd1af9eadc9bf16b65070a95108d13313d06039310251": "2026-08-14T10:15:00.868800+00:00",
+    "55066476c98a62d199e1546be01cb3f9c6f443f8d5b96d341faf16a98f0436cb": "2026-10-06T07:01:11.470402+00:00",
     "550f201918f7cf2700a041970f674372c494e11acecd03a6c07b01a97ac8d5f9": "2026-09-29T09:11:28.029100+00:00",
     "5530899577172a24e7782183fb75aeadd93a98f4def48e343ef0a8b642b49e6e": "2026-09-18T01:41:15.519996+00:00",
     "5531875ed0b9be51815ca052b03d674b0a20b8a2f5337a068932188574711052": "2026-08-21T13:01:30.058267+00:00",
