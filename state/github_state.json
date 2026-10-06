@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 24,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 795,
-  "early_signal_last_scan_utc": "2026-10-05T16:01:11.691435+00:00",
+  "early_signal_last_scan_utc": "2026-10-06T00:30:56.152986+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -7283,6 +7283,42 @@
       },
       "ticker": "FOTO"
     },
+    "RIGHTS ISSUE|TITLE|GARUDA INDONESIA BERENCANA 124 MILIAR BARU SUARAGARUT": {
+      "family": "RIGHTS ISSUE",
+      "first_seen_utc": "2026-10-06T00:31:04.597163+00:00",
+      "last_alert_utc": "2026-10-06T00:31:04.597158+00:00",
+      "last_seen_utc": "2026-10-06T00:31:04.597158+00:00",
+      "market_context": {
+        "change_pct": null,
+        "last_price": null,
+        "market_date": null
+      },
+      "material_snapshot": {
+        "acquirer": null,
+        "acquirer_confirmed": false,
+        "event_type": "RIGHTS ISSUE",
+        "execution_price": null,
+        "ipo_single_price": null,
+        "money": [],
+        "official_authority": null,
+        "official_kind": null,
+        "price_range": null,
+        "ratio": null,
+        "schedule": {},
+        "share_count": "124,4 Miliar saham",
+        "stage": "RENCANA",
+        "stage_step": 2,
+        "stage_total": 6,
+        "stake": [],
+        "standby_buyer": null,
+        "target": null,
+        "target_confirmed": false,
+        "tender_price": null,
+        "underwriter": null,
+        "use_of_funds": []
+      },
+      "ticker": ""
+    },
     "RIGHTS ISSUE|TITLE|GARUDA INDONESIA BERENCANA 124 MILIAR DEMOKRATIS CO": {
       "family": "RIGHTS ISSUE",
       "first_seen_utc": "2026-10-01T03:50:57.652748+00:00",
@@ -9861,7 +9897,7 @@
     }
   },
   "last_keepalive_utc": "2026-09-25T10:31:06.793440+00:00",
-  "last_state_change_utc": "2026-10-05T16:01:11.743116+00:00",
+  "last_state_change_utc": "2026-10-06T00:31:04.599263+00:00",
   "market_noise_suppressed": 7,
   "milestone_alerts": {},
   "rumor_alerts_sent": 116,
@@ -9873,7 +9909,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 21,
   "rumor_integrity_repairs": 2058,
-  "rumor_last_scan_utc": "2026-10-05T16:01:11.672148+00:00",
+  "rumor_last_scan_utc": "2026-10-06T00:30:56.132545+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -10944,7 +10980,7 @@
     },
     "PRIVATE PLACEMENT|TICKER|EFEK": {
       "category": "PRIVATE PLACEMENT",
-      "company_name": "EFEK",
+      "company_name": "PT Remitra Global Interna",
       "copy_duplicate_count": 0,
       "credible_effective_independent_count": 1.1,
       "derivative_source_count": 0,
@@ -11722,6 +11758,7 @@
     "acb72e87943af90a14485f30f1044d5d2acde6387f81233cdba01c039de9385d": "2026-08-14T10:15:00.868800+00:00",
     "ad291d62b611b627e4a4f50088661fa7d01d706dc07f044f6239bbf0ad8457e0": "2026-08-25T01:41:06.993837+00:00",
     "ad5958ad49731502a760ce31751bb4e9ada90ed8e2492f18081d3728fdd9b511": "2026-10-05T12:41:28.033499+00:00",
+    "ad6ef924669e07b523bb7f3744f44eb5190353ee290a899f0af190284cd3a12f": "2026-10-06T00:31:04.597141+00:00",
     "ad7c0b6878acb68a59dd58d4ee90327bb89550a712f3a8b3c951ecc749cebce1": "2026-09-16T10:51:01.710363+00:00",
     "ae25fd4a781a37f79ee93c65a06f6d056336164211ea3e9029f28a1a9e0d4baa": "2026-08-28T23:40:56.125604+00:00",
     "afa0ad578b19ff37936ed2d63429fdaa8850862afdbb1943b687943c054eb641": "2026-09-07T15:01:20.529162+00:00",
