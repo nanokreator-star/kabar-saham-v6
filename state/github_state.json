@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 24,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 795,
-  "early_signal_last_scan_utc": "2026-10-06T06:30:53.871900+00:00",
+  "early_signal_last_scan_utc": "2026-10-06T06:40:58.607839+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -5092,6 +5092,42 @@
       },
       "ticker": ""
     },
+    "M&A / TAKEOVER|TITLE|SAIKO CONSULTANCY JADI PENGENDALI BARU NAYZ WAJIB": {
+      "family": "M&A / TAKEOVER",
+      "first_seen_utc": "2026-10-06T06:41:00.358107+00:00",
+      "last_alert_utc": "2026-10-06T06:41:00.358104+00:00",
+      "last_seen_utc": "2026-10-06T06:41:00.358104+00:00",
+      "market_context": {
+        "change_pct": null,
+        "last_price": null,
+        "market_date": null
+      },
+      "material_snapshot": {
+        "acquirer": null,
+        "acquirer_confirmed": false,
+        "event_type": "TENDER OFFER",
+        "execution_price": null,
+        "ipo_single_price": null,
+        "money": [],
+        "official_authority": null,
+        "official_kind": null,
+        "price_range": null,
+        "ratio": null,
+        "schedule": {},
+        "share_count": null,
+        "stage": "TENDER OFFER",
+        "stage_step": 6,
+        "stage_total": 7,
+        "stake": [],
+        "standby_buyer": null,
+        "target": null,
+        "target_confirmed": false,
+        "tender_price": null,
+        "underwriter": null,
+        "use_of_funds": []
+      },
+      "ticker": ""
+    },
     "M&A / TAKEOVER|TITLE|SAIKO CONSULTANCY MENGGELAR WAJIB NAYZ RP87 67": {
       "family": "M&A / TAKEOVER",
       "first_seen_utc": "2026-10-03T06:50:58.872970+00:00",
@@ -9975,7 +10011,7 @@
     }
   },
   "last_keepalive_utc": "2026-09-25T10:31:06.793440+00:00",
-  "last_state_change_utc": "2026-10-06T06:30:54.989726+00:00",
+  "last_state_change_utc": "2026-10-06T06:41:00.359420+00:00",
   "market_noise_suppressed": 7,
   "milestone_alerts": {},
   "rumor_alerts_sent": 116,
@@ -9986,8 +10022,8 @@
   "rumor_duplicates_suppressed": 756,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 21,
-  "rumor_integrity_repairs": 2080,
-  "rumor_last_scan_utc": "2026-10-06T06:30:53.857960+00:00",
+  "rumor_integrity_repairs": 2081,
+  "rumor_last_scan_utc": "2026-10-06T06:40:58.595629+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -11627,6 +11663,7 @@
     "21d7a129fa1053cb02a82727ee86a0da13ebb702eb7fc4b0f2ed2b7a9649fc58": "2026-09-25T16:20:50.588575+00:00",
     "21f05a8ae55d91ed26906e87c9183cef8c22069e71b45e59f87f9352f12db54a": "2026-09-19T07:31:15.920350+00:00",
     "227886cc07bab0f58145bba9b78623dc7b4178bfc7164e301676060caaeda962": "2026-08-14T10:15:00.868800+00:00",
+    "22a3b913d554fe5e0771ac565237bd370166df99b1a06c9891b45930aa1274b2": "2026-10-06T06:41:00.358095+00:00",
     "23009cecac49a7bdb0c49820a59b69c655a8feca6af91712bf1db5e9b9622bfd": "2026-09-30T11:21:40.393091+00:00",
     "23631988368f35d98ff769a9badb44701656daefbb89abe01028a0ed3998262f": "2026-09-23T04:30:51.459933+00:00",
     "23fa35aa38f62afefc77fe3fa2c34f86bb8a4acd22de199c0ad1aeb46fbaa0e1": "2026-08-24T09:21:00.218640+00:00",
