@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 24,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 795,
-  "early_signal_last_scan_utc": "2026-10-06T12:50:50.885043+00:00",
+  "early_signal_last_scan_utc": "2026-10-06T20:01:04.558229+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -50,7 +50,7 @@
       "volume_ratio": 0.03
     }
   },
-  "event_duplicates_suppressed": 69,
+  "event_duplicates_suppressed": 70,
   "event_memory": {
     "IPO|TICKER|FOTO": {
       "family": "IPO",
@@ -3177,10 +3177,10 @@
       "family": "M&A / TAKEOVER",
       "first_seen_utc": "2026-10-06T06:11:51.459044+00:00",
       "last_alert_utc": "2026-10-06T06:11:51.459038+00:00",
-      "last_seen_utc": "2026-10-06T07:01:11.470415+00:00",
+      "last_seen_utc": "2026-10-06T20:01:33.643656+00:00",
       "market_context": {
-        "change_pct": 9.4488,
-        "last_price": 139.0,
+        "change_pct": -5.5118,
+        "last_price": 120.0,
         "market_date": "2026-10-06"
       },
       "material_snapshot": {
@@ -9912,7 +9912,7 @@
       "owner_context_sources": 0,
       "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
       "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-      "owner_v6_checked_utc": "2026-10-06T06:11:50.765674+00:00",
+      "owner_v6_checked_utc": "2026-10-06T20:01:33.643359+00:00",
       "owner_v6_pages_fetched": 0,
       "profile_source": "Yahoo Finance",
       "profile_source_quality": "FALLBACK",
@@ -10047,8 +10047,8 @@
     }
   },
   "last_keepalive_utc": "2026-09-25T10:31:06.793440+00:00",
-  "last_state_change_utc": "2026-10-06T12:50:50.932212+00:00",
-  "market_noise_suppressed": 7,
+  "last_state_change_utc": "2026-10-06T20:01:33.645740+00:00",
+  "market_noise_suppressed": 8,
   "milestone_alerts": {},
   "rumor_alerts_sent": 116,
   "rumor_baseline_initialized": true,
@@ -10059,7 +10059,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 21,
   "rumor_integrity_repairs": 2090,
-  "rumor_last_scan_utc": "2026-10-06T12:50:50.869627+00:00",
+  "rumor_last_scan_utc": "2026-10-06T20:01:04.535950+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -11924,6 +11924,7 @@
     "b0ae7ae551e020d28f0f0de5ed556355966bedca0e62f315372ea95b04f0610e": "2026-10-06T03:21:42.651530+00:00",
     "b0f45eb33805a9b223649a508d62856160dc61068e1bb77ce40d1a16b5c25642": "2026-10-01T16:11:00.916718+00:00",
     "b14fb66083a251c965082ea75e55bcf09188cdbce31c628d6a867eddc81574ad": "2026-09-18T02:21:20.569107+00:00",
+    "b50e85708ed139c8ed5ea9c907885267da74f3233dfb8b9b25abc7069112c5f0": "2026-10-06T20:01:33.643645+00:00",
     "b6727ff50ea0ff09a88a04d72e46c59db780237b1d7ff4bb40d1066d5bd68b4e": "2026-09-19T05:21:31.766845+00:00",
     "b762b850223a20385d61ea79b86e2e92478caf860083f112902a68fd8268dccf": "2026-09-25T16:20:50.588575+00:00",
     "b7bd20f30f796bf190b07fa5f4ebe9ffd23fd9fef600842cc82874aa15d28fab": "2026-08-19T05:22:31.609048+00:00",
