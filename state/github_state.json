@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 24,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 795,
-  "early_signal_last_scan_utc": "2026-10-06T04:31:20.258573+00:00",
+  "early_signal_last_scan_utc": "2026-10-06T04:40:48.253819+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -52,6 +52,44 @@
   },
   "event_duplicates_suppressed": 66,
   "event_memory": {
+    "IPO|TICKER|FOTO": {
+      "family": "IPO",
+      "first_seen_utc": "2026-10-06T04:41:03.093356+00:00",
+      "last_alert_utc": "2026-10-06T04:41:03.093352+00:00",
+      "last_seen_utc": "2026-10-06T04:41:03.093352+00:00",
+      "market_context": {
+        "change_pct": null,
+        "last_price": null,
+        "market_date": null
+      },
+      "material_snapshot": {
+        "acquirer": null,
+        "acquirer_confirmed": false,
+        "event_type": "IPO",
+        "execution_price": null,
+        "ipo_single_price": null,
+        "money": [],
+        "official_authority": null,
+        "official_kind": null,
+        "price_range": null,
+        "ratio": null,
+        "schedule": {},
+        "share_count": null,
+        "stage": "OFFERING",
+        "stage_step": 4,
+        "stage_total": 5,
+        "stake": [
+          60.0
+        ],
+        "standby_buyer": null,
+        "target": null,
+        "target_confirmed": false,
+        "tender_price": null,
+        "underwriter": null,
+        "use_of_funds": []
+      },
+      "ticker": "FOTO"
+    },
     "IPO|TICKER|SWAP": {
       "family": "IPO",
       "first_seen_utc": "2026-08-24T07:11:05.738548+00:00",
@@ -8958,7 +8996,7 @@
       "owner_context_sources": 0,
       "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
       "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-      "owner_v6_checked_utc": "2026-09-29T13:01:44.283696+00:00",
+      "owner_v6_checked_utc": "2026-10-06T04:41:01.961296+00:00",
       "owner_v6_pages_fetched": 0,
       "profile_source": "Yahoo Finance",
       "profile_source_quality": "FALLBACK",
@@ -9897,7 +9935,7 @@
     }
   },
   "last_keepalive_utc": "2026-09-25T10:31:06.793440+00:00",
-  "last_state_change_utc": "2026-10-06T04:31:36.097384+00:00",
+  "last_state_change_utc": "2026-10-06T04:41:03.094560+00:00",
   "market_noise_suppressed": 7,
   "milestone_alerts": {},
   "rumor_alerts_sent": 116,
@@ -9908,8 +9946,8 @@
   "rumor_duplicates_suppressed": 756,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 21,
-  "rumor_integrity_repairs": 2068,
-  "rumor_last_scan_utc": "2026-10-06T04:31:20.238751+00:00",
+  "rumor_integrity_repairs": 2069,
+  "rumor_last_scan_utc": "2026-10-06T04:40:48.244478+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -11870,6 +11908,7 @@
     "f8a8224a34feba0a0cb2efd2e8f2e27a367a7d367963714b3bebac09ae8f88c6": "2026-08-14T10:15:00.868800+00:00",
     "f8fb1eea7f3931c8c49eda5628d65af20d0a78b4aa4a20d5cc9c1b4ce4e73b29": "2026-08-14T10:15:00.868800+00:00",
     "fcdbae73571cb3a9f90be1262db52468ce7b912e97ee5d9ea3ec9ae4a5d8a4b0": "2026-08-14T10:15:00.868800+00:00",
+    "fd659d78f4027a3623b588e59192bb504ba073c680d4307ac613083bf67a440f": "2026-10-06T04:41:03.093340+00:00",
     "fe9c3ec66d091da16ea6f4b2fd5647fefd7d309cf7f68fd0850f98d9736aedc3": "2026-10-02T13:11:40.960377+00:00",
     "fecccb01f4d147e27e288b8e846b7e45487d0a412d324f352bc47e4fd56a6453": "2026-09-19T15:11:09.477341+00:00",
     "ff0ae9ea35cc755cc560499d6149d50400fb6384446cd644f13462244f9a3771": "2026-10-05T12:20:50.233529+00:00",
