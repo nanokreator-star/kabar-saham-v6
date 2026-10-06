@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 24,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 795,
-  "early_signal_last_scan_utc": "2026-10-06T06:01:03.222937+00:00",
+  "early_signal_last_scan_utc": "2026-10-06T06:10:56.599274+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -3136,6 +3136,46 @@
         "use_of_funds": []
       },
       "ticker": "SEPI"
+    },
+    "M&A / TAKEOVER|TICKER|TGUK": {
+      "family": "M&A / TAKEOVER",
+      "first_seen_utc": "2026-10-06T06:11:51.459044+00:00",
+      "last_alert_utc": "2026-10-06T06:11:51.459038+00:00",
+      "last_seen_utc": "2026-10-06T06:11:51.459038+00:00",
+      "market_context": {
+        "change_pct": 9.4488,
+        "last_price": 139.0,
+        "market_date": "2026-10-06"
+      },
+      "material_snapshot": {
+        "acquirer": "Pengendali Baru Platinum (TGUK) Kuasai 56",
+        "acquirer_confirmed": true,
+        "event_type": "TAKEOVER",
+        "execution_price": null,
+        "ipo_single_price": null,
+        "money": [],
+        "official_authority": null,
+        "official_kind": null,
+        "price_range": null,
+        "ratio": null,
+        "schedule": {},
+        "share_count": null,
+        "stage": "CHANGE OF CONTROL",
+        "stage_step": 5,
+        "stage_total": 7,
+        "stake": [
+          56.84
+        ],
+        "standby_buyer": null,
+        "target": "Cuma Rp 20",
+        "target_confirmed": true,
+        "tender_price": null,
+        "underwriter": null,
+        "use_of_funds": [
+          "AKUISISI / INVESTASI"
+        ]
+      },
+      "ticker": "TGUK"
     },
     "M&A / TAKEOVER|TICKER|ULTJ": {
       "family": "M&A / TAKEOVER",
@@ -9800,7 +9840,7 @@
       "owner_context_sources": 0,
       "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
       "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-      "owner_v6_checked_utc": "2026-10-05T11:52:01.510358+00:00",
+      "owner_v6_checked_utc": "2026-10-06T06:11:50.765674+00:00",
       "owner_v6_pages_fetched": 0,
       "profile_source": "Yahoo Finance",
       "profile_source_quality": "FALLBACK",
@@ -9935,7 +9975,7 @@
     }
   },
   "last_keepalive_utc": "2026-09-25T10:31:06.793440+00:00",
-  "last_state_change_utc": "2026-10-06T06:01:03.276532+00:00",
+  "last_state_change_utc": "2026-10-06T06:11:51.461054+00:00",
   "market_noise_suppressed": 7,
   "milestone_alerts": {},
   "rumor_alerts_sent": 116,
@@ -9946,8 +9986,8 @@
   "rumor_duplicates_suppressed": 756,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 21,
-  "rumor_integrity_repairs": 2077,
-  "rumor_last_scan_utc": "2026-10-06T06:01:03.203108+00:00",
+  "rumor_integrity_repairs": 2078,
+  "rumor_last_scan_utc": "2026-10-06T06:10:56.582041+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -11737,6 +11777,7 @@
     "8369a0ebe7ace864bb10e8d0156174e4aea54db8bba4b8baee0298a69c5d0b36": "2026-09-18T17:10:52.492870+00:00",
     "8437cd91d15e501ded2cfa4e8118f33db2a8cf8a3220888bd8f63a912adcfc1c": "2026-08-14T10:15:00.868800+00:00",
     "84b48ca398ec3ec441de426bfad7247305714ed98d078aeb64ff2982f48ddbee": "2026-10-05T11:10:59.749837+00:00",
+    "86475d31d6ce8e93b7682a7df4ee647f538ba3edb6709dd563013601bac94640": "2026-10-06T06:11:51.459019+00:00",
     "866c40c123dc04907d95aff8779c29984dd7a4c2b8b00dc7a5ed1bb369179f0a": "2026-09-25T08:02:07.576911+00:00",
     "87c0c2c0852a5aca71ee89106e5676efa0ff9219eaf5ed5f23ecc8e691f6b65d": "2026-09-25T16:20:50.588575+00:00",
     "87f77ebc26da199d6ce34b932c439622c0f3666262d65480caeca8b632c8203c": "2026-08-29T02:20:52.174746+00:00",
@@ -11823,6 +11864,7 @@
     "be8c673e02ac41d26cd57b00130e4b816365787aca0763dad8147b1a468b3c01": "2026-09-18T06:02:03.327531+00:00",
     "bf11a8f55c452c95a1e09788c923c25b3aa9d8f47f4e233ec51322d88119a53e": "2026-09-07T10:30:52.503607+00:00",
     "bf22e20fd9feda46226a1048d56cd3380097f250ab02c7b46f58bf349c1cfb25": "2026-09-30T11:11:06.442586+00:00",
+    "bf4c2b3bd435644c822be7c1bce79347ef87729893d0af644403bfbcd8d0c527": "2026-10-06T06:11:51.459019+00:00",
     "c07e3c51a5c10cda6156604e413ed536b871e8cb7c98e47ece24dc30d43c980d": "2026-08-14T10:15:00.868800+00:00",
     "c0a95ceac0ba5637070bc954dcb30af054e44188df3c6a2de69b1cff09baf43c": "2026-08-14T10:15:00.868800+00:00",
     "c11bfff506d1d8318e068b21f28a00d0aaffda7aa6d8139e87f0b6a81d1d6e1a": "2026-09-17T01:11:36.757206+00:00",
