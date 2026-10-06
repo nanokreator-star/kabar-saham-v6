@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 24,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 795,
-  "early_signal_last_scan_utc": "2026-10-06T04:10:57.976485+00:00",
+  "early_signal_last_scan_utc": "2026-10-06T04:31:20.258573+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -50,7 +50,7 @@
       "volume_ratio": 0.03
     }
   },
-  "event_duplicates_suppressed": 65,
+  "event_duplicates_suppressed": 66,
   "event_memory": {
     "IPO|TICKER|SWAP": {
       "family": "IPO",
@@ -175,7 +175,7 @@
       "family": "IPO",
       "first_seen_utc": "2026-10-05T12:20:50.233553+00:00",
       "last_alert_utc": "2026-10-05T12:41:28.033522+00:00",
-      "last_seen_utc": "2026-10-06T03:21:42.651538+00:00",
+      "last_seen_utc": "2026-10-06T04:31:36.095267+00:00",
       "market_context": {
         "change_pct": null,
         "last_price": null,
@@ -9897,7 +9897,7 @@
     }
   },
   "last_keepalive_utc": "2026-09-25T10:31:06.793440+00:00",
-  "last_state_change_utc": "2026-10-06T04:10:58.028919+00:00",
+  "last_state_change_utc": "2026-10-06T04:31:36.097384+00:00",
   "market_noise_suppressed": 7,
   "milestone_alerts": {},
   "rumor_alerts_sent": 116,
@@ -9909,7 +9909,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 21,
   "rumor_integrity_repairs": 2068,
-  "rumor_last_scan_utc": "2026-10-06T04:10:57.956491+00:00",
+  "rumor_last_scan_utc": "2026-10-06T04:31:20.238751+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -10980,7 +10980,7 @@
     },
     "PRIVATE PLACEMENT|TICKER|EFEK": {
       "category": "PRIVATE PLACEMENT",
-      "company_name": "EFEK",
+      "company_name": "PT Remitra Global Interna",
       "copy_duplicate_count": 0,
       "credible_effective_independent_count": 1.1,
       "derivative_source_count": 0,
@@ -11752,6 +11752,7 @@
     "ab6b0a28bba2940698074464521b8f48f25fc4ca5c896c76eabcb22e0d930d9b": "2026-08-14T10:15:00.868800+00:00",
     "ab8a753768f1d230d4a516be72753d21bbfa92370053a4ab72d50a05d707ad8e": "2026-08-14T10:15:00.868800+00:00",
     "ac0f81ec5b124055a4f52336e4599421ac686ff8ec8de6dde98263bf40948a64": "2026-08-24T07:11:05.738523+00:00",
+    "ac1495342b650756ef3870c528d0e76e5bac6f229932d89ad8260e6f4c18eff2": "2026-10-06T04:31:36.095256+00:00",
     "ac4a63a11531dbc3fe8ab138e8a0daf7a5cb222266d0b3877cdf249d2a84951f": "2026-10-04T15:41:06.864315+00:00",
     "ac61e56b1bf48d32e0e8dd03051b5a0f4559b946a29d87b5090b47e0d4172d3f": "2026-09-17T01:11:44.651468+00:00",
     "ac7305378c01f4e11d447c01070c69fd484a413be45e0062f3668f4f7933ffc8": "2026-09-25T16:20:50.588575+00:00",
