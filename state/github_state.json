@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 24,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 795,
-  "early_signal_last_scan_utc": "2026-10-06T12:01:12.453496+00:00",
+  "early_signal_last_scan_utc": "2026-10-06T12:10:53.524398+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -434,6 +434,42 @@
         "share_count": null,
         "stage": "OFFERING",
         "stage_step": 4,
+        "stage_total": 5,
+        "stake": [],
+        "standby_buyer": null,
+        "target": null,
+        "target_confirmed": false,
+        "tender_price": null,
+        "underwriter": null,
+        "use_of_funds": []
+      },
+      "ticker": ""
+    },
+    "IPO|TITLE|BURSA EFEK INDONESIA MEMPERKETAT SELEKSI CALON LENSA": {
+      "family": "IPO",
+      "first_seen_utc": "2026-10-06T12:10:54.889073+00:00",
+      "last_alert_utc": "2026-10-06T12:10:54.889065+00:00",
+      "last_seen_utc": "2026-10-06T12:10:54.889065+00:00",
+      "market_context": {
+        "change_pct": null,
+        "last_price": null,
+        "market_date": null
+      },
+      "material_snapshot": {
+        "acquirer": null,
+        "acquirer_confirmed": false,
+        "event_type": "IPO",
+        "execution_price": null,
+        "ipo_single_price": null,
+        "money": [],
+        "official_authority": null,
+        "official_kind": null,
+        "price_range": null,
+        "ratio": null,
+        "schedule": {},
+        "share_count": null,
+        "stage": "RENCANA / PROSPEKTUS",
+        "stage_step": 2,
         "stage_total": 5,
         "stake": [],
         "standby_buyer": null,
@@ -10011,7 +10047,7 @@
     }
   },
   "last_keepalive_utc": "2026-09-25T10:31:06.793440+00:00",
-  "last_state_change_utc": "2026-10-06T12:01:12.513917+00:00",
+  "last_state_change_utc": "2026-10-06T12:10:54.891420+00:00",
   "market_noise_suppressed": 7,
   "milestone_alerts": {},
   "rumor_alerts_sent": 116,
@@ -10022,8 +10058,8 @@
   "rumor_duplicates_suppressed": 756,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 21,
-  "rumor_integrity_repairs": 2085,
-  "rumor_last_scan_utc": "2026-10-06T12:01:12.429987+00:00",
+  "rumor_integrity_repairs": 2086,
+  "rumor_last_scan_utc": "2026-10-06T12:10:53.500510+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -11736,6 +11772,7 @@
     "5113a319f2a00906c0e34afc4632a485058a1e0a13ddb85419f68ac6fd7c93d8": "2026-09-16T11:51:06.045192+00:00",
     "51d35c607eaa44b9a3cffdac7dbb07b0c41ad213da31323fece5f701ae85aa54": "2026-09-17T19:41:14.787581+00:00",
     "51dc6ae76cc3955348be3a01c45aab793bed20599a1d706491733efe549d73a5": "2026-09-18T13:51:19.869418+00:00",
+    "525153e0abd1914c20a6a3ace053963a321d3bfb7135fe1ec18f949dfee14809": "2026-10-06T12:10:54.889035+00:00",
     "53e95c182b4ff32e6c77f31910f263a3d61f61206ca6a399dd525c83434f0d2d": "2026-08-31T02:30:59.962731+00:00",
     "545b06b3f1d4403eb1cdd1af9eadc9bf16b65070a95108d13313d06039310251": "2026-08-14T10:15:00.868800+00:00",
     "55066476c98a62d199e1546be01cb3f9c6f443f8d5b96d341faf16a98f0436cb": "2026-10-06T07:01:11.470402+00:00",
