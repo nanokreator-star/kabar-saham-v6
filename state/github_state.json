@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 24,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 795,
-  "early_signal_last_scan_utc": "2026-10-07T03:40:52.375410+00:00",
+  "early_signal_last_scan_utc": "2026-10-07T07:51:05.286307+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -10086,7 +10086,7 @@
     }
   },
   "last_keepalive_utc": "2026-09-25T10:31:06.793440+00:00",
-  "last_state_change_utc": "2026-10-07T03:41:01.124776+00:00",
+  "last_state_change_utc": "2026-10-07T07:51:05.343627+00:00",
   "market_noise_suppressed": 8,
   "milestone_alerts": {},
   "rumor_alerts_sent": 116,
@@ -10098,7 +10098,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 21,
   "rumor_integrity_repairs": 2090,
-  "rumor_last_scan_utc": "2026-10-07T03:40:52.359747+00:00",
+  "rumor_last_scan_utc": "2026-10-07T07:51:05.265593+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -11075,97 +11075,6 @@
       "strength": "WEAK",
       "ticker": "PDSI",
       "title": "Titah Danantara, Elnusa Buka Suara Soal Wacana Merger dengan PDSI - Emitennews.com"
-    },
-    "MERGER|TICKER|TBIG": {
-      "category": "MERGER",
-      "company_name": "Tower Bersama Infrastructure",
-      "copy_duplicate_count": 0,
-      "credible_effective_independent_count": 1.0,
-      "derivative_source_count": 0,
-      "detected_source_count": 1,
-      "effective_independent_count": 1.0,
-      "entity_aliases": [],
-      "entity_resolution_source": null,
-      "first_seen_utc": "2026-09-07T07:42:16+00:00",
-      "high_quality_source_count": 1,
-      "independent_story_count": 1,
-      "issuer_profile": {
-        "business_activity": "PT Tower Bersama Infrastructure Tbk, together with its subsidiaries, engages in central telecommunications construction, telecommunications installations, and cable-based telecommunications business. The company operates through Tower, Repe",
-        "controller": null,
-        "industry": "Telecom Services",
-        "issuer_name": "Tower Bersama Infrastructure",
-        "owner_context_sources": 0,
-        "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
-        "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-        "owner_v6_checked_utc": "2026-09-08T06:31:28.806714+00:00",
-        "owner_v6_pages_fetched": 0,
-        "profile_source": "Yahoo Finance",
-        "profile_source_quality": "FALLBACK",
-        "profile_source_url": null,
-        "sector": "Communication Services",
-        "subindustry": null,
-        "subsector": null,
-        "ticker": "TBIG",
-        "verified_at": "2026-09-08T06:31:30.295323+00:00",
-        "website": "https://www.tower-bersama.com"
-      },
-      "key": "MERGER|TICKER|TBIG",
-      "last_alert_utc": "2026-09-07T14:56:30.113600+00:00",
-      "last_seen_utc": "2026-09-07T07:42:16+00:00",
-      "last_state_change_utc": "2026-09-14T07:50:45.605922+00:00",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPV25oeWpacEk1Wm1xN2x2ZHRBTDlybUcxdHpkcXp6ek5uMUMySWR5QWg0SHZBU09EZGhyWFluT2xLcEFMdDl4dVhEcms1QVpfMHBQdlc3ZlEzOW54Rjd1VHE4TDRoRDRhZWsySXNpN2Y0aVRLczllc2VVMTNuYkxleGs0QUkwbm9EcHhoM0dUYWQ0RUxRVUdTMFVSSy11NFgxeHFjZWRNZmlqWmZmcm9MWVNPWmxNaE41ODVFN3g1dHZBMjZPSXREbUZ3?oc=5",
-      "market_data": {
-        "change_pct": -0.9900990099009901,
-        "fetched_at": "2026-09-07T14:55:02.761661+00:00",
-        "last_price": 1500.0,
-        "market_date": "2026-09-07",
-        "previous_close": 1515.0,
-        "source": "Yahoo Finance via yfinance",
-        "symbol": "TBIG.JK",
-        "ticker": "TBIG",
-        "volume": 1343000,
-        "volume_avg_20d": 818078.947368421,
-        "volume_median_20d": 440400.0,
-        "volume_ratio": 3.0495004541326067
-      },
-      "official_confirmation": null,
-      "premium_source_count": 1,
-      "profile_refresh_utc": "2026-09-08T06:31:58.108832+00:00",
-      "published": "Mon, 07 Sep 2026 07:42:16 GMT",
-      "rumor_details": {
-        "ipo_price": null,
-        "listing_estimate": null,
-        "money": [],
-        "percentages": [],
-        "price_range": null,
-        "rumored_party": null,
-        "share_count": null,
-        "underwriter": null
-      },
-      "semantic_copy_count": 0,
-      "source": "teknologi.bisnis.com",
-      "source_breakdown": [
-        {
-          "derivative": false,
-          "group": "bisnis.com",
-          "new_material": 0,
-          "quality": "HIGH",
-          "semantic_copy": false,
-          "source": "teknologi.bisnis.com",
-          "tier": 4,
-          "weight": 1.0
-        }
-      ],
-      "source_count": 1,
-      "source_quality": "MEDIUM",
-      "source_quality_score": 4.0,
-      "sources": [
-        "teknologi.bisnis.com"
-      ],
-      "status": "EXPIRED",
-      "strength": "WEAK",
-      "ticker": "TBIG",
-      "title": "Rumor Merger Mitratel-TBIG, Bos Telkom Buka Diri Terhadap Konsolidasi Menara - teknologi.bisnis.com"
     },
     "PRIVATE PLACEMENT|TICKER|EFEK": {
       "category": "PRIVATE PLACEMENT",
