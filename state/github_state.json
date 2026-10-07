@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 24,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 795,
-  "early_signal_last_scan_utc": "2026-10-07T08:30:50.266712+00:00",
+  "early_signal_last_scan_utc": "2026-10-07T09:31:44.450006+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -9005,6 +9005,26 @@
       "verified_at": "2026-09-15T04:11:12.740914+00:00",
       "website": "https://www.cashlez.com"
     },
+    "CNBC": {
+      "business_activity": null,
+      "controller": null,
+      "industry": null,
+      "issuer_name": "CNBC",
+      "owner_context_sources": 0,
+      "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
+      "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
+      "owner_v6_checked_utc": "2026-10-07T09:31:10.513046+00:00",
+      "owner_v6_pages_fetched": 0,
+      "profile_source": "Yahoo Finance",
+      "profile_source_quality": "FALLBACK",
+      "profile_source_url": null,
+      "sector": null,
+      "subindustry": null,
+      "subsector": null,
+      "ticker": "CNBC",
+      "verified_at": "2026-10-07T09:31:26.251910+00:00",
+      "website": null
+    },
     "CUAN": {
       "business_activity": "PT Petrindo Jaya Kreasi Tbk, through its subsidiaries, engages in coal mining operations in Indonesia. It operates through three segments: Mining, Services, and Engineering and Construction.",
       "controller": null,
@@ -10027,7 +10047,7 @@
       "owner_context_sources": 0,
       "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
       "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-      "owner_v6_checked_utc": "2026-09-29T03:51:10.644941+00:00",
+      "owner_v6_checked_utc": "2026-10-07T09:31:18.353656+00:00",
       "owner_v6_pages_fetched": 0,
       "profile_source": "Yahoo Finance",
       "profile_source_quality": "FALLBACK",
@@ -10122,10 +10142,10 @@
     }
   },
   "last_keepalive_utc": "2026-09-25T10:31:06.793440+00:00",
-  "last_state_change_utc": "2026-10-07T08:31:12.461848+00:00",
+  "last_state_change_utc": "2026-10-07T09:31:44.498461+00:00",
   "market_noise_suppressed": 8,
   "milestone_alerts": {},
-  "rumor_alerts_sent": 116,
+  "rumor_alerts_sent": 117,
   "rumor_baseline_initialized": true,
   "rumor_confirmed_count": 44,
   "rumor_confirmed_dedups": 0,
@@ -10134,7 +10154,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 21,
   "rumor_integrity_repairs": 2090,
-  "rumor_last_scan_utc": "2026-10-07T08:30:50.256343+00:00",
+  "rumor_last_scan_utc": "2026-10-07T09:31:44.431778+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -10955,6 +10975,85 @@
       "strength": "CONFIRMED OFFICIAL",
       "ticker": null,
       "title": "keterbukaan informasi transaksi pelepasan ekuitas atau divestasi kepemilikan saham entitas - PT Bursa Efek Indonesia"
+    },
+    "IPO|TICKER|CNBC": {
+      "category": "IPO",
+      "company_name": "Ada BUMN",
+      "copy_duplicate_count": 0,
+      "credible_effective_independent_count": 1.0,
+      "derivative_source_count": 0,
+      "detected_source_count": 1,
+      "effective_independent_count": 1.0,
+      "entity_aliases": [
+        "Ada BUMN"
+      ],
+      "entity_resolution_source": null,
+      "first_seen_utc": "2026-10-07T06:10:17+00:00",
+      "high_quality_source_count": 1,
+      "independent_story_count": 1,
+      "issuer_profile": {
+        "business_activity": null,
+        "controller": null,
+        "industry": null,
+        "issuer_name": "CNBC",
+        "owner_context_sources": 0,
+        "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
+        "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
+        "owner_v6_checked_utc": "2026-10-07T09:31:10.513046+00:00",
+        "owner_v6_pages_fetched": 0,
+        "profile_source": "Yahoo Finance",
+        "profile_source_quality": "FALLBACK",
+        "profile_source_url": null,
+        "sector": null,
+        "subindustry": null,
+        "subsector": null,
+        "ticker": "CNBC",
+        "verified_at": "2026-10-07T09:31:26.251910+00:00",
+        "website": null
+      },
+      "key": "IPO|TICKER|CNBC",
+      "last_alert_utc": "2026-10-07T09:31:44.431452+00:00",
+      "last_seen_utc": "2026-10-07T06:10:17+00:00",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNclFyY1JYMW5yWExNNTgyUzUzcDdhWl9GVFdOaW8xdU8xOG5VZXc4MEhJZ3dYM3JCeXpnX2dQa1ZaVk1zYUJZT3l1cjI0c1c0Zno5T1ZaTnFHOTJsWko4VWZyT0J6ZmJManVsMWdfelhKSU1oQVBZdmdOMFoxZE5idXpxMFZCdm5oV0FOOThNSWJRUmFJcElNZDRXdUh1bFMxcERzcllkOEpmN1BPdTNzQ0JpVmlaOW5QVWd3N2NHOTFISmZRS0VJ0gHHAUFVX3lxTE1yUXJjUlgxbnJYTE01ODJTNTNwN2FaX0ZUV05pbzF1TzE4blVldzgwSElnd1gzckJ5emdfZ1BrVlpWTXNhQllPeXVyMjRzVzRmejlPVlpOcUc5MmxaSjhVZnJPQnpmYkxqdWwxZ196WEpJTWhBUFl2Z04wWjFkTmJ1enEwVkJ2bmhXQU45OE1JYlFSYUlwSU1kNFd1SHVsUzFwRHNyWWQ4SmY3UE91M3NDQmlWaVo5blBVZ3c3Y0c5MUhKZlFLRUk?oc=5",
+      "market_data": null,
+      "official_confirmation": null,
+      "premium_source_count": 1,
+      "profile_refresh_utc": "2026-10-07T09:31:18.629180+00:00",
+      "published": "Wed, 07 Oct 2026 06:10:17 GMT",
+      "rumor_details": {
+        "ipo_price": null,
+        "listing_estimate": null,
+        "money": [],
+        "percentages": [],
+        "price_range": null,
+        "rumored_party": null,
+        "share_count": null,
+        "underwriter": null
+      },
+      "semantic_copy_count": 0,
+      "source": "CNBC Indonesia",
+      "source_breakdown": [
+        {
+          "derivative": false,
+          "group": "cnbcindonesia.com",
+          "new_material": 0,
+          "quality": "HIGH",
+          "semantic_copy": false,
+          "source": "CNBC Indonesia",
+          "tier": 4,
+          "weight": 1.0
+        }
+      ],
+      "source_count": 1,
+      "source_quality": "MEDIUM",
+      "source_quality_score": 4.0,
+      "sources": [
+        "CNBC Indonesia"
+      ],
+      "status": "ACTIVE",
+      "strength": "MEDIUM",
+      "ticker": "CNBC",
+      "title": "Ada BUMN Bakal IPO Tahun 2027, Bos Danantara Sebut 3 Sektor Ini - CNBC Indonesia"
     },
     "MERGER|TICKER|ASDP": {
       "category": "MERGER",
