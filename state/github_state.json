@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 24,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 795,
-  "early_signal_last_scan_utc": "2026-10-07T07:51:05.286307+00:00",
+  "early_signal_last_scan_utc": "2026-10-07T08:30:50.266712+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -4040,6 +4040,42 @@
         "use_of_funds": [
           "AKUISISI / INVESTASI"
         ]
+      },
+      "ticker": ""
+    },
+    "M&A / TAKEOVER|TITLE|FRASERS MASUK UNDER ARMOUR HARGA MURAH BUKAN": {
+      "family": "M&A / TAKEOVER",
+      "first_seen_utc": "2026-10-07T08:31:12.460646+00:00",
+      "last_alert_utc": "2026-10-07T08:31:12.460642+00:00",
+      "last_seen_utc": "2026-10-07T08:31:12.460642+00:00",
+      "market_context": {
+        "change_pct": null,
+        "last_price": null,
+        "market_date": null
+      },
+      "material_snapshot": {
+        "acquirer": null,
+        "acquirer_confirmed": false,
+        "event_type": "TAKEOVER",
+        "execution_price": null,
+        "ipo_single_price": null,
+        "money": [],
+        "official_authority": null,
+        "official_kind": null,
+        "price_range": null,
+        "ratio": null,
+        "schedule": {},
+        "share_count": null,
+        "stage": "MOU",
+        "stage_step": 3,
+        "stage_total": 7,
+        "stake": [],
+        "standby_buyer": null,
+        "target": null,
+        "target_confirmed": false,
+        "tender_price": null,
+        "underwriter": null,
+        "use_of_funds": []
       },
       "ticker": ""
     },
@@ -10086,7 +10122,7 @@
     }
   },
   "last_keepalive_utc": "2026-09-25T10:31:06.793440+00:00",
-  "last_state_change_utc": "2026-10-07T07:51:05.343627+00:00",
+  "last_state_change_utc": "2026-10-07T08:31:12.461848+00:00",
   "market_noise_suppressed": 8,
   "milestone_alerts": {},
   "rumor_alerts_sent": 116,
@@ -10098,7 +10134,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 21,
   "rumor_integrity_repairs": 2090,
-  "rumor_last_scan_utc": "2026-10-07T07:51:05.265593+00:00",
+  "rumor_last_scan_utc": "2026-10-07T08:30:50.256343+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -11720,6 +11756,7 @@
     "5113a319f2a00906c0e34afc4632a485058a1e0a13ddb85419f68ac6fd7c93d8": "2026-09-16T11:51:06.045192+00:00",
     "51d35c607eaa44b9a3cffdac7dbb07b0c41ad213da31323fece5f701ae85aa54": "2026-09-17T19:41:14.787581+00:00",
     "51dc6ae76cc3955348be3a01c45aab793bed20599a1d706491733efe549d73a5": "2026-09-18T13:51:19.869418+00:00",
+    "520360d6ab63cef3cdef18e8c213b954312a5ece69f3488ee52d41e004602442": "2026-10-07T08:31:12.460624+00:00",
     "525153e0abd1914c20a6a3ace053963a321d3bfb7135fe1ec18f949dfee14809": "2026-10-06T12:10:54.889035+00:00",
     "53e95c182b4ff32e6c77f31910f263a3d61f61206ca6a399dd525c83434f0d2d": "2026-08-31T02:30:59.962731+00:00",
     "545b06b3f1d4403eb1cdd1af9eadc9bf16b65070a95108d13313d06039310251": "2026-08-14T10:15:00.868800+00:00",
