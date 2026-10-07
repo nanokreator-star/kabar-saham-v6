@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 24,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 795,
-  "early_signal_last_scan_utc": "2026-10-07T14:01:20.600514+00:00",
+  "early_signal_last_scan_utc": "2026-10-07T14:11:23.547338+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -10142,7 +10142,7 @@
     }
   },
   "last_keepalive_utc": "2026-09-25T10:31:06.793440+00:00",
-  "last_state_change_utc": "2026-10-07T14:01:20.652572+00:00",
+  "last_state_change_utc": "2026-10-07T14:11:23.601083+00:00",
   "market_noise_suppressed": 8,
   "milestone_alerts": {},
   "rumor_alerts_sent": 118,
@@ -10153,8 +10153,8 @@
   "rumor_duplicates_suppressed": 756,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 21,
-  "rumor_integrity_repairs": 2109,
-  "rumor_last_scan_utc": "2026-10-07T14:01:19.442311+00:00",
+  "rumor_integrity_repairs": 2110,
+  "rumor_last_scan_utc": "2026-10-07T14:11:22.683394+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -11012,7 +11012,7 @@
       "key": "IPO|COMPANY|BOS DANANTARA BERI BOCORAN SEKTOR BUMN YANG",
       "last_alert_utc": "2026-10-07T14:01:19.441962+00:00",
       "last_seen_utc": "2026-10-07T11:22:00+00:00",
-      "link": "https://www.idxchannel.com/market-news/bos-danantara-beri-bocoran-sektor-bumn-yang-bakal-ipo-pada-2027",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWUN3bjNWN3hmZ1k4TEQwb29HT3ZwZ1h5Q2g3NmphOGRjQ2RDV0RkcE5rZFdpNmpJV19Ycy1MMk5fNXZMMVR2QWtmWkdZSG9XSndyWlZYRGZqUG43RWsyTkdMUWRsUDZzUWNhNjE1aUxmd3U2clJrZ0NJM296TlFiXzNsTy1zR0JXTXU5VEtwME50eXNwczNENWV5Z2d2alhIYXd1RHNKMUh0UdIBqgFBVV95cUxOWUN3bjNWN3hmZ1k4TEQwb29HT3ZwZ1h5Q2g3NmphOGRjQ2RDV0RkcE5rZFdpNmpJV19Ycy1MMk5fNXZMMVR2QWtmWkdZSG9XSndyWlZYRGZqUG43RWsyTkdMUWRsUDZzUWNhNjE1aUxmd3U2clJrZ0NJM296TlFiXzNsTy1zR0JXTXU5VEtwME50eXNwczNENWV5Z2d2alhIYXd1RHNKMUh0UQ?oc=5",
       "market_data": null,
       "official_confirmation": null,
       "premium_source_count": 0,
@@ -11033,7 +11033,7 @@
       "source_breakdown": [
         {
           "derivative": false,
-          "group": "idxchannel.com",
+          "group": "idx channel",
           "new_material": 0,
           "quality": "LOW",
           "semantic_copy": false,
