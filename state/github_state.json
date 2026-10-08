@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 24,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 795,
-  "early_signal_last_scan_utc": "2026-10-07T21:41:11.778764+00:00",
+  "early_signal_last_scan_utc": "2026-10-08T01:01:06.198280+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -10142,7 +10142,7 @@
     }
   },
   "last_keepalive_utc": "2026-09-25T10:31:06.793440+00:00",
-  "last_state_change_utc": "2026-10-07T21:41:11.836961+00:00",
+  "last_state_change_utc": "2026-10-08T01:01:06.256923+00:00",
   "market_noise_suppressed": 8,
   "milestone_alerts": {},
   "rumor_alerts_sent": 118,
@@ -10152,9 +10152,9 @@
   "rumor_denied_count": 0,
   "rumor_duplicates_suppressed": 756,
   "rumor_entity_rekeys": 1,
-  "rumor_expired_count": 22,
+  "rumor_expired_count": 23,
   "rumor_integrity_repairs": 2153,
-  "rumor_last_scan_utc": "2026-10-07T21:41:10.810970+00:00",
+  "rumor_last_scan_utc": "2026-10-08T01:01:05.672900+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -10194,6 +10194,7 @@
       "key": "AKUISISI / TAKEOVER|TICKER|BBCA",
       "last_alert_utc": "2026-10-01T05:31:09.141724+00:00",
       "last_seen_utc": "2026-10-01T00:53:20+00:00",
+      "last_state_change_utc": "2026-10-08T01:01:05.672864+00:00",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPb003ZEQxcGFBS0wyU1g2WFVRYlZhZzFLX3ltcUI0VE40UmlDMFVpXzdWeUpGeVBMM2ZhWWR3ZDBRaWFNdndtSVdRTk9pX09odjlfZGFCOFBla1B2eTNtTXZ0dVZwelM0RjhQcFIyb05sM0lMMmRLbm91eklzd1E0ZGdMczZWb3BFSjVjRmVwLU9ERUI1NFVPYmRWSF9HZ01iQklfZ3lUQkVyY1kxX1HSAaYBQVVfeXFMT0xyTlE1MzlvQUp4aktVMlRHZmp0SDltT21LcFM0bmxwTUJ6cUNPYnZaa2Y5aTJPVnpQUFM4QUNmRG13NXl5MjNSOGlKRG53MnVmZ0c2UHZrUjlNWFl6X3NoNl9SSkdpZnhLOG1ZczBQU0pSVDhkeXBzVmR1by1oSFBvU0RZMXh1STU5RkxSZ2dUbkhpX3lZY1h4WTFYM0pLX2tFV0tkUQ?oc=5",
       "market_data": {
         "change_pct": 0.0,
@@ -10246,7 +10247,7 @@
         "Bursa Nusantara",
         "bursanusantara.com"
       ],
-      "status": "ACTIVE",
+      "status": "EXPIRED",
       "strength": "MEDIUM",
       "ticker": "BBCA",
       "title": "Sempat Terjadi Crossing 114 Juta Saham BBCA, Benarkah Terkait Isu Akuisisi? - kontan.co.id"
@@ -11055,7 +11056,7 @@
     },
     "IPO|TICKER|CNBC": {
       "category": "IPO",
-      "company_name": "CNBC",
+      "company_name": "Ada BUMN",
       "copy_duplicate_count": 0,
       "credible_effective_independent_count": 1.0,
       "derivative_source_count": 0,
