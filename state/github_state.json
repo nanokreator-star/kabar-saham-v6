@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 24,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 795,
-  "early_signal_last_scan_utc": "2026-10-08T02:01:08.351448+00:00",
+  "early_signal_last_scan_utc": "2026-10-08T02:10:54.925234+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -37,17 +37,6 @@
       "market_date": "2026-09-28",
       "signature": "EPAC|2026-09-28|HIGH|DOWN|RUMOR|RIGHTS ISSUE|TICKER|EPAC",
       "volume_ratio": 0.22
-    },
-    "TBIG": {
-      "change_pct": 4.33,
-      "combined": true,
-      "direction": "UP",
-      "last_alert_utc": "2026-09-08T02:10:48.061163+00:00",
-      "last_seen_utc": "2026-09-08T02:10:47.111994+00:00",
-      "level": "MEDIUM",
-      "market_date": "2026-09-08",
-      "signature": "TBIG|2026-09-08|MEDIUM|UP|RUMOR|MERGER|TICKER|TBIG",
-      "volume_ratio": 0.03
     }
   },
   "event_duplicates_suppressed": 70,
@@ -10142,7 +10131,7 @@
     }
   },
   "last_keepalive_utc": "2026-09-25T10:31:06.793440+00:00",
-  "last_state_change_utc": "2026-10-08T02:01:08.895261+00:00",
+  "last_state_change_utc": "2026-10-08T02:10:54.957614+00:00",
   "market_noise_suppressed": 8,
   "milestone_alerts": {},
   "rumor_alerts_sent": 118,
@@ -10153,8 +10142,8 @@
   "rumor_duplicates_suppressed": 756,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 23,
-  "rumor_integrity_repairs": 2159,
-  "rumor_last_scan_utc": "2026-10-08T02:01:07.464775+00:00",
+  "rumor_integrity_repairs": 2160,
+  "rumor_last_scan_utc": "2026-10-08T02:10:54.180434+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
