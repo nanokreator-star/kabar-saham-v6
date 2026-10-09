@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 24,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 795,
-  "early_signal_last_scan_utc": "2026-10-08T22:01:07.301475+00:00",
+  "early_signal_last_scan_utc": "2026-10-09T03:40:34.060122+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -1249,6 +1249,45 @@
         "underwriter": null,
         "use_of_funds": [
           "AKUISISI / INVESTASI"
+        ]
+      },
+      "ticker": ""
+    },
+    "M&A / TAKEOVER|PARTIES|BIKE|72 PERSEN SAHAM BUM UNTUK EKSPANSI TAMBANG": {
+      "family": "M&A / TAKEOVER",
+      "first_seen_utc": "2026-10-09T03:40:37.534196+00:00",
+      "last_alert_utc": "2026-10-09T03:40:37.534192+00:00",
+      "last_seen_utc": "2026-10-09T03:40:37.534192+00:00",
+      "market_context": {
+        "change_pct": null,
+        "last_price": null,
+        "market_date": null
+      },
+      "material_snapshot": {
+        "acquirer": "BIKE",
+        "acquirer_confirmed": true,
+        "event_type": "AKUISISI",
+        "execution_price": null,
+        "ipo_single_price": null,
+        "money": [],
+        "official_authority": null,
+        "official_kind": null,
+        "price_range": null,
+        "ratio": null,
+        "schedule": {},
+        "share_count": null,
+        "stage": "SPA / SIGNED",
+        "stage_step": 4,
+        "stage_total": 7,
+        "stake": [],
+        "standby_buyer": null,
+        "target": "72 Persen Saham BUM untuk Ekspansi Tambang",
+        "target_confirmed": true,
+        "tender_price": null,
+        "underwriter": null,
+        "use_of_funds": [
+          "AKUISISI / INVESTASI",
+          "EKSPANSI / CAPEX"
         ]
       },
       "ticker": ""
@@ -10131,7 +10170,7 @@
     }
   },
   "last_keepalive_utc": "2026-09-25T10:31:06.793440+00:00",
-  "last_state_change_utc": "2026-10-08T22:01:07.355500+00:00",
+  "last_state_change_utc": "2026-10-09T03:40:37.535492+00:00",
   "market_noise_suppressed": 8,
   "milestone_alerts": {},
   "rumor_alerts_sent": 118,
@@ -10143,7 +10182,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 23,
   "rumor_integrity_repairs": 2206,
-  "rumor_last_scan_utc": "2026-10-08T22:01:07.281247+00:00",
+  "rumor_last_scan_utc": "2026-10-09T03:40:34.049698+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -11045,7 +11084,7 @@
     },
     "IPO|TICKER|CNBC": {
       "category": "IPO",
-      "company_name": "CNBC",
+      "company_name": "Ada BUMN",
       "copy_duplicate_count": 0,
       "credible_effective_independent_count": 1.0,
       "derivative_source_count": 0,
@@ -11768,6 +11807,7 @@
     "1f4b5df05c871568ef7dc5de0368a9ac1b5e661f992affc3894eca51525a12c3": "2026-08-14T10:15:00.868800+00:00",
     "201cf77a86ce6457775cfd97c1ccb044610671ab3dd6955a5a4ad7235dc2f538": "2026-08-14T10:15:00.868800+00:00",
     "2049bff8ab42f37f16d0bced958e24a47e7c0a04b56f183a9c1ecc15eec945a6": "2026-08-31T19:00:59.639896+00:00",
+    "2178ff5db4ea856a86e37120ea36607f39022f4f95dced94e766cf01832c8d1a": "2026-10-09T03:40:37.534173+00:00",
     "21a67ed64ec7f0464e5f657cab58624d287f7467137cc3796ee1b1cb233b6969": "2026-08-18T10:41:00.074050+00:00",
     "21d7a129fa1053cb02a82727ee86a0da13ebb702eb7fc4b0f2ed2b7a9649fc58": "2026-09-25T16:20:50.588575+00:00",
     "21f05a8ae55d91ed26906e87c9183cef8c22069e71b45e59f87f9352f12db54a": "2026-09-19T07:31:15.920350+00:00",
