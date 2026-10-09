@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 24,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 795,
-  "early_signal_last_scan_utc": "2026-10-09T15:30:42.397208+00:00",
+  "early_signal_last_scan_utc": "2026-10-09T15:40:46.605206+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -39,7 +39,7 @@
       "volume_ratio": 0.22
     }
   },
-  "event_duplicates_suppressed": 70,
+  "event_duplicates_suppressed": 71,
   "event_memory": {
     "IPO|TICKER|FOTO": {
       "family": "IPO",
@@ -1469,11 +1469,50 @@
       },
       "ticker": ""
     },
+    "M&A / TAKEOVER|PARTIES|BIKE|72 PERSEN SAHAM BUM UNTUK EKSPANSI ENERGI": {
+      "family": "M&A / TAKEOVER",
+      "first_seen_utc": "2026-10-09T15:40:55.077643+00:00",
+      "last_alert_utc": "2026-10-09T15:40:55.077637+00:00",
+      "last_seen_utc": "2026-10-09T15:40:55.077637+00:00",
+      "market_context": {
+        "change_pct": null,
+        "last_price": null,
+        "market_date": null
+      },
+      "material_snapshot": {
+        "acquirer": "BIKE",
+        "acquirer_confirmed": true,
+        "event_type": "AKUISISI",
+        "execution_price": null,
+        "ipo_single_price": null,
+        "money": [],
+        "official_authority": null,
+        "official_kind": null,
+        "price_range": null,
+        "ratio": null,
+        "schedule": {},
+        "share_count": null,
+        "stage": "SPA / SIGNED",
+        "stage_step": 4,
+        "stage_total": 7,
+        "stake": [],
+        "standby_buyer": null,
+        "target": "72 Persen Saham BUM untuk Ekspansi Energi",
+        "target_confirmed": true,
+        "tender_price": null,
+        "underwriter": null,
+        "use_of_funds": [
+          "AKUISISI / INVESTASI",
+          "EKSPANSI / CAPEX"
+        ]
+      },
+      "ticker": ""
+    },
     "M&A / TAKEOVER|PARTIES|BIKE|72 PERSEN SAHAM BUM UNTUK EKSPANSI TAMBANG": {
       "family": "M&A / TAKEOVER",
       "first_seen_utc": "2026-10-09T03:40:37.534196+00:00",
       "last_alert_utc": "2026-10-09T03:40:37.534192+00:00",
-      "last_seen_utc": "2026-10-09T03:40:37.534192+00:00",
+      "last_seen_utc": "2026-10-09T15:40:47.997383+00:00",
       "market_context": {
         "change_pct": null,
         "last_price": null,
@@ -10465,7 +10504,7 @@
     }
   },
   "last_keepalive_utc": "2026-10-09T10:40:38.037983+00:00",
-  "last_state_change_utc": "2026-10-09T15:30:59.359512+00:00",
+  "last_state_change_utc": "2026-10-09T15:40:55.079334+00:00",
   "market_noise_suppressed": 8,
   "milestone_alerts": {},
   "rumor_alerts_sent": 118,
@@ -10476,8 +10515,8 @@
   "rumor_duplicates_suppressed": 756,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 23,
-  "rumor_integrity_repairs": 2248,
-  "rumor_last_scan_utc": "2026-10-09T15:30:42.383519+00:00",
+  "rumor_integrity_repairs": 2249,
+  "rumor_last_scan_utc": "2026-10-09T15:40:46.591407+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -12232,6 +12271,7 @@
     "b762b850223a20385d61ea79b86e2e92478caf860083f112902a68fd8268dccf": "2026-09-25T16:20:50.588575+00:00",
     "b7bd20f30f796bf190b07fa5f4ebe9ffd23fd9fef600842cc82874aa15d28fab": "2026-08-19T05:22:31.609048+00:00",
     "b7e2dd72313f82062863e8a488cb6ab2caa15d261ef46487e0f04598f08bf542": "2026-08-14T10:15:00.868800+00:00",
+    "b83c088f675dec0197ad062243281cb9d7066f4d2704615a72cfabbf48264493": "2026-10-09T15:40:47.997362+00:00",
     "b8fd5c8ba61ecaef32be89ae5f4454c5c1cd475328a8acbf36ed4a18ea4d0d3e": "2026-08-29T07:51:10.650528+00:00",
     "b9a491ff0723d4b28dea6cce10f88216b577a97545819aee9db14c9e339dab0f": "2026-08-14T10:15:00.868800+00:00",
     "b9fef1c2d035bcc97d779563585897fe64b72824ee5100e87cd126c48d3fa8e3": "2026-08-19T00:31:02.208943+00:00",
@@ -12324,6 +12364,7 @@
     "f0386d9f94ef54bbd8c48be22b7763713dd07a604978b5da63f91177073fd2cf": "2026-08-21T13:01:30.058267+00:00",
     "f043a1365917b39fe63e49ec98f615b059af8ebeddb151b87c9bddc0e740bf95": "2026-08-14T10:15:00.868800+00:00",
     "f23c921f275496bd59d0a018f7fb0f57c130584260fc26ff53b491a8c6252398": "2026-09-23T03:11:08.630669+00:00",
+    "f37eec74c8a5009576af9f856ba3b20537085b23ad2ef86676a6ae27921163db": "2026-10-09T15:40:55.077618+00:00",
     "f40f48aa39e7ec2f572918dc6477a96a0381feea8eb446e15bd184cf1bc50e1b": "2026-10-07T03:41:01.122940+00:00",
     "f45a50ac4f93cdc7704060c239f789a48f42c01de0c856a2807161d0ee430aed": "2026-10-02T10:11:01.070905+00:00",
     "f57a99f18ef13c0b676802e584a617426102d7a0d568142fbc5df343cf30f0fd": "2026-08-29T08:31:20.016719+00:00",
