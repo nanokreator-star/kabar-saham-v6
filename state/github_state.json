@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 24,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 795,
-  "early_signal_last_scan_utc": "2026-10-09T21:40:40.143347+00:00",
+  "early_signal_last_scan_utc": "2026-10-09T21:50:37.688716+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -39,7 +39,7 @@
       "volume_ratio": 0.22
     }
   },
-  "event_duplicates_suppressed": 71,
+  "event_duplicates_suppressed": 72,
   "event_memory": {
     "IPO|TICKER|FOTO": {
       "family": "IPO",
@@ -240,7 +240,7 @@
       "family": "IPO",
       "first_seen_utc": "2026-10-09T06:30:46.605030+00:00",
       "last_alert_utc": "2026-10-09T06:30:46.605023+00:00",
-      "last_seen_utc": "2026-10-09T06:30:46.605023+00:00",
+      "last_seen_utc": "2026-10-09T21:50:39.651547+00:00",
       "market_context": {
         "change_pct": null,
         "last_price": null,
@@ -10504,7 +10504,7 @@
     }
   },
   "last_keepalive_utc": "2026-10-09T10:40:38.037983+00:00",
-  "last_state_change_utc": "2026-10-09T21:40:40.198808+00:00",
+  "last_state_change_utc": "2026-10-09T21:50:39.653327+00:00",
   "market_noise_suppressed": 8,
   "milestone_alerts": {},
   "rumor_alerts_sent": 118,
@@ -10515,8 +10515,8 @@
   "rumor_duplicates_suppressed": 756,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 23,
-  "rumor_integrity_repairs": 2285,
-  "rumor_last_scan_utc": "2026-10-09T21:40:40.123899+00:00",
+  "rumor_integrity_repairs": 2286,
+  "rumor_last_scan_utc": "2026-10-09T21:50:37.671398+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -12201,6 +12201,7 @@
     "8da146f5393e1536dd4de3c745d7809c9c5cf29c99ece0b3fee3b521caee97d7": "2026-08-28T15:41:07.007160+00:00",
     "8dc04d5574199316506030bb5c541007fb17c17ead210282668042b6fac569ed": "2026-08-29T08:01:16.460871+00:00",
     "8e2e1c61bd9210a4fa893bcd58866412788cd0b659f5b063e27d121cb335e822": "2026-09-09T02:53:14.984832+00:00",
+    "8f0b98b0ca49fa3e09317675a374a3ce3afac8cfba04341a927eee75e973fc2b": "2026-10-09T21:50:39.651530+00:00",
     "8f408705a09b31a4dd6d19fbe28f287aae10585c7f5a09818df1305e3f486124": "2026-08-14T10:15:00.868800+00:00",
     "8f912dd121afbaa9e4ef8b9f69a881d2875605bdb11a7dc3dcba74ab3563a274": "2026-10-06T11:41:18.973111+00:00",
     "8fe6a59ab509be0ed6fdd3ef6a90c0b4b315426ec73c90f8836ad926dd8c9063": "2026-09-16T13:50:59.873373+00:00",
