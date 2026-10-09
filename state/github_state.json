@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 24,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 795,
-  "early_signal_last_scan_utc": "2026-10-09T11:01:47.973627+00:00",
+  "early_signal_last_scan_utc": "2026-10-09T15:30:42.397208+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -6263,6 +6263,47 @@
       },
       "ticker": "BMAS"
     },
+    "RIGHTS ISSUE|TICKER|BRIS": {
+      "family": "RIGHTS ISSUE",
+      "first_seen_utc": "2026-10-09T15:30:59.357883+00:00",
+      "last_alert_utc": "2026-10-09T15:30:59.357878+00:00",
+      "last_seen_utc": "2026-10-09T15:30:59.357878+00:00",
+      "market_context": {
+        "change_pct": 1.4981,
+        "last_price": 1355.0,
+        "market_date": "2026-10-09"
+      },
+      "material_snapshot": {
+        "acquirer": null,
+        "acquirer_confirmed": false,
+        "event_type": "RIGHTS ISSUE",
+        "execution_price": null,
+        "ipo_single_price": null,
+        "money": [
+          "Rp641,10 triliun",
+          "US$20 miliar"
+        ],
+        "official_authority": null,
+        "official_kind": null,
+        "price_range": null,
+        "ratio": null,
+        "schedule": {},
+        "share_count": "6,8 Miliar saham",
+        "stage": "RENCANA",
+        "stage_step": 2,
+        "stage_total": 6,
+        "stake": [
+          4.24
+        ],
+        "standby_buyer": null,
+        "target": null,
+        "target_confirmed": false,
+        "tender_price": null,
+        "underwriter": null,
+        "use_of_funds": []
+      },
+      "ticker": "BRIS"
+    },
     "RIGHTS ISSUE|TICKER|BRNA": {
       "family": "RIGHTS ISSUE",
       "first_seen_utc": "2026-08-14T10:15:00.868800+00:00",
@@ -9173,7 +9214,7 @@
       "owner_context_sources": 0,
       "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
       "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-      "owner_v6_checked_utc": "2026-10-01T21:21:27.299329+00:00",
+      "owner_v6_checked_utc": "2026-10-09T15:30:58.797019+00:00",
       "owner_v6_pages_fetched": 0,
       "profile_source": "Yahoo Finance",
       "profile_source_quality": "FALLBACK",
@@ -10424,7 +10465,7 @@
     }
   },
   "last_keepalive_utc": "2026-10-09T10:40:38.037983+00:00",
-  "last_state_change_utc": "2026-10-09T11:01:47.975195+00:00",
+  "last_state_change_utc": "2026-10-09T15:30:59.359512+00:00",
   "market_noise_suppressed": 8,
   "milestone_alerts": {},
   "rumor_alerts_sent": 118,
@@ -10436,7 +10477,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 23,
   "rumor_integrity_repairs": 2248,
-  "rumor_last_scan_utc": "2026-10-09T11:01:47.973567+00:00",
+  "rumor_last_scan_utc": "2026-10-09T15:30:42.383519+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -11338,7 +11379,7 @@
     },
     "IPO|TICKER|CNBC": {
       "category": "IPO",
-      "company_name": "CNBC",
+      "company_name": "Ada BUMN",
       "copy_duplicate_count": 0,
       "credible_effective_independent_count": 1.0,
       "derivative_source_count": 0,
@@ -12063,6 +12104,7 @@
     "646b85801b59b7050b05830457080dbec683e7d99c6192fb3a280114460d7df8": "2026-08-14T10:15:00.868800+00:00",
     "651597f755a571b1795bffd9abc30d78055e9e8dc60ce9a2f18cbd85114e1380": "2026-09-04T21:01:15.994282+00:00",
     "66cc00243bb6a8bfbc4d97203c2a5f9b1c5cd40ab2956cb5c237193ac3c22fbe": "2026-09-16T05:11:03.419031+00:00",
+    "66eaf0dec3376f910945d1ded3852dab8c7087773a822335935105688330bd8c": "2026-10-09T15:30:59.357852+00:00",
     "66ed0e932d59d13861d953962d6068888b45db61163663a8c6fb5bb53db04500": "2026-08-26T20:51:36.935635+00:00",
     "6954cec496e573e783ac044e5406aa21e590046c6ce3fc9626acec0a40a9e9f9": "2026-08-23T18:01:17.078390+00:00",
     "6961e4412739374464ff56e1b4e06e5b6475ac1f443c928a76a26014d3ebbf38": "2026-08-14T10:15:00.868800+00:00",
@@ -12140,6 +12182,7 @@
     "97cca75fe23ae26fe2c41baf6f3fdf2f7b6c66b3f1b81d118e61f19471b91ab2": "2026-08-14T10:15:00.868800+00:00",
     "99043a2b0ab24c3479def238819a5cea3085b4b90ab75eb93d29577cf3a808c4": "2026-08-14T10:15:00.868800+00:00",
     "99eddadc9391f8427e37eeb6b516b6d89ae153203f43ad5b3c9b2299549b5b22": "2026-10-02T10:51:37.467291+00:00",
+    "9a270271dc55a215a093946784242058d212d9e30c3c9de2cf680a19448d958c": "2026-10-09T15:30:59.357852+00:00",
     "9ac69e909a620f15a2891b5de03535724de24710e982007f7a3876bd66dfd1af": "2026-09-17T19:41:14.787581+00:00",
     "9b876251da3c9da8dfb6d2b7ff374bcf7c1e87ec257978594c08fd6a1c119e12": "2026-09-16T14:41:04.317367+00:00",
     "9d3fc465ce464234bddf59f0d978bc50685ec987b06f0553e0d0af7bbedfc0a6": "2026-08-14T10:15:00.868800+00:00",
@@ -12153,6 +12196,7 @@
     "a2ca1e0da9ffb3edfc2af75bfbbc98cc266e3253042b9de9cced630247084add": "2026-08-14T10:15:00.868800+00:00",
     "a3662b48ea46b6d71edde2164209df4ea953ba5b171e391cf6faca9f0d8a9868": "2026-09-30T23:10:52.487570+00:00",
     "a3864ebea6aaac013de22cc1b986f34e671379ce0e1be0fc53773f378a0ff38b": "2026-08-17T12:10:53.623227+00:00",
+    "a463fb835a1f6b3b78368e5c04c178e2e5d089adba455f0779831ee35af7e59a": "2026-10-09T15:30:59.357852+00:00",
     "a610c7c5b697ee7f7548e70e3eb1ba6d2b4d6e8d6aba9c70f5a36ca3c2998a7d": "2026-09-07T11:10:59.517731+00:00",
     "a756f94948679cb9e44f144a87f88e2767b95f261c152c0dc6161ad83b48ed7e": "2026-08-29T13:01:39.906036+00:00",
     "a7a4b1588da2190fce00918be07126b43aef12ace18cd06591a6f13d0ad7de09": "2026-09-07T17:01:17.930370+00:00",
@@ -12230,6 +12274,7 @@
     "d2c572e1eb9fc8d2afe9217144d58afc3cc50cbd621f9321798bfbacc5fbefe5": "2026-09-19T07:31:15.920350+00:00",
     "d32c6d69d1423bead33e60a6da00f37aa57b87853d93e2e53cab58f288ce3e35": "2026-10-02T07:01:09.583770+00:00",
     "d39db68952ac6149d7a775f79ff75cd9de63bf8787fe5fab239ef92521949816": "2026-08-14T10:15:00.868800+00:00",
+    "d4254d21d054d429eaac2ab15784e18dd7b79017c757ea6589b5059ecdd0a2fd": "2026-10-09T15:30:59.357852+00:00",
     "d59294aec9b2690d781e6ea535d9d810dd19e549c74895d8cab442d65a0ba9aa": "2026-09-11T07:21:24.577686+00:00",
     "d629bbd2f818df75a0232a48bcc602bb2dd1546e3357cbf267127350511195d9": "2026-08-14T10:15:00.868800+00:00",
     "d7d6ffd532231968cef7a9ddfaa865f46ad1255184b3fa620d00d03f775366ad": "2026-09-25T16:20:50.588575+00:00",
@@ -12250,6 +12295,7 @@
     "e15dead3e0934be0b2fe7aff9893f581651ea2f00043e9910df6cefee45aeb1c": "2026-08-29T09:01:04.104716+00:00",
     "e2ccfa80f91341bdd72e247890d35602844c5f044fa8bf0fc8cd8eb12dd9a7e5": "2026-09-29T03:51:12.437367+00:00",
     "e2d5ab6b136679933b45cdd6a3202453239f7ac5f6bb917388b3d48f847921e8": "2026-09-29T03:51:11.317843+00:00",
+    "e31cbddd20a6cd7491dc21559ead41cbf58eb15309374863d53c5fd350d81f1c": "2026-10-09T15:30:59.357852+00:00",
     "e33907a9fe904c50f06fe11b58b70b65be47742ec7f0a555fb1e52141661e12a": "2026-08-20T03:21:47.165417+00:00",
     "e43121d88f14cca7d84b58aa0e148b1506a557d0f3d159f7a08a27429f076efb": "2026-08-14T10:15:00.868800+00:00",
     "e454b21c7fd7f238db363cf91ec740e0cf0a757e7a4900279b78bc62a0b8ea9b": "2026-08-14T10:15:00.868800+00:00",
@@ -12289,7 +12335,9 @@
     "f8fb1eea7f3931c8c49eda5628d65af20d0a78b4aa4a20d5cc9c1b4ce4e73b29": "2026-08-14T10:15:00.868800+00:00",
     "fb850201bfe087fefba521031c66de65f8f6cf02257bed9a8cbefd59dc0117d7": "2026-10-09T10:30:46.081506+00:00",
     "fcdbae73571cb3a9f90be1262db52468ce7b912e97ee5d9ea3ec9ae4a5d8a4b0": "2026-08-14T10:15:00.868800+00:00",
+    "fd0208d48157ef194061e8e2cbc7eab061cb7768f18caa63c98bf1c1e46333f0": "2026-10-09T15:30:59.357852+00:00",
     "fd659d78f4027a3623b588e59192bb504ba073c680d4307ac613083bf67a440f": "2026-10-06T04:41:03.093340+00:00",
+    "fe937aa7003deaa87accb8f557453bdc29fd752ee16ad6374403b4bc9b70de4d": "2026-10-09T15:30:59.357852+00:00",
     "fe9c3ec66d091da16ea6f4b2fd5647fefd7d309cf7f68fd0850f98d9736aedc3": "2026-10-02T13:11:40.960377+00:00",
     "fecccb01f4d147e27e288b8e846b7e45487d0a412d324f352bc47e4fd56a6453": "2026-09-19T15:11:09.477341+00:00",
     "ff0ae9ea35cc755cc560499d6149d50400fb6384446cd644f13462244f9a3771": "2026-10-05T12:20:50.233529+00:00",
