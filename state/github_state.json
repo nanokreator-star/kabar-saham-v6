@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 24,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 795,
-  "early_signal_last_scan_utc": "2026-10-09T08:50:53.703759+00:00",
+  "early_signal_last_scan_utc": "2026-10-09T09:01:17.764911+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -396,6 +396,42 @@
       "first_seen_utc": "2026-10-09T08:50:56.506773+00:00",
       "last_alert_utc": "2026-10-09T08:50:56.506767+00:00",
       "last_seen_utc": "2026-10-09T08:50:56.506767+00:00",
+      "market_context": {
+        "change_pct": null,
+        "last_price": null,
+        "market_date": null
+      },
+      "material_snapshot": {
+        "acquirer": null,
+        "acquirer_confirmed": false,
+        "event_type": "IPO",
+        "execution_price": null,
+        "ipo_single_price": null,
+        "money": [],
+        "official_authority": null,
+        "official_kind": null,
+        "price_range": null,
+        "ratio": null,
+        "schedule": {},
+        "share_count": null,
+        "stage": "RENCANA / PROSPEKTUS",
+        "stage_step": 2,
+        "stage_total": 5,
+        "stake": [],
+        "standby_buyer": null,
+        "target": null,
+        "target_confirmed": false,
+        "tender_price": null,
+        "underwriter": null,
+        "use_of_funds": []
+      },
+      "ticker": ""
+    },
+    "IPO|TITLE|BEI PERKETAT SYARAT CALON WAJIB SIAPKAN PROYEKSI": {
+      "family": "IPO",
+      "first_seen_utc": "2026-10-09T09:01:19.797880+00:00",
+      "last_alert_utc": "2026-10-09T09:01:19.797875+00:00",
+      "last_seen_utc": "2026-10-09T09:01:19.797875+00:00",
       "market_context": {
         "change_pct": null,
         "last_price": null,
@@ -10278,7 +10314,7 @@
     }
   },
   "last_keepalive_utc": "2026-09-25T10:31:06.793440+00:00",
-  "last_state_change_utc": "2026-10-09T08:50:56.508898+00:00",
+  "last_state_change_utc": "2026-10-09T09:01:19.799600+00:00",
   "market_noise_suppressed": 8,
   "milestone_alerts": {},
   "rumor_alerts_sent": 118,
@@ -10289,8 +10325,8 @@
   "rumor_duplicates_suppressed": 756,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 23,
-  "rumor_integrity_repairs": 2237,
-  "rumor_last_scan_utc": "2026-10-09T08:50:53.683500+00:00",
+  "rumor_integrity_repairs": 2238,
+  "rumor_last_scan_utc": "2026-10-09T09:01:17.751333+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -11817,6 +11853,7 @@
     "269f90e444cb4638aac529b92bab54baffbda2b1b30c406665b1ca8cd3aec12e": "2026-08-30T08:40:49.258736+00:00",
     "26e07c995021dd21c7602e153d4caaba3092cd2362059aab77d35cfc545f1a5b": "2026-08-26T08:01:09.569362+00:00",
     "270562ea3dff0292a3fdea93673ea633636308ba5e93f4cb4ed688e12f20c707": "2026-09-14T09:20:54.324058+00:00",
+    "27d6aeea63093039e397ca421be6af54b76fefb13ba9d82e770d5a6d977b67d6": "2026-10-09T09:01:19.797856+00:00",
     "27f1c862bc6dce52dc7381503ea7c9ba0f4429adafb76f69475e7cdb8f88d22d": "2026-08-14T10:15:00.868800+00:00",
     "29099fbd063715da075329f252b7e671fe71e4301ee5be9019a524d40d037aff": "2026-08-14T10:15:00.868800+00:00",
     "2984017de0deca5fb99b0df63b2e752e9a55d980577df5b7b5b4ea1d76d82a05": "2026-08-14T10:15:00.868800+00:00",
