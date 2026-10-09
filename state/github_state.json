@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 24,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 795,
-  "early_signal_last_scan_utc": "2026-10-09T10:10:58.252707+00:00",
+  "early_signal_last_scan_utc": "2026-10-09T10:30:43.492872+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -4728,6 +4728,44 @@
         "stage_step": 6,
         "stage_total": 7,
         "stake": [],
+        "standby_buyer": null,
+        "target": null,
+        "target_confirmed": false,
+        "tender_price": null,
+        "underwriter": null,
+        "use_of_funds": []
+      },
+      "ticker": ""
+    },
+    "M&A / TAKEOVER|TITLE|MANTAN PENGENDALI DOOH PANGKAS 03 TENGAH IDNFINANCIALS": {
+      "family": "M&A / TAKEOVER",
+      "first_seen_utc": "2026-10-09T10:30:46.081530+00:00",
+      "last_alert_utc": "2026-10-09T10:30:46.081524+00:00",
+      "last_seen_utc": "2026-10-09T10:30:46.081524+00:00",
+      "market_context": {
+        "change_pct": null,
+        "last_price": null,
+        "market_date": null
+      },
+      "material_snapshot": {
+        "acquirer": null,
+        "acquirer_confirmed": false,
+        "event_type": "TENDER OFFER",
+        "execution_price": null,
+        "ipo_single_price": null,
+        "money": [],
+        "official_authority": null,
+        "official_kind": null,
+        "price_range": null,
+        "ratio": null,
+        "schedule": {},
+        "share_count": null,
+        "stage": "TENDER OFFER",
+        "stage_step": 6,
+        "stage_total": 7,
+        "stake": [
+          3.03
+        ],
         "standby_buyer": null,
         "target": null,
         "target_confirmed": false,
@@ -10386,7 +10424,7 @@
     }
   },
   "last_keepalive_utc": "2026-09-25T10:31:06.793440+00:00",
-  "last_state_change_utc": "2026-10-09T10:10:58.307987+00:00",
+  "last_state_change_utc": "2026-10-09T10:30:46.083871+00:00",
   "market_noise_suppressed": 8,
   "milestone_alerts": {},
   "rumor_alerts_sent": 118,
@@ -10398,7 +10436,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 23,
   "rumor_integrity_repairs": 2245,
-  "rumor_last_scan_utc": "2026-10-09T10:10:58.232113+00:00",
+  "rumor_last_scan_utc": "2026-10-09T10:30:43.472346+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -11300,7 +11338,7 @@
     },
     "IPO|TICKER|CNBC": {
       "category": "IPO",
-      "company_name": "CNBC",
+      "company_name": "Ada BUMN",
       "copy_duplicate_count": 0,
       "credible_effective_independent_count": 1.0,
       "derivative_source_count": 0,
@@ -12249,6 +12287,7 @@
     "f7c7ebe6089542a2dee5847b151054d979c1fdae2a6b2938c13784a03cfc332a": "2026-10-02T04:31:12.378972+00:00",
     "f8a8224a34feba0a0cb2efd2e8f2e27a367a7d367963714b3bebac09ae8f88c6": "2026-08-14T10:15:00.868800+00:00",
     "f8fb1eea7f3931c8c49eda5628d65af20d0a78b4aa4a20d5cc9c1b4ce4e73b29": "2026-08-14T10:15:00.868800+00:00",
+    "fb850201bfe087fefba521031c66de65f8f6cf02257bed9a8cbefd59dc0117d7": "2026-10-09T10:30:46.081506+00:00",
     "fcdbae73571cb3a9f90be1262db52468ce7b912e97ee5d9ea3ec9ae4a5d8a4b0": "2026-08-14T10:15:00.868800+00:00",
     "fd659d78f4027a3623b588e59192bb504ba073c680d4307ac613083bf67a440f": "2026-10-06T04:41:03.093340+00:00",
     "fe9c3ec66d091da16ea6f4b2fd5647fefd7d309cf7f68fd0850f98d9736aedc3": "2026-10-02T13:11:40.960377+00:00",
