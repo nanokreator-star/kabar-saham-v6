@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 24,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 795,
-  "early_signal_last_scan_utc": "2026-10-11T10:40:34.173585+00:00",
+  "early_signal_last_scan_utc": "2026-10-11T23:40:47.897347+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -9375,7 +9375,7 @@
       "owner_context_sources": 0,
       "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
       "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-      "owner_v6_checked_utc": "2026-10-09T22:20:42.705425+00:00",
+      "owner_v6_checked_utc": "2026-10-11T23:40:37.731103+00:00",
       "owner_v6_pages_fetched": 0,
       "profile_source": "Yahoo Finance",
       "profile_source_quality": "FALLBACK",
@@ -9384,7 +9384,7 @@
       "subindustry": null,
       "subsector": null,
       "ticker": "CNBC",
-      "verified_at": "2026-10-09T22:20:43.447969+00:00",
+      "verified_at": "2026-10-11T23:40:38.930945+00:00",
       "website": null
     },
     "CUAN": {
@@ -10409,7 +10409,7 @@
       "owner_context_sources": 0,
       "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
       "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-      "owner_v6_checked_utc": "2026-10-09T22:20:51.427843+00:00",
+      "owner_v6_checked_utc": "2026-10-11T23:40:46.410036+00:00",
       "owner_v6_pages_fetched": 0,
       "profile_source": "Yahoo Finance",
       "profile_source_quality": "FALLBACK",
@@ -10504,7 +10504,7 @@
     }
   },
   "last_keepalive_utc": "2026-10-09T10:40:38.037983+00:00",
-  "last_state_change_utc": "2026-10-11T10:40:34.213094+00:00",
+  "last_state_change_utc": "2026-10-11T23:40:47.951416+00:00",
   "market_noise_suppressed": 8,
   "milestone_alerts": {},
   "rumor_alerts_sent": 118,
@@ -10512,11 +10512,11 @@
   "rumor_confirmed_count": 44,
   "rumor_confirmed_dedups": 0,
   "rumor_denied_count": 0,
-  "rumor_duplicates_suppressed": 758,
+  "rumor_duplicates_suppressed": 759,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 23,
   "rumor_integrity_repairs": 2292,
-  "rumor_last_scan_utc": "2026-10-11T10:40:34.160051+00:00",
+  "rumor_last_scan_utc": "2026-10-11T23:40:46.716310+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -11368,6 +11368,7 @@
       "detected_source_count": 1,
       "effective_independent_count": 1.0,
       "entity_aliases": [
+        "9 Calon Emiten",
         "Ada BUMN"
       ],
       "entity_resolution_source": null,
@@ -11382,7 +11383,7 @@
         "owner_context_sources": 0,
         "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
         "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-        "owner_v6_checked_utc": "2026-10-09T22:20:42.705425+00:00",
+        "owner_v6_checked_utc": "2026-10-11T23:40:37.731103+00:00",
         "owner_v6_pages_fetched": 0,
         "profile_source": "Yahoo Finance",
         "profile_source_quality": "FALLBACK",
@@ -11391,18 +11392,18 @@
         "subindustry": null,
         "subsector": null,
         "ticker": "CNBC",
-        "verified_at": "2026-10-09T22:20:43.447969+00:00",
+        "verified_at": "2026-10-11T23:40:38.930945+00:00",
         "website": null
       },
       "key": "IPO|TICKER|CNBC",
       "last_alert_utc": "2026-10-07T09:31:44.431452+00:00",
-      "last_seen_utc": "2026-10-07T06:10:17+00:00",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNclFyY1JYMW5yWExNNTgyUzUzcDdhWl9GVFdOaW8xdU8xOG5VZXc4MEhJZ3dYM3JCeXpnX2dQa1ZaVk1zYUJZT3l1cjI0c1c0Zno5T1ZaTnFHOTJsWko4VWZyT0J6ZmJManVsMWdfelhKSU1oQVBZdmdOMFoxZE5idXpxMFZCdm5oV0FOOThNSWJRUmFJcElNZDRXdUh1bFMxcERzcllkOEpmN1BPdTNzQ0JpVmlaOW5QVWd3N2NHOTFISmZRS0VJ0gHHAUFVX3lxTE1yUXJjUlgxbnJYTE01ODJTNTNwN2FaX0ZUV05pbzF1TzE4blVldzgwSElnd1gzckJ5emdfZ1BrVlpWTXNhQllPeXVyMjRzVzRmejlPVlpOcUc5MmxaSjhVZnJPQnpmYkxqdWwxZ196WEpJTWhBUFl2Z04wWjFkTmJ1enEwVkJ2bmhXQU45OE1JYlFSYUlwSU1kNFd1SHVsUzFwRHNyWWQ4SmY3UE91M3NDQmlWaVo5blBVZ3c3Y0c5MUhKZlFLRUk?oc=5",
+      "last_seen_utc": "2026-10-11T23:35:24+00:00",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTnlhZzRab3M3Z09Ob1RVMm5aMDhGcllOYWoyZWYwVzc5YkRod0h5NVNDZ1hyM3NCY1REdjNFdXBxYVFNa2NMQnhiUnRtRlNEUlpvRHBaT2gyV25qdlhjanc0T0R4S2dFSUN0ZnpKUjI5c3hpbmhPUWo4VVZ5aG94ejRadjRySWVWdks3RGhvc3laRWVCUHp6UEdPQjZLaUhTSTBtU3Q4MnJhVFBqakVVcFZ30gG3AUFVX3lxTE9lV1g5eFZEaW54dVd5V2ZhZUIxRmpUeF9EWDBGZHBJSFg0NmM5Vm5xZk0yN2pLZ2NlSmpjTGt1ZzNJU1MyTGU5Q2RWdkRXRFNCckYtTXNfWmdfV250cHNpU0ppWUJrMllER1hONDhfQXhLM3pPQk9qUHFSazNvQUdEUXBPeGM0bE15ODVIc284VzZubWJCUWNBbU1fMEQ2RGNxeTVuQzh4cHVvbkJSZ2VpY3dQdUN3UQ?oc=5",
       "market_data": null,
       "official_confirmation": null,
       "premium_source_count": 1,
-      "profile_refresh_utc": "2026-10-09T22:20:51.815432+00:00",
-      "published": "Wed, 07 Oct 2026 06:10:17 GMT",
+      "profile_refresh_utc": "2026-10-11T23:40:46.714038+00:00",
+      "published": "Sun, 11 Oct 2026 23:35:24 GMT",
       "rumor_details": {
         "ipo_price": null,
         "listing_estimate": null,
@@ -11436,7 +11437,7 @@
       "status": "ACTIVE",
       "strength": "MEDIUM",
       "ticker": "CNBC",
-      "title": "Ada BUMN Bakal IPO Tahun 2027, Bos Danantara Sebut 3 Sektor Ini - CNBC Indonesia"
+      "title": "9 Calon Emiten Siap IPO, 2 Perusahaan Beraset Jumbo - CNBC Indonesia"
     },
     "MERGER|TICKER|ASDP": {
       "category": "MERGER",
