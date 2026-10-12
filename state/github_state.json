@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 24,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 795,
-  "early_signal_last_scan_utc": "2026-10-12T11:41:14.346711+00:00",
+  "early_signal_last_scan_utc": "2026-10-12T12:50:36.653605+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -4852,6 +4852,44 @@
         "tender_price": null,
         "underwriter": null,
         "use_of_funds": []
+      },
+      "ticker": ""
+    },
+    "M&A / TAKEOVER|TITLE|MARAK INVESTOR PERLU WASPADAI POTENSI BACKDOOR LISTING": {
+      "family": "M&A / TAKEOVER",
+      "first_seen_utc": "2026-10-12T12:50:38.911758+00:00",
+      "last_alert_utc": "2026-10-12T12:50:38.911755+00:00",
+      "last_seen_utc": "2026-10-12T12:50:38.911755+00:00",
+      "market_context": {
+        "change_pct": null,
+        "last_price": null,
+        "market_date": null
+      },
+      "material_snapshot": {
+        "acquirer": null,
+        "acquirer_confirmed": false,
+        "event_type": "AKUISISI",
+        "execution_price": null,
+        "ipo_single_price": null,
+        "money": [],
+        "official_authority": null,
+        "official_kind": null,
+        "price_range": null,
+        "ratio": null,
+        "schedule": {},
+        "share_count": null,
+        "stage": "SPA / SIGNED",
+        "stage_step": 4,
+        "stage_total": 7,
+        "stake": [],
+        "standby_buyer": null,
+        "target": null,
+        "target_confirmed": false,
+        "tender_price": null,
+        "underwriter": null,
+        "use_of_funds": [
+          "AKUISISI / INVESTASI"
+        ]
       },
       "ticker": ""
     },
@@ -10545,7 +10583,7 @@
     }
   },
   "last_keepalive_utc": "2026-10-09T10:40:38.037983+00:00",
-  "last_state_change_utc": "2026-10-12T11:41:14.506649+00:00",
+  "last_state_change_utc": "2026-10-12T12:50:38.912962+00:00",
   "market_noise_suppressed": 9,
   "milestone_alerts": {},
   "rumor_alerts_sent": 118,
@@ -10557,7 +10595,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 23,
   "rumor_integrity_repairs": 2338,
-  "rumor_last_scan_utc": "2026-10-12T11:41:13.475362+00:00",
+  "rumor_last_scan_utc": "2026-10-12T12:50:35.751102+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -11402,7 +11440,7 @@
     },
     "IPO|TICKER|CNBC": {
       "category": "IPO",
-      "company_name": "CNBC",
+      "company_name": "9 Calon Emiten",
       "copy_duplicate_count": 0,
       "credible_effective_independent_count": 1.0,
       "derivative_source_count": 0,
@@ -11979,6 +12017,7 @@
     "06f426459cc9ad3bf6d657e73233ff1fb2944b44bdc17e574b7a1ef4d177e1bd": "2026-08-14T10:15:00.868800+00:00",
     "0761df22880b3203f821508eb6d56949191d4281192f9a2596534925d4ccad0a": "2026-10-01T21:21:27.299508+00:00",
     "07ba4b56ef997cf11763aed6485075e34d3cfa958c3ee604e19d1af47ca81cc3": "2026-08-14T10:15:00.868800+00:00",
+    "0915b4f591efd694ad65e6773d624bbd556294296c28f92738689e051fea1d56": "2026-10-12T12:50:38.911743+00:00",
     "0943528bea6dc6b7dcaba77141dcfe9a9fad654c91d961d241daaf91bd4b32a6": "2026-09-11T10:40:56.534079+00:00",
     "09b8dc547be673d3cfe48d7936774f66ac705e9e5ec90eb7100f63d636c131f4": "2026-09-21T11:31:28.132179+00:00",
     "0a252024a8caf81e69f47f39796d2784e19a5e087d211da9a3b8084899c8a92a": "2026-09-29T15:01:08.151722+00:00",
