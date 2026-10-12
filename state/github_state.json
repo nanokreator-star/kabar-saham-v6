@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 24,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 795,
-  "early_signal_last_scan_utc": "2026-10-12T13:20:54.403958+00:00",
+  "early_signal_last_scan_utc": "2026-10-12T13:30:51.816070+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -10583,7 +10583,7 @@
     }
   },
   "last_keepalive_utc": "2026-10-09T10:40:38.037983+00:00",
-  "last_state_change_utc": "2026-10-12T13:20:54.450327+00:00",
+  "last_state_change_utc": "2026-10-12T13:30:51.849571+00:00",
   "market_noise_suppressed": 9,
   "milestone_alerts": {},
   "rumor_alerts_sent": 118,
@@ -10594,8 +10594,8 @@
   "rumor_duplicates_suppressed": 760,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 23,
-  "rumor_integrity_repairs": 2341,
-  "rumor_last_scan_utc": "2026-10-12T13:20:53.761524+00:00",
+  "rumor_integrity_repairs": 2342,
+  "rumor_last_scan_utc": "2026-10-12T13:30:50.526598+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -11440,7 +11440,7 @@
     },
     "IPO|TICKER|CNBC": {
       "category": "IPO",
-      "company_name": "9 Calon Emiten",
+      "company_name": "CNBC",
       "copy_duplicate_count": 0,
       "credible_effective_independent_count": 1.0,
       "derivative_source_count": 0,
