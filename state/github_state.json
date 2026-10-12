@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 24,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 795,
-  "early_signal_last_scan_utc": "2026-10-12T03:10:37.598885+00:00",
+  "early_signal_last_scan_utc": "2026-10-12T03:20:39.532326+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -39,7 +39,7 @@
       "volume_ratio": 0.22
     }
   },
-  "event_duplicates_suppressed": 72,
+  "event_duplicates_suppressed": 73,
   "event_memory": {
     "IPO|TICKER|FOTO": {
       "family": "IPO",
@@ -2553,11 +2553,11 @@
       "family": "M&A / TAKEOVER",
       "first_seen_utc": "2026-08-31T02:30:59.962757+00:00",
       "last_alert_utc": "2026-08-31T02:30:59.962750+00:00",
-      "last_seen_utc": "2026-08-31T02:30:59.962750+00:00",
+      "last_seen_utc": "2026-10-12T03:20:50.948812+00:00",
       "market_context": {
-        "change_pct": 0.0,
-        "last_price": 4800.0,
-        "market_date": "2026-08-31"
+        "change_pct": 1.0373,
+        "last_price": 4870.0,
+        "market_date": "2026-10-12"
       },
       "material_snapshot": {
         "acquirer": null,
@@ -9078,7 +9078,7 @@
       "owner_context_sources": 0,
       "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
       "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-      "owner_v6_checked_utc": "2026-08-31T02:30:59.272180+00:00",
+      "owner_v6_checked_utc": "2026-10-12T03:20:50.948628+00:00",
       "owner_v6_pages_fetched": 0,
       "profile_source": "Yahoo Finance",
       "profile_source_quality": "FALLBACK",
@@ -9087,7 +9087,7 @@
       "subindustry": null,
       "subsector": null,
       "ticker": "ASII",
-      "verified_at": "2026-08-31T02:30:55.142131+00:00",
+      "verified_at": "2026-10-12T03:20:42.964257+00:00",
       "website": "https://www.astra.co.id"
     },
     "AWAL": {
@@ -10504,8 +10504,8 @@
     }
   },
   "last_keepalive_utc": "2026-10-09T10:40:38.037983+00:00",
-  "last_state_change_utc": "2026-10-12T03:10:37.798267+00:00",
-  "market_noise_suppressed": 8,
+  "last_state_change_utc": "2026-10-12T03:20:50.950478+00:00",
+  "market_noise_suppressed": 9,
   "milestone_alerts": {},
   "rumor_alerts_sent": 118,
   "rumor_baseline_initialized": true,
@@ -10515,8 +10515,8 @@
   "rumor_duplicates_suppressed": 760,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 23,
-  "rumor_integrity_repairs": 2299,
-  "rumor_last_scan_utc": "2026-10-12T03:10:37.001558+00:00",
+  "rumor_integrity_repairs": 2300,
+  "rumor_last_scan_utc": "2026-10-12T03:20:38.267688+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -12258,6 +12258,7 @@
     "c9a599b7f347878d098ece2029c152ac0e4564049b3d9084470f451223872dda": "2026-08-14T10:15:00.868800+00:00",
     "cac9c1d8543f1760b917636f01b7d023dc2331644c8af036e297ce2e56feb013": "2026-08-28T18:01:15.825902+00:00",
     "cc89201b1ef5fa9948d89f5df0c8d4a69617312572fb9f482be3993ad6f3ae6b": "2026-08-20T09:34:38.381195+00:00",
+    "cd9196851e1c1075a76436e7884e5359513f90cc97cfb147c332cae70673ecb0": "2026-10-12T03:20:50.948805+00:00",
     "cdc16ccf5e9b187d5ea494f1c5257dc1848c11926f6fbbd76d3fb2b094fa5c32": "2026-08-21T10:31:03.694239+00:00",
     "ce83235056fd088afa23df4b98a04c61c0ad9cb957d728d14f7cb3b0b9f76de3": "2026-08-28T11:41:09.035515+00:00",
     "ce8e551323b705c6b9d10316b8ee83da618a0685855dfd1e43f75fe4c968329e": "2026-09-30T06:41:24.283066+00:00",
