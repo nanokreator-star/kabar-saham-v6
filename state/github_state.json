@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 24,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 795,
-  "early_signal_last_scan_utc": "2026-10-12T08:30:48.516050+00:00",
+  "early_signal_last_scan_utc": "2026-10-12T08:40:41.491467+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -1880,6 +1880,47 @@
         ]
       },
       "ticker": "ARKO"
+    },
+    "M&A / TAKEOVER|PARTIES|MESIN EKSPANSI BIKE KIAN MEMBARA|45 SAHAM SUMBER BARA ABADI": {
+      "family": "M&A / TAKEOVER",
+      "first_seen_utc": "2026-10-12T08:41:02.498728+00:00",
+      "last_alert_utc": "2026-10-12T08:41:02.498722+00:00",
+      "last_seen_utc": "2026-10-12T08:41:02.498722+00:00",
+      "market_context": {
+        "change_pct": 24.7664,
+        "last_price": 2670.0,
+        "market_date": "2026-10-12"
+      },
+      "material_snapshot": {
+        "acquirer": "Mesin Ekspansi BIKE Kian Membara",
+        "acquirer_confirmed": true,
+        "event_type": "AKUISISI",
+        "execution_price": null,
+        "ipo_single_price": null,
+        "money": [],
+        "official_authority": null,
+        "official_kind": null,
+        "price_range": null,
+        "ratio": null,
+        "schedule": {},
+        "share_count": null,
+        "stage": "SPA / SIGNED",
+        "stage_step": 4,
+        "stage_total": 7,
+        "stake": [
+          45.0
+        ],
+        "standby_buyer": null,
+        "target": "45% Saham Sumber Bara Abadi",
+        "target_confirmed": true,
+        "tender_price": null,
+        "underwriter": null,
+        "use_of_funds": [
+          "AKUISISI / INVESTASI",
+          "EKSPANSI / CAPEX"
+        ]
+      },
+      "ticker": "BIKE"
     },
     "M&A / TAKEOVER|PARTIES|PENGAMAT|SAHAM WIKA DI PSBI MESTI TRANSPARAN": {
       "family": "M&A / TAKEOVER",
@@ -9151,14 +9192,14 @@
       "website": "https://www.allobank.com"
     },
     "BIKE": {
-      "business_activity": "PT Sepeda Bersama Indonesia Tbk engages in the trading of bicycles, electric motorcycle, baby stroller, and others in Indonesia. The company is involved in wholesale of sports equipment, land transportation equipment, and spare parts and eq",
+      "business_activity": "PT Bhineka Inovasi Ketahanan Energi Tbk engages in the trading of bicycles, electric motorcycle, baby stroller, and others in Indonesia. The company is involved in wholesale of sports equipment, land transportation equipment, and spare part",
       "controller": null,
       "industry": "Leisure",
-      "issuer_name": "Sepeda Bersama Indonesia",
+      "issuer_name": "Bhineka Inovasi Ketahanan Energi",
       "owner_context_sources": 0,
       "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
       "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-      "owner_v6_checked_utc": "2026-08-23T18:01:16.545360+00:00",
+      "owner_v6_checked_utc": "2026-10-12T08:41:01.762132+00:00",
       "owner_v6_pages_fetched": 0,
       "profile_source": "Yahoo Finance",
       "profile_source_quality": "FALLBACK",
@@ -9167,7 +9208,7 @@
       "subindustry": null,
       "subsector": null,
       "ticker": "BIKE",
-      "verified_at": "2026-08-23T18:01:09.235455+00:00",
+      "verified_at": "2026-10-12T08:40:54.175811+00:00",
       "website": "https://sepedabersamaindonesia.co.id"
     },
     "BMAS": {
@@ -10504,7 +10545,7 @@
     }
   },
   "last_keepalive_utc": "2026-10-09T10:40:38.037983+00:00",
-  "last_state_change_utc": "2026-10-12T08:30:48.565003+00:00",
+  "last_state_change_utc": "2026-10-12T08:41:02.500860+00:00",
   "market_noise_suppressed": 9,
   "milestone_alerts": {},
   "rumor_alerts_sent": 118,
@@ -10515,8 +10556,8 @@
   "rumor_duplicates_suppressed": 760,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 23,
-  "rumor_integrity_repairs": 2331,
-  "rumor_last_scan_utc": "2026-10-12T08:30:47.702931+00:00",
+  "rumor_integrity_repairs": 2332,
+  "rumor_last_scan_utc": "2026-10-12T08:40:40.370127+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -12332,6 +12373,7 @@
     "f7c7ebe6089542a2dee5847b151054d979c1fdae2a6b2938c13784a03cfc332a": "2026-10-02T04:31:12.378972+00:00",
     "f8a8224a34feba0a0cb2efd2e8f2e27a367a7d367963714b3bebac09ae8f88c6": "2026-08-14T10:15:00.868800+00:00",
     "f8fb1eea7f3931c8c49eda5628d65af20d0a78b4aa4a20d5cc9c1b4ce4e73b29": "2026-08-14T10:15:00.868800+00:00",
+    "fac82e55cd7fcbb0a27ac1cb95c128785bf525147783fc8ea5027e3895ca1225": "2026-10-12T08:41:02.498704+00:00",
     "fb850201bfe087fefba521031c66de65f8f6cf02257bed9a8cbefd59dc0117d7": "2026-10-09T10:30:46.081506+00:00",
     "fcdbae73571cb3a9f90be1262db52468ce7b912e97ee5d9ea3ec9ae4a5d8a4b0": "2026-08-14T10:15:00.868800+00:00",
     "fd0208d48157ef194061e8e2cbc7eab061cb7768f18caa63c98bf1c1e46333f0": "2026-10-09T15:30:59.357852+00:00",
