@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 24,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 795,
-  "early_signal_last_scan_utc": "2026-10-13T11:50:42.830839+00:00",
+  "early_signal_last_scan_utc": "2026-10-13T12:01:06.466593+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -6335,7 +6335,7 @@
       "owner_context_sources": 0,
       "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
       "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-      "owner_v6_checked_utc": "2026-10-12T23:50:41.218870+00:00",
+      "owner_v6_checked_utc": "2026-10-13T12:00:55.997933+00:00",
       "owner_v6_pages_fetched": 0,
       "profile_source": "Yahoo Finance",
       "profile_source_quality": "FALLBACK",
@@ -6344,7 +6344,7 @@
       "subindustry": null,
       "subsector": null,
       "ticker": "CNBC",
-      "verified_at": "2026-10-12T23:50:42.349942+00:00",
+      "verified_at": "2026-10-13T12:00:57.300239+00:00",
       "website": null
     },
     "CUAN": {
@@ -7389,7 +7389,7 @@
       "owner_context_sources": 0,
       "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
       "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-      "owner_v6_checked_utc": "2026-10-12T23:50:50.951987+00:00",
+      "owner_v6_checked_utc": "2026-10-13T12:01:05.629295+00:00",
       "owner_v6_pages_fetched": 0,
       "profile_source": "Yahoo Finance",
       "profile_source_quality": "FALLBACK",
@@ -7484,7 +7484,7 @@
     }
   },
   "last_keepalive_utc": "2026-10-09T10:40:38.037983+00:00",
-  "last_state_change_utc": "2026-10-13T11:50:48.747514+00:00",
+  "last_state_change_utc": "2026-10-13T12:01:06.662641+00:00",
   "market_noise_suppressed": 9,
   "milestone_alerts": {},
   "rumor_alerts_sent": 118,
@@ -7495,8 +7495,8 @@
   "rumor_duplicates_suppressed": 760,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 23,
-  "rumor_integrity_repairs": 2400,
-  "rumor_last_scan_utc": "2026-10-13T11:50:42.813479+00:00",
+  "rumor_integrity_repairs": 2401,
+  "rumor_last_scan_utc": "2026-10-13T12:01:06.454936+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -8341,7 +8341,7 @@
     },
     "IPO|TICKER|CNBC": {
       "category": "IPO",
-      "company_name": "9 Calon Emiten",
+      "company_name": "CNBC",
       "copy_duplicate_count": 0,
       "credible_effective_independent_count": 1.0,
       "derivative_source_count": 0,
@@ -8364,7 +8364,7 @@
         "owner_context_sources": 0,
         "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
         "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-        "owner_v6_checked_utc": "2026-10-12T23:50:41.218870+00:00",
+        "owner_v6_checked_utc": "2026-10-13T12:00:55.997933+00:00",
         "owner_v6_pages_fetched": 0,
         "profile_source": "Yahoo Finance",
         "profile_source_quality": "FALLBACK",
@@ -8373,7 +8373,7 @@
         "subindustry": null,
         "subsector": null,
         "ticker": "CNBC",
-        "verified_at": "2026-10-12T23:50:42.349942+00:00",
+        "verified_at": "2026-10-13T12:00:57.300239+00:00",
         "website": null
       },
       "key": "IPO|TICKER|CNBC",
@@ -8383,7 +8383,7 @@
       "market_data": null,
       "official_confirmation": null,
       "premium_source_count": 1,
-      "profile_refresh_utc": "2026-10-12T23:50:51.771059+00:00",
+      "profile_refresh_utc": "2026-10-13T12:01:06.453237+00:00",
       "published": "Sun, 11 Oct 2026 23:35:24 GMT",
       "rumor_details": {
         "ipo_price": null,
