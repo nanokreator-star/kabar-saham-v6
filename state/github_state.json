@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 24,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 795,
-  "early_signal_last_scan_utc": "2026-10-13T11:40:49.042920+00:00",
+  "early_signal_last_scan_utc": "2026-10-13T11:50:42.830839+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -4998,6 +4998,42 @@
       },
       "ticker": ""
     },
+    "RIGHTS ISSUE|TICKER|ANAK": {
+      "family": "RIGHTS ISSUE",
+      "first_seen_utc": "2026-10-13T11:50:48.745547+00:00",
+      "last_alert_utc": "2026-10-13T11:50:48.745541+00:00",
+      "last_seen_utc": "2026-10-13T11:50:48.745541+00:00",
+      "market_context": {
+        "change_pct": null,
+        "last_price": null,
+        "market_date": null
+      },
+      "material_snapshot": {
+        "acquirer": null,
+        "acquirer_confirmed": false,
+        "event_type": "RIGHTS ISSUE",
+        "execution_price": null,
+        "ipo_single_price": null,
+        "money": [],
+        "official_authority": null,
+        "official_kind": null,
+        "price_range": null,
+        "ratio": null,
+        "schedule": {},
+        "share_count": "22,02 Miliar saham",
+        "stage": "RENCANA",
+        "stage_step": 2,
+        "stage_total": 6,
+        "stake": [],
+        "standby_buyer": null,
+        "target": null,
+        "target_confirmed": false,
+        "tender_price": null,
+        "underwriter": null,
+        "use_of_funds": []
+      },
+      "ticker": "ANAK"
+    },
     "RIGHTS ISSUE|TICKER|BRIS": {
       "family": "RIGHTS ISSUE",
       "first_seen_utc": "2026-10-09T15:30:59.357883+00:00",
@@ -5938,11 +5974,11 @@
       "business_activity": null,
       "controller": null,
       "industry": null,
-      "issuer_name": "ANAK",
+      "issuer_name": null,
       "owner_context_sources": 0,
       "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
       "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-      "owner_v6_checked_utc": "2026-08-27T16:25:26.657255+00:00",
+      "owner_v6_checked_utc": "2026-10-13T11:50:48.030716+00:00",
       "owner_v6_pages_fetched": 0,
       "profile_source": "Yahoo Finance",
       "profile_source_quality": "FALLBACK",
@@ -5951,7 +5987,7 @@
       "subindustry": null,
       "subsector": null,
       "ticker": "ANAK",
-      "verified_at": "2026-08-27T16:25:27.408522+00:00",
+      "verified_at": "2026-10-13T11:50:48.010553+00:00",
       "website": null
     },
     "ARKO": {
@@ -7448,7 +7484,7 @@
     }
   },
   "last_keepalive_utc": "2026-10-09T10:40:38.037983+00:00",
-  "last_state_change_utc": "2026-10-13T11:40:49.088745+00:00",
+  "last_state_change_utc": "2026-10-13T11:50:48.747514+00:00",
   "market_noise_suppressed": 9,
   "milestone_alerts": {},
   "rumor_alerts_sent": 118,
@@ -7459,8 +7495,8 @@
   "rumor_duplicates_suppressed": 760,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 23,
-  "rumor_integrity_repairs": 2399,
-  "rumor_last_scan_utc": "2026-10-13T11:40:48.307949+00:00",
+  "rumor_integrity_repairs": 2400,
+  "rumor_last_scan_utc": "2026-10-13T11:50:42.813479+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -8874,6 +8910,7 @@
     "029ae777f86c403a5998f04a99e62b001aa12140806c6b73b7ce9c6795d4ca35": "2026-08-20T04:06:56.157877+00:00",
     "02af405461faf5986d98b3e3ae2913286ee4b437af63d47564c870dc88cd9231": "2026-08-17T07:20:39.627738+00:00",
     "03742ff5feb9c0187f2cb9cdccb533f593623d46f56b8ad7096d0d9aada2ccfb": "2026-10-09T04:00:48.305901+00:00",
+    "03ade3efcb9538718bcd2280ce6db2106eb822b907c34e26addc3f6cbb0f366e": "2026-10-13T11:50:48.745522+00:00",
     "04c6f972000053033a377047512a9e8f4da8f3271b25b524a5c090099a29e1b1": "2026-08-27T03:20:54.024348+00:00",
     "0761df22880b3203f821508eb6d56949191d4281192f9a2596534925d4ccad0a": "2026-10-01T21:21:27.299508+00:00",
     "0915b4f591efd694ad65e6773d624bbd556294296c28f92738689e051fea1d56": "2026-10-12T12:50:38.911743+00:00",
