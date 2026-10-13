@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 24,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 795,
-  "early_signal_last_scan_utc": "2026-10-12T23:50:52.770687+00:00",
+  "early_signal_last_scan_utc": "2026-10-13T02:50:39.048648+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -6806,6 +6806,42 @@
       },
       "ticker": "MGLV"
     },
+    "RIGHTS ISSUE|TICKER|NINE": {
+      "family": "RIGHTS ISSUE",
+      "first_seen_utc": "2026-10-13T02:50:57.795382+00:00",
+      "last_alert_utc": "2026-10-13T02:50:57.795376+00:00",
+      "last_seen_utc": "2026-10-13T02:50:57.795376+00:00",
+      "market_context": {
+        "change_pct": 5.814,
+        "last_price": 91.0,
+        "market_date": "2026-10-13"
+      },
+      "material_snapshot": {
+        "acquirer": null,
+        "acquirer_confirmed": false,
+        "event_type": "RIGHTS ISSUE",
+        "execution_price": null,
+        "ipo_single_price": null,
+        "money": [],
+        "official_authority": null,
+        "official_kind": null,
+        "price_range": null,
+        "ratio": null,
+        "schedule": {},
+        "share_count": "2,44 Miliar saham",
+        "stage": "RENCANA",
+        "stage_step": 2,
+        "stage_total": 6,
+        "stake": [],
+        "standby_buyer": null,
+        "target": null,
+        "target_confirmed": false,
+        "tender_price": null,
+        "underwriter": null,
+        "use_of_funds": []
+      },
+      "ticker": "NINE"
+    },
     "RIGHTS ISSUE|TICKER|NTBK": {
       "family": "RIGHTS ISSUE",
       "first_seen_utc": "2026-08-14T10:15:00.868800+00:00",
@@ -10151,6 +10187,26 @@
       "verified_at": "2026-10-02T04:10:59.816234+00:00",
       "website": "https://hassana.co.id"
     },
+    "NINE": {
+      "business_activity": "PT Techno9 Indonesia Tbk engages in the wholesale trading of computers and computer equipment. It operates through Hardware and Maintenance segments.",
+      "controller": null,
+      "industry": "Information Technology Services",
+      "issuer_name": "Techno9 Indonesia",
+      "owner_context_sources": 0,
+      "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
+      "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
+      "owner_v6_checked_utc": "2026-10-13T02:50:56.939870+00:00",
+      "owner_v6_pages_fetched": 0,
+      "profile_source": "Yahoo Finance",
+      "profile_source_quality": "FALLBACK",
+      "profile_source_url": null,
+      "sector": "Technology",
+      "subindustry": null,
+      "subsector": null,
+      "ticker": "NINE",
+      "verified_at": "2026-10-13T02:50:53.734816+00:00",
+      "website": "https://www.techno9indonesia.com"
+    },
     "PACK": {
       "business_activity": "PT Abadi Nusantara Hijau Investama Tbk provides flexible packaging products for digital printing industry in Indonesia. It offers sachets and 3 side seals, standing pouches, lid cups, and roll stocks.",
       "controller": null,
@@ -10619,7 +10675,7 @@
     }
   },
   "last_keepalive_utc": "2026-10-09T10:40:38.037983+00:00",
-  "last_state_change_utc": "2026-10-12T23:50:53.017836+00:00",
+  "last_state_change_utc": "2026-10-13T02:50:57.797056+00:00",
   "market_noise_suppressed": 9,
   "milestone_alerts": {},
   "rumor_alerts_sent": 118,
@@ -10631,7 +10687,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 23,
   "rumor_integrity_repairs": 2346,
-  "rumor_last_scan_utc": "2026-10-12T23:50:51.773208+00:00",
+  "rumor_last_scan_utc": "2026-10-13T02:50:38.097995+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -11476,7 +11532,7 @@
     },
     "IPO|TICKER|CNBC": {
       "category": "IPO",
-      "company_name": "CNBC",
+      "company_name": "9 Calon Emiten",
       "copy_duplicate_count": 0,
       "credible_effective_independent_count": 1.0,
       "derivative_source_count": 0,
@@ -12182,6 +12238,7 @@
     "51dc6ae76cc3955348be3a01c45aab793bed20599a1d706491733efe549d73a5": "2026-09-18T13:51:19.869418+00:00",
     "520360d6ab63cef3cdef18e8c213b954312a5ece69f3488ee52d41e004602442": "2026-10-07T08:31:12.460624+00:00",
     "525153e0abd1914c20a6a3ace053963a321d3bfb7135fe1ec18f949dfee14809": "2026-10-06T12:10:54.889035+00:00",
+    "52ad2598c5b7983ec400c38f4381d39fd190c5e09f7bb3295f9cb047cb7f8978": "2026-10-13T02:50:57.795357+00:00",
     "53e95c182b4ff32e6c77f31910f263a3d61f61206ca6a399dd525c83434f0d2d": "2026-08-31T02:30:59.962731+00:00",
     "545b06b3f1d4403eb1cdd1af9eadc9bf16b65070a95108d13313d06039310251": "2026-08-14T10:15:00.868800+00:00",
     "55066476c98a62d199e1546be01cb3f9c6f443f8d5b96d341faf16a98f0436cb": "2026-10-06T07:01:11.470402+00:00",
@@ -12420,6 +12477,7 @@
     "e7502f395f11a7bf2cf46c034d8900e07c1fe85929dcd6d12a3561ccafb06781": "2026-08-31T07:10:51.649401+00:00",
     "e7747a315ff65d8b6b6f77531867cbbae9aeb9a1e56f1e4a30349611cfebc3a8": "2026-09-25T16:20:50.588575+00:00",
     "e7a14e7a29ac6843f16808b7f3642a1cb34fb40004cd444ae14be203d0c93cfb": "2026-08-20T03:21:47.165417+00:00",
+    "e89075d4823b7f2f061389129bdbf18aa9db655fee4dbf371acd81114dd2feeb": "2026-10-13T02:50:57.795357+00:00",
     "e93e5d0c3d6b46be06568f45420d6336e6ca9b5279bc6f03d289eba0f76a4a3e": "2026-08-14T10:15:00.868800+00:00",
     "e9ac5621abccdacf7d20863612e836c96881aff9f06ffe212d01b2cb5c47a5a7": "2026-08-24T21:51:20.210067+00:00",
     "e9f8b13ad76af2f0ce60ccbe58934a08a4072c8a7061aa37bbdbe7c27ca8521e": "2026-10-02T11:21:05.054730+00:00",
