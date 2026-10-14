@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 25,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 829,
-  "early_signal_last_scan_utc": "2026-10-14T14:50:45.782109+00:00",
+  "early_signal_last_scan_utc": "2026-10-14T15:01:32.223645+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -2451,6 +2451,44 @@
         ]
       },
       "ticker": "ENVY"
+    },
+    "M&A / TAKEOVER|TICKER|GPSO": {
+      "family": "M&A / TAKEOVER",
+      "first_seen_utc": "2026-10-14T15:01:47.057050+00:00",
+      "last_alert_utc": "2026-10-14T15:01:47.057044+00:00",
+      "last_seen_utc": "2026-10-14T15:01:47.057044+00:00",
+      "market_context": {
+        "change_pct": 1.7391,
+        "last_price": 234.0,
+        "market_date": "2026-10-14"
+      },
+      "material_snapshot": {
+        "acquirer": null,
+        "acquirer_confirmed": false,
+        "event_type": "TENDER OFFER",
+        "execution_price": null,
+        "ipo_single_price": null,
+        "money": [],
+        "official_authority": null,
+        "official_kind": null,
+        "price_range": null,
+        "ratio": null,
+        "schedule": {},
+        "share_count": "363.707.303 saham",
+        "stage": "TENDER OFFER",
+        "stage_step": 6,
+        "stage_total": 7,
+        "stake": [
+          54.55
+        ],
+        "standby_buyer": null,
+        "target": null,
+        "target_confirmed": false,
+        "tender_price": null,
+        "underwriter": null,
+        "use_of_funds": []
+      },
+      "ticker": "GPSO"
     },
     "M&A / TAKEOVER|TICKER|IDEA": {
       "family": "M&A / TAKEOVER",
@@ -6676,6 +6714,26 @@
       "verified_at": "2026-10-14T09:01:01.861116+00:00",
       "website": "https://www.gmf-aeroasia.co.id"
     },
+    "GPSO": {
+      "business_activity": "PT Geoprima Solusi Tbk distributes survey tool products in Indonesia. The company offers total stations, RTK receivers, UAV solutions, and theodolite products.",
+      "controller": null,
+      "industry": "Scientific & Technical Instruments",
+      "issuer_name": "Geoprima Solusi",
+      "owner_context_sources": 0,
+      "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
+      "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
+      "owner_v6_checked_utc": "2026-10-14T15:01:46.287175+00:00",
+      "owner_v6_pages_fetched": 0,
+      "profile_source": "Yahoo Finance",
+      "profile_source_quality": "FALLBACK",
+      "profile_source_url": null,
+      "sector": "Technology",
+      "subindustry": null,
+      "subsector": null,
+      "ticker": "GPSO",
+      "verified_at": "2026-10-14T15:01:41.102142+00:00",
+      "website": "https://www.geoprima.co.id"
+    },
     "HAJI": {
       "business_activity": null,
       "controller": null,
@@ -7583,7 +7641,7 @@
     }
   },
   "last_keepalive_utc": "2026-10-09T10:40:38.037983+00:00",
-  "last_state_change_utc": "2026-10-14T14:50:45.861163+00:00",
+  "last_state_change_utc": "2026-10-14T15:01:47.060761+00:00",
   "market_noise_suppressed": 9,
   "milestone_alerts": {},
   "rumor_alerts_sent": 119,
@@ -7594,8 +7652,8 @@
   "rumor_duplicates_suppressed": 768,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 24,
-  "rumor_integrity_repairs": 2549,
-  "rumor_last_scan_utc": "2026-10-14T14:50:45.574918+00:00",
+  "rumor_integrity_repairs": 2550,
+  "rumor_last_scan_utc": "2026-10-14T15:01:31.821617+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -9267,6 +9325,7 @@
     "cf32ab1ffdd74efa7bc91db12ccdd343635e42f241654a6304bbeba05b7892dc": "2026-09-18T13:51:19.869418+00:00",
     "cf9826ba978f17fca37a3a329910bca511ebac845da948647b056854ce239ac0": "2026-08-17T12:01:07.243701+00:00",
     "d031742429d4ddc670d1c48c2e160ac9223cac6a7b65bea3f9c3591ee66468e2": "2026-09-17T18:01:01.291552+00:00",
+    "d1a32eeefce1d962f3ccebcf7b171fa833e5ea0a99f6df0e65f0e47090d90b96": "2026-10-14T15:01:47.057026+00:00",
     "d2c572e1eb9fc8d2afe9217144d58afc3cc50cbd621f9321798bfbacc5fbefe5": "2026-09-19T07:31:15.920350+00:00",
     "d32c6d69d1423bead33e60a6da00f37aa57b87853d93e2e53cab58f288ce3e35": "2026-10-02T07:01:09.583770+00:00",
     "d4254d21d054d429eaac2ab15784e18dd7b79017c757ea6589b5059ecdd0a2fd": "2026-10-09T15:30:59.357852+00:00",
