@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 25,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 829,
-  "early_signal_last_scan_utc": "2026-10-15T08:20:39.334945+00:00",
+  "early_signal_last_scan_utc": "2026-10-15T08:30:44.038689+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -7641,7 +7641,7 @@
     }
   },
   "last_keepalive_utc": "2026-10-09T10:40:38.037983+00:00",
-  "last_state_change_utc": "2026-10-15T08:20:39.391311+00:00",
+  "last_state_change_utc": "2026-10-15T08:30:44.069135+00:00",
   "market_noise_suppressed": 9,
   "milestone_alerts": {},
   "rumor_alerts_sent": 119,
@@ -7649,11 +7649,11 @@
   "rumor_confirmed_count": 44,
   "rumor_confirmed_dedups": 0,
   "rumor_denied_count": 0,
-  "rumor_duplicates_suppressed": 772,
+  "rumor_duplicates_suppressed": 773,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 24,
-  "rumor_integrity_repairs": 2646,
-  "rumor_last_scan_utc": "2026-10-15T08:20:39.314992+00:00",
+  "rumor_integrity_repairs": 2647,
+  "rumor_last_scan_utc": "2026-10-15T08:30:44.027887+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -7755,15 +7755,15 @@
       "category": "AKUISISI / TAKEOVER",
       "company_name": "Bumi Resources",
       "copy_duplicate_count": 0,
-      "credible_effective_independent_count": 0,
+      "credible_effective_independent_count": 0.8,
       "derivative_source_count": 0,
-      "detected_source_count": 1,
-      "effective_independent_count": 0.3,
+      "detected_source_count": 2,
+      "effective_independent_count": 1.1,
       "entity_aliases": [],
       "entity_resolution_source": null,
       "first_seen_utc": "2026-10-13T06:37:45+00:00",
-      "high_quality_source_count": 0,
-      "independent_story_count": 1,
+      "high_quality_source_count": 1,
+      "independent_story_count": 2,
       "issuer_profile": {
         "business_activity": "PT Bumi Resources Tbk, together with its subsidiaries, engages in the mining activities in Indonesia. The company operates through three segments: Holding Company, Coal, and Minerals.",
         "controller": null,
@@ -7786,8 +7786,8 @@
       },
       "key": "AKUISISI / TAKEOVER|TICKER|BUMI",
       "last_alert_utc": "2026-10-13T12:52:17.565487+00:00",
-      "last_seen_utc": "2026-10-13T06:37:45+00:00",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONkZmXzJpWTYwUmRpMlZ4YXd2Z2NObGZuc3lwX0tQOHlDYkczNkdwRGsxa1Z4XzdETGxQOU5ITF9ydjNQa0FMN1JOcXdYR0FsMkY4MUo0X3VxNTIxX2ZKSWU5Y25IM3dpQVJ2LXhpMnJjR0Vxd3EweDd1YU9xWVVwelh0a2lMZw?oc=5",
+      "last_seen_utc": "2026-10-13T13:09:09+00:00",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUF9aU01ZRTJnanZkVUFGQ1NtY0tWUE40eG5RRVoteVNIdmZJaTJ1Ml9IbkpuZDRheGQyZ05fbF8wSElFNTZvRVR2amlGZC1DM3I1Z2V6UVlJRWZGU1l3dGlPNEFfdDFGVzJPNVRxZlJDeFJvUTNCLWxDYkM2T0xVS1NqMzk3Q3RPMTJ6cU5qQ2Jqb2NLZzdkNVF4VDJoUdIBlAFBVV95cUxOOHpQQzF4Wld4SktjemZFVXFiYy0xN0Exa0poZU1GOEx0VjJHUlNYSUp1TElPUXN2YmkyZzhkUGUtUHhrenZ3ZDA0aTd2alpXN0RtTnd4OFAwemFmNTBFNEw5TGhmQzZHaERrV05kMnBpWlNteF9mbDBaZmRTcEZzQTF5MnliVzB0c3VESXprdm1MOVB6?oc=5",
       "market_data": {
         "change_pct": -7.222222222222221,
         "fetched_at": "2026-10-13T12:51:34.820065+00:00",
@@ -7805,7 +7805,7 @@
       "official_confirmation": null,
       "premium_source_count": 0,
       "profile_refresh_utc": "2026-10-15T01:21:27.530979+00:00",
-      "published": "Tue, 13 Oct 2026 06:37:45 GMT",
+      "published": "Tue, 13 Oct 2026 13:09:09 GMT",
       "rumor_details": {
         "ipo_price": null,
         "listing_estimate": null,
@@ -7817,8 +7817,18 @@
         "underwriter": null
       },
       "semantic_copy_count": 0,
-      "source": "TOPIK.ID",
+      "source": "Liputan6.com",
       "source_breakdown": [
+        {
+          "derivative": false,
+          "group": "liputan6.com",
+          "new_material": 0,
+          "quality": "MEDIUM",
+          "semantic_copy": false,
+          "source": "Liputan6.com",
+          "tier": 3,
+          "weight": 0.8
+        },
         {
           "derivative": false,
           "group": "topik.id",
@@ -7832,7 +7842,7 @@
       ],
       "source_count": 2,
       "source_quality": "LOW",
-      "source_quality_score": 0.3,
+      "source_quality_score": 2.4,
       "sources": [
         "TOPIK.ID",
         "Liputan6.com"
@@ -7840,7 +7850,7 @@
       "status": "ACTIVE",
       "strength": "WEAK",
       "ticker": "BUMI",
-      "title": "Peluang Pemulihan Saham BUMI di Tengah Isu Akuisisi Kideco - TOPIK.ID"
+      "title": "Penjelasan Emiten BUMI Soal Isu Bakal Akuisisi Kideco - Liputan6.com"
     },
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
