@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 25,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 829,
-  "early_signal_last_scan_utc": "2026-10-15T00:11:03.724727+00:00",
+  "early_signal_last_scan_utc": "2026-10-15T01:21:27.546071+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -6330,7 +6330,7 @@
       "owner_context_sources": 0,
       "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
       "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-      "owner_v6_checked_utc": "2026-10-14T13:10:58.161798+00:00",
+      "owner_v6_checked_utc": "2026-10-15T01:21:02.018895+00:00",
       "owner_v6_pages_fetched": 0,
       "profile_source": "Yahoo Finance",
       "profile_source_quality": "FALLBACK",
@@ -6339,7 +6339,7 @@
       "subindustry": null,
       "subsector": null,
       "ticker": "BUMI",
-      "verified_at": "2026-10-14T13:10:59.189420+00:00",
+      "verified_at": "2026-10-15T01:21:03.281048+00:00",
       "website": "https://www.bumiresources.com"
     },
     "BYAN": {
@@ -7641,7 +7641,7 @@
     }
   },
   "last_keepalive_utc": "2026-10-09T10:40:38.037983+00:00",
-  "last_state_change_utc": "2026-10-15T00:11:03.778647+00:00",
+  "last_state_change_utc": "2026-10-15T01:21:27.576106+00:00",
   "market_noise_suppressed": 9,
   "milestone_alerts": {},
   "rumor_alerts_sent": 119,
@@ -7653,7 +7653,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 24,
   "rumor_integrity_repairs": 2604,
-  "rumor_last_scan_utc": "2026-10-15T00:11:03.705381+00:00",
+  "rumor_last_scan_utc": "2026-10-15T01:21:27.535360+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -7772,7 +7772,7 @@
         "owner_context_sources": 0,
         "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
         "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-        "owner_v6_checked_utc": "2026-10-14T13:10:58.161798+00:00",
+        "owner_v6_checked_utc": "2026-10-15T01:21:02.018895+00:00",
         "owner_v6_pages_fetched": 0,
         "profile_source": "Yahoo Finance",
         "profile_source_quality": "FALLBACK",
@@ -7781,7 +7781,7 @@
         "subindustry": null,
         "subsector": null,
         "ticker": "BUMI",
-        "verified_at": "2026-10-14T13:10:59.189420+00:00",
+        "verified_at": "2026-10-15T01:21:03.281048+00:00",
         "website": "https://www.bumiresources.com"
       },
       "key": "AKUISISI / TAKEOVER|TICKER|BUMI",
@@ -7804,7 +7804,7 @@
       },
       "official_confirmation": null,
       "premium_source_count": 0,
-      "profile_refresh_utc": "2026-10-14T13:11:25.012497+00:00",
+      "profile_refresh_utc": "2026-10-15T01:21:27.530979+00:00",
       "published": "Tue, 13 Oct 2026 06:37:45 GMT",
       "rumor_details": {
         "ipo_price": null,
@@ -8512,7 +8512,7 @@
     },
     "IPO|TICKER|CNBC": {
       "category": "IPO",
-      "company_name": "CNBC",
+      "company_name": "9 Calon Emiten",
       "copy_duplicate_count": 0,
       "credible_effective_independent_count": 1.0,
       "derivative_source_count": 0,
