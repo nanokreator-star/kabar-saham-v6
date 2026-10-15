@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 25,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 829,
-  "early_signal_last_scan_utc": "2026-10-15T14:40:46.324565+00:00",
+  "early_signal_last_scan_utc": "2026-10-15T14:50:56.996667+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -5891,6 +5891,55 @@
       },
       "ticker": "LAPD"
     },
+    "RIGHTS ISSUE|TITLE|RENCANA PTRO 2026 PETROSEA INCAR DANA SEGAR": {
+      "family": "RIGHTS ISSUE",
+      "first_seen_utc": "2026-10-15T14:51:27.184910+00:00",
+      "last_alert_utc": "2026-10-15T14:51:27.184905+00:00",
+      "last_seen_utc": "2026-10-15T14:51:27.184905+00:00",
+      "market_context": {
+        "change_pct": -3.2646,
+        "last_price": 14075.0,
+        "market_date": "2026-10-15"
+      },
+      "material_snapshot": {
+        "acquirer": null,
+        "acquirer_confirmed": false,
+        "event_type": "RIGHTS ISSUE",
+        "execution_price": null,
+        "ipo_single_price": null,
+        "money": [
+          "Rp1,73 triliun",
+          "Rp3,6 triliun",
+          "Rp1,53 triliun",
+          "Rp500 miliar"
+        ],
+        "official_authority": null,
+        "official_kind": null,
+        "price_range": null,
+        "ratio": null,
+        "schedule": {},
+        "share_count": "170 Juta saham",
+        "stage": "RENCANA",
+        "stage_step": 2,
+        "stage_total": 6,
+        "stake": [
+          99.99,
+          5.3
+        ],
+        "standby_buyer": null,
+        "target": null,
+        "target_confirmed": false,
+        "tender_price": null,
+        "underwriter": null,
+        "use_of_funds": [
+          "AKUISISI / INVESTASI",
+          "EKSPANSI / CAPEX",
+          "MODAL KERJA",
+          "PELUNASAN UTANG"
+        ]
+      },
+      "ticker": "SINI"
+    },
     "RIGHTS ISSUE|TITLE|ULTJ RENCANAKAN RP16 TRILIUN FRISIAN FLAG DEMOKRATIS": {
       "family": "RIGHTS ISSUE",
       "first_seen_utc": "2026-09-23T04:30:51.459958+00:00",
@@ -7386,7 +7435,7 @@
       "owner_context_sources": 0,
       "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
       "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-      "owner_v6_checked_utc": "2026-09-14T17:10:51.738528+00:00",
+      "owner_v6_checked_utc": "2026-10-15T14:51:26.271785+00:00",
       "owner_v6_pages_fetched": 0,
       "profile_source": "Yahoo Finance",
       "profile_source_quality": "FALLBACK",
@@ -7395,7 +7444,7 @@
       "subindustry": null,
       "subsector": null,
       "ticker": "SINI",
-      "verified_at": "2026-09-14T17:11:09.416756+00:00",
+      "verified_at": "2026-10-15T14:51:20.728989+00:00",
       "website": "https://singarajaputra.com"
     },
     "SOAL": {
@@ -7641,7 +7690,7 @@
     }
   },
   "last_keepalive_utc": "2026-10-09T10:40:38.037983+00:00",
-  "last_state_change_utc": "2026-10-15T14:40:46.382064+00:00",
+  "last_state_change_utc": "2026-10-15T14:51:27.188061+00:00",
   "market_noise_suppressed": 9,
   "milestone_alerts": {},
   "rumor_alerts_sent": 119,
@@ -7649,11 +7698,11 @@
   "rumor_confirmed_count": 44,
   "rumor_confirmed_dedups": 0,
   "rumor_denied_count": 0,
-  "rumor_duplicates_suppressed": 785,
+  "rumor_duplicates_suppressed": 786,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 24,
-  "rumor_integrity_repairs": 2683,
-  "rumor_last_scan_utc": "2026-10-15T14:40:46.303202+00:00",
+  "rumor_integrity_repairs": 2684,
+  "rumor_last_scan_utc": "2026-10-15T14:50:56.980482+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -7755,15 +7804,15 @@
       "category": "AKUISISI / TAKEOVER",
       "company_name": "Bumi Resources",
       "copy_duplicate_count": 0,
-      "credible_effective_independent_count": 0.8,
+      "credible_effective_independent_count": 0,
       "derivative_source_count": 0,
-      "detected_source_count": 2,
-      "effective_independent_count": 1.1,
+      "detected_source_count": 1,
+      "effective_independent_count": 0.3,
       "entity_aliases": [],
       "entity_resolution_source": null,
       "first_seen_utc": "2026-10-13T06:37:45+00:00",
-      "high_quality_source_count": 1,
-      "independent_story_count": 2,
+      "high_quality_source_count": 0,
+      "independent_story_count": 1,
       "issuer_profile": {
         "business_activity": "PT Bumi Resources Tbk, together with its subsidiaries, engages in the mining activities in Indonesia. The company operates through three segments: Holding Company, Coal, and Minerals.",
         "controller": null,
@@ -7786,8 +7835,8 @@
       },
       "key": "AKUISISI / TAKEOVER|TICKER|BUMI",
       "last_alert_utc": "2026-10-13T12:52:17.565487+00:00",
-      "last_seen_utc": "2026-10-13T13:09:09+00:00",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUF9aU01ZRTJnanZkVUFGQ1NtY0tWUE40eG5RRVoteVNIdmZJaTJ1Ml9IbkpuZDRheGQyZ05fbF8wSElFNTZvRVR2amlGZC1DM3I1Z2V6UVlJRWZGU1l3dGlPNEFfdDFGVzJPNVRxZlJDeFJvUTNCLWxDYkM2T0xVS1NqMzk3Q3RPMTJ6cU5qQ2Jqb2NLZzdkNVF4VDJoUdIBlAFBVV95cUxOOHpQQzF4Wld4SktjemZFVXFiYy0xN0Exa0poZU1GOEx0VjJHUlNYSUp1TElPUXN2YmkyZzhkUGUtUHhrenZ3ZDA0aTd2alpXN0RtTnd4OFAwemFmNTBFNEw5TGhmQzZHaERrV05kMnBpWlNteF9mbDBaZmRTcEZzQTF5MnliVzB0c3VESXprdm1MOVB6?oc=5",
+      "last_seen_utc": "2026-10-13T06:37:45+00:00",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONkZmXzJpWTYwUmRpMlZ4YXd2Z2NObGZuc3lwX0tQOHlDYkczNkdwRGsxa1Z4XzdETGxQOU5ITF9ydjNQa0FMN1JOcXdYR0FsMkY4MUo0X3VxNTIxX2ZKSWU5Y25IM3dpQVJ2LXhpMnJjR0Vxd3EweDd1YU9xWVVwelh0a2lMZw?oc=5",
       "market_data": {
         "change_pct": -7.222222222222221,
         "fetched_at": "2026-10-13T12:51:34.820065+00:00",
@@ -7805,7 +7854,7 @@
       "official_confirmation": null,
       "premium_source_count": 0,
       "profile_refresh_utc": "2026-10-15T13:31:47.573260+00:00",
-      "published": "Tue, 13 Oct 2026 13:09:09 GMT",
+      "published": "Tue, 13 Oct 2026 06:37:45 GMT",
       "rumor_details": {
         "ipo_price": null,
         "listing_estimate": null,
@@ -7817,18 +7866,8 @@
         "underwriter": null
       },
       "semantic_copy_count": 0,
-      "source": "Liputan6.com",
+      "source": "TOPIK.ID",
       "source_breakdown": [
-        {
-          "derivative": false,
-          "group": "liputan6.com",
-          "new_material": 0,
-          "quality": "MEDIUM",
-          "semantic_copy": false,
-          "source": "Liputan6.com",
-          "tier": 3,
-          "weight": 0.8
-        },
         {
           "derivative": false,
           "group": "topik.id",
@@ -7842,7 +7881,7 @@
       ],
       "source_count": 2,
       "source_quality": "LOW",
-      "source_quality_score": 2.4,
+      "source_quality_score": 0.3,
       "sources": [
         "TOPIK.ID",
         "Liputan6.com"
@@ -7850,7 +7889,7 @@
       "status": "ACTIVE",
       "strength": "WEAK",
       "ticker": "BUMI",
-      "title": "Penjelasan Emiten BUMI Soal Isu Bakal Akuisisi Kideco - Liputan6.com"
+      "title": "Peluang Pemulihan Saham BUMI di Tengah Isu Akuisisi Kideco - TOPIK.ID"
     },
     "AKUISISI / TAKEOVER|TICKER|BYAN": {
       "category": "AKUISISI / TAKEOVER",
@@ -9199,6 +9238,7 @@
     "58e9ec27c1150d25f173acb7e63bd891bd4bf2672b63207badf4d4b5cbfac510": "2026-09-18T01:41:15.519996+00:00",
     "59bf7cec8b2fee94332a9a86d991d698044cdbe6a510f98e71efcb5ae209208f": "2026-10-01T05:11:33.747619+00:00",
     "5ab4ea9405930f2be6c7ada6afe3359ac36c55f783bce32db38174882bd3566e": "2026-09-16T16:21:12.830013+00:00",
+    "5af08342713f1aed513ad005f7d97d35d99ddc78571f392307e01dc863bc0360": "2026-10-15T14:51:27.184885+00:00",
     "5b0996d3a37326d1493d6678f97a26199be8e21e18c5e4ed510aa3b4339853b8": "2026-10-05T12:20:50.233529+00:00",
     "5b3542b98065b00c16b28b44a087fb7bf627a8a36ae09581bde630cf44911a3f": "2026-08-25T03:40:44.114758+00:00",
     "5be15da3fca768f0c815b109f114a4b1fa61e3a93e79205595f207779d70e8a6": "2026-09-09T04:11:04.533512+00:00",
