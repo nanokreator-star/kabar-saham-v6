@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 25,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 829,
-  "early_signal_last_scan_utc": "2026-10-17T03:40:53.478236+00:00",
+  "early_signal_last_scan_utc": "2026-10-17T04:00:43.114911+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -4772,6 +4772,42 @@
       },
       "ticker": ""
     },
+    "M&A / TAKEOVER|TITLE|WIBOWO GROUP CAPITAL RAMPUNGKAN WAJIB MBSS BISNIS": {
+      "family": "M&A / TAKEOVER",
+      "first_seen_utc": "2026-10-17T04:00:45.709409+00:00",
+      "last_alert_utc": "2026-10-17T04:00:45.709404+00:00",
+      "last_seen_utc": "2026-10-17T04:00:45.709404+00:00",
+      "market_context": {
+        "change_pct": null,
+        "last_price": null,
+        "market_date": null
+      },
+      "material_snapshot": {
+        "acquirer": null,
+        "acquirer_confirmed": false,
+        "event_type": "TENDER OFFER",
+        "execution_price": null,
+        "ipo_single_price": null,
+        "money": [],
+        "official_authority": null,
+        "official_kind": null,
+        "price_range": null,
+        "ratio": null,
+        "schedule": {},
+        "share_count": null,
+        "stage": "TENDER OFFER",
+        "stage_step": 6,
+        "stage_total": 7,
+        "stake": [],
+        "standby_buyer": null,
+        "target": null,
+        "target_confirmed": false,
+        "tender_price": null,
+        "underwriter": null,
+        "use_of_funds": []
+      },
+      "ticker": ""
+    },
     "M&A / TAKEOVER|TITLE|WIBOWO GROUP GELAR MBSS RP2 915 PER": {
       "family": "M&A / TAKEOVER",
       "first_seen_utc": "2026-09-26T18:11:32.751572+00:00",
@@ -7524,7 +7560,7 @@
     }
   },
   "last_keepalive_utc": "2026-10-09T10:40:38.037983+00:00",
-  "last_state_change_utc": "2026-10-17T03:40:53.534483+00:00",
+  "last_state_change_utc": "2026-10-17T04:00:45.711072+00:00",
   "market_noise_suppressed": 9,
   "milestone_alerts": {},
   "rumor_alerts_sent": 119,
@@ -7536,7 +7572,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 24,
   "rumor_integrity_repairs": 2704,
-  "rumor_last_scan_utc": "2026-10-17T03:40:53.457653+00:00",
+  "rumor_last_scan_utc": "2026-10-17T04:00:43.100727+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -9168,6 +9204,7 @@
     "b8fd5c8ba61ecaef32be89ae5f4454c5c1cd475328a8acbf36ed4a18ea4d0d3e": "2026-08-29T07:51:10.650528+00:00",
     "b9fef1c2d035bcc97d779563585897fe64b72824ee5100e87cd126c48d3fa8e3": "2026-08-19T00:31:02.208943+00:00",
     "ba8e4170b3a58f34e222b462410ce75905873d0f0991f645eefe205328ce7b62": "2026-10-05T11:41:00.567552+00:00",
+    "bbe76897469955defca3c40617f0f2a7a56e05d3ef00df10575670664570b9a4": "2026-10-17T04:00:45.709387+00:00",
     "bcba1c36104398d407e5a304e692336948e5b924d883349920a2440ee7290793": "2026-09-17T19:41:14.787581+00:00",
     "bce235ee9306d0015bb5993405681159790e296a5f8bb8ddffc21faf83b3c995": "2026-09-19T21:01:34.668584+00:00",
     "bd9e42183a955c0cf3c97da106e239a125aac5629b37096f70a70aceacb18d61": "2026-08-23T17:50:45.664101+00:00",
