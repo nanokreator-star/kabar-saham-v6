@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 25,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 829,
-  "early_signal_last_scan_utc": "2026-10-17T03:00:42.772787+00:00",
+  "early_signal_last_scan_utc": "2026-10-17T03:30:55.653163+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -3385,82 +3385,6 @@
       "first_seen_utc": "2026-08-18T03:31:02.730821+00:00",
       "last_alert_utc": "2026-08-18T03:31:02.730821+00:00",
       "last_seen_utc": "2026-08-18T03:31:02.730821+00:00",
-      "market_context": {
-        "change_pct": null,
-        "last_price": null,
-        "market_date": null
-      },
-      "material_snapshot": {
-        "acquirer": null,
-        "acquirer_confirmed": false,
-        "event_type": "TENDER OFFER",
-        "execution_price": null,
-        "ipo_single_price": null,
-        "money": [],
-        "official_authority": null,
-        "official_kind": null,
-        "price_range": null,
-        "ratio": null,
-        "schedule": {},
-        "share_count": null,
-        "stage": "TENDER OFFER",
-        "stage_step": 6,
-        "stage_total": 7,
-        "stake": [],
-        "standby_buyer": null,
-        "target": null,
-        "target_confirmed": false,
-        "tender_price": null,
-        "underwriter": null,
-        "use_of_funds": [
-          "AKUISISI / INVESTASI"
-        ]
-      },
-      "ticker": ""
-    },
-    "M&A / TAKEOVER|TITLE|DOOH TUNTAS SINERGI INTERNASIONAL GELAR WAJIB IDXCHANNEL": {
-      "family": "M&A / TAKEOVER",
-      "first_seen_utc": "2026-08-18T03:21:08.664544+00:00",
-      "last_alert_utc": "2026-08-18T03:21:08.664544+00:00",
-      "last_seen_utc": "2026-08-18T03:21:08.664544+00:00",
-      "market_context": {
-        "change_pct": null,
-        "last_price": null,
-        "market_date": null
-      },
-      "material_snapshot": {
-        "acquirer": null,
-        "acquirer_confirmed": false,
-        "event_type": "TENDER OFFER",
-        "execution_price": null,
-        "ipo_single_price": null,
-        "money": [],
-        "official_authority": null,
-        "official_kind": null,
-        "price_range": null,
-        "ratio": null,
-        "schedule": {},
-        "share_count": null,
-        "stage": "TENDER OFFER",
-        "stage_step": 6,
-        "stage_total": 7,
-        "stake": [],
-        "standby_buyer": null,
-        "target": null,
-        "target_confirmed": false,
-        "tender_price": null,
-        "underwriter": null,
-        "use_of_funds": [
-          "AKUISISI / INVESTASI"
-        ]
-      },
-      "ticker": ""
-    },
-    "M&A / TAKEOVER|TITLE|DOOH TUNTAS SINERGI INTERNASIONAL GELAR WAJIB RCTI": {
-      "family": "M&A / TAKEOVER",
-      "first_seen_utc": "2026-08-18T03:21:08.664544+00:00",
-      "last_alert_utc": "2026-08-18T03:21:08.664544+00:00",
-      "last_seen_utc": "2026-08-18T03:21:08.664544+00:00",
       "market_context": {
         "change_pct": null,
         "last_price": null,
@@ -7790,7 +7714,7 @@
     }
   },
   "last_keepalive_utc": "2026-10-09T10:40:38.037983+00:00",
-  "last_state_change_utc": "2026-10-17T03:00:42.807536+00:00",
+  "last_state_change_utc": "2026-10-17T03:30:55.684578+00:00",
   "market_noise_suppressed": 9,
   "milestone_alerts": {},
   "rumor_alerts_sent": 119,
@@ -7802,7 +7726,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 24,
   "rumor_integrity_repairs": 2704,
-  "rumor_last_scan_utc": "2026-10-17T03:00:42.757658+00:00",
+  "rumor_last_scan_utc": "2026-10-17T03:30:55.642540+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -9208,7 +9132,6 @@
     "0041c3eddec72a75940c506a654c729fbd1897b0cb4930f663bf354f9da72a41": "2026-10-02T04:10:42.623331+00:00",
     "01008cec9104b0bd540bc593146a7fdf50b03dec91a75f1cd5121c13bdef45f5": "2026-10-09T10:00:51.467003+00:00",
     "01d582be60e9e1df12473cf195820a7d5d8e0e44d2e9bca680e3440f70b97bfe": "2026-08-20T03:24:19.258267+00:00",
-    "024036d776777821dab02593d8495603ab97f65b52cd0c8f009106dc31b56a0f": "2026-08-18T03:21:08.664544+00:00",
     "0279ba57626dd3f97c322fbad53d163ec5632df52ca8ec25042475430e123324": "2026-10-16T14:11:03.419877+00:00",
     "029ae777f86c403a5998f04a99e62b001aa12140806c6b73b7ce9c6795d4ca35": "2026-08-20T04:06:56.157877+00:00",
     "03742ff5feb9c0187f2cb9cdccb533f593623d46f56b8ad7096d0d9aada2ccfb": "2026-10-09T04:00:48.305901+00:00",
