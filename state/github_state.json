@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 25,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 829,
-  "early_signal_last_scan_utc": "2026-10-18T08:40:37.491982+00:00",
+  "early_signal_last_scan_utc": "2026-10-18T10:10:38.996054+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -2085,44 +2085,6 @@
       },
       "ticker": ""
     },
-    "M&A / TAKEOVER|PARTIES|SII GELAR TENDER WAJIB SAHAM DOOH USAI|51 PERSEN SAHAM": {
-      "family": "M&A / TAKEOVER",
-      "first_seen_utc": "2026-08-19T10:06:51.565020+00:00",
-      "last_alert_utc": "2026-08-19T10:06:51.565020+00:00",
-      "last_seen_utc": "2026-08-19T10:06:51.565020+00:00",
-      "market_context": {
-        "change_pct": null,
-        "last_price": null,
-        "market_date": null
-      },
-      "material_snapshot": {
-        "acquirer": "SII Gelar Tender Wajib Saham DOOH Usai",
-        "acquirer_confirmed": true,
-        "event_type": "TENDER OFFER",
-        "execution_price": null,
-        "ipo_single_price": null,
-        "money": [],
-        "official_authority": null,
-        "official_kind": null,
-        "price_range": null,
-        "ratio": null,
-        "schedule": {},
-        "share_count": null,
-        "stage": "TENDER OFFER",
-        "stage_step": 6,
-        "stage_total": 7,
-        "stake": [],
-        "standby_buyer": null,
-        "target": "51 Persen Saham",
-        "target_confirmed": true,
-        "tender_price": null,
-        "underwriter": null,
-        "use_of_funds": [
-          "AKUISISI / INVESTASI"
-        ]
-      },
-      "ticker": ""
-    },
     "M&A / TAKEOVER|PARTIES|ULTRA JAYA RENCANAKAN|FRISIAN FLAG SENILAI RP14": {
       "family": "M&A / TAKEOVER",
       "first_seen_utc": "2026-09-27T00:31:18.150625+00:00",
@@ -3261,42 +3223,6 @@
         "target": null,
         "target_confirmed": false,
         "tender_price": "Rp148",
-        "underwriter": null,
-        "use_of_funds": []
-      },
-      "ticker": ""
-    },
-    "M&A / TAKEOVER|TITLE|DOOH GELAR WAJIB AKHIR AGUSTUS BLOOMBERG TECHNOZ": {
-      "family": "M&A / TAKEOVER",
-      "first_seen_utc": "2026-08-19T10:06:51.565020+00:00",
-      "last_alert_utc": "2026-08-19T10:06:51.565020+00:00",
-      "last_seen_utc": "2026-08-19T10:06:51.565020+00:00",
-      "market_context": {
-        "change_pct": null,
-        "last_price": null,
-        "market_date": null
-      },
-      "material_snapshot": {
-        "acquirer": null,
-        "acquirer_confirmed": false,
-        "event_type": "TENDER OFFER",
-        "execution_price": null,
-        "ipo_single_price": null,
-        "money": [],
-        "official_authority": null,
-        "official_kind": null,
-        "price_range": null,
-        "ratio": null,
-        "schedule": {},
-        "share_count": null,
-        "stage": "TENDER OFFER",
-        "stage_step": 6,
-        "stage_total": 7,
-        "stake": [],
-        "standby_buyer": null,
-        "target": null,
-        "target_confirmed": false,
-        "tender_price": null,
         "underwriter": null,
         "use_of_funds": []
       },
@@ -7600,7 +7526,7 @@
     }
   },
   "last_keepalive_utc": "2026-10-09T10:40:38.037983+00:00",
-  "last_state_change_utc": "2026-10-18T08:41:16.171990+00:00",
+  "last_state_change_utc": "2026-10-18T10:10:39.025154+00:00",
   "market_noise_suppressed": 9,
   "milestone_alerts": {},
   "rumor_alerts_sent": 119,
@@ -7612,7 +7538,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 24,
   "rumor_integrity_repairs": 2704,
-  "rumor_last_scan_utc": "2026-10-18T08:40:37.473161+00:00",
+  "rumor_last_scan_utc": "2026-10-18T10:10:38.985619+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
