@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 25,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 829,
-  "early_signal_last_scan_utc": "2026-10-18T10:10:38.996054+00:00",
+  "early_signal_last_scan_utc": "2026-10-18T13:40:52.217439+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -1348,6 +1348,44 @@
         "stake": [],
         "standby_buyer": null,
         "target": "Saham oleh Haji Isam",
+        "target_confirmed": true,
+        "tender_price": null,
+        "underwriter": null,
+        "use_of_funds": [
+          "AKUISISI / INVESTASI"
+        ]
+      },
+      "ticker": ""
+    },
+    "M&A / TAKEOVER|PARTIES|BHIMA SOROTI TRANSPARANSI|BYAN DAN RISIKO KREDIT BANK MANDIRI": {
+      "family": "M&A / TAKEOVER",
+      "first_seen_utc": "2026-10-18T13:40:54.590519+00:00",
+      "last_alert_utc": "2026-10-18T13:40:54.590513+00:00",
+      "last_seen_utc": "2026-10-18T13:40:54.590513+00:00",
+      "market_context": {
+        "change_pct": null,
+        "last_price": null,
+        "market_date": null
+      },
+      "material_snapshot": {
+        "acquirer": "Bhima Soroti Transparansi",
+        "acquirer_confirmed": true,
+        "event_type": "AKUISISI",
+        "execution_price": null,
+        "ipo_single_price": null,
+        "money": [],
+        "official_authority": null,
+        "official_kind": null,
+        "price_range": null,
+        "ratio": null,
+        "schedule": {},
+        "share_count": null,
+        "stage": "SPA / SIGNED",
+        "stage_step": 4,
+        "stage_total": 7,
+        "stake": [],
+        "standby_buyer": null,
+        "target": "BYAN dan Risiko Kredit Bank Mandiri",
         "target_confirmed": true,
         "tender_price": null,
         "underwriter": null,
@@ -3074,6 +3112,44 @@
         "tender_price": null,
         "underwriter": null,
         "use_of_funds": []
+      },
+      "ticker": ""
+    },
+    "M&A / TAKEOVER|TITLE|BYAN SOROTI TRANSPARANSI PASAR MODAL INDONESIA SUARA": {
+      "family": "M&A / TAKEOVER",
+      "first_seen_utc": "2026-10-18T13:40:53.442385+00:00",
+      "last_alert_utc": "2026-10-18T13:40:53.442380+00:00",
+      "last_seen_utc": "2026-10-18T13:40:53.442380+00:00",
+      "market_context": {
+        "change_pct": null,
+        "last_price": null,
+        "market_date": null
+      },
+      "material_snapshot": {
+        "acquirer": null,
+        "acquirer_confirmed": false,
+        "event_type": "AKUISISI",
+        "execution_price": null,
+        "ipo_single_price": null,
+        "money": [],
+        "official_authority": null,
+        "official_kind": null,
+        "price_range": null,
+        "ratio": null,
+        "schedule": {},
+        "share_count": null,
+        "stage": "SPA / SIGNED",
+        "stage_step": 4,
+        "stage_total": 7,
+        "stake": [],
+        "standby_buyer": null,
+        "target": null,
+        "target_confirmed": false,
+        "tender_price": null,
+        "underwriter": null,
+        "use_of_funds": [
+          "AKUISISI / INVESTASI"
+        ]
       },
       "ticker": ""
     },
@@ -7526,7 +7602,7 @@
     }
   },
   "last_keepalive_utc": "2026-10-09T10:40:38.037983+00:00",
-  "last_state_change_utc": "2026-10-18T10:10:39.025154+00:00",
+  "last_state_change_utc": "2026-10-18T13:40:54.592687+00:00",
   "market_noise_suppressed": 9,
   "milestone_alerts": {},
   "rumor_alerts_sent": 119,
@@ -7538,7 +7614,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 24,
   "rumor_integrity_repairs": 2704,
-  "rumor_last_scan_utc": "2026-10-18T10:10:38.985619+00:00",
+  "rumor_last_scan_utc": "2026-10-18T13:40:52.195192+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -8950,6 +9026,7 @@
     "66eaf0dec3376f910945d1ded3852dab8c7087773a822335935105688330bd8c": "2026-10-09T15:30:59.357852+00:00",
     "66ed0e932d59d13861d953962d6068888b45db61163663a8c6fb5bb53db04500": "2026-08-26T20:51:36.935635+00:00",
     "6954cec496e573e783ac044e5406aa21e590046c6ce3fc9626acec0a40a9e9f9": "2026-08-23T18:01:17.078390+00:00",
+    "6a085b6052904a6e16e3c346e8347e7edfe05c70332c9ec5ac340418ed7cfcf4": "2026-10-18T13:40:53.442362+00:00",
     "6a81ae4a51d2f38926dc15ff38e0637f2c8becd06b9a02fb8d5eb9cf8e00c3ef": "2026-10-01T10:31:06.919882+00:00",
     "6a9995b4e4ae16b4c8723d08e3a136cae11cacb552fbfe678fb92d333232a544": "2026-10-02T06:50:58.197330+00:00",
     "6b0356f1b341163b2daf1bf92d46e0587b8b3f356071b68f5f900e83cfeb9d2b": "2026-09-07T07:41:03.722878+00:00",
@@ -9114,6 +9191,7 @@
     "eed4e6f8638345167d3f10414aa243ba57c50ea626945d33ebdf86ef5af43d6c": "2026-09-21T19:31:05.916952+00:00",
     "ef252ce99bc63d93b1c1ad161ecd084313db25210179079ec71a946a2cb9236f": "2026-10-01T04:20:53.436202+00:00",
     "ef334664d2d58cf8910cfc1797033de3a59c8e48548589754854410b0f328174": "2026-08-29T05:40:45.259633+00:00",
+    "f02582d3b1bbdae6cc6ecc673ec1969d25a661bd15ee59e6821d30da6252bf35": "2026-10-18T13:40:54.590496+00:00",
     "f0386d9f94ef54bbd8c48be22b7763713dd07a604978b5da63f91177073fd2cf": "2026-08-21T13:01:30.058267+00:00",
     "f23c921f275496bd59d0a018f7fb0f57c130584260fc26ff53b491a8c6252398": "2026-09-23T03:11:08.630669+00:00",
     "f37eec74c8a5009576af9f856ba3b20537085b23ad2ef86676a6ae27921163db": "2026-10-09T15:40:55.077618+00:00",
