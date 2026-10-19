@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 25,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 829,
-  "early_signal_last_scan_utc": "2026-10-18T23:50:48.413007+00:00",
+  "early_signal_last_scan_utc": "2026-10-19T00:10:44.172383+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -3906,6 +3906,44 @@
       },
       "ticker": "SUPR"
     },
+    "M&A / TAKEOVER|TITLE|MBSS RAMPUNG WIBOWO GROUP KUASAI 90 BURSA": {
+      "family": "M&A / TAKEOVER",
+      "first_seen_utc": "2026-10-19T00:10:45.672097+00:00",
+      "last_alert_utc": "2026-10-19T00:10:45.672093+00:00",
+      "last_seen_utc": "2026-10-19T00:10:45.672093+00:00",
+      "market_context": {
+        "change_pct": null,
+        "last_price": null,
+        "market_date": null
+      },
+      "material_snapshot": {
+        "acquirer": null,
+        "acquirer_confirmed": false,
+        "event_type": "TENDER OFFER",
+        "execution_price": null,
+        "ipo_single_price": null,
+        "money": [],
+        "official_authority": null,
+        "official_kind": null,
+        "price_range": null,
+        "ratio": null,
+        "schedule": {},
+        "share_count": null,
+        "stage": "TENDER OFFER",
+        "stage_step": 6,
+        "stage_total": 7,
+        "stake": [
+          90.0
+        ],
+        "standby_buyer": null,
+        "target": null,
+        "target_confirmed": false,
+        "tender_price": null,
+        "underwriter": null,
+        "use_of_funds": []
+      },
+      "ticker": ""
+    },
     "M&A / TAKEOVER|TITLE|MBSS RAMPUNG WIBOWO GROUP SERAP 132 JUTA": {
       "family": "M&A / TAKEOVER",
       "first_seen_utc": "2026-10-18T08:41:16.170137+00:00",
@@ -7602,7 +7640,7 @@
     }
   },
   "last_keepalive_utc": "2026-10-09T10:40:38.037983+00:00",
-  "last_state_change_utc": "2026-10-18T23:50:48.459696+00:00",
+  "last_state_change_utc": "2026-10-19T00:10:45.673383+00:00",
   "market_noise_suppressed": 9,
   "milestone_alerts": {},
   "rumor_alerts_sent": 119,
@@ -7614,7 +7652,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 26,
   "rumor_integrity_repairs": 2704,
-  "rumor_last_scan_utc": "2026-10-18T23:50:48.398822+00:00",
+  "rumor_last_scan_utc": "2026-10-19T00:10:44.161287+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -9051,6 +9089,7 @@
     "7d8e7d6e1fec2363d57c09750844e6d9b711996c3bf54b8b1e2236907115e8e4": "2026-09-16T05:20:51.883358+00:00",
     "7df87c4aa27eae4980c08f2a6fd81624b3e5752a762637585f0752e2c8e809a7": "2026-09-07T05:20:47.269722+00:00",
     "7e3895e7ee8d0a4e6fc9cd2457a395bf07585a701621d7222d6be4bbe85b500e": "2026-09-18T01:41:15.519996+00:00",
+    "7fd3b1dd27aa542744394bab3b378c867e5bff181ae33627fccc3f14b87be04b": "2026-10-19T00:10:45.672074+00:00",
     "8057b0b7ce197f270af343b9f741393766b17c684dd8a7e35c47f485425da692": "2026-10-16T00:10:56.983068+00:00",
     "80b92a8bd86c4beee1ff71d626bdb2d08e0ddb9c12fe353ff887361f9de06971": "2026-09-02T09:40:52.722208+00:00",
     "8187ca3a1a85953e9811de50f37e6e7b689e376a13351d6d7bda525121b656ca": "2026-08-21T13:10:58.875826+00:00",
