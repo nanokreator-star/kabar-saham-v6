@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 25,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 829,
-  "early_signal_last_scan_utc": "2026-10-19T03:20:53.053258+00:00",
+  "early_signal_last_scan_utc": "2026-10-19T03:30:59.237777+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -1842,46 +1842,6 @@
         "tender_price": null,
         "underwriter": null,
         "use_of_funds": []
-      },
-      "ticker": ""
-    },
-    "M&A / TAKEOVER|PARTIES|PENGENDALI BARU DOOH|SAHAM DENGAN HARGA 80 DI BAWAH PASAR": {
-      "family": "M&A / TAKEOVER",
-      "first_seen_utc": "2026-08-20T03:21:47.165417+00:00",
-      "last_alert_utc": "2026-08-20T03:21:47.165417+00:00",
-      "last_seen_utc": "2026-08-20T03:21:47.165417+00:00",
-      "market_context": {
-        "change_pct": null,
-        "last_price": null,
-        "market_date": null
-      },
-      "material_snapshot": {
-        "acquirer": "Pengendali baru DOOH",
-        "acquirer_confirmed": true,
-        "event_type": "TAKEOVER",
-        "execution_price": null,
-        "ipo_single_price": null,
-        "money": [],
-        "official_authority": null,
-        "official_kind": null,
-        "price_range": null,
-        "ratio": null,
-        "schedule": {},
-        "share_count": null,
-        "stage": "CHANGE OF CONTROL",
-        "stage_step": 5,
-        "stage_total": 7,
-        "stake": [
-          80.0
-        ],
-        "standby_buyer": null,
-        "target": "saham dengan harga 80% di bawah pasar",
-        "target_confirmed": true,
-        "tender_price": null,
-        "underwriter": null,
-        "use_of_funds": [
-          "AKUISISI / INVESTASI"
-        ]
       },
       "ticker": ""
     },
@@ -7640,7 +7600,7 @@
     }
   },
   "last_keepalive_utc": "2026-10-09T10:40:38.037983+00:00",
-  "last_state_change_utc": "2026-10-19T03:20:53.111506+00:00",
+  "last_state_change_utc": "2026-10-19T03:30:59.292424+00:00",
   "market_noise_suppressed": 9,
   "milestone_alerts": {},
   "rumor_alerts_sent": 119,
@@ -7652,7 +7612,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 26,
   "rumor_integrity_repairs": 2704,
-  "rumor_last_scan_utc": "2026-10-19T03:20:53.032496+00:00",
+  "rumor_last_scan_utc": "2026-10-19T03:30:59.217320+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -8096,6 +8056,65 @@
       "strength": "WEAK",
       "ticker": "HAJI",
       "title": "Haji Isam Disebut Akan Akuisisi BCA, Apa Fakta di Balik Rumor dan Transaksi Saham BYAN? - Hallo Emiten - Hallo.id"
+    },
+    "BUYBACK|COMPANY|BARITO RENEWABLES ENERGY UNTUK": {
+      "category": "BUYBACK",
+      "company_name": "PT BARITO RENEWABLES ENERGY TBK UNTUK",
+      "copy_duplicate_count": 0,
+      "credible_effective_independent_count": 1.1,
+      "derivative_source_count": 0,
+      "detected_source_count": 1,
+      "effective_independent_count": 1.1,
+      "entity_aliases": [
+        "BARITO RENEWABLES ENERGY TBK UNTUK"
+      ],
+      "entity_resolution_source": null,
+      "first_seen_utc": "2026-10-19T01:52:19+00:00",
+      "high_quality_source_count": 1,
+      "independent_story_count": 1,
+      "issuer_profile": null,
+      "key": "BUYBACK|COMPANY|BARITO RENEWABLES ENERGY UNTUK",
+      "last_seen_utc": "2026-10-19T01:52:19+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcmwydmZIdWNxTVdhWDZJUU9HeGlPcEhpcE8wcWR1Z0RhMTYwY3VJZmdlSVdKd2NMWkVBN0lmTnB2dGZZUEMtcEhZdHNTdzlfdmcxSlhxN2tuYXc0OU1FdmN3aHlXZV94VklVUElRUUJybDB3dm1YZV9iVE9IV2wxNkFiX2E3eXEyb1c5VEtJaDNXR2V6ZHAyeE9PdkZPdEgxMHJCbm05U3VrSDRSWVZfd2t6SQ?oc=5",
+      "market_data": null,
+      "official_confirmation": null,
+      "premium_source_count": 1,
+      "profile_refresh_utc": null,
+      "published": "Mon, 19 Oct 2026 01:52:19 GMT",
+      "rumor_details": {
+        "ipo_price": null,
+        "listing_estimate": null,
+        "money": [],
+        "percentages": [],
+        "price_range": null,
+        "rumored_party": null,
+        "share_count": null,
+        "underwriter": null
+      },
+      "semantic_copy_count": 0,
+      "source": "PT Bursa Efek Indonesia",
+      "source_breakdown": [
+        {
+          "derivative": false,
+          "group": "pt bursa efek indonesia",
+          "new_material": 0,
+          "quality": "OFFICIAL",
+          "semantic_copy": false,
+          "source": "PT Bursa Efek Indonesia",
+          "tier": 5,
+          "weight": 1.1
+        }
+      ],
+      "source_count": 1,
+      "source_quality": "MEDIUM",
+      "source_quality_score": 5.5,
+      "sources": [
+        "PT Bursa Efek Indonesia"
+      ],
+      "status": "CONFIRMED OFFICIAL",
+      "strength": "CONFIRMED OFFICIAL",
+      "ticker": null,
+      "title": "KETERBUKAAN INFORMASI TERKAIT DENGAN RENCANA PT BARITO RENEWABLES ENERGY TBK UNTUK MELAKUKAN PEMBELIAN KEMBALI SAHAM (BUYBACK) - PT Bursa Efek Indonesia"
     },
     "BUYBACK|COMPANY|HARUM ENERGY": {
       "category": "BUYBACK",
@@ -9000,7 +9019,6 @@
   "sent": {
     "0041c3eddec72a75940c506a654c729fbd1897b0cb4930f663bf354f9da72a41": "2026-10-02T04:10:42.623331+00:00",
     "01008cec9104b0bd540bc593146a7fdf50b03dec91a75f1cd5121c13bdef45f5": "2026-10-09T10:00:51.467003+00:00",
-    "01d582be60e9e1df12473cf195820a7d5d8e0e44d2e9bca680e3440f70b97bfe": "2026-08-20T03:24:19.258267+00:00",
     "0279ba57626dd3f97c322fbad53d163ec5632df52ca8ec25042475430e123324": "2026-10-16T14:11:03.419877+00:00",
     "029ae777f86c403a5998f04a99e62b001aa12140806c6b73b7ce9c6795d4ca35": "2026-08-20T04:06:56.157877+00:00",
     "03742ff5feb9c0187f2cb9cdccb533f593623d46f56b8ad7096d0d9aada2ccfb": "2026-10-09T04:00:48.305901+00:00",
@@ -9013,9 +9031,7 @@
     "0a252024a8caf81e69f47f39796d2784e19a5e087d211da9a3b8084899c8a92a": "2026-09-29T15:01:08.151722+00:00",
     "0b66cabc49649ae7a9fa512eb90cf15c654bf40ce47585c71e2d5a51a37d1c07": "2026-09-07T05:01:00.193835+00:00",
     "0b8ae5a6574e1b06db243a58436c327ab01fce8519adb6e48e1af8c307984b49": "2026-09-25T16:20:50.588575+00:00",
-    "0bc383e38ef89792db4ac5da55a293d15cba4c87a2ea9d68ed10d510cccdd477": "2026-08-20T03:21:47.165417+00:00",
     "0bd0099b0c3ea99ea3607d1693e7e66bf24eecb588be05d24f0272f87c67d27d": "2026-10-03T05:10:50.217598+00:00",
-    "0bd81597f759c20cc8c802928a344b88c585b60223a6a234f8b0f6a0f397b4c0": "2026-08-20T03:21:47.165417+00:00",
     "0c76e071ca99093ad0eecc4d7e895e13a9f4c888c7cedae80ec7ad61ff0de3e0": "2026-09-04T05:41:32.728730+00:00",
     "0d35e7bd8d76d094f201a7921c159e82c71f44fffd939adffbead9fa637aec06": "2026-10-04T08:11:00.187102+00:00",
     "0d5860f7f65369c0ad8bd6309e2a6f64201ec4b2b420337eea62b645038bacc7": "2026-10-02T22:41:01.482416+00:00",
@@ -9083,12 +9099,10 @@
     "3d4eb95434199021a37aa9a8184304a4cd908c2a961fa001d79a84975f263298": "2026-10-05T10:20:56.446724+00:00",
     "3d64696f6f22cf2829b00f9dcba3f9c3af8ca884c47866459a317cb62d944c2d": "2026-09-27T00:31:18.150625+00:00",
     "3d665ab0cd29f350f3346cba976cb171cb092113b23a8df1bbade56474cec812": "2026-09-17T13:41:16.554119+00:00",
-    "3f5f2798b673a55b921d89225f03c9775e46d2583d5f426225e6f38a1586de9a": "2026-08-20T03:21:47.165417+00:00",
     "3f78ae7a42cf76bd1df432f650f2891921b19245b8d8a196ce68ef39c2419fe6": "2026-09-18T02:31:36.685014+00:00",
     "410a4a9e7a2e874095da50a6d1cb47c3048fa76f31a9b4f168e5af02978d0930": "2026-09-27T00:31:18.150625+00:00",
     "43fa02f3a191c3fc51552d478c82c128d76a71ce79320d4f3e9b49d99af8a5f6": "2026-08-28T16:40:51.239803+00:00",
     "448ca97eda77b809bad9eae0d34a380ea56aa5ad01a6ec1849eebc13ba705e57": "2026-10-16T14:11:03.419877+00:00",
-    "45beca7738c9133f975c545cd682b0704c633b21a3b90e2c06f6e9f162373e45": "2026-08-20T03:21:47.165417+00:00",
     "495de9b968006e16e9a6a266d07c4466fbb79a1ffdfe654091c972916a2bbf89": "2026-08-29T14:31:13.281142+00:00",
     "4ab9a69bccaebda4cb98738a2d02ab258b60dcec67953bca9de31383ab85e326": "2026-09-29T21:31:05.703671+00:00",
     "4c3e55e60c546b9aa3b7f895e7d064df342650b458b7d41f19bd5607aa2ada25": "2026-08-24T07:11:05.738523+00:00",
@@ -9151,7 +9165,6 @@
     "8057b0b7ce197f270af343b9f741393766b17c684dd8a7e35c47f485425da692": "2026-10-16T00:10:56.983068+00:00",
     "80b92a8bd86c4beee1ff71d626bdb2d08e0ddb9c12fe353ff887361f9de06971": "2026-09-02T09:40:52.722208+00:00",
     "8187ca3a1a85953e9811de50f37e6e7b689e376a13351d6d7bda525121b656ca": "2026-08-21T13:10:58.875826+00:00",
-    "81bd0ccaca7a4e66e29732beb8e488cddb3ab5df0058ef5dc35f4d7ec3230dc3": "2026-08-20T03:21:47.165417+00:00",
     "820dd87026bc16818346384b2100cff10b428975697ef35194bfd211d182c179": "2026-09-14T07:10:50.747891+00:00",
     "8217acf7a819bcae07623c0b49184bf0837c5c7f91620f390dbf978e0bc9b466": "2026-10-03T06:50:57.117343+00:00",
     "82d2c866d3916a1daf03994a182f12b34f4c3e374bed5f2f3e09d1047c3270fc": "2026-10-13T11:10:53.744723+00:00",
@@ -9175,7 +9188,6 @@
     "905a0fcc01e6c259a6603314b0e24151ece6f211f37da79bd81458c70fa20646": "2026-09-17T19:41:04.147700+00:00",
     "91179b276a8babd4e5455627b8a58e07c700e166438a6a5770ecac9f2215e44d": "2026-09-10T02:03:20.729169+00:00",
     "92007265263dd099abf4875816da7e304d6cb1cbced47139c5593d83dc42e641": "2026-10-02T07:01:11.904954+00:00",
-    "92825c7494ba089a9fe2eafd735da0209935a12eda32371d7cde9e781dc55f70": "2026-08-20T03:21:47.165417+00:00",
     "9297deea431daa3bf652ff1541cdc57b1bb3a7abd2ad7c20fd3d1f320feceedf": "2026-09-16T07:11:36.034829+00:00",
     "93b98e5324b3b4a4d86def42303d6f78f8ce459a0b9be52e4153b2fcce68b9d0": "2026-09-18T01:41:15.519996+00:00",
     "93d11c210b0c34e836561a6a10e5adfff9c887851bd5edee83cf88211d0c20c8": "2026-09-18T01:41:15.519996+00:00",
@@ -9188,7 +9200,6 @@
     "9b876251da3c9da8dfb6d2b7ff374bcf7c1e87ec257978594c08fd6a1c119e12": "2026-09-16T14:41:04.317367+00:00",
     "9ebcccd0e6a3986d65ba657ccbc6f3bd20eaafde819b6855bf5a108e95955890": "2026-09-28T20:30:55.922481+00:00",
     "9f99458747642855c74d4e2cbe37f8a6cb073ee77eec71179a419b97056f4117": "2026-10-03T09:30:54.541000+00:00",
-    "a0122d5c3c2c93456f86af53b3928e029b1dd537a9028200bfc392e0ab931145": "2026-08-20T03:21:47.165417+00:00",
     "a05ce50ce611f2f9bdba9077e9bb743111bed97e79ccebfac4f2c4a0d7a1d509": "2026-10-03T13:11:01.547411+00:00",
     "a0b9ace6b9f9fa819a49654ebe2c5e47bc381be9c065f5e3cb13ded4760da71e": "2026-10-18T08:41:16.170114+00:00",
     "a1ec20cbc6200644cb2ca36e4100d4987bc2adb9cf6c941c755e2d5d6644dc51": "2026-09-11T08:01:14.955541+00:00",
@@ -9273,12 +9284,10 @@
     "e2ccfa80f91341bdd72e247890d35602844c5f044fa8bf0fc8cd8eb12dd9a7e5": "2026-09-29T03:51:12.437367+00:00",
     "e2d5ab6b136679933b45cdd6a3202453239f7ac5f6bb917388b3d48f847921e8": "2026-09-29T03:51:11.317843+00:00",
     "e31cbddd20a6cd7491dc21559ead41cbf58eb15309374863d53c5fd350d81f1c": "2026-10-09T15:30:59.357852+00:00",
-    "e33907a9fe904c50f06fe11b58b70b65be47742ec7f0a555fb1e52141661e12a": "2026-08-20T03:21:47.165417+00:00",
     "e4acd0dfa3f01ba1d9a441951b127f4cbb733d431955ecb250ee5150b07a8296": "2026-09-05T12:51:23.895949+00:00",
     "e558e229daa7611bd54efaf57e7177bf991861def406546b59b3b6b0405cf6bd": "2026-08-21T13:01:30.058267+00:00",
     "e7502f395f11a7bf2cf46c034d8900e07c1fe85929dcd6d12a3561ccafb06781": "2026-08-31T07:10:51.649401+00:00",
     "e7747a315ff65d8b6b6f77531867cbbae9aeb9a1e56f1e4a30349611cfebc3a8": "2026-09-25T16:20:50.588575+00:00",
-    "e7a14e7a29ac6843f16808b7f3642a1cb34fb40004cd444ae14be203d0c93cfb": "2026-08-20T03:21:47.165417+00:00",
     "e89075d4823b7f2f061389129bdbf18aa9db655fee4dbf371acd81114dd2feeb": "2026-10-13T02:50:57.795357+00:00",
     "e9ac5621abccdacf7d20863612e836c96881aff9f06ffe212d01b2cb5c47a5a7": "2026-08-24T21:51:20.210067+00:00",
     "e9f8b13ad76af2f0ce60ccbe58934a08a4072c8a7061aa37bbdbe7c27ca8521e": "2026-10-02T11:21:05.054730+00:00",
@@ -9297,7 +9306,6 @@
     "f40f48aa39e7ec2f572918dc6477a96a0381feea8eb446e15bd184cf1bc50e1b": "2026-10-07T03:41:01.122940+00:00",
     "f45a50ac4f93cdc7704060c239f789a48f42c01de0c856a2807161d0ee430aed": "2026-10-02T10:11:01.070905+00:00",
     "f57a99f18ef13c0b676802e584a617426102d7a0d568142fbc5df343cf30f0fd": "2026-08-29T08:31:20.016719+00:00",
-    "f584f718a9664b3a17407a798e0136cd0fd2b2f69fff0f9869fc1673a16ac898": "2026-08-20T03:21:47.165417+00:00",
     "f7c7ebe6089542a2dee5847b151054d979c1fdae2a6b2938c13784a03cfc332a": "2026-10-02T04:31:12.378972+00:00",
     "fac82e55cd7fcbb0a27ac1cb95c128785bf525147783fc8ea5027e3895ca1225": "2026-10-12T08:41:02.498704+00:00",
     "fb850201bfe087fefba521031c66de65f8f6cf02257bed9a8cbefd59dc0117d7": "2026-10-09T10:30:46.081506+00:00",
