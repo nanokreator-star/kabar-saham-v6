@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 25,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 829,
-  "early_signal_last_scan_utc": "2026-10-20T13:20:51.593451+00:00",
+  "early_signal_last_scan_utc": "2026-10-20T14:50:36.911694+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -4060,42 +4060,6 @@
       },
       "ticker": ""
     },
-    "M&A / TAKEOVER|TITLE|PENGAMBILALIHAN WIKA PSBI PENGAMAT INGATKAN PENTINGNYA TRANSPARANSI": {
-      "family": "M&A / TAKEOVER",
-      "first_seen_utc": "2026-08-21T14:40:55.316495+00:00",
-      "last_alert_utc": "2026-08-21T14:40:55.316490+00:00",
-      "last_seen_utc": "2026-08-21T14:40:55.316490+00:00",
-      "market_context": {
-        "change_pct": null,
-        "last_price": null,
-        "market_date": null
-      },
-      "material_snapshot": {
-        "acquirer": null,
-        "acquirer_confirmed": false,
-        "event_type": "AKUISISI",
-        "execution_price": null,
-        "ipo_single_price": null,
-        "money": [],
-        "official_authority": null,
-        "official_kind": null,
-        "price_range": null,
-        "ratio": null,
-        "schedule": {},
-        "share_count": null,
-        "stage": "SPA / SIGNED",
-        "stage_step": 4,
-        "stage_total": 7,
-        "stake": [],
-        "standby_buyer": null,
-        "target": null,
-        "target_confirmed": false,
-        "tender_price": null,
-        "underwriter": null,
-        "use_of_funds": []
-      },
-      "ticker": ""
-    },
     "M&A / TAKEOVER|TITLE|PROTELINDO PERPANJANG SUPR SINYAL KUAT GO PRIVATE": {
       "family": "M&A / TAKEOVER",
       "first_seen_utc": "2026-08-21T23:41:22.898637+00:00",
@@ -7585,7 +7549,7 @@
     }
   },
   "last_keepalive_utc": "2026-10-09T10:40:38.037983+00:00",
-  "last_state_change_utc": "2026-10-20T13:20:51.646964+00:00",
+  "last_state_change_utc": "2026-10-20T14:50:36.941151+00:00",
   "market_noise_suppressed": 9,
   "milestone_alerts": {},
   "rumor_alerts_sent": 119,
@@ -7597,7 +7561,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 27,
   "rumor_integrity_repairs": 2705,
-  "rumor_last_scan_utc": "2026-10-20T13:20:51.572722+00:00",
+  "rumor_last_scan_utc": "2026-10-20T14:50:36.900518+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -9354,7 +9318,6 @@
     "a7a4b1588da2190fce00918be07126b43aef12ace18cd06591a6f13d0ad7de09": "2026-09-07T17:01:17.930370+00:00",
     "a8df3fb5694bb11a35aae0d37ce1d4cc579d01bbd23f3828015da08ed729b3b5": "2026-09-02T09:31:01.471268+00:00",
     "aa163f83d516de210df09af02d4f15f4934b3a6c371ec8fffcc1f508b34ed7db": "2026-08-21T23:41:22.898611+00:00",
-    "aac9c74478cb2769539bab9a3e7139138f5672861b5be9e8fbbf962b487b7f21": "2026-08-21T14:40:55.316472+00:00",
     "ac0f81ec5b124055a4f52336e4599421ac686ff8ec8de6dde98263bf40948a64": "2026-08-24T07:11:05.738523+00:00",
     "ac1495342b650756ef3870c528d0e76e5bac6f229932d89ad8260e6f4c18eff2": "2026-10-06T04:31:36.095256+00:00",
     "ac4a63a11531dbc3fe8ab138e8a0daf7a5cb222266d0b3877cdf249d2a84951f": "2026-10-04T15:41:06.864315+00:00",
