@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 25,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 829,
-  "early_signal_last_scan_utc": "2026-10-20T13:10:56.801687+00:00",
+  "early_signal_last_scan_utc": "2026-10-20T13:20:51.593451+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -1685,44 +1685,6 @@
         ]
       },
       "ticker": "TRUK"
-    },
-    "M&A / TAKEOVER|PARTIES|JARR DAN BYAN TEGASKAN TIDAK ADA RENCANA|": {
-      "family": "M&A / TAKEOVER",
-      "first_seen_utc": "2026-08-21T13:10:58.875863+00:00",
-      "last_alert_utc": "2026-08-21T13:10:58.875852+00:00",
-      "last_seen_utc": "2026-08-21T13:10:58.875852+00:00",
-      "market_context": {
-        "change_pct": null,
-        "last_price": null,
-        "market_date": null
-      },
-      "material_snapshot": {
-        "acquirer": "JARR dan BYAN Tegaskan Tidak Ada Rencana",
-        "acquirer_confirmed": true,
-        "event_type": "AKUISISI",
-        "execution_price": null,
-        "ipo_single_price": null,
-        "money": [],
-        "official_authority": null,
-        "official_kind": null,
-        "price_range": null,
-        "ratio": null,
-        "schedule": {},
-        "share_count": null,
-        "stage": "RENCANA",
-        "stage_step": 2,
-        "stage_total": 7,
-        "stake": [],
-        "standby_buyer": null,
-        "target": null,
-        "target_confirmed": false,
-        "tender_price": null,
-        "underwriter": null,
-        "use_of_funds": [
-          "AKUISISI / INVESTASI"
-        ]
-      },
-      "ticker": ""
     },
     "M&A / TAKEOVER|PARTIES|JEJAK EKSPANSI BUMI DI TAMBANG EMAS|LOYAL METALS": {
       "family": "M&A / TAKEOVER",
@@ -6826,6 +6788,26 @@
       "verified_at": "2026-08-24T21:51:01.139179+00:00",
       "website": "https://www.jungleseries.co.id"
     },
+    "KAJI": {
+      "business_activity": null,
+      "controller": null,
+      "industry": null,
+      "issuer_name": "KAJI",
+      "owner_context_sources": 0,
+      "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
+      "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
+      "owner_v6_checked_utc": "2026-10-20T13:20:45.971678+00:00",
+      "owner_v6_pages_fetched": 0,
+      "profile_source": "Yahoo Finance",
+      "profile_source_quality": "FALLBACK",
+      "profile_source_url": null,
+      "sector": null,
+      "subindustry": null,
+      "subsector": null,
+      "ticker": "KAJI",
+      "verified_at": "2026-10-20T13:20:46.736925+00:00",
+      "website": null
+    },
     "KBMI": {
       "business_activity": null,
       "controller": null,
@@ -7603,7 +7585,7 @@
     }
   },
   "last_keepalive_utc": "2026-10-09T10:40:38.037983+00:00",
-  "last_state_change_utc": "2026-10-20T13:10:56.852472+00:00",
+  "last_state_change_utc": "2026-10-20T13:20:51.646964+00:00",
   "market_noise_suppressed": 9,
   "milestone_alerts": {},
   "rumor_alerts_sent": 119,
@@ -7615,7 +7597,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 27,
   "rumor_integrity_repairs": 2705,
-  "rumor_last_scan_utc": "2026-10-20T13:10:56.783237+00:00",
+  "rumor_last_scan_utc": "2026-10-20T13:20:51.572722+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -8337,6 +8319,82 @@
       "strength": "CONFIRMED OFFICIAL",
       "ticker": "FROM",
       "title": "INFORMATION DISCLOSURE PROPOSED TRANSFER OF THE SHARES RESULTING FROM THE BUYBACK PT ASHMORE ASSET MANAGEMENT INDONESIA TBK (&qu - PT Bursa Efek Indonesia"
+    },
+    "BUYBACK|TICKER|KAJI": {
+      "category": "BUYBACK",
+      "company_name": "PT Bur",
+      "copy_duplicate_count": 0,
+      "credible_effective_independent_count": 1.1,
+      "derivative_source_count": 0,
+      "detected_source_count": 1,
+      "effective_independent_count": 1.1,
+      "entity_aliases": [],
+      "entity_resolution_source": null,
+      "first_seen_utc": "2026-10-20T13:06:13+00:00",
+      "high_quality_source_count": 1,
+      "independent_story_count": 1,
+      "issuer_profile": {
+        "business_activity": null,
+        "controller": null,
+        "industry": null,
+        "issuer_name": "KAJI",
+        "owner_context_sources": 0,
+        "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
+        "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
+        "owner_v6_checked_utc": "2026-10-20T13:20:45.971678+00:00",
+        "owner_v6_pages_fetched": 0,
+        "profile_source": "Yahoo Finance",
+        "profile_source_quality": "FALLBACK",
+        "profile_source_url": null,
+        "sector": null,
+        "subindustry": null,
+        "subsector": null,
+        "ticker": "KAJI",
+        "verified_at": "2026-10-20T13:20:46.736925+00:00",
+        "website": null
+      },
+      "key": "BUYBACK|TICKER|KAJI",
+      "last_seen_utc": "2026-10-20T13:06:13+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQmlkUmFLdWZFZFBWenVaenRKTi11MVdmWU5pOEtMVVhqRHdNd3AzWWt6NDBIbjlILW50Xy1GZzZWbmo3enNRaHhwelQ4N1Z5MGw2WE9XY1JoUHU4d3dDVHdrcllLamVScF9Rc3lDQWY3b1ZaYjJrbGZ1bEZ2TzdNODZ2cko4Z05KSGxxWkQtdG8xN19sc08yd3M2SVM2dEh5TWlzenJJdnMwUGllVjhsMTJFTQ?oc=5",
+      "market_data": null,
+      "official_confirmation": null,
+      "premium_source_count": 1,
+      "profile_refresh_utc": "2026-10-20T13:20:51.571881+00:00",
+      "published": "Tue, 20 Oct 2026 13:06:13 GMT",
+      "rumor_details": {
+        "ipo_price": null,
+        "listing_estimate": null,
+        "money": [],
+        "percentages": [],
+        "price_range": null,
+        "rumored_party": null,
+        "share_count": null,
+        "underwriter": null
+      },
+      "semantic_copy_count": 0,
+      "source": "PT Bursa Efek Indonesia",
+      "source_breakdown": [
+        {
+          "derivative": false,
+          "group": "pt bursa efek indonesia",
+          "new_material": 0,
+          "quality": "OFFICIAL",
+          "semantic_copy": false,
+          "source": "PT Bursa Efek Indonesia",
+          "tier": 5,
+          "weight": 1.1
+        }
+      ],
+      "source_count": 1,
+      "source_quality": "MEDIUM",
+      "source_quality_score": 5.5,
+      "sources": [
+        "PT Bursa Efek Indonesia"
+      ],
+      "status": "CONFIRMED OFFICIAL",
+      "strength": "CONFIRMED OFFICIAL",
+      "ticker": "KAJI",
+      "title": "DI TENGAH DINAMIKA PASAR MODAL, BTN KAJI OPSI BUYBACK SAHAM - PT Bursa Efek Indonesia"
     },
     "BUYBACK|TITLE|KETERBUKAAN INFORMASI TERKAIT DENGAN RENCANA PT BARITO": {
       "category": "BUYBACK",
@@ -9248,7 +9306,6 @@
     "7fd3b1dd27aa542744394bab3b378c867e5bff181ae33627fccc3f14b87be04b": "2026-10-19T00:10:45.672074+00:00",
     "8057b0b7ce197f270af343b9f741393766b17c684dd8a7e35c47f485425da692": "2026-10-16T00:10:56.983068+00:00",
     "80b92a8bd86c4beee1ff71d626bdb2d08e0ddb9c12fe353ff887361f9de06971": "2026-09-02T09:40:52.722208+00:00",
-    "8187ca3a1a85953e9811de50f37e6e7b689e376a13351d6d7bda525121b656ca": "2026-08-21T13:10:58.875826+00:00",
     "820dd87026bc16818346384b2100cff10b428975697ef35194bfd211d182c179": "2026-09-14T07:10:50.747891+00:00",
     "8217acf7a819bcae07623c0b49184bf0837c5c7f91620f390dbf978e0bc9b466": "2026-10-03T06:50:57.117343+00:00",
     "82d2c866d3916a1daf03994a182f12b34f4c3e374bed5f2f3e09d1047c3270fc": "2026-10-13T11:10:53.744723+00:00",
