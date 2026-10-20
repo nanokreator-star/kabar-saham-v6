@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 25,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 829,
-  "early_signal_last_scan_utc": "2026-10-20T03:20:53.506707+00:00",
+  "early_signal_last_scan_utc": "2026-10-20T06:20:49.939859+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -5636,6 +5636,44 @@
       },
       "ticker": "GMFI"
     },
+    "RIGHTS ISSUE|TITLE|HARGA VOLATIL PETROSEA BUKA SUARA SOAL EVALUASI": {
+      "family": "RIGHTS ISSUE",
+      "first_seen_utc": "2026-10-20T06:21:28.958033+00:00",
+      "last_alert_utc": "2026-10-20T06:21:28.958027+00:00",
+      "last_seen_utc": "2026-10-20T06:21:28.958027+00:00",
+      "market_context": {
+        "change_pct": -2.5723,
+        "last_price": 3030.0,
+        "market_date": "2026-10-20"
+      },
+      "material_snapshot": {
+        "acquirer": null,
+        "acquirer_confirmed": false,
+        "event_type": "RIGHTS ISSUE",
+        "execution_price": null,
+        "ipo_single_price": null,
+        "money": [],
+        "official_authority": null,
+        "official_kind": null,
+        "price_range": null,
+        "ratio": null,
+        "schedule": {},
+        "share_count": null,
+        "stage": "RENCANA",
+        "stage_step": 2,
+        "stage_total": 6,
+        "stake": [],
+        "standby_buyer": null,
+        "target": null,
+        "target_confirmed": false,
+        "tender_price": null,
+        "underwriter": null,
+        "use_of_funds": [
+          "PENGEMBANGAN USAHA"
+        ]
+      },
+      "ticker": "PTRO"
+    },
     "RIGHTS ISSUE|TITLE|MENELISIK RENCANA LAPD 2026 INBRENG BSS PROSPEK": {
       "family": "RIGHTS ISSUE",
       "first_seen_utc": "2026-09-15T04:11:16.787680+00:00",
@@ -7199,14 +7237,52 @@
     },
     "PTRO": {
       "business_activity": "PT Petrosea Tbk provides engineering, construction, mining, and other services to the oil and gas, infrastructure, and industrial and manufacturing in Indonesia and internationally. It operates through four segments: Mining, Services, Engin",
-      "controller": null,
+      "controller": {
+        "basis": "OWNER_SAFETY_V5_EXPLICIT_ROLE",
+        "evidence_text": "Ownership Structure PT Petrosea Tbk is controlled by PT Kreasi Jasa Persada (KJP), the Company\u2019s major and controlling shareholder.",
+        "name": "Ownership Structure PT Petrosea Tbk",
+        "official_registry": false,
+        "primary_company": true,
+        "role": "CONTROLLER",
+        "source": "petrosea.com",
+        "source_group": "petrosea.com",
+        "source_quality": "PRIMARY_COMPANY",
+        "source_tier": 4,
+        "source_url": "https://petrosea.com/about-us/ownership-structure/",
+        "stake_pct": null,
+        "verification_level": "PRIMARY_COMPANY_CONTROLLER_V5",
+        "verified": true
+      },
       "industry": "Other Industrial Metals & Mining",
       "issuer_name": "Petrosea",
-      "owner_context_sources": 0,
+      "major_shareholders": [
+        {
+          "basis": "OWNER_V5_SECTION_PERCENT",
+          "evidence_text": "d controlling shareholder. KJP is wholly-owned by PT Petrindo Jaya Kreasi Tbk. Note: Shareholders as of 9 February 2026 with 5%",
+          "name": "PT Petrindo Jaya Kreasi Tbk. Note",
+          "official_registry": false,
+          "primary_company": true,
+          "role": "MAJOR",
+          "source": "petrosea.com",
+          "source_group": "petrosea.com",
+          "source_quality": "PRIMARY_COMPANY",
+          "source_tier": 4,
+          "source_url": "https://petrosea.com/about-us/ownership-structure/",
+          "stake_pct": 5.0,
+          "verification_level": "PRIMARY_COMPANY_HOLDER_V5",
+          "verified": true
+        }
+      ],
+      "owner_context_sources": 1,
       "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
-      "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-      "owner_v6_checked_utc": "2026-09-21T11:31:27.294430+00:00",
-      "owner_v6_pages_fetched": 0,
+      "owner_holder_resolution_level": "STRUCTURED_MAJOR_HOLDERS_V8",
+      "owner_resolution_level": "OFFICIAL_CONTROLLER",
+      "owner_v6_checked_utc": "2026-10-20T06:21:28.148260+00:00",
+      "owner_v6_pages_fetched": 2,
+      "owner_v6_source_urls": [
+        "https://petrosea.com/about-us/ownership-structure/",
+        "https://petrosea.com/about-us/ownership-structure/"
+      ],
       "profile_source": "Yahoo Finance",
       "profile_source_quality": "FALLBACK",
       "profile_source_url": null,
@@ -7563,7 +7639,7 @@
     }
   },
   "last_keepalive_utc": "2026-10-09T10:40:38.037983+00:00",
-  "last_state_change_utc": "2026-10-20T03:20:53.561559+00:00",
+  "last_state_change_utc": "2026-10-20T06:21:28.960466+00:00",
   "market_noise_suppressed": 9,
   "milestone_alerts": {},
   "rumor_alerts_sent": 119,
@@ -7575,7 +7651,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 26,
   "rumor_integrity_repairs": 2705,
-  "rumor_last_scan_utc": "2026-10-20T03:20:53.485329+00:00",
+  "rumor_last_scan_utc": "2026-10-20T06:20:49.920457+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -9078,6 +9154,7 @@
     "0c76e071ca99093ad0eecc4d7e895e13a9f4c888c7cedae80ec7ad61ff0de3e0": "2026-09-04T05:41:32.728730+00:00",
     "0d35e7bd8d76d094f201a7921c159e82c71f44fffd939adffbead9fa637aec06": "2026-10-04T08:11:00.187102+00:00",
     "0d5860f7f65369c0ad8bd6309e2a6f64201ec4b2b420337eea62b645038bacc7": "2026-10-02T22:41:01.482416+00:00",
+    "0e2dcc230a547b39f1fbec28ce1fb6e159d75b3afc73cc16bf086c93d9ac44ed": "2026-10-20T06:21:28.958011+00:00",
     "0f07586bb610315eb485f41810b46cbe40a9e15da67bb5c6083c7428c0777d26": "2026-09-18T13:40:46.595316+00:00",
     "0fc3314cafd6225f34e24e2cb82de536fcdb7a7444c7cd8a165b687626fa11d3": "2026-08-24T18:41:06.877019+00:00",
     "10168ffe8c6c06e86f806f9be29da51a1f7ad69b13ed3be9d7a7ef5415cdac41": "2026-09-25T16:20:50.588575+00:00",
