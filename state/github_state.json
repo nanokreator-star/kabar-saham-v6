@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 25,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 829,
-  "early_signal_last_scan_utc": "2026-10-21T11:51:06.583236+00:00",
+  "early_signal_last_scan_utc": "2026-10-21T13:20:47.336148+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -7495,7 +7495,7 @@
     }
   },
   "last_keepalive_utc": "2026-10-09T10:40:38.037983+00:00",
-  "last_state_change_utc": "2026-10-21T11:51:06.633925+00:00",
+  "last_state_change_utc": "2026-10-21T13:20:47.381731+00:00",
   "market_noise_suppressed": 9,
   "milestone_alerts": {},
   "rumor_alerts_sent": 123,
@@ -7503,11 +7503,11 @@
   "rumor_confirmed_count": 44,
   "rumor_confirmed_dedups": 0,
   "rumor_denied_count": 1,
-  "rumor_duplicates_suppressed": 789,
+  "rumor_duplicates_suppressed": 790,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 27,
   "rumor_integrity_repairs": 2705,
-  "rumor_last_scan_utc": "2026-10-21T11:51:05.547406+00:00",
+  "rumor_last_scan_utc": "2026-10-21T13:20:46.447847+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -8444,15 +8444,15 @@
       "category": "DELISTING / RELISTING",
       "company_name": "CIMB",
       "copy_duplicate_count": 0,
-      "credible_effective_independent_count": 1.0,
+      "credible_effective_independent_count": 2.0,
       "derivative_source_count": 0,
-      "detected_source_count": 1,
-      "effective_independent_count": 1.0,
+      "detected_source_count": 2,
+      "effective_independent_count": 2.0,
       "entity_aliases": [],
       "entity_resolution_source": null,
-      "first_seen_utc": "2026-10-21T08:39:11+00:00",
-      "high_quality_source_count": 1,
-      "independent_story_count": 1,
+      "first_seen_utc": "2026-10-21T07:41:28+00:00",
+      "high_quality_source_count": 2,
+      "independent_story_count": 2,
       "issuer_profile": {
         "business_activity": null,
         "controller": null,
@@ -8479,7 +8479,7 @@
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZ1c0WW1RMG1fODhMS3FqMFduMUM3NE1KNmJST1BmbGsxOVM0ektiRjFaVHI1S1RTSUJDZGZIMm1sUnkxUzV6N2Vtb1JEeFFoNW9nNk94V3gyZVVpVUF6MDdGXzZqTnNKWGwwTEh6SUlBTjVyM2E1c3NaVkxqOUZNMVkySHFxWHR5ZU83WjA4aFQtM2E1NEkyQ2tqalZMRmlvSDNnY2h0NlJrbjhNMERDN3RB0gG3AUFVX3lxTE9rRlE4ZUh6OExGQXNRMzZURFBDU18yMTJ3bTNha2ZvQzFhZU5xOHZYODB2OFJ2TEM0T1ZmaXd5aTdNWTdTV194NkJkMW9rUW9VR09IdV9CMFREMGdpUUc3eExqMkhaZmw5eGc5Q0ZyamVYS3Nzc0d5WHQ3QlRlaW01YUMwQ3VZS3FueVNTWm5Hd1VGUWo3U3hZVXYxRWlkQ09rd1h2MVFmRWt5SzljSWFpQ1ZBV3Flaw?oc=5",
       "market_data": null,
       "official_confirmation": null,
-      "premium_source_count": 1,
+      "premium_source_count": 2,
       "profile_refresh_utc": "2026-10-21T09:21:04.039430+00:00",
       "published": "Wed, 21 Oct 2026 11:43:56 GMT",
       "rumor_details": {
@@ -8504,18 +8504,28 @@
           "source": "Bisnis.com",
           "tier": 4,
           "weight": 1.0
+        },
+        {
+          "derivative": false,
+          "group": "cnbcindonesia.com",
+          "new_material": 0,
+          "quality": "HIGH",
+          "semantic_copy": false,
+          "source": "CNBC Indonesia",
+          "tier": 4,
+          "weight": 1.0
         }
       ],
       "source_count": 3,
-      "source_quality": "MEDIUM",
-      "source_quality_score": 4.0,
+      "source_quality": "HIGH",
+      "source_quality_score": 8.0,
       "sources": [
         "Bisnis.com",
-        "FORTUNE Indonesia",
-        "CNBC Indonesia"
+        "CNBC Indonesia",
+        "FORTUNE Indonesia"
       ],
       "status": "DENIED",
-      "strength": "WEAK",
+      "strength": "MEDIUM",
       "ticker": "CIMB",
       "title": "CIMB Niaga Bantah Isu Delisting, Kaji Opsi Pemenuhan Free Float - FORTUNE Indonesia"
     },
