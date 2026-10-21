@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 25,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 829,
-  "early_signal_last_scan_utc": "2026-10-21T01:31:10.225140+00:00",
+  "early_signal_last_scan_utc": "2026-10-21T08:21:22.918575+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -6558,7 +6558,7 @@
       "owner_context_sources": 0,
       "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
       "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-      "owner_v6_checked_utc": "2026-10-19T13:31:07.322487+00:00",
+      "owner_v6_checked_utc": "2026-10-21T08:20:50.377105+00:00",
       "owner_v6_pages_fetched": 0,
       "profile_source": "Yahoo Finance",
       "profile_source_quality": "FALLBACK",
@@ -6567,7 +6567,7 @@
       "subindustry": null,
       "subsector": null,
       "ticker": "IHSG",
-      "verified_at": "2026-10-19T13:31:07.309323+00:00",
+      "verified_at": "2026-10-21T08:21:05.392199+00:00",
       "website": null
     },
     "INET": {
@@ -7475,10 +7475,10 @@
     }
   },
   "last_keepalive_utc": "2026-10-09T10:40:38.037983+00:00",
-  "last_state_change_utc": "2026-10-21T01:31:10.278074+00:00",
+  "last_state_change_utc": "2026-10-21T08:21:22.958935+00:00",
   "market_noise_suppressed": 9,
   "milestone_alerts": {},
-  "rumor_alerts_sent": 119,
+  "rumor_alerts_sent": 120,
   "rumor_baseline_initialized": true,
   "rumor_confirmed_count": 44,
   "rumor_confirmed_dedups": 0,
@@ -7487,7 +7487,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 27,
   "rumor_integrity_repairs": 2705,
-  "rumor_last_scan_utc": "2026-10-21T01:31:10.204385+00:00",
+  "rumor_last_scan_utc": "2026-10-21T08:21:22.901451+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -8209,6 +8209,83 @@
       "strength": "CONFIRMED OFFICIAL",
       "ticker": "FROM",
       "title": "INFORMATION DISCLOSURE PROPOSED TRANSFER OF THE SHARES RESULTING FROM THE BUYBACK PT ASHMORE ASSET MANAGEMENT INDONESIA TBK (&qu - PT Bursa Efek Indonesia"
+    },
+    "BUYBACK|TICKER|IHSG": {
+      "category": "BUYBACK",
+      "company_name": "BYAN Disorot di Tengah Ancaman MSCI Turunkan Status Pasar Indonesia",
+      "copy_duplicate_count": 0,
+      "credible_effective_independent_count": 0,
+      "derivative_source_count": 0,
+      "detected_source_count": 1,
+      "effective_independent_count": 0.3,
+      "entity_aliases": [],
+      "entity_resolution_source": null,
+      "first_seen_utc": "2026-10-21T08:18:25+00:00",
+      "high_quality_source_count": 0,
+      "independent_story_count": 1,
+      "issuer_profile": {
+        "business_activity": null,
+        "controller": null,
+        "industry": null,
+        "issuer_name": "BYAN Disorot di Tengah Ancaman MSCI Turunkan Status Pasar Indonesia",
+        "owner_context_sources": 0,
+        "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
+        "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
+        "owner_v6_checked_utc": "2026-10-21T08:20:50.377105+00:00",
+        "owner_v6_pages_fetched": 0,
+        "profile_source": "Yahoo Finance",
+        "profile_source_quality": "FALLBACK",
+        "profile_source_url": null,
+        "sector": null,
+        "subindustry": null,
+        "subsector": null,
+        "ticker": "IHSG",
+        "verified_at": "2026-10-21T08:21:05.392199+00:00",
+        "website": null
+      },
+      "key": "BUYBACK|TICKER|IHSG",
+      "last_alert_utc": "2026-10-21T08:21:22.901118+00:00",
+      "last_seen_utc": "2026-10-21T08:18:25+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNX2UyUEQwWFZyM2FkeTNrS0RPdW1PaFVFY0dkSlpFdko2VG5lTFdOZHpzeHB1UVFMSFlUSWxKbGx4Wk9KVFVWZ3FiRU95UGVhaUVCa0lNZ1pwclhYTGZ1MFNpOW82R0MwYllYcmN3YmVpQ3AxV1VkZzB1RnotbkNzOHJvaThNdGE2SDZ4eUpsNmFiUzdsREdiTC1JNkxwdjFqZFgwRVoyNjZfSi0xSFZZNlFNMTRuYmNTZFBRRHJkTWQ?oc=5",
+      "market_data": null,
+      "official_confirmation": null,
+      "premium_source_count": 0,
+      "profile_refresh_utc": "2026-10-21T08:20:57.027844+00:00",
+      "published": "Wed, 21 Oct 2026 08:18:25 GMT",
+      "rumor_details": {
+        "ipo_price": null,
+        "listing_estimate": null,
+        "money": [],
+        "percentages": [],
+        "price_range": null,
+        "rumored_party": null,
+        "share_count": null,
+        "underwriter": null
+      },
+      "semantic_copy_count": 0,
+      "source": "Ajaib",
+      "source_breakdown": [
+        {
+          "derivative": false,
+          "group": "ajaib",
+          "new_material": 0,
+          "quality": "LOW",
+          "semantic_copy": false,
+          "source": "Ajaib",
+          "tier": 1,
+          "weight": 0.35
+        }
+      ],
+      "source_count": 1,
+      "source_quality": "LOW",
+      "source_quality_score": 0.3,
+      "sources": [
+        "Ajaib"
+      ],
+      "status": "ACTIVE",
+      "strength": "WEAK",
+      "ticker": "IHSG",
+      "title": "IHSG -47% Imbas Wacana Standalone MSCI: BEI Lanjutkan Reformasi, hingga Emiten Ramai Buyback - Ajaib"
     },
     "BUYBACK|TICKER|KAJI": {
       "category": "BUYBACK",
