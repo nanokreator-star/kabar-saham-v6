@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 25,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 829,
-  "early_signal_last_scan_utc": "2026-10-21T14:20:56.349406+00:00",
+  "early_signal_last_scan_utc": "2026-10-21T14:31:57.429598+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -6806,7 +6806,7 @@
       "owner_context_sources": 0,
       "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
       "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-      "owner_v6_checked_utc": "2026-10-18T08:41:15.525772+00:00",
+      "owner_v6_checked_utc": "2026-10-21T14:31:32.016993+00:00",
       "owner_v6_pages_fetched": 0,
       "profile_source": "Yahoo Finance",
       "profile_source_quality": "FALLBACK",
@@ -6815,7 +6815,7 @@
       "subindustry": null,
       "subsector": null,
       "ticker": "MBSS",
-      "verified_at": "2026-10-18T08:40:56.893506+00:00",
+      "verified_at": "2026-10-21T14:31:32.635912+00:00",
       "website": "https://www.mbss.co.id"
     },
     "MPIX": {
@@ -7515,7 +7515,7 @@
     }
   },
   "last_keepalive_utc": "2026-10-09T10:40:38.037983+00:00",
-  "last_state_change_utc": "2026-10-21T14:20:56.453960+00:00",
+  "last_state_change_utc": "2026-10-21T14:31:57.475164+00:00",
   "market_noise_suppressed": 9,
   "milestone_alerts": {},
   "rumor_alerts_sent": 124,
@@ -7527,7 +7527,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 27,
   "rumor_integrity_repairs": 2705,
-  "rumor_last_scan_utc": "2026-10-21T14:20:54.688041+00:00",
+  "rumor_last_scan_utc": "2026-10-21T14:31:56.383893+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -8404,6 +8404,84 @@
       "strength": "CONFIRMED OFFICIAL",
       "ticker": "KAJI",
       "title": "DI TENGAH DINAMIKA PASAR MODAL, BTN KAJI OPSI BUYBACK SAHAM - PT Bursa Efek Indonesia"
+    },
+    "BUYBACK|TICKER|MBSS": {
+      "category": "BUYBACK",
+      "company_name": "PT MITRABAHTERA SEGARA SEJATI TBK",
+      "copy_duplicate_count": 0,
+      "credible_effective_independent_count": 1.1,
+      "derivative_source_count": 0,
+      "detected_source_count": 1,
+      "effective_independent_count": 1.1,
+      "entity_aliases": [
+        "Mitrabahtera Segara Sejati"
+      ],
+      "entity_resolution_source": "ISSUER_PROFILE_CACHE",
+      "first_seen_utc": "2026-10-21T14:30:49+00:00",
+      "high_quality_source_count": 1,
+      "independent_story_count": 1,
+      "issuer_profile": {
+        "business_activity": "PT Mitrabahtera Segara Sejati Tbk, together with its subsidiaries, provides sea transportation and transshipment services in Indonesia. It operates through Tugboats and Barges; Floating Cranes; and Motor Vessel segments.",
+        "controller": null,
+        "industry": "Marine Shipping",
+        "issuer_name": "Mitrabahtera Segara Sejati",
+        "owner_context_sources": 0,
+        "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
+        "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
+        "owner_v6_checked_utc": "2026-10-21T14:31:32.016993+00:00",
+        "owner_v6_pages_fetched": 0,
+        "profile_source": "Yahoo Finance",
+        "profile_source_quality": "FALLBACK",
+        "profile_source_url": null,
+        "sector": "Industrials",
+        "subindustry": null,
+        "subsector": null,
+        "ticker": "MBSS",
+        "verified_at": "2026-10-21T14:31:32.635912+00:00",
+        "website": "https://www.mbss.co.id"
+      },
+      "key": "BUYBACK|TICKER|MBSS",
+      "last_seen_utc": "2026-10-21T14:30:49+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeU5NeFY1TjhKWHJWdWtiYnVISFhESnU0aUJ6bkFsc3g4WFpGMGo3RXViTndqaTQ2YmdsME9ucXFjejdOZHd0bEFZU3JBQVctOHlqd1J0WU1qczhKRFBxTmd2ZjdxUmNELVRwbTBIb01EYUtlcVVieUJxb19xUGRHazhUMmFla05JLW0wbUJlLUthS29XRGFITjNpOEJKUXlIS01PclgwT3VpZC1LblFDbXN1cw?oc=5",
+      "market_data": null,
+      "official_confirmation": null,
+      "premium_source_count": 1,
+      "profile_refresh_utc": "2026-10-21T14:31:56.379967+00:00",
+      "published": "Wed, 21 Oct 2026 14:30:49 GMT",
+      "rumor_details": {
+        "ipo_price": null,
+        "listing_estimate": null,
+        "money": [],
+        "percentages": [],
+        "price_range": null,
+        "rumored_party": null,
+        "share_count": null,
+        "underwriter": null
+      },
+      "semantic_copy_count": 0,
+      "source": "PT Bursa Efek Indonesia",
+      "source_breakdown": [
+        {
+          "derivative": false,
+          "group": "pt bursa efek indonesia",
+          "new_material": 0,
+          "quality": "OFFICIAL",
+          "semantic_copy": false,
+          "source": "PT Bursa Efek Indonesia",
+          "tier": 5,
+          "weight": 1.1
+        }
+      ],
+      "source_count": 1,
+      "source_quality": "MEDIUM",
+      "source_quality_score": 5.5,
+      "sources": [
+        "PT Bursa Efek Indonesia"
+      ],
+      "status": "CONFIRMED OFFICIAL",
+      "strength": "CONFIRMED OFFICIAL",
+      "ticker": "MBSS",
+      "title": "KETERBUKAAN INFORMASI SEHUBUNGAN DENGAN RENCANA PEMBELIAN KEMBALI SAHAM PT MITRABAHTERA SEGARA SEJATI TBK - PT Bursa Efek Indonesia"
     },
     "BUYBACK|TITLE|KETERBUKAAN INFORMASI TERKAIT DENGAN RENCANA PT BARITO": {
       "category": "BUYBACK",
