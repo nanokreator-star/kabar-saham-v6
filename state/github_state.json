@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 26,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 829,
-  "early_signal_last_scan_utc": "2026-10-21T19:50:44.952916+00:00",
+  "early_signal_last_scan_utc": "2026-10-21T20:30:55.615072+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -6629,7 +6629,7 @@
       "owner_context_sources": 0,
       "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
       "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-      "owner_v6_checked_utc": "2026-10-21T08:20:50.377105+00:00",
+      "owner_v6_checked_utc": "2026-10-21T20:30:50.435328+00:00",
       "owner_v6_pages_fetched": 0,
       "profile_source": "Yahoo Finance",
       "profile_source_quality": "FALLBACK",
@@ -6638,7 +6638,7 @@
       "subindustry": null,
       "subsector": null,
       "ticker": "IHSG",
-      "verified_at": "2026-10-21T08:21:05.392199+00:00",
+      "verified_at": "2026-10-21T20:30:51.098770+00:00",
       "website": null
     },
     "INET": {
@@ -7546,7 +7546,7 @@
     }
   },
   "last_keepalive_utc": "2026-10-09T10:40:38.037983+00:00",
-  "last_state_change_utc": "2026-10-21T19:50:44.998730+00:00",
+  "last_state_change_utc": "2026-10-21T20:30:55.662075+00:00",
   "market_noise_suppressed": 9,
   "milestone_alerts": {},
   "rumor_alerts_sent": 124,
@@ -7558,7 +7558,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 27,
   "rumor_integrity_repairs": 2705,
-  "rumor_last_scan_utc": "2026-10-21T19:50:44.199341+00:00",
+  "rumor_last_scan_utc": "2026-10-21T20:30:55.597607+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -8304,7 +8304,7 @@
         "owner_context_sources": 0,
         "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
         "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-        "owner_v6_checked_utc": "2026-10-21T08:20:50.377105+00:00",
+        "owner_v6_checked_utc": "2026-10-21T20:30:50.435328+00:00",
         "owner_v6_pages_fetched": 0,
         "profile_source": "Yahoo Finance",
         "profile_source_quality": "FALLBACK",
@@ -8313,7 +8313,7 @@
         "subindustry": null,
         "subsector": null,
         "ticker": "IHSG",
-        "verified_at": "2026-10-21T08:21:05.392199+00:00",
+        "verified_at": "2026-10-21T20:30:51.098770+00:00",
         "website": null
       },
       "key": "BUYBACK|TICKER|IHSG",
@@ -8323,7 +8323,7 @@
       "market_data": null,
       "official_confirmation": null,
       "premium_source_count": 0,
-      "profile_refresh_utc": "2026-10-21T08:20:57.027844+00:00",
+      "profile_refresh_utc": "2026-10-21T20:30:55.595433+00:00",
       "published": "Wed, 21 Oct 2026 09:38:32 GMT",
       "rumor_details": {
         "ipo_price": null,
