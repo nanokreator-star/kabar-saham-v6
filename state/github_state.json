@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 26,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 829,
-  "early_signal_last_scan_utc": "2026-10-21T17:00:59.556816+00:00",
+  "early_signal_last_scan_utc": "2026-10-21T17:10:58.662325+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -7546,7 +7546,7 @@
     }
   },
   "last_keepalive_utc": "2026-10-09T10:40:38.037983+00:00",
-  "last_state_change_utc": "2026-10-21T17:00:59.584336+00:00",
+  "last_state_change_utc": "2026-10-21T17:10:58.706680+00:00",
   "market_noise_suppressed": 9,
   "milestone_alerts": {},
   "rumor_alerts_sent": 124,
@@ -7554,11 +7554,11 @@
   "rumor_confirmed_count": 44,
   "rumor_confirmed_dedups": 0,
   "rumor_denied_count": 1,
-  "rumor_duplicates_suppressed": 793,
+  "rumor_duplicates_suppressed": 794,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 27,
   "rumor_integrity_repairs": 2705,
-  "rumor_last_scan_utc": "2026-10-21T17:00:57.139063+00:00",
+  "rumor_last_scan_utc": "2026-10-21T17:10:57.948465+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -9197,7 +9197,7 @@
       "effective_independent_count": 0.8,
       "entity_aliases": [],
       "entity_resolution_source": null,
-      "first_seen_utc": "2026-10-21T11:01:00+00:00",
+      "first_seen_utc": "2026-10-19T12:37:00+00:00",
       "high_quality_source_count": 1,
       "independent_story_count": 1,
       "issuer_profile": {
@@ -9222,7 +9222,7 @@
       },
       "key": "RIGHTS ISSUE|TICKER|CMNP",
       "last_alert_utc": "2026-10-21T14:01:56.464504+00:00",
-      "last_seen_utc": "2026-10-21T11:01:00+00:00",
+      "last_seen_utc": "2026-10-19T12:37:00+00:00",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMFlmRGRjMWlsM1lPZEJoTzdISEJZMXNELVBsWU1SR2NuX2tZbllkMEZzWXdqSUJQQTVuS2MwYjVXNUFOS0J1RzI3UHZKMkdMNFRTMm5saTd5cGZaTnhlelVpd1c3dm9zcUpmREdfTmJnM09LZVZMSmsyWXNTalJkLWljVzJXQVFVakVCRFpMNFFScldoalhDa3dIQQ?oc=5",
       "market_data": {
         "change_pct": -1.4814814814814816,
@@ -9241,7 +9241,7 @@
       "official_confirmation": null,
       "premium_source_count": 0,
       "profile_refresh_utc": "2026-10-21T14:01:26.398025+00:00",
-      "published": "Wed, 21 Oct 2026 11:01:00 GMT",
+      "published": "Mon, 19 Oct 2026 12:37:00 GMT",
       "rumor_details": {
         "ipo_price": null,
         "listing_estimate": null,
