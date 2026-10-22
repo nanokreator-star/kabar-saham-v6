@@ -2,8 +2,8 @@
   "baseline_initialized": true,
   "early_signal_alerts_sent": 27,
   "early_signal_baseline_initialized": true,
-  "early_signal_duplicates_suppressed": 868,
-  "early_signal_last_scan_utc": "2026-10-22T12:20:46.977315+00:00",
+  "early_signal_duplicates_suppressed": 869,
+  "early_signal_last_scan_utc": "2026-10-22T12:30:49.421704+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -21,7 +21,7 @@
       "combined": true,
       "direction": "DOWN",
       "last_alert_utc": "2026-10-22T06:40:55.952819+00:00",
-      "last_seen_utc": "2026-10-22T12:20:46.548434+00:00",
+      "last_seen_utc": "2026-10-22T12:30:48.545740+00:00",
       "level": "HIGH",
       "market_date": "2026-10-22",
       "signature": "BNGA|2026-10-22|HIGH|DOWN|RUMOR|DELISTING / RELISTING|TICKER|BNGA",
@@ -4967,6 +4967,42 @@
       },
       "ticker": ""
     },
+    "RIGHTS ISSUE|TITLE|BRIS PROFIL KINERJA DIVIDEN RENCANA PINTU": {
+      "family": "RIGHTS ISSUE",
+      "first_seen_utc": "2026-10-22T12:30:51.521618+00:00",
+      "last_alert_utc": "2026-10-22T12:30:51.521613+00:00",
+      "last_seen_utc": "2026-10-22T12:30:51.521613+00:00",
+      "market_context": {
+        "change_pct": null,
+        "last_price": null,
+        "market_date": null
+      },
+      "material_snapshot": {
+        "acquirer": null,
+        "acquirer_confirmed": false,
+        "event_type": "RIGHTS ISSUE",
+        "execution_price": null,
+        "ipo_single_price": null,
+        "money": [],
+        "official_authority": null,
+        "official_kind": null,
+        "price_range": null,
+        "ratio": null,
+        "schedule": {},
+        "share_count": null,
+        "stage": "RENCANA",
+        "stage_step": 2,
+        "stage_total": 6,
+        "stake": [],
+        "standby_buyer": null,
+        "target": null,
+        "target_confirmed": false,
+        "tender_price": null,
+        "underwriter": null,
+        "use_of_funds": []
+      },
+      "ticker": ""
+    },
     "RIGHTS ISSUE|TITLE|BRIS RENCANAKAN MILIAR SERI DEMOKRATIS CO ID": {
       "family": "RIGHTS ISSUE",
       "first_seen_utc": "2026-10-05T10:20:56.446742+00:00",
@@ -7577,7 +7613,7 @@
     }
   },
   "last_keepalive_utc": "2026-10-09T10:40:38.037983+00:00",
-  "last_state_change_utc": "2026-10-22T12:20:47.023229+00:00",
+  "last_state_change_utc": "2026-10-22T12:30:51.523179+00:00",
   "market_noise_suppressed": 9,
   "milestone_alerts": {},
   "rumor_alerts_sent": 127,
@@ -7589,7 +7625,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 27,
   "rumor_integrity_repairs": 2705,
-  "rumor_last_scan_utc": "2026-10-22T12:20:46.011156+00:00",
+  "rumor_last_scan_utc": "2026-10-22T12:30:47.663255+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -9735,6 +9771,7 @@
     "34ea868b6aee641a69a186443b53e7ab78c18365f012bde6c4620ba5eef707b1": "2026-10-02T04:11:18.451080+00:00",
     "35caa677fedc0bf6c3a8fe7f823443af0bd6f067d0642818b29bccc275122630": "2026-09-15T07:01:24.271273+00:00",
     "36164984a67a3808b879cc77ebd2eb926f20dc3b8629d67f9cdb6c05741e30ac": "2026-10-19T13:31:10.412032+00:00",
+    "36752e24f2585b110cad35b4a05ee20c97940013532a21c0c340e4685f01cdf7": "2026-10-22T12:30:51.521593+00:00",
     "373b1b316631890d135041562ced1130c3284bda56678d82bdd6f3d5ba7eaddb": "2026-08-25T02:20:52.960599+00:00",
     "386419857714651762ed9b41d3ad0cd769a3c078803d2f99a33cd8e4996d8917": "2026-10-04T20:11:30.748833+00:00",
     "38cf62fef6a32fd24876cbaf718787cd685b3462d78903fbaf057738f9496dfb": "2026-09-27T09:40:51.776776+00:00",
