@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 26,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 829,
-  "early_signal_last_scan_utc": "2026-10-22T02:41:32.547362+00:00",
+  "early_signal_last_scan_utc": "2026-10-22T03:51:18.986641+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -6077,7 +6077,7 @@
       "owner_context_sources": 0,
       "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
       "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-      "owner_v6_checked_utc": "2026-10-21T15:40:49.988303+00:00",
+      "owner_v6_checked_utc": "2026-10-22T03:51:04.443953+00:00",
       "owner_v6_pages_fetched": 0,
       "profile_source": "Yahoo Finance",
       "profile_source_quality": "FALLBACK",
@@ -6086,7 +6086,7 @@
       "subindustry": null,
       "subsector": null,
       "ticker": "BNGA",
-      "verified_at": "2026-10-21T15:40:51.041784+00:00",
+      "verified_at": "2026-10-22T03:51:05.900796+00:00",
       "website": "https://www.cimbniaga.co.id"
     },
     "BRIS": {
@@ -7566,7 +7566,7 @@
     }
   },
   "last_keepalive_utc": "2026-10-09T10:40:38.037983+00:00",
-  "last_state_change_utc": "2026-10-22T02:41:32.596241+00:00",
+  "last_state_change_utc": "2026-10-22T03:51:19.034958+00:00",
   "market_noise_suppressed": 9,
   "milestone_alerts": {},
   "rumor_alerts_sent": 125,
@@ -7578,7 +7578,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 27,
   "rumor_integrity_repairs": 2705,
-  "rumor_last_scan_utc": "2026-10-22T02:41:31.252362+00:00",
+  "rumor_last_scan_utc": "2026-10-22T03:51:16.160829+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -8612,7 +8612,7 @@
         "owner_context_sources": 0,
         "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
         "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-        "owner_v6_checked_utc": "2026-10-21T15:40:49.988303+00:00",
+        "owner_v6_checked_utc": "2026-10-22T03:51:04.443953+00:00",
         "owner_v6_pages_fetched": 0,
         "profile_source": "Yahoo Finance",
         "profile_source_quality": "FALLBACK",
@@ -8621,7 +8621,7 @@
         "subindustry": null,
         "subsector": null,
         "ticker": "BNGA",
-        "verified_at": "2026-10-21T15:40:51.041784+00:00",
+        "verified_at": "2026-10-22T03:51:05.900796+00:00",
         "website": "https://www.cimbniaga.co.id"
       },
       "key": "DELISTING / RELISTING|TICKER|BNGA",
@@ -8630,7 +8630,7 @@
       "market_data": null,
       "official_confirmation": null,
       "premium_source_count": 0,
-      "profile_refresh_utc": "2026-10-21T15:41:07.787003+00:00",
+      "profile_refresh_utc": "2026-10-22T03:51:16.159466+00:00",
       "published": "Mon, 19 Oct 2026 12:37:00 GMT",
       "rumor_details": {
         "ipo_price": null,
