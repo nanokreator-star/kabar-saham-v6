@@ -2,8 +2,8 @@
   "baseline_initialized": true,
   "early_signal_alerts_sent": 27,
   "early_signal_baseline_initialized": true,
-  "early_signal_duplicates_suppressed": 836,
-  "early_signal_last_scan_utc": "2026-10-22T07:00:59.123001+00:00",
+  "early_signal_duplicates_suppressed": 837,
+  "early_signal_last_scan_utc": "2026-10-22T07:10:44.310221+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -21,11 +21,11 @@
       "combined": true,
       "direction": "DOWN",
       "last_alert_utc": "2026-10-22T06:40:55.952819+00:00",
-      "last_seen_utc": "2026-10-22T07:00:58.201821+00:00",
+      "last_seen_utc": "2026-10-22T07:10:43.588707+00:00",
       "level": "HIGH",
       "market_date": "2026-10-22",
       "signature": "BNGA|2026-10-22|HIGH|DOWN|RUMOR|DELISTING / RELISTING|TICKER|BNGA",
-      "volume_ratio": 11.4
+      "volume_ratio": 11.74
     },
     "BUMI": {
       "change_pct": 3.45,
@@ -7577,7 +7577,7 @@
     }
   },
   "last_keepalive_utc": "2026-10-09T10:40:38.037983+00:00",
-  "last_state_change_utc": "2026-10-22T07:00:59.162036+00:00",
+  "last_state_change_utc": "2026-10-22T07:10:44.339522+00:00",
   "market_noise_suppressed": 9,
   "milestone_alerts": {},
   "rumor_alerts_sent": 126,
@@ -7585,11 +7585,11 @@
   "rumor_confirmed_count": 44,
   "rumor_confirmed_dedups": 0,
   "rumor_denied_count": 1,
-  "rumor_duplicates_suppressed": 807,
+  "rumor_duplicates_suppressed": 809,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 27,
   "rumor_integrity_repairs": 2705,
-  "rumor_last_scan_utc": "2026-10-22T07:00:57.165936+00:00",
+  "rumor_last_scan_utc": "2026-10-22T07:10:42.582552+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -8606,14 +8606,14 @@
       "category": "DELISTING / RELISTING",
       "company_name": "Bank CIMB Niaga",
       "copy_duplicate_count": 0,
-      "credible_effective_independent_count": 1.8,
+      "credible_effective_independent_count": 0.8,
       "derivative_source_count": 0,
       "detected_source_count": 2,
-      "effective_independent_count": 1.8,
+      "effective_independent_count": 1.1,
       "entity_aliases": [],
       "entity_resolution_source": null,
       "first_seen_utc": "2026-10-19T12:37:00+00:00",
-      "high_quality_source_count": 2,
+      "high_quality_source_count": 1,
       "independent_story_count": 2,
       "issuer_profile": {
         "business_activity": "PT Bank CIMB Niaga Tbk, together with its subsidiaries, provides various banking products and services in Indonesia and internationally. The company offers saving, current, and time and term deposit products; Sharia and payroll savings prod",
@@ -8637,8 +8637,8 @@
       },
       "key": "DELISTING / RELISTING|TICKER|BNGA",
       "last_alert_utc": "2026-10-22T05:51:11.059355+00:00",
-      "last_seen_utc": "2026-10-22T04:03:44+00:00",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVzlvR3pWUWxiLWFOb1l5RjFBbWlvT0w5d0p6VnhxVkNSc0F6NEw5a2xBX2xXM1BWMERaempXaTloOFFmTVhJV3dMLXpWNm9yNXhKLXlDRjZTd3hlR3A0M19zWU5TMHRIb0J5ZXhsNl8yU2dJRGpGWjRwZHRqOHhya2wxOXdmbmFLdC1VZjRCZDB6OEctSEhLcy1zQkFlZkpLbkdqYXNyRWMzbHRrX1R2bzdXTDFjVF85ODhWdNIBtAFBVV95cUxNU2huVXlhSnpNMmtKRE5jaFMyZGVfLUZzUzV0NHNWTWQtUW1tamc5ZTdVR2ZxanFNSnBzd3hLeHFRcUN5aVpTZWdpQjJveVhxazJBVUtwMVU1YkY3TVVMX09VX05UcDhlSUZuTVJ3MkZtS2p2UTdYR01ncE9WZXdtalNSLTUtYkJEUUprcy01UFNGRG4wcmc1TzhmNGNBWW1PMEFFU0pZS3Bac1M1Q09tb3pxNjc?oc=5",
+      "last_seen_utc": "2026-10-22T04:03:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdm9MVnpoYktZQUJnZmdQTzJsdTJTd1Y2Mjd6SU1EQUZzWGR0MGQzUEJwcTBqMFBhOEFoTFVPMXpOOEVkdzYyWktrcHhobnF5V2EtVzBLUEZscFRFMDZjb2pCVlRjMGxxRjI5eENVQkRFRG1FcWN6dm9KaXhsSlZhajNEUm9DZERUT0p6anBxa04?oc=5",
       "market_data": {
         "change_pct": 0.2898550724637681,
         "fetched_at": "2026-10-22T05:51:09.399923+00:00",
@@ -8654,9 +8654,9 @@
         "volume_ratio": 9.234645333333333
       },
       "official_confirmation": null,
-      "premium_source_count": 1,
+      "premium_source_count": 0,
       "profile_refresh_utc": "2026-10-22T03:51:16.159466+00:00",
-      "published": "Thu, 22 Oct 2026 04:03:44 GMT",
+      "published": "Mon, 19 Oct 2026 12:37:00 GMT",
       "rumor_details": {
         "ipo_price": null,
         "listing_estimate": null,
@@ -8668,18 +8668,8 @@
         "underwriter": null
       },
       "semantic_copy_count": 0,
-      "source": "kontan.co.id",
+      "source": "Emitennews.com",
       "source_breakdown": [
-        {
-          "derivative": false,
-          "group": "kontan.co.id",
-          "new_material": 0,
-          "quality": "HIGH",
-          "semantic_copy": false,
-          "source": "kontan.co.id",
-          "tier": 4,
-          "weight": 1.0
-        },
         {
           "derivative": false,
           "group": "emitennews.com",
@@ -8689,19 +8679,30 @@
           "source": "Emitennews.com",
           "tier": 3,
           "weight": 0.8
+        },
+        {
+          "derivative": false,
+          "group": "tradingview",
+          "new_material": 0,
+          "quality": "LOW",
+          "semantic_copy": false,
+          "source": "TradingView",
+          "tier": 1,
+          "weight": 0.35
         }
       ],
-      "source_count": 2,
-      "source_quality": "MEDIUM",
-      "source_quality_score": 6.0,
+      "source_count": 3,
+      "source_quality": "LOW",
+      "source_quality_score": 2.4,
       "sources": [
-        "kontan.co.id",
-        "Emitennews.com"
+        "TradingView",
+        "Emitennews.com",
+        "kontan.co.id"
       ],
       "status": "ACTIVE",
-      "strength": "MEDIUM",
+      "strength": "WEAK",
       "ticker": "BNGA",
-      "title": "Menghijau di Tengah Wacana Delisting, Intip Kembali Profil Emiten BNGA dan Kinerjanya - kontan.co.id"
+      "title": "Jawab Isu Delisting, Presdir Bank CIMB Niaga (BNGA) Ungkap Ini - Emitennews.com"
     },
     "DELISTING / RELISTING|TICKER|CIMB": {
       "category": "DELISTING / RELISTING",
@@ -8738,7 +8739,7 @@
       },
       "key": "DELISTING / RELISTING|TICKER|CIMB",
       "last_alert_utc": "2026-10-21T11:51:05.546349+00:00",
-      "last_seen_utc": "2026-10-22T04:03:11+00:00",
+      "last_seen_utc": "2026-10-22T04:40:07+00:00",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSDJFOGJabVZOdHNtWkctd3BGRnhmNElCQldQUG5pTmdtdzNOZ09mNERtSVN5TG94c253TUFzeDBFVklMenlvam5UQUlvN1Npak1jdEhOMjE3NUtQM3hoUGdEY2hQWFQweHI3dk8tbmJpMWg5UlVpTVVXRVc3Y2tpVVZ4RmhLdWxtTnhxa1laVnRBTW9rUmJNa3RNVWxpcDlUQWlQbG9kZkptZUt4NWFudlp3?oc=5",
       "market_data": null,
       "official_confirmation": null,
