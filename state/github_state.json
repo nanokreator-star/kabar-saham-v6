@@ -2,8 +2,8 @@
   "baseline_initialized": true,
   "early_signal_alerts_sent": 26,
   "early_signal_baseline_initialized": true,
-  "early_signal_duplicates_suppressed": 830,
-  "early_signal_last_scan_utc": "2026-10-22T05:51:11.895743+00:00",
+  "early_signal_duplicates_suppressed": 831,
+  "early_signal_last_scan_utc": "2026-10-22T06:00:55.647016+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -21,7 +21,7 @@
       "combined": true,
       "direction": "UP",
       "last_alert_utc": null,
-      "last_seen_utc": "2026-10-22T05:51:11.483743+00:00",
+      "last_seen_utc": "2026-10-22T06:00:54.821327+00:00",
       "level": "HIGH",
       "market_date": "2026-10-22",
       "signature": "BNGA|2026-10-22|HIGH|UP|RUMOR|DELISTING / RELISTING|TICKER|BNGA",
@@ -7577,7 +7577,7 @@
     }
   },
   "last_keepalive_utc": "2026-10-09T10:40:38.037983+00:00",
-  "last_state_change_utc": "2026-10-22T05:51:11.946294+00:00",
+  "last_state_change_utc": "2026-10-22T06:00:55.680512+00:00",
   "market_noise_suppressed": 9,
   "milestone_alerts": {},
   "rumor_alerts_sent": 126,
@@ -7585,11 +7585,11 @@
   "rumor_confirmed_count": 44,
   "rumor_confirmed_dedups": 0,
   "rumor_denied_count": 1,
-  "rumor_duplicates_suppressed": 806,
+  "rumor_duplicates_suppressed": 807,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 27,
   "rumor_integrity_repairs": 2705,
-  "rumor_last_scan_utc": "2026-10-22T05:51:11.061135+00:00",
+  "rumor_last_scan_utc": "2026-10-22T06:00:53.363187+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -8638,7 +8638,7 @@
       "key": "DELISTING / RELISTING|TICKER|BNGA",
       "last_alert_utc": "2026-10-22T05:51:11.059355+00:00",
       "last_seen_utc": "2026-10-22T04:03:44+00:00",
-      "link": "https://investasi.kontan.co.id/news/menghijau-di-tengah-wacana-delisting-intip-kembali-profil-emiten-bnga-dan-kinerjanya",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVzlvR3pWUWxiLWFOb1l5RjFBbWlvT0w5d0p6VnhxVkNSc0F6NEw5a2xBX2xXM1BWMERaempXaTloOFFmTVhJV3dMLXpWNm9yNXhKLXlDRjZTd3hlR3A0M19zWU5TMHRIb0J5ZXhsNl8yU2dJRGpGWjRwZHRqOHhya2wxOXdmbmFLdC1VZjRCZDB6OEctSEhLcy1zQkFlZkpLbkdqYXNyRWMzbHRrX1R2bzdXTDFjVF85ODhWdNIBtAFBVV95cUxNU2huVXlhSnpNMmtKRE5jaFMyZGVfLUZzUzV0NHNWTWQtUW1tamc5ZTdVR2ZxanFNSnBzd3hLeHFRcUN5aVpTZWdpQjJveVhxazJBVUtwMVU1YkY3TVVMX09VX05UcDhlSUZuTVJ3MkZtS2p2UTdYR01ncE9WZXdtalNSLTUtYkJEUUprcy01UFNGRG4wcmc1TzhmNGNBWW1PMEFFU0pZS3Bac1M1Q09tb3pxNjc?oc=5",
       "market_data": {
         "change_pct": 0.2898550724637681,
         "fetched_at": "2026-10-22T05:51:09.399923+00:00",
@@ -8672,7 +8672,7 @@
       "source_breakdown": [
         {
           "derivative": false,
-          "group": "investasi.kontan.co.id",
+          "group": "kontan.co.id",
           "new_material": 0,
           "quality": "HIGH",
           "semantic_copy": false,
@@ -8707,15 +8707,15 @@
       "category": "DELISTING / RELISTING",
       "company_name": "CIMB",
       "copy_duplicate_count": 0,
-      "credible_effective_independent_count": 2.0,
+      "credible_effective_independent_count": 3.0,
       "derivative_source_count": 0,
-      "detected_source_count": 2,
-      "effective_independent_count": 2.0,
+      "detected_source_count": 3,
+      "effective_independent_count": 3.0,
       "entity_aliases": [],
       "entity_resolution_source": null,
       "first_seen_utc": "2026-10-21T07:41:28+00:00",
-      "high_quality_source_count": 2,
-      "independent_story_count": 2,
+      "high_quality_source_count": 3,
+      "independent_story_count": 3,
       "issuer_profile": {
         "business_activity": null,
         "controller": null,
@@ -8742,7 +8742,7 @@
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSDJFOGJabVZOdHNtWkctd3BGRnhmNElCQldQUG5pTmdtdzNOZ09mNERtSVN5TG94c253TUFzeDBFVklMenlvam5UQUlvN1Npak1jdEhOMjE3NUtQM3hoUGdEY2hQWFQweHI3dk8tbmJpMWg5UlVpTVVXRVc3Y2tpVVZ4RmhLdWxtTnhxa1laVnRBTW9rUmJNa3RNVWxpcDlUQWlQbG9kZkptZUt4NWFudlp3?oc=5",
       "market_data": null,
       "official_confirmation": null,
-      "premium_source_count": 2,
+      "premium_source_count": 3,
       "profile_refresh_utc": "2026-10-21T21:31:11.173087+00:00",
       "published": "Thu, 22 Oct 2026 04:03:11 GMT",
       "rumor_details": {
@@ -8758,6 +8758,16 @@
       "semantic_copy_count": 0,
       "source": "Bisnis.com",
       "source_breakdown": [
+        {
+          "derivative": false,
+          "group": "kontan.co.id",
+          "new_material": 0,
+          "quality": "HIGH",
+          "semantic_copy": false,
+          "source": "kontan.co.id",
+          "tier": 4,
+          "weight": 1.0
+        },
         {
           "derivative": false,
           "group": "bisnis.com",
@@ -8779,16 +8789,17 @@
           "weight": 1.0
         }
       ],
-      "source_count": 3,
+      "source_count": 4,
       "source_quality": "HIGH",
-      "source_quality_score": 8.0,
+      "source_quality_score": 12.0,
       "sources": [
         "CNBC Indonesia",
         "Bisnis.com",
+        "kontan.co.id",
         "FORTUNE Indonesia"
       ],
       "status": "DENIED",
-      "strength": "MEDIUM",
+      "strength": "STRONG",
       "ticker": "CIMB",
       "title": "CIMB Group Bantah Rumor Delisting CIMB Niaga (BNGA) dari BEI - Bisnis.com"
     },
