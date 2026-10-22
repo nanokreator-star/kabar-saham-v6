@@ -2,8 +2,8 @@
   "baseline_initialized": true,
   "early_signal_alerts_sent": 27,
   "early_signal_baseline_initialized": true,
-  "early_signal_duplicates_suppressed": 861,
-  "early_signal_last_scan_utc": "2026-10-22T11:10:43.591885+00:00",
+  "early_signal_duplicates_suppressed": 862,
+  "early_signal_last_scan_utc": "2026-10-22T11:20:49.134257+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -21,7 +21,7 @@
       "combined": true,
       "direction": "DOWN",
       "last_alert_utc": "2026-10-22T06:40:55.952819+00:00",
-      "last_seen_utc": "2026-10-22T11:10:42.850212+00:00",
+      "last_seen_utc": "2026-10-22T11:20:48.593572+00:00",
       "level": "HIGH",
       "market_date": "2026-10-22",
       "signature": "BNGA|2026-10-22|HIGH|DOWN|RUMOR|DELISTING / RELISTING|TICKER|BNGA",
@@ -7577,7 +7577,7 @@
     }
   },
   "last_keepalive_utc": "2026-10-09T10:40:38.037983+00:00",
-  "last_state_change_utc": "2026-10-22T11:10:43.616170+00:00",
+  "last_state_change_utc": "2026-10-22T11:20:49.178339+00:00",
   "market_noise_suppressed": 9,
   "milestone_alerts": {},
   "rumor_alerts_sent": 127,
@@ -7585,11 +7585,11 @@
   "rumor_confirmed_count": 44,
   "rumor_confirmed_dedups": 0,
   "rumor_denied_count": 1,
-  "rumor_duplicates_suppressed": 820,
+  "rumor_duplicates_suppressed": 821,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 27,
   "rumor_integrity_repairs": 2705,
-  "rumor_last_scan_utc": "2026-10-22T11:10:41.793768+00:00",
+  "rumor_last_scan_utc": "2026-10-22T11:20:47.804496+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -8503,13 +8503,13 @@
         "website": "https://www.mbss.co.id"
       },
       "key": "BUYBACK|TICKER|MBSS",
-      "last_seen_utc": "2026-10-21T14:30:48+00:00",
+      "last_seen_utc": "2026-10-21T14:30:49+00:00",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeU5NeFY1TjhKWHJWdWtiYnVISFhESnU0aUJ6bkFsc3g4WFpGMGo3RXViTndqaTQ2YmdsME9ucXFjejdOZHd0bEFZU3JBQVctOHlqd1J0WU1qczhKRFBxTmd2ZjdxUmNELVRwbTBIb01EYUtlcVVieUJxb19xUGRHazhUMmFla05JLW0wbUJlLUthS29XRGFITjNpOEJKUXlIS01PclgwT3VpZC1LblFDbXN1cw?oc=5",
       "market_data": null,
       "official_confirmation": null,
       "premium_source_count": 1,
       "profile_refresh_utc": "2026-10-22T02:41:31.247324+00:00",
-      "published": "Wed, 21 Oct 2026 14:30:48 GMT",
+      "published": "Wed, 21 Oct 2026 14:30:49 GMT",
       "rumor_details": {
         "ipo_price": null,
         "listing_estimate": null,
