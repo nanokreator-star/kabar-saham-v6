@@ -2,8 +2,8 @@
   "baseline_initialized": true,
   "early_signal_alerts_sent": 27,
   "early_signal_baseline_initialized": true,
-  "early_signal_duplicates_suppressed": 840,
-  "early_signal_last_scan_utc": "2026-10-22T07:40:58.627857+00:00",
+  "early_signal_duplicates_suppressed": 841,
+  "early_signal_last_scan_utc": "2026-10-22T07:50:53.781286+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -21,11 +21,11 @@
       "combined": true,
       "direction": "DOWN",
       "last_alert_utc": "2026-10-22T06:40:55.952819+00:00",
-      "last_seen_utc": "2026-10-22T07:40:58.051361+00:00",
+      "last_seen_utc": "2026-10-22T07:50:53.178552+00:00",
       "level": "HIGH",
       "market_date": "2026-10-22",
       "signature": "BNGA|2026-10-22|HIGH|DOWN|RUMOR|DELISTING / RELISTING|TICKER|BNGA",
-      "volume_ratio": 12.49
+      "volume_ratio": 12.7
     },
     "BUMI": {
       "change_pct": 3.45,
@@ -7577,7 +7577,7 @@
     }
   },
   "last_keepalive_utc": "2026-10-09T10:40:38.037983+00:00",
-  "last_state_change_utc": "2026-10-22T07:40:58.677270+00:00",
+  "last_state_change_utc": "2026-10-22T07:50:53.829260+00:00",
   "market_noise_suppressed": 9,
   "milestone_alerts": {},
   "rumor_alerts_sent": 127,
@@ -7585,11 +7585,11 @@
   "rumor_confirmed_count": 44,
   "rumor_confirmed_dedups": 0,
   "rumor_denied_count": 1,
-  "rumor_duplicates_suppressed": 811,
+  "rumor_duplicates_suppressed": 812,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 27,
   "rumor_integrity_repairs": 2705,
-  "rumor_last_scan_utc": "2026-10-22T07:40:57.277490+00:00",
+  "rumor_last_scan_utc": "2026-10-22T07:50:52.303163+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -8739,7 +8739,7 @@
       },
       "key": "DELISTING / RELISTING|TICKER|CIMB",
       "last_alert_utc": "2026-10-21T11:51:05.546349+00:00",
-      "last_seen_utc": "2026-10-22T04:40:07+00:00",
+      "last_seen_utc": "2026-10-22T04:03:11+00:00",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSDJFOGJabVZOdHNtWkctd3BGRnhmNElCQldQUG5pTmdtdzNOZ09mNERtSVN5TG94c253TUFzeDBFVklMenlvam5UQUlvN1Npak1jdEhOMjE3NUtQM3hoUGdEY2hQWFQweHI3dk8tbmJpMWg5UlVpTVVXRVc3Y2tpVVZ4RmhLdWxtTnhxa1laVnRBTW9rUmJNa3RNVWxpcDlUQWlQbG9kZkptZUt4NWFudlp3?oc=5",
       "market_data": null,
       "official_confirmation": null,
