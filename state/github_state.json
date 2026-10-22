@@ -2,8 +2,8 @@
   "baseline_initialized": true,
   "early_signal_alerts_sent": 27,
   "early_signal_baseline_initialized": true,
-  "early_signal_duplicates_suppressed": 866,
-  "early_signal_last_scan_utc": "2026-10-22T12:00:55.534049+00:00",
+  "early_signal_duplicates_suppressed": 867,
+  "early_signal_last_scan_utc": "2026-10-22T12:10:57.788110+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -21,7 +21,7 @@
       "combined": true,
       "direction": "DOWN",
       "last_alert_utc": "2026-10-22T06:40:55.952819+00:00",
-      "last_seen_utc": "2026-10-22T12:00:54.307249+00:00",
+      "last_seen_utc": "2026-10-22T12:10:56.882569+00:00",
       "level": "HIGH",
       "market_date": "2026-10-22",
       "signature": "BNGA|2026-10-22|HIGH|DOWN|RUMOR|DELISTING / RELISTING|TICKER|BNGA",
@@ -7577,7 +7577,7 @@
     }
   },
   "last_keepalive_utc": "2026-10-09T10:40:38.037983+00:00",
-  "last_state_change_utc": "2026-10-22T12:00:55.559594+00:00",
+  "last_state_change_utc": "2026-10-22T12:10:58.015053+00:00",
   "market_noise_suppressed": 9,
   "milestone_alerts": {},
   "rumor_alerts_sent": 127,
@@ -7585,11 +7585,11 @@
   "rumor_confirmed_count": 44,
   "rumor_confirmed_dedups": 0,
   "rumor_denied_count": 1,
-  "rumor_duplicates_suppressed": 821,
+  "rumor_duplicates_suppressed": 822,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 27,
   "rumor_integrity_repairs": 2705,
-  "rumor_last_scan_utc": "2026-10-22T12:00:52.853364+00:00",
+  "rumor_last_scan_utc": "2026-10-22T12:10:55.607037+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -8739,13 +8739,13 @@
       },
       "key": "DELISTING / RELISTING|TICKER|CIMB",
       "last_alert_utc": "2026-10-21T11:51:05.546349+00:00",
-      "last_seen_utc": "2026-10-22T04:03:11+00:00",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSDJFOGJabVZOdHNtWkctd3BGRnhmNElCQldQUG5pTmdtdzNOZ09mNERtSVN5TG94c253TUFzeDBFVklMenlvam5UQUlvN1Npak1jdEhOMjE3NUtQM3hoUGdEY2hQWFQweHI3dk8tbmJpMWg5UlVpTVVXRVc3Y2tpVVZ4RmhLdWxtTnhxa1laVnRBTW9rUmJNa3RNVWxpcDlUQWlQbG9kZkptZUt4NWFudlp3?oc=5",
+      "last_seen_utc": "2026-10-21T11:43:56+00:00",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZ1c0WW1RMG1fODhMS3FqMFduMUM3NE1KNmJST1BmbGsxOVM0ektiRjFaVHI1S1RTSUJDZGZIMm1sUnkxUzV6N2Vtb1JEeFFoNW9nNk94V3gyZVVpVUF6MDdGXzZqTnNKWGwwTEh6SUlBTjVyM2E1c3NaVkxqOUZNMVkySHFxWHR5ZU83WjA4aFQtM2E1NEkyQ2tqalZMRmlvSDNnY2h0NlJrbjhNMERDN3RB0gG3AUFVX3lxTE9rRlE4ZUh6OExGQXNRMzZURFBDU18yMTJ3bTNha2ZvQzFhZU5xOHZYODB2OFJ2TEM0T1ZmaXd5aTdNWTdTV194NkJkMW9rUW9VR09IdV9CMFREMGdpUUc3eExqMkhaZmw5eGc5Q0ZyamVYS3Nzc0d5WHQ3QlRlaW01YUMwQ3VZS3FueVNTWm5Hd1VGUWo3U3hZVXYxRWlkQ09rd1h2MVFmRWt5SzljSWFpQ1ZBV3Flaw?oc=5",
       "market_data": null,
       "official_confirmation": null,
       "premium_source_count": 2,
       "profile_refresh_utc": "2026-10-22T09:41:07.394129+00:00",
-      "published": "Thu, 22 Oct 2026 04:03:11 GMT",
+      "published": "Wed, 21 Oct 2026 11:43:56 GMT",
       "rumor_details": {
         "ipo_price": null,
         "listing_estimate": null,
@@ -8757,7 +8757,7 @@
         "underwriter": null
       },
       "semantic_copy_count": 0,
-      "source": "Bisnis.com",
+      "source": "FORTUNE Indonesia",
       "source_breakdown": [
         {
           "derivative": false,
@@ -8784,15 +8784,15 @@
       "source_quality": "HIGH",
       "source_quality_score": 8.0,
       "sources": [
-        "CNBC Indonesia",
         "Bisnis.com",
+        "CNBC Indonesia",
         "FORTUNE Indonesia",
         "kontan.co.id"
       ],
       "status": "DENIED",
       "strength": "MEDIUM",
       "ticker": "CIMB",
-      "title": "CIMB Group Bantah Rumor Delisting CIMB Niaga (BNGA) dari BEI - Bisnis.com"
+      "title": "CIMB Niaga Bantah Isu Delisting, Kaji Opsi Pemenuhan Free Float - FORTUNE Indonesia"
     },
     "DIVESTASI|TITLE|KETERBUKAAN INFORMASI TRANSAKSI PELEPASAN EKUITAS ATAU DIVESTASI": {
       "category": "DIVESTASI",
