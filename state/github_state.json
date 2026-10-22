@@ -2,8 +2,8 @@
   "baseline_initialized": true,
   "early_signal_alerts_sent": 28,
   "early_signal_baseline_initialized": true,
-  "early_signal_duplicates_suppressed": 901,
-  "early_signal_last_scan_utc": "2026-10-22T18:00:56.659157+00:00",
+  "early_signal_duplicates_suppressed": 902,
+  "early_signal_last_scan_utc": "2026-10-22T18:10:43.894234+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -21,7 +21,7 @@
       "combined": true,
       "direction": "UP",
       "last_alert_utc": "2026-10-22T17:00:58.959154+00:00",
-      "last_seen_utc": "2026-10-22T18:00:55.903203+00:00",
+      "last_seen_utc": "2026-10-22T18:10:42.767043+00:00",
       "level": "HIGH",
       "market_date": "2026-10-21",
       "signature": "BNGA|2026-10-21|HIGH|UP|RUMOR|DELISTING / RELISTING|TICKER|BNGA",
@@ -7577,7 +7577,7 @@
     }
   },
   "last_keepalive_utc": "2026-10-09T10:40:38.037983+00:00",
-  "last_state_change_utc": "2026-10-22T18:00:56.710768+00:00",
+  "last_state_change_utc": "2026-10-22T18:10:45.202028+00:00",
   "market_noise_suppressed": 9,
   "milestone_alerts": {},
   "rumor_alerts_sent": 127,
@@ -7589,7 +7589,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 27,
   "rumor_integrity_repairs": 2705,
-  "rumor_last_scan_utc": "2026-10-22T18:00:55.021486+00:00",
+  "rumor_last_scan_utc": "2026-10-22T18:10:40.939448+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -9800,7 +9800,6 @@
     "66cc00243bb6a8bfbc4d97203c2a5f9b1c5cd40ab2956cb5c237193ac3c22fbe": "2026-09-16T05:11:03.419031+00:00",
     "66eaf0dec3376f910945d1ded3852dab8c7087773a822335935105688330bd8c": "2026-10-09T15:30:59.357852+00:00",
     "66ed0e932d59d13861d953962d6068888b45db61163663a8c6fb5bb53db04500": "2026-08-26T20:51:36.935635+00:00",
-    "6954cec496e573e783ac044e5406aa21e590046c6ce3fc9626acec0a40a9e9f9": "2026-08-23T18:01:17.078390+00:00",
     "6a085b6052904a6e16e3c346e8347e7edfe05c70332c9ec5ac340418ed7cfcf4": "2026-10-18T13:40:53.442362+00:00",
     "6a81ae4a51d2f38926dc15ff38e0637f2c8becd06b9a02fb8d5eb9cf8e00c3ef": "2026-10-01T10:31:06.919882+00:00",
     "6a9995b4e4ae16b4c8723d08e3a136cae11cacb552fbfe678fb92d333232a544": "2026-10-02T06:50:58.197330+00:00",
