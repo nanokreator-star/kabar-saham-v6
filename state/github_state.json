@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 26,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 829,
-  "early_signal_last_scan_utc": "2026-10-22T01:31:19.091868+00:00",
+  "early_signal_last_scan_utc": "2026-10-22T01:51:08.429808+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -6757,7 +6757,7 @@
       "owner_context_sources": 0,
       "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
       "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-      "owner_v6_checked_utc": "2026-10-21T13:40:45.351260+00:00",
+      "owner_v6_checked_utc": "2026-10-22T01:51:00.736020+00:00",
       "owner_v6_pages_fetched": 0,
       "profile_source": "Yahoo Finance",
       "profile_source_quality": "FALLBACK",
@@ -6766,7 +6766,7 @@
       "subindustry": null,
       "subsector": null,
       "ticker": "KAJI",
-      "verified_at": "2026-10-21T13:40:45.964927+00:00",
+      "verified_at": "2026-10-22T01:51:01.531839+00:00",
       "website": null
     },
     "KBMI": {
@@ -7566,7 +7566,7 @@
     }
   },
   "last_keepalive_utc": "2026-10-09T10:40:38.037983+00:00",
-  "last_state_change_utc": "2026-10-22T01:31:19.142256+00:00",
+  "last_state_change_utc": "2026-10-22T01:51:08.479570+00:00",
   "market_noise_suppressed": 9,
   "milestone_alerts": {},
   "rumor_alerts_sent": 125,
@@ -7578,7 +7578,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 27,
   "rumor_integrity_repairs": 2705,
-  "rumor_last_scan_utc": "2026-10-22T01:31:18.477046+00:00",
+  "rumor_last_scan_utc": "2026-10-22T01:51:07.499761+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -8401,7 +8401,7 @@
         "owner_context_sources": 0,
         "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
         "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-        "owner_v6_checked_utc": "2026-10-21T13:40:45.351260+00:00",
+        "owner_v6_checked_utc": "2026-10-22T01:51:00.736020+00:00",
         "owner_v6_pages_fetched": 0,
         "profile_source": "Yahoo Finance",
         "profile_source_quality": "FALLBACK",
@@ -8410,7 +8410,7 @@
         "subindustry": null,
         "subsector": null,
         "ticker": "KAJI",
-        "verified_at": "2026-10-21T13:40:45.964927+00:00",
+        "verified_at": "2026-10-22T01:51:01.531839+00:00",
         "website": null
       },
       "key": "BUYBACK|TICKER|KAJI",
@@ -8419,7 +8419,7 @@
       "market_data": null,
       "official_confirmation": null,
       "premium_source_count": 1,
-      "profile_refresh_utc": "2026-10-21T13:40:50.922895+00:00",
+      "profile_refresh_utc": "2026-10-22T01:51:07.495194+00:00",
       "published": "Tue, 20 Oct 2026 13:06:13 GMT",
       "rumor_details": {
         "ipo_price": null,
@@ -8747,8 +8747,8 @@
       "source_quality": "HIGH",
       "source_quality_score": 8.0,
       "sources": [
-        "CNBC Indonesia",
         "Bisnis.com",
+        "CNBC Indonesia",
         "FORTUNE Indonesia"
       ],
       "status": "DENIED",
