@@ -1,9 +1,9 @@
 {
   "baseline_initialized": true,
-  "early_signal_alerts_sent": 29,
+  "early_signal_alerts_sent": 30,
   "early_signal_baseline_initialized": true,
-  "early_signal_duplicates_suppressed": 928,
-  "early_signal_last_scan_utc": "2026-10-22T22:40:47.443787+00:00",
+  "early_signal_duplicates_suppressed": 929,
+  "early_signal_last_scan_utc": "2026-10-22T22:50:59.013381+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -21,7 +21,7 @@
       "combined": true,
       "direction": "DOWN",
       "last_alert_utc": "2026-10-22T18:50:46.674691+00:00",
-      "last_seen_utc": "2026-10-22T22:40:46.438998+00:00",
+      "last_seen_utc": "2026-10-22T22:50:57.559123+00:00",
       "level": "HIGH",
       "market_date": "2026-10-22",
       "signature": "BNGA|2026-10-22|HIGH|DOWN|RUMOR|DELISTING / RELISTING|TICKER|BNGA",
@@ -39,15 +39,15 @@
       "volume_ratio": 0.96
     },
     "CMNP": {
-      "change_pct": 4.25,
+      "change_pct": -1.5,
       "combined": true,
-      "direction": "UP",
-      "last_alert_utc": "2026-10-21T17:00:59.556795+00:00",
-      "last_seen_utc": "2026-10-21T17:00:58.988293+00:00",
+      "direction": "DOWN",
+      "last_alert_utc": "2026-10-22T22:50:59.013360+00:00",
+      "last_seen_utc": "2026-10-22T22:50:58.437891+00:00",
       "level": "MEDIUM",
-      "market_date": "2026-10-20",
-      "signature": "CMNP|2026-10-20|MEDIUM|UP|RUMOR|RIGHTS ISSUE|TICKER|CMNP",
-      "volume_ratio": 0.66
+      "market_date": "2026-10-22",
+      "signature": "CMNP|2026-10-22|MEDIUM|DOWN|RUMOR|RIGHTS ISSUE|TICKER|CMNP",
+      "volume_ratio": 1.84
     },
     "EPAC": {
       "change_pct": -14.0,
@@ -7577,7 +7577,7 @@
     }
   },
   "last_keepalive_utc": "2026-10-09T10:40:38.037983+00:00",
-  "last_state_change_utc": "2026-10-22T22:40:47.481060+00:00",
+  "last_state_change_utc": "2026-10-22T22:50:59.062132+00:00",
   "market_noise_suppressed": 9,
   "milestone_alerts": {},
   "rumor_alerts_sent": 127,
@@ -7585,11 +7585,11 @@
   "rumor_confirmed_count": 44,
   "rumor_confirmed_dedups": 0,
   "rumor_denied_count": 1,
-  "rumor_duplicates_suppressed": 826,
+  "rumor_duplicates_suppressed": 827,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 27,
   "rumor_integrity_repairs": 2705,
-  "rumor_last_scan_utc": "2026-10-22T22:40:46.123462+00:00",
+  "rumor_last_scan_utc": "2026-10-22T22:50:57.362594+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -9369,8 +9369,8 @@
       },
       "key": "RIGHTS ISSUE|TICKER|CMNP",
       "last_alert_utc": "2026-10-21T14:01:56.464504+00:00",
-      "last_seen_utc": "2026-10-19T12:37:00+00:00",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMFlmRGRjMWlsM1lPZEJoTzdISEJZMXNELVBsWU1SR2NuX2tZbllkMEZzWXdqSUJQQTVuS2MwYjVXNUFOS0J1RzI3UHZKMkdMNFRTMm5saTd5cGZaTnhlelVpd1c3dm9zcUpmREdfTmJnM09LZVZMSmsyWXNTalJkLWljVzJXQVFVakVCRFpMNFFScldoalhDa3dIQQ?oc=5",
+      "last_seen_utc": "2026-10-21T11:01:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdFp1WHM4bGNDbFo1a2VSam9VZnVSeU43MVpMOExsOHpsTndWTW5OS2k5TTFsenFmYnRodkFoWGF4ZmNJZTViam83YXR0RlZZUUZuYmVGUDluR3pOZ0JLcl9HN2w2Qk8wRS1wbnU1NDhjRGk0cXBBc3pvcVQ0bjY0Q2tGZy1SdHlQN3B0Qkk0X3puQm8tT3c?oc=5",
       "market_data": {
         "change_pct": -1.4814814814814816,
         "fetched_at": "2026-10-21T14:01:25.481577+00:00",
@@ -9388,7 +9388,7 @@
       "official_confirmation": null,
       "premium_source_count": 0,
       "profile_refresh_utc": "2026-10-22T14:21:09.867979+00:00",
-      "published": "Mon, 19 Oct 2026 12:37:00 GMT",
+      "published": "Wed, 21 Oct 2026 11:01:00 GMT",
       "rumor_details": {
         "ipo_price": null,
         "listing_estimate": null,
