@@ -2,8 +2,8 @@
   "baseline_initialized": true,
   "early_signal_alerts_sent": 27,
   "early_signal_baseline_initialized": true,
-  "early_signal_duplicates_suppressed": 851,
-  "early_signal_last_scan_utc": "2026-10-22T09:30:48.864600+00:00",
+  "early_signal_duplicates_suppressed": 852,
+  "early_signal_last_scan_utc": "2026-10-22T09:41:09.252061+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -21,7 +21,7 @@
       "combined": true,
       "direction": "DOWN",
       "last_alert_utc": "2026-10-22T06:40:55.952819+00:00",
-      "last_seen_utc": "2026-10-22T09:30:48.260196+00:00",
+      "last_seen_utc": "2026-10-22T09:41:08.618003+00:00",
       "level": "HIGH",
       "market_date": "2026-10-22",
       "signature": "BNGA|2026-10-22|HIGH|DOWN|RUMOR|DELISTING / RELISTING|TICKER|BNGA",
@@ -6250,7 +6250,7 @@
       "owner_context_sources": 0,
       "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
       "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-      "owner_v6_checked_utc": "2026-10-21T21:31:03.699526+00:00",
+      "owner_v6_checked_utc": "2026-10-22T09:41:01.494766+00:00",
       "owner_v6_pages_fetched": 0,
       "profile_source": "Yahoo Finance",
       "profile_source_quality": "FALLBACK",
@@ -6259,7 +6259,7 @@
       "subindustry": null,
       "subsector": null,
       "ticker": "CIMB",
-      "verified_at": "2026-10-21T21:31:04.405731+00:00",
+      "verified_at": "2026-10-22T09:41:02.309082+00:00",
       "website": null
     },
     "CMNP": {
@@ -7577,7 +7577,7 @@
     }
   },
   "last_keepalive_utc": "2026-10-09T10:40:38.037983+00:00",
-  "last_state_change_utc": "2026-10-22T09:30:48.914183+00:00",
+  "last_state_change_utc": "2026-10-22T09:41:09.298640+00:00",
   "market_noise_suppressed": 9,
   "milestone_alerts": {},
   "rumor_alerts_sent": 127,
@@ -7589,7 +7589,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 27,
   "rumor_integrity_repairs": 2705,
-  "rumor_last_scan_utc": "2026-10-22T09:30:47.608821+00:00",
+  "rumor_last_scan_utc": "2026-10-22T09:41:07.396796+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -8725,7 +8725,7 @@
         "owner_context_sources": 0,
         "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
         "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-        "owner_v6_checked_utc": "2026-10-21T21:31:03.699526+00:00",
+        "owner_v6_checked_utc": "2026-10-22T09:41:01.494766+00:00",
         "owner_v6_pages_fetched": 0,
         "profile_source": "Yahoo Finance",
         "profile_source_quality": "FALLBACK",
@@ -8734,7 +8734,7 @@
         "subindustry": null,
         "subsector": null,
         "ticker": "CIMB",
-        "verified_at": "2026-10-21T21:31:04.405731+00:00",
+        "verified_at": "2026-10-22T09:41:02.309082+00:00",
         "website": null
       },
       "key": "DELISTING / RELISTING|TICKER|CIMB",
@@ -8744,7 +8744,7 @@
       "market_data": null,
       "official_confirmation": null,
       "premium_source_count": 3,
-      "profile_refresh_utc": "2026-10-21T21:31:11.173087+00:00",
+      "profile_refresh_utc": "2026-10-22T09:41:07.394129+00:00",
       "published": "Thu, 22 Oct 2026 04:03:11 GMT",
       "rumor_details": {
         "ipo_price": null,
