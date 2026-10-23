@@ -2,8 +2,8 @@
   "baseline_initialized": true,
   "early_signal_alerts_sent": 31,
   "early_signal_baseline_initialized": true,
-  "early_signal_duplicates_suppressed": 989,
-  "early_signal_last_scan_utc": "2026-10-23T13:50:53.062188+00:00",
+  "early_signal_duplicates_suppressed": 990,
+  "early_signal_last_scan_utc": "2026-10-23T14:00:57.277343+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -21,7 +21,7 @@
       "combined": true,
       "direction": "DOWN",
       "last_alert_utc": "2026-10-23T07:11:06.859913+00:00",
-      "last_seen_utc": "2026-10-23T13:50:53.062173+00:00",
+      "last_seen_utc": "2026-10-23T14:00:57.277332+00:00",
       "level": "MEDIUM",
       "market_date": "2026-10-23",
       "signature": "BNGA|2026-10-23|MEDIUM|DOWN|RUMOR|DELISTING / RELISTING|TICKER|BNGA",
@@ -7577,7 +7577,7 @@
     }
   },
   "last_keepalive_utc": "2026-10-23T10:40:53.220355+00:00",
-  "last_state_change_utc": "2026-10-23T13:50:54.769150+00:00",
+  "last_state_change_utc": "2026-10-23T14:00:57.327298+00:00",
   "market_noise_suppressed": 9,
   "milestone_alerts": {},
   "rumor_alerts_sent": 127,
@@ -7589,7 +7589,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 27,
   "rumor_integrity_repairs": 2705,
-  "rumor_last_scan_utc": "2026-10-23T13:50:52.726199+00:00",
+  "rumor_last_scan_utc": "2026-10-23T14:00:56.824908+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
