@@ -2,8 +2,8 @@
   "baseline_initialized": true,
   "early_signal_alerts_sent": 31,
   "early_signal_baseline_initialized": true,
-  "early_signal_duplicates_suppressed": 999,
-  "early_signal_last_scan_utc": "2026-10-23T15:30:51.572434+00:00",
+  "early_signal_duplicates_suppressed": 1000,
+  "early_signal_last_scan_utc": "2026-10-23T15:40:57.768859+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -21,7 +21,7 @@
       "combined": true,
       "direction": "DOWN",
       "last_alert_utc": "2026-10-23T07:11:06.859913+00:00",
-      "last_seen_utc": "2026-10-23T15:30:51.572421+00:00",
+      "last_seen_utc": "2026-10-23T15:40:57.768850+00:00",
       "level": "MEDIUM",
       "market_date": "2026-10-23",
       "signature": "BNGA|2026-10-23|MEDIUM|DOWN|RUMOR|DELISTING / RELISTING|TICKER|BNGA",
@@ -3584,6 +3584,46 @@
         "stage_step": 6,
         "stage_total": 7,
         "stake": [],
+        "standby_buyer": null,
+        "target": null,
+        "target_confirmed": false,
+        "tender_price": null,
+        "underwriter": null,
+        "use_of_funds": []
+      },
+      "ticker": ""
+    },
+    "M&A / TAKEOVER|TITLE|MANAJEMEN BYAN TEGASKAN BELUM ADA PERUBAHAN PENGENDALI": {
+      "family": "M&A / TAKEOVER",
+      "first_seen_utc": "2026-10-23T15:41:11.285258+00:00",
+      "last_alert_utc": "2026-10-23T15:41:11.285253+00:00",
+      "last_seen_utc": "2026-10-23T15:41:11.285253+00:00",
+      "market_context": {
+        "change_pct": null,
+        "last_price": null,
+        "market_date": null
+      },
+      "material_snapshot": {
+        "acquirer": null,
+        "acquirer_confirmed": false,
+        "event_type": "TAKEOVER",
+        "execution_price": null,
+        "ipo_single_price": null,
+        "money": [],
+        "official_authority": null,
+        "official_kind": null,
+        "price_range": null,
+        "ratio": null,
+        "schedule": {},
+        "share_count": null,
+        "stage": "CHANGE OF CONTROL",
+        "stage_step": 5,
+        "stage_total": 7,
+        "stake": [
+          86.94,
+          39.12,
+          4.35
+        ],
         "standby_buyer": null,
         "target": null,
         "target_confirmed": false,
@@ -7577,7 +7617,7 @@
     }
   },
   "last_keepalive_utc": "2026-10-23T10:40:53.220355+00:00",
-  "last_state_change_utc": "2026-10-23T15:30:51.606265+00:00",
+  "last_state_change_utc": "2026-10-23T15:41:11.287675+00:00",
   "market_noise_suppressed": 9,
   "milestone_alerts": {},
   "rumor_alerts_sent": 127,
@@ -7589,7 +7629,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 27,
   "rumor_integrity_repairs": 2705,
-  "rumor_last_scan_utc": "2026-10-23T15:30:51.243658+00:00",
+  "rumor_last_scan_utc": "2026-10-23T15:40:57.580724+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -9843,6 +9883,7 @@
     "5887bb60143bcd38f85e5ea2bb23cde8d7a51f2dc50742f4987b69fe49ca81a2": "2026-10-03T06:50:58.872944+00:00",
     "58d9ec0eaa66aa14e95c4fbd31cd6730aba347ef97a89149d3d0d3a1a9463643": "2026-09-18T12:41:11.653094+00:00",
     "58e9ec27c1150d25f173acb7e63bd891bd4bf2672b63207badf4d4b5cbfac510": "2026-09-18T01:41:15.519996+00:00",
+    "58fb794e539fd3f8953412a079c9e28ac0a0cd55fca18ebabc2867276ee1a201": "2026-10-23T15:41:11.285240+00:00",
     "59bf7cec8b2fee94332a9a86d991d698044cdbe6a510f98e71efcb5ae209208f": "2026-10-01T05:11:33.747619+00:00",
     "5ab4ea9405930f2be6c7ada6afe3359ac36c55f783bce32db38174882bd3566e": "2026-09-16T16:21:12.830013+00:00",
     "5af08342713f1aed513ad005f7d97d35d99ddc78571f392307e01dc863bc0360": "2026-10-15T14:51:27.184885+00:00",
