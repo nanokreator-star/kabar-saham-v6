@@ -2,8 +2,8 @@
   "baseline_initialized": true,
   "early_signal_alerts_sent": 31,
   "early_signal_baseline_initialized": true,
-  "early_signal_duplicates_suppressed": 992,
-  "early_signal_last_scan_utc": "2026-10-23T14:21:10.964411+00:00",
+  "early_signal_duplicates_suppressed": 993,
+  "early_signal_last_scan_utc": "2026-10-23T14:30:55.149167+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -21,7 +21,7 @@
       "combined": true,
       "direction": "DOWN",
       "last_alert_utc": "2026-10-23T07:11:06.859913+00:00",
-      "last_seen_utc": "2026-10-23T14:21:10.964402+00:00",
+      "last_seen_utc": "2026-10-23T14:30:55.149155+00:00",
       "level": "MEDIUM",
       "market_date": "2026-10-23",
       "signature": "BNGA|2026-10-23|MEDIUM|DOWN|RUMOR|DELISTING / RELISTING|TICKER|BNGA",
@@ -7577,7 +7577,7 @@
     }
   },
   "last_keepalive_utc": "2026-10-23T10:40:53.220355+00:00",
-  "last_state_change_utc": "2026-10-23T14:21:11.014428+00:00",
+  "last_state_change_utc": "2026-10-23T14:30:55.204292+00:00",
   "market_noise_suppressed": 9,
   "milestone_alerts": {},
   "rumor_alerts_sent": 127,
@@ -7589,7 +7589,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 27,
   "rumor_integrity_repairs": 2705,
-  "rumor_last_scan_utc": "2026-10-23T14:21:10.653915+00:00",
+  "rumor_last_scan_utc": "2026-10-23T14:30:54.868150+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -8544,6 +8544,63 @@
       "strength": "CONFIRMED OFFICIAL",
       "ticker": "MBSS",
       "title": "KETERBUKAAN INFORMASI SEHUBUNGAN DENGAN RENCANA PEMBELIAN KEMBALI SAHAM PT MITRABAHTERA SEGARA SEJATI TBK - PT Bursa Efek Indonesia"
+    },
+    "BUYBACK|TITLE|KETERBUKAAN INFORMASI RENCANA PEMBELIAN KEMBALI PT PP": {
+      "category": "BUYBACK",
+      "company_name": "PT PP",
+      "copy_duplicate_count": 0,
+      "credible_effective_independent_count": 1.1,
+      "derivative_source_count": 0,
+      "detected_source_count": 1,
+      "effective_independent_count": 1.1,
+      "entity_aliases": [],
+      "entity_resolution_source": null,
+      "first_seen_utc": "2026-10-23T12:15:21+00:00",
+      "high_quality_source_count": 1,
+      "independent_story_count": 1,
+      "issuer_profile": null,
+      "key": "BUYBACK|TITLE|KETERBUKAAN INFORMASI RENCANA PEMBELIAN KEMBALI PT PP",
+      "last_seen_utc": "2026-10-23T12:15:21+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbXZYR0RSb2NiSksyeXN6TkJfazh3dkI2NVJURmFGa3N6a3FsRE5KT3BLRkNBWEJPUU91eExZRUkwZDBqbHluS3FJUnB3QlJka2kyYmlpNXVkbDJUYlVSVk13UWRpN0VTQXNHU0lvV2pna1FpY19Db3dsN3B5c083VEtkWlE4NnY5Zk9iTEgwWXF2X1hHcy14cFRfeUFNa0d5dlZsTV9TN1g2QjBZbFpKZ0lDZw?oc=5",
+      "market_data": null,
+      "official_confirmation": null,
+      "premium_source_count": 1,
+      "profile_refresh_utc": null,
+      "published": "Fri, 23 Oct 2026 12:15:21 GMT",
+      "rumor_details": {
+        "ipo_price": null,
+        "listing_estimate": null,
+        "money": [],
+        "percentages": [],
+        "price_range": null,
+        "rumored_party": null,
+        "share_count": null,
+        "underwriter": null
+      },
+      "semantic_copy_count": 0,
+      "source": "PT Bursa Efek Indonesia",
+      "source_breakdown": [
+        {
+          "derivative": false,
+          "group": "pt bursa efek indonesia",
+          "new_material": 0,
+          "quality": "OFFICIAL",
+          "semantic_copy": false,
+          "source": "PT Bursa Efek Indonesia",
+          "tier": 5,
+          "weight": 1.1
+        }
+      ],
+      "source_count": 1,
+      "source_quality": "MEDIUM",
+      "source_quality_score": 5.5,
+      "sources": [
+        "PT Bursa Efek Indonesia"
+      ],
+      "status": "CONFIRMED OFFICIAL",
+      "strength": "CONFIRMED OFFICIAL",
+      "ticker": null,
+      "title": "1 KETERBUKAAN INFORMASI RENCANA PEMBELIAN KEMBALI SAHAM PT PP LONDON SUMATRA INDONESIA TBK (\u201cPERSEROAN\u201d) PENDAHULUAN Keter - PT Bursa Efek Indonesia"
     },
     "BUYBACK|TITLE|KETERBUKAAN INFORMASI TERKAIT DENGAN RENCANA PT BARITO": {
       "category": "BUYBACK",
