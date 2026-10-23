@@ -2,8 +2,8 @@
   "baseline_initialized": true,
   "early_signal_alerts_sent": 31,
   "early_signal_baseline_initialized": true,
-  "early_signal_duplicates_suppressed": 991,
-  "early_signal_last_scan_utc": "2026-10-23T14:10:38.253353+00:00",
+  "early_signal_duplicates_suppressed": 992,
+  "early_signal_last_scan_utc": "2026-10-23T14:21:10.964411+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -21,7 +21,7 @@
       "combined": true,
       "direction": "DOWN",
       "last_alert_utc": "2026-10-23T07:11:06.859913+00:00",
-      "last_seen_utc": "2026-10-23T14:10:38.253345+00:00",
+      "last_seen_utc": "2026-10-23T14:21:10.964402+00:00",
       "level": "MEDIUM",
       "market_date": "2026-10-23",
       "signature": "BNGA|2026-10-23|MEDIUM|DOWN|RUMOR|DELISTING / RELISTING|TICKER|BNGA",
@@ -6768,7 +6768,7 @@
       "owner_context_sources": 0,
       "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
       "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-      "owner_v6_checked_utc": "2026-10-23T02:10:57.494078+00:00",
+      "owner_v6_checked_utc": "2026-10-23T14:21:01.753806+00:00",
       "owner_v6_pages_fetched": 0,
       "profile_source": "Yahoo Finance",
       "profile_source_quality": "FALLBACK",
@@ -6777,7 +6777,7 @@
       "subindustry": null,
       "subsector": null,
       "ticker": "KAJI",
-      "verified_at": "2026-10-23T02:10:58.930793+00:00",
+      "verified_at": "2026-10-23T14:21:03.159238+00:00",
       "website": null
     },
     "KBMI": {
@@ -7577,7 +7577,7 @@
     }
   },
   "last_keepalive_utc": "2026-10-23T10:40:53.220355+00:00",
-  "last_state_change_utc": "2026-10-23T14:10:38.292250+00:00",
+  "last_state_change_utc": "2026-10-23T14:21:11.014428+00:00",
   "market_noise_suppressed": 9,
   "milestone_alerts": {},
   "rumor_alerts_sent": 127,
@@ -7589,7 +7589,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 27,
   "rumor_integrity_repairs": 2705,
-  "rumor_last_scan_utc": "2026-10-23T14:10:37.867262+00:00",
+  "rumor_last_scan_utc": "2026-10-23T14:21:10.653915+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -8412,7 +8412,7 @@
         "owner_context_sources": 0,
         "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
         "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-        "owner_v6_checked_utc": "2026-10-23T02:10:57.494078+00:00",
+        "owner_v6_checked_utc": "2026-10-23T14:21:01.753806+00:00",
         "owner_v6_pages_fetched": 0,
         "profile_source": "Yahoo Finance",
         "profile_source_quality": "FALLBACK",
@@ -8421,7 +8421,7 @@
         "subindustry": null,
         "subsector": null,
         "ticker": "KAJI",
-        "verified_at": "2026-10-23T02:10:58.930793+00:00",
+        "verified_at": "2026-10-23T14:21:03.159238+00:00",
         "website": null
       },
       "key": "BUYBACK|TICKER|KAJI",
@@ -8430,7 +8430,7 @@
       "market_data": null,
       "official_confirmation": null,
       "premium_source_count": 1,
-      "profile_refresh_utc": "2026-10-23T02:11:04.410136+00:00",
+      "profile_refresh_utc": "2026-10-23T14:21:10.650647+00:00",
       "published": "Tue, 20 Oct 2026 13:06:13 GMT",
       "rumor_details": {
         "ipo_price": null,
