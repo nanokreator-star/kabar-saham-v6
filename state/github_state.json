@@ -2,8 +2,8 @@
   "baseline_initialized": true,
   "early_signal_alerts_sent": 31,
   "early_signal_baseline_initialized": true,
-  "early_signal_duplicates_suppressed": 980,
-  "early_signal_last_scan_utc": "2026-10-23T12:20:56.804521+00:00",
+  "early_signal_duplicates_suppressed": 981,
+  "early_signal_last_scan_utc": "2026-10-23T12:31:35.598124+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -21,7 +21,7 @@
       "combined": true,
       "direction": "DOWN",
       "last_alert_utc": "2026-10-23T07:11:06.859913+00:00",
-      "last_seen_utc": "2026-10-23T12:20:56.804512+00:00",
+      "last_seen_utc": "2026-10-23T12:31:35.598112+00:00",
       "level": "MEDIUM",
       "market_date": "2026-10-23",
       "signature": "BNGA|2026-10-23|MEDIUM|DOWN|RUMOR|DELISTING / RELISTING|TICKER|BNGA",
@@ -6848,7 +6848,7 @@
       "owner_context_sources": 0,
       "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
       "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-      "owner_v6_checked_utc": "2026-10-22T14:51:07.427326+00:00",
+      "owner_v6_checked_utc": "2026-10-23T12:31:18.953981+00:00",
       "owner_v6_pages_fetched": 0,
       "profile_source": "Yahoo Finance",
       "profile_source_quality": "FALLBACK",
@@ -6857,7 +6857,7 @@
       "subindustry": null,
       "subsector": null,
       "ticker": "MBSS",
-      "verified_at": "2026-10-22T14:51:08.354702+00:00",
+      "verified_at": "2026-10-23T12:31:19.540892+00:00",
       "website": "https://www.mbss.co.id"
     },
     "MPIX": {
@@ -7577,7 +7577,7 @@
     }
   },
   "last_keepalive_utc": "2026-10-23T10:40:53.220355+00:00",
-  "last_state_change_utc": "2026-10-23T12:20:56.851818+00:00",
+  "last_state_change_utc": "2026-10-23T12:31:35.651183+00:00",
   "market_noise_suppressed": 9,
   "milestone_alerts": {},
   "rumor_alerts_sent": 127,
@@ -7589,7 +7589,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 27,
   "rumor_integrity_repairs": 2705,
-  "rumor_last_scan_utc": "2026-10-23T12:20:56.186687+00:00",
+  "rumor_last_scan_utc": "2026-10-23T12:31:35.471574+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -8490,7 +8490,7 @@
         "owner_context_sources": 0,
         "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
         "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-        "owner_v6_checked_utc": "2026-10-22T14:51:07.427326+00:00",
+        "owner_v6_checked_utc": "2026-10-23T12:31:18.953981+00:00",
         "owner_v6_pages_fetched": 0,
         "profile_source": "Yahoo Finance",
         "profile_source_quality": "FALLBACK",
@@ -8499,7 +8499,7 @@
         "subindustry": null,
         "subsector": null,
         "ticker": "MBSS",
-        "verified_at": "2026-10-22T14:51:08.354702+00:00",
+        "verified_at": "2026-10-23T12:31:19.540892+00:00",
         "website": "https://www.mbss.co.id"
       },
       "key": "BUYBACK|TICKER|MBSS",
@@ -8508,7 +8508,7 @@
       "market_data": null,
       "official_confirmation": null,
       "premium_source_count": 1,
-      "profile_refresh_utc": "2026-10-22T14:51:37.549397+00:00",
+      "profile_refresh_utc": "2026-10-23T12:31:35.467615+00:00",
       "published": "Wed, 21 Oct 2026 14:30:49 GMT",
       "rumor_details": {
         "ipo_price": null,
