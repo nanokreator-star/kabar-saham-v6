@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 30,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 949,
-  "early_signal_last_scan_utc": "2026-10-23T02:11:05.489250+00:00",
+  "early_signal_last_scan_utc": "2026-10-23T02:31:34.767913+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -6270,7 +6270,7 @@
       "owner_context_sources": 0,
       "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
       "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-      "owner_v6_checked_utc": "2026-10-22T14:20:53.548280+00:00",
+      "owner_v6_checked_utc": "2026-10-23T02:31:13.470064+00:00",
       "owner_v6_pages_fetched": 0,
       "profile_source": "Yahoo Finance",
       "profile_source_quality": "FALLBACK",
@@ -6279,7 +6279,7 @@
       "subindustry": null,
       "subsector": null,
       "ticker": "CMNP",
-      "verified_at": "2026-10-22T14:20:54.351556+00:00",
+      "verified_at": "2026-10-23T02:31:14.168364+00:00",
       "website": "https://id.citramarga.com"
     },
     "CNBC": {
@@ -7577,7 +7577,7 @@
     }
   },
   "last_keepalive_utc": "2026-10-09T10:40:38.037983+00:00",
-  "last_state_change_utc": "2026-10-23T02:11:05.547451+00:00",
+  "last_state_change_utc": "2026-10-23T02:31:34.819414+00:00",
   "market_noise_suppressed": 9,
   "milestone_alerts": {},
   "rumor_alerts_sent": 127,
@@ -7589,7 +7589,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 27,
   "rumor_integrity_repairs": 2705,
-  "rumor_last_scan_utc": "2026-10-23T02:11:04.413034+00:00",
+  "rumor_last_scan_utc": "2026-10-23T02:31:34.152265+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -8794,8 +8794,8 @@
       "source_quality": "HIGH",
       "source_quality_score": 8.3,
       "sources": [
-        "CNBC Indonesia",
         "Bisnis.com",
+        "CNBC Indonesia",
         "Monitor Indonesia",
         "FORTUNE Indonesia",
         "CNN Indonesia",
@@ -9355,7 +9355,7 @@
         "owner_context_sources": 0,
         "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
         "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-        "owner_v6_checked_utc": "2026-10-22T14:20:53.548280+00:00",
+        "owner_v6_checked_utc": "2026-10-23T02:31:13.470064+00:00",
         "owner_v6_pages_fetched": 0,
         "profile_source": "Yahoo Finance",
         "profile_source_quality": "FALLBACK",
@@ -9364,7 +9364,7 @@
         "subindustry": null,
         "subsector": null,
         "ticker": "CMNP",
-        "verified_at": "2026-10-22T14:20:54.351556+00:00",
+        "verified_at": "2026-10-23T02:31:14.168364+00:00",
         "website": "https://id.citramarga.com"
       },
       "key": "RIGHTS ISSUE|TICKER|CMNP",
@@ -9387,7 +9387,7 @@
       },
       "official_confirmation": null,
       "premium_source_count": 0,
-      "profile_refresh_utc": "2026-10-22T14:21:09.867979+00:00",
+      "profile_refresh_utc": "2026-10-23T02:31:34.149622+00:00",
       "published": "Wed, 21 Oct 2026 11:01:00 GMT",
       "rumor_details": {
         "ipo_price": null,
