@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 31,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 1002,
-  "early_signal_last_scan_utc": "2026-10-23T17:50:50.897260+00:00",
+  "early_signal_last_scan_utc": "2026-10-23T18:50:58.881096+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -4401,42 +4401,6 @@
       },
       "ticker": "NAYZ"
     },
-    "M&A / TAKEOVER|TITLE|TRACK RECORD MENYELISIK JEJAK PENGENDALI BARU BIKE": {
-      "family": "M&A / TAKEOVER",
-      "first_seen_utc": "2026-08-23T18:01:17.078414+00:00",
-      "last_alert_utc": "2026-08-23T18:01:17.078408+00:00",
-      "last_seen_utc": "2026-08-24T18:41:06.877036+00:00",
-      "market_context": {
-        "change_pct": null,
-        "last_price": null,
-        "market_date": null
-      },
-      "material_snapshot": {
-        "acquirer": null,
-        "acquirer_confirmed": false,
-        "event_type": "TAKEOVER",
-        "execution_price": null,
-        "ipo_single_price": null,
-        "money": [],
-        "official_authority": null,
-        "official_kind": null,
-        "price_range": null,
-        "ratio": null,
-        "schedule": {},
-        "share_count": null,
-        "stage": "CHANGE OF CONTROL",
-        "stage_step": 5,
-        "stage_total": 7,
-        "stake": [],
-        "standby_buyer": null,
-        "target": null,
-        "target_confirmed": false,
-        "tender_price": null,
-        "underwriter": null,
-        "use_of_funds": []
-      },
-      "ticker": ""
-    },
     "M&A / TAKEOVER|TITLE|TUNTAS AEP NUSANTARA KUASAI 99 48 PERSEN": {
       "family": "M&A / TAKEOVER",
       "first_seen_utc": "2026-08-29T09:01:04.104739+00:00",
@@ -7581,7 +7545,7 @@
     }
   },
   "last_keepalive_utc": "2026-10-23T10:40:53.220355+00:00",
-  "last_state_change_utc": "2026-10-23T17:50:50.926160+00:00",
+  "last_state_change_utc": "2026-10-23T18:50:58.916797+00:00",
   "market_noise_suppressed": 9,
   "milestone_alerts": {},
   "rumor_alerts_sent": 127,
@@ -7593,7 +7557,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 27,
   "rumor_integrity_repairs": 2705,
-  "rumor_last_scan_utc": "2026-10-23T17:50:50.886707+00:00",
+  "rumor_last_scan_utc": "2026-10-23T18:50:58.868900+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -9760,7 +9724,6 @@
     "0d5860f7f65369c0ad8bd6309e2a6f64201ec4b2b420337eea62b645038bacc7": "2026-10-02T22:41:01.482416+00:00",
     "0e2dcc230a547b39f1fbec28ce1fb6e159d75b3afc73cc16bf086c93d9ac44ed": "2026-10-20T06:21:28.958011+00:00",
     "0f07586bb610315eb485f41810b46cbe40a9e15da67bb5c6083c7428c0777d26": "2026-09-18T13:40:46.595316+00:00",
-    "0fc3314cafd6225f34e24e2cb82de536fcdb7a7444c7cd8a165b687626fa11d3": "2026-08-24T18:41:06.877019+00:00",
     "10168ffe8c6c06e86f806f9be29da51a1f7ad69b13ed3be9d7a7ef5415cdac41": "2026-09-25T16:20:50.588575+00:00",
     "12b5dcccbfec6410a0129fd0b334a4a6359d11b7bdb06b8f71b3d8b2fe981ece": "2026-09-17T19:41:14.787581+00:00",
     "12e5b101df035bb84cb0326a90325ae011a89e7d5dca0ce80486d0e3e5d6c2d7": "2026-08-26T14:51:16.094141+00:00",
@@ -9831,7 +9794,6 @@
     "4ab9a69bccaebda4cb98738a2d02ab258b60dcec67953bca9de31383ab85e326": "2026-09-29T21:31:05.703671+00:00",
     "4e366d9dd5be88b3ad8af4ffbe72644974814223920231aa43dd4153bc11aaf9": "2026-09-26T13:20:51.223636+00:00",
     "50399a0342a2d006cd2336812af52e6a80127e8e17c6f4226373887588ef7452": "2026-10-19T13:31:10.412032+00:00",
-    "506893ebda30af93e087aec77e99484f293d111128bdf15aaf17dbe027e48693": "2026-08-24T18:40:58.818833+00:00",
     "5113a319f2a00906c0e34afc4632a485058a1e0a13ddb85419f68ac6fd7c93d8": "2026-09-16T11:51:06.045192+00:00",
     "51d35c607eaa44b9a3cffdac7dbb07b0c41ad213da31323fece5f701ae85aa54": "2026-09-17T19:41:14.787581+00:00",
     "51dc6ae76cc3955348be3a01c45aab793bed20599a1d706491733efe549d73a5": "2026-09-18T13:51:19.869418+00:00",
