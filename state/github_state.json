@@ -2,8 +2,8 @@
   "baseline_initialized": true,
   "early_signal_alerts_sent": 31,
   "early_signal_baseline_initialized": true,
-  "early_signal_duplicates_suppressed": 962,
-  "early_signal_last_scan_utc": "2026-10-23T09:20:41.496020+00:00",
+  "early_signal_duplicates_suppressed": 963,
+  "early_signal_last_scan_utc": "2026-10-23T09:31:03.254563+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -21,11 +21,11 @@
       "combined": true,
       "direction": "DOWN",
       "last_alert_utc": "2026-10-23T07:11:06.859913+00:00",
-      "last_seen_utc": "2026-10-23T09:20:40.238711+00:00",
+      "last_seen_utc": "2026-10-23T09:31:02.337893+00:00",
       "level": "MEDIUM",
       "market_date": "2026-10-23",
       "signature": "BNGA|2026-10-23|MEDIUM|DOWN|RUMOR|DELISTING / RELISTING|TICKER|BNGA",
-      "volume_ratio": 2.91
+      "volume_ratio": 2.93
     },
     "BUMI": {
       "change_pct": 3.45,
@@ -7577,7 +7577,7 @@
     }
   },
   "last_keepalive_utc": "2026-10-09T10:40:38.037983+00:00",
-  "last_state_change_utc": "2026-10-23T09:20:41.523591+00:00",
+  "last_state_change_utc": "2026-10-23T09:31:03.291975+00:00",
   "market_noise_suppressed": 9,
   "milestone_alerts": {},
   "rumor_alerts_sent": 127,
@@ -7589,7 +7589,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 27,
   "rumor_integrity_repairs": 2705,
-  "rumor_last_scan_utc": "2026-10-23T09:20:39.463563+00:00",
+  "rumor_last_scan_utc": "2026-10-23T09:31:01.275436+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -9726,7 +9726,6 @@
     "22a3b913d554fe5e0771ac565237bd370166df99b1a06c9891b45930aa1274b2": "2026-10-06T06:41:00.358095+00:00",
     "23009cecac49a7bdb0c49820a59b69c655a8feca6af91712bf1db5e9b9622bfd": "2026-09-30T11:21:40.393091+00:00",
     "23631988368f35d98ff769a9badb44701656daefbb89abe01028a0ed3998262f": "2026-09-23T04:30:51.459933+00:00",
-    "23fa35aa38f62afefc77fe3fa2c34f86bb8a4acd22de199c0ad1aeb46fbaa0e1": "2026-08-24T09:21:00.218640+00:00",
     "2425eaf6c4692970aeb9afa3e92df36eb3c0ea9648a7ca63fe7406865db786ea": "2026-10-03T14:50:45.376143+00:00",
     "269f90e444cb4638aac529b92bab54baffbda2b1b30c406665b1ca8cd3aec12e": "2026-08-30T08:40:49.258736+00:00",
     "26e07c995021dd21c7602e153d4caaba3092cd2362059aab77d35cfc545f1a5b": "2026-08-26T08:01:09.569362+00:00",
