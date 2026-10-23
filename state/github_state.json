@@ -2,8 +2,8 @@
   "baseline_initialized": true,
   "early_signal_alerts_sent": 31,
   "early_signal_baseline_initialized": true,
-  "early_signal_duplicates_suppressed": 975,
-  "early_signal_last_scan_utc": "2026-10-23T11:30:43.713045+00:00",
+  "early_signal_duplicates_suppressed": 976,
+  "early_signal_last_scan_utc": "2026-10-23T11:40:42.908120+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -21,7 +21,7 @@
       "combined": true,
       "direction": "DOWN",
       "last_alert_utc": "2026-10-23T07:11:06.859913+00:00",
-      "last_seen_utc": "2026-10-23T11:30:42.610934+00:00",
+      "last_seen_utc": "2026-10-23T11:40:42.908111+00:00",
       "level": "MEDIUM",
       "market_date": "2026-10-23",
       "signature": "BNGA|2026-10-23|MEDIUM|DOWN|RUMOR|DELISTING / RELISTING|TICKER|BNGA",
@@ -7577,7 +7577,7 @@
     }
   },
   "last_keepalive_utc": "2026-10-23T10:40:53.220355+00:00",
-  "last_state_change_utc": "2026-10-23T11:30:43.744623+00:00",
+  "last_state_change_utc": "2026-10-23T11:40:42.960069+00:00",
   "market_noise_suppressed": 9,
   "milestone_alerts": {},
   "rumor_alerts_sent": 127,
@@ -7589,7 +7589,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 27,
   "rumor_integrity_repairs": 2705,
-  "rumor_last_scan_utc": "2026-10-23T11:30:41.918702+00:00",
+  "rumor_last_scan_utc": "2026-10-23T11:40:42.455944+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -8794,8 +8794,8 @@
       "source_quality": "HIGH",
       "source_quality_score": 8.3,
       "sources": [
-        "Bisnis.com",
         "CNBC Indonesia",
+        "Bisnis.com",
         "Monitor Indonesia",
         "FORTUNE Indonesia",
         "CNN Indonesia",
