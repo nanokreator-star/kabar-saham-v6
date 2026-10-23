@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 31,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 1002,
-  "early_signal_last_scan_utc": "2026-10-23T16:21:04.598565+00:00",
+  "early_signal_last_scan_utc": "2026-10-23T17:50:50.897260+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -960,42 +960,6 @@
         "share_count": null,
         "stage": "RENCANA / PROSPEKTUS",
         "stage_step": 2,
-        "stage_total": 5,
-        "stake": [],
-        "standby_buyer": null,
-        "target": null,
-        "target_confirmed": false,
-        "tender_price": null,
-        "underwriter": null,
-        "use_of_funds": []
-      },
-      "ticker": ""
-    },
-    "IPO|TITLE|MASUK MASA BOOKBUILDING SWAP PATOK HARGA RP130": {
-      "family": "IPO",
-      "first_seen_utc": "2026-08-24T06:21:11.406450+00:00",
-      "last_alert_utc": "2026-08-24T06:21:11.406444+00:00",
-      "last_seen_utc": "2026-08-24T17:41:03.036725+00:00",
-      "market_context": {
-        "change_pct": null,
-        "last_price": null,
-        "market_date": null
-      },
-      "material_snapshot": {
-        "acquirer": null,
-        "acquirer_confirmed": false,
-        "event_type": "IPO",
-        "execution_price": null,
-        "ipo_single_price": null,
-        "money": [],
-        "official_authority": null,
-        "official_kind": null,
-        "price_range": "Rp130\u2013Rp140",
-        "ratio": null,
-        "schedule": {},
-        "share_count": null,
-        "stage": "BOOKBUILDING",
-        "stage_step": 3,
         "stage_total": 5,
         "stake": [],
         "standby_buyer": null,
@@ -7617,7 +7581,7 @@
     }
   },
   "last_keepalive_utc": "2026-10-23T10:40:53.220355+00:00",
-  "last_state_change_utc": "2026-10-23T16:21:04.653142+00:00",
+  "last_state_change_utc": "2026-10-23T17:50:50.926160+00:00",
   "market_noise_suppressed": 9,
   "milestone_alerts": {},
   "rumor_alerts_sent": 127,
@@ -7629,7 +7593,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 27,
   "rumor_integrity_repairs": 2705,
-  "rumor_last_scan_utc": "2026-10-23T16:21:04.577359+00:00",
+  "rumor_last_scan_utc": "2026-10-23T17:50:50.886707+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -10007,7 +9971,6 @@
     "c28bc902c738a869195fe1d31710091ea6dae89a717dcac2f2dadeb1329df870": "2026-09-25T16:20:50.588575+00:00",
     "c616291a627db7d68ca648b426423abd56611db4a717f82e7f3b6107e4bdedc9": "2026-09-19T15:11:09.477341+00:00",
     "c63377493101a073fc2455a1859c87967c9c41e36f8ee40e31341eeb3ccaa791": "2026-10-04T11:31:08.065517+00:00",
-    "c66ae0af4755f92d87e7e0a2bd7f688c59ce22ebd8c6221103b156150b34fc1f": "2026-08-24T17:41:03.036709+00:00",
     "c76d361989a26af601c420bc1b9d523e33e80e86539bcdc2da6182debe75a10f": "2026-09-22T07:51:40.556429+00:00",
     "c7a6013a2c6ba6faf8230cc799e19e7982746659652ed0c38308607bfcd0c98d": "2026-09-27T02:21:22.105985+00:00",
     "c90f201961a9f9efc1802061b66ebe2bf583bdc273a1476f4405b7deeed27264": "2026-09-30T16:31:13.529133+00:00",
