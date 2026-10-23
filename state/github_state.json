@@ -2,8 +2,8 @@
   "baseline_initialized": true,
   "early_signal_alerts_sent": 31,
   "early_signal_baseline_initialized": true,
-  "early_signal_duplicates_suppressed": 988,
-  "early_signal_last_scan_utc": "2026-10-23T13:40:41.723769+00:00",
+  "early_signal_duplicates_suppressed": 989,
+  "early_signal_last_scan_utc": "2026-10-23T13:50:53.062188+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -21,7 +21,7 @@
       "combined": true,
       "direction": "DOWN",
       "last_alert_utc": "2026-10-23T07:11:06.859913+00:00",
-      "last_seen_utc": "2026-10-23T13:40:41.723757+00:00",
+      "last_seen_utc": "2026-10-23T13:50:53.062173+00:00",
       "level": "MEDIUM",
       "market_date": "2026-10-23",
       "signature": "BNGA|2026-10-23|MEDIUM|DOWN|RUMOR|DELISTING / RELISTING|TICKER|BNGA",
@@ -61,7 +61,7 @@
       "volume_ratio": 0.22
     }
   },
-  "event_duplicates_suppressed": 80,
+  "event_duplicates_suppressed": 81,
   "event_memory": {
     "IPO|TICKER|FOTO": {
       "family": "IPO",
@@ -4935,7 +4935,7 @@
       "family": "RIGHTS ISSUE",
       "first_seen_utc": "2026-10-22T12:30:51.521618+00:00",
       "last_alert_utc": "2026-10-22T12:30:51.521613+00:00",
-      "last_seen_utc": "2026-10-22T12:30:51.521613+00:00",
+      "last_seen_utc": "2026-10-23T13:50:54.766612+00:00",
       "market_context": {
         "change_pct": null,
         "last_price": null,
@@ -7577,7 +7577,7 @@
     }
   },
   "last_keepalive_utc": "2026-10-23T10:40:53.220355+00:00",
-  "last_state_change_utc": "2026-10-23T13:40:41.760117+00:00",
+  "last_state_change_utc": "2026-10-23T13:50:54.769150+00:00",
   "market_noise_suppressed": 9,
   "milestone_alerts": {},
   "rumor_alerts_sent": 127,
@@ -7589,7 +7589,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 27,
   "rumor_integrity_repairs": 2705,
-  "rumor_last_scan_utc": "2026-10-23T13:40:41.072063+00:00",
+  "rumor_last_scan_utc": "2026-10-23T13:50:52.726199+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -9741,6 +9741,7 @@
     "326a70fb3abcfad7b31c10f6b77c01969306fcb01b89af0b2f6f6f2e1c0b419e": "2026-10-02T09:21:04.459531+00:00",
     "32a03db354f787a7abe2405f9ad29567f8ccc17313ae160654afff4a4f3eda0e": "2026-09-02T19:21:15.784045+00:00",
     "32bcea9c3f7f5848c5a1c3a99b398bfc823558d6ac18e2dce3ffedb95dd6c5df": "2026-09-30T06:01:06.349388+00:00",
+    "3363a7736af8290cd381854853c1fca8515b841e3c7b9b54c47d001c6656938b": "2026-10-23T13:50:54.766597+00:00",
     "33cd8caf070b1689d28a239c9e5449cad19f070f19bc288fa4ef04429de2ae78": "2026-08-28T13:40:50.293389+00:00",
     "349bb28245dcba9f30943964fc29e163fb52ff590512a8934c2d726d3ec23759": "2026-10-19T13:31:10.412032+00:00",
     "34ea868b6aee641a69a186443b53e7ab78c18365f012bde6c4620ba5eef707b1": "2026-10-02T04:11:18.451080+00:00",
@@ -9807,7 +9808,6 @@
     "6e5a32e9a0aa796904bdc506d943b6af3b39545246a0386f9d721ca9e532117d": "2026-08-26T04:11:08.935650+00:00",
     "6efb844fb1727d59e73589e899c5469c4b1406372f6c2c38cec8b43780c5ead0": "2026-09-19T03:11:06.233093+00:00",
     "727df9d83ff500868582417fc4c6cf292d306c6a5031743712335c5e1e2519b5": "2026-10-16T05:30:47.513641+00:00",
-    "72b408ab954ef06ec31ebdfde647a0fe4173208e5763b3f49889e883efc85de0": "2026-08-24T13:41:05.283219+00:00",
     "7396f28be91c4f70184084961d9bacd6670aaf984b68db3b0c8e67dff0291b7f": "2026-09-11T09:11:04.145656+00:00",
     "755dd30c612b52176ee114f2d320148d259f21da18423235fe768edcf8d05fe4": "2026-09-18T22:01:40.239575+00:00",
     "761b66edaef0cc1a0e228ff3651857a37eeb90af5720589dda87e86eb9f325d8": "2026-08-28T13:11:11.093622+00:00",
