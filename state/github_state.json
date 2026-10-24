@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 31,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 1002,
-  "early_signal_last_scan_utc": "2026-10-24T21:20:57.959205+00:00",
+  "early_signal_last_scan_utc": "2026-10-24T22:10:56.373031+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -100,53 +100,6 @@
         "use_of_funds": []
       },
       "ticker": "FOTO"
-    },
-    "IPO|TICKER|SWAP": {
-      "family": "IPO",
-      "first_seen_utc": "2026-08-24T07:11:05.738548+00:00",
-      "last_alert_utc": "2026-08-25T22:10:55.251467+00:00",
-      "last_seen_utc": "2026-08-25T22:10:55.251467+00:00",
-      "market_context": {
-        "change_pct": null,
-        "last_price": null,
-        "market_date": null
-      },
-      "material_snapshot": {
-        "acquirer": null,
-        "acquirer_confirmed": false,
-        "event_type": "IPO",
-        "execution_price": null,
-        "ipo_single_price": "Rp130",
-        "money": [
-          "Rp45,22 miliar"
-        ],
-        "official_authority": null,
-        "official_kind": null,
-        "price_range": "Rp130\u2013Rp140",
-        "ratio": null,
-        "schedule": {
-          "allotment": "8 September 2026",
-          "bookbuilding": "27 Agustus 2026",
-          "distribution": "9 September 2026",
-          "listing": "10 September 2026",
-          "offering": "8 September 2026"
-        },
-        "share_count": "323 Juta saham",
-        "stage": "OFFERING",
-        "stage_step": 4,
-        "stage_total": 5,
-        "stake": [],
-        "standby_buyer": null,
-        "target": null,
-        "target_confirmed": false,
-        "tender_price": null,
-        "underwriter": null,
-        "use_of_funds": [
-          "EKSPANSI / CAPEX",
-          "MODAL KERJA"
-        ]
-      },
-      "ticker": "SWAP"
     },
     "IPO|TITLE|ANTHROPIC AKUI RISIKO EKSISTENSIAL AI DALAM PROSPEKTUS": {
       "family": "IPO",
@@ -7505,7 +7458,7 @@
     }
   },
   "last_keepalive_utc": "2026-10-23T10:40:53.220355+00:00",
-  "last_state_change_utc": "2026-10-24T21:20:58.013973+00:00",
+  "last_state_change_utc": "2026-10-24T22:10:56.423490+00:00",
   "market_noise_suppressed": 9,
   "milestone_alerts": {},
   "rumor_alerts_sent": 127,
@@ -7517,7 +7470,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 27,
   "rumor_integrity_repairs": 2705,
-  "rumor_last_scan_utc": "2026-10-24T21:20:57.938998+00:00",
+  "rumor_last_scan_utc": "2026-10-24T22:10:56.354901+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -9760,7 +9713,6 @@
     "1c5b380735bd1ad2389f2e0f4655850eadfbc1a18a12ee7f2b93b191c0bfbc81": "2026-09-30T06:31:11.701312+00:00",
     "1cbab3154354e118815ed27dc3fc238c0b615ae06d1e585160aaae3552d17417": "2026-09-07T08:41:01.960525+00:00",
     "1d7123549ca4174d97c5964462be4bd756eac59d99ce6ca54fd83d4777f82076": "2026-10-05T11:52:02.589730+00:00",
-    "1ddfb4e184602043dd7de7e31c3b828108e4dc8a72ccb30c3938716cdda57452": "2026-08-25T22:10:55.251443+00:00",
     "1edc20362f784a6c9bd9c963b92b0ce8d36d392af90c2a91f7dd1c95bdb5237e": "2026-09-09T02:53:23.259378+00:00",
     "1f0f838dbcc7db9cdb6b85d5fb96821724ca15d8ae40dfab1d99d75359e6efe9": "2026-09-11T11:40:56.657911+00:00",
     "1f29aecb3316eecd63605ead3eeb6f053b59ae2a7c10f77fb3bbdc219040af15": "2026-10-02T14:41:00.416041+00:00",
