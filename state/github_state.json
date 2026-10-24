@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 31,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 1002,
-  "early_signal_last_scan_utc": "2026-10-24T02:31:06.409046+00:00",
+  "early_signal_last_scan_utc": "2026-10-24T03:30:55.233311+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -5492,6 +5492,42 @@
       },
       "ticker": ""
     },
+    "RIGHTS ISSUE|TITLE|PIPELINE BEI ANTRE SATU BISNIS COM MARKET": {
+      "family": "RIGHTS ISSUE",
+      "first_seen_utc": "2026-10-24T03:30:58.394447+00:00",
+      "last_alert_utc": "2026-10-24T03:30:58.394440+00:00",
+      "last_seen_utc": "2026-10-24T03:30:58.394440+00:00",
+      "market_context": {
+        "change_pct": null,
+        "last_price": null,
+        "market_date": null
+      },
+      "material_snapshot": {
+        "acquirer": null,
+        "acquirer_confirmed": false,
+        "event_type": "RIGHTS ISSUE",
+        "execution_price": null,
+        "ipo_single_price": null,
+        "money": [],
+        "official_authority": null,
+        "official_kind": null,
+        "price_range": null,
+        "ratio": null,
+        "schedule": {},
+        "share_count": null,
+        "stage": "RENCANA",
+        "stage_step": 2,
+        "stage_total": 6,
+        "stake": [],
+        "standby_buyer": null,
+        "target": null,
+        "target_confirmed": false,
+        "tender_price": null,
+        "underwriter": null,
+        "use_of_funds": []
+      },
+      "ticker": ""
+    },
     "RIGHTS ISSUE|TITLE|RENCANA PTRO 2026 PETROSEA INCAR DANA SEGAR": {
       "family": "RIGHTS ISSUE",
       "first_seen_utc": "2026-10-15T14:51:27.184910+00:00",
@@ -7469,7 +7505,7 @@
     }
   },
   "last_keepalive_utc": "2026-10-23T10:40:53.220355+00:00",
-  "last_state_change_utc": "2026-10-24T02:31:06.465968+00:00",
+  "last_state_change_utc": "2026-10-24T03:30:58.396970+00:00",
   "market_noise_suppressed": 9,
   "milestone_alerts": {},
   "rumor_alerts_sent": 127,
@@ -7481,7 +7517,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 27,
   "rumor_integrity_repairs": 2705,
-  "rumor_last_scan_utc": "2026-10-24T02:31:06.387612+00:00",
+  "rumor_last_scan_utc": "2026-10-24T03:30:55.211273+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -9873,6 +9909,7 @@
     "a3662b48ea46b6d71edde2164209df4ea953ba5b171e391cf6faca9f0d8a9868": "2026-09-30T23:10:52.487570+00:00",
     "a463fb835a1f6b3b78368e5c04c178e2e5d089adba455f0779831ee35af7e59a": "2026-10-09T15:30:59.357852+00:00",
     "a610c7c5b697ee7f7548e70e3eb1ba6d2b4d6e8d6aba9c70f5a36ca3c2998a7d": "2026-09-07T11:10:59.517731+00:00",
+    "a73b41389d45c46af52da1fd7dce1169607dffa1ad0a90525083dbd0f06ad970": "2026-10-24T03:30:58.394421+00:00",
     "a756f94948679cb9e44f144a87f88e2767b95f261c152c0dc6161ad83b48ed7e": "2026-08-29T13:01:39.906036+00:00",
     "a7a4b1588da2190fce00918be07126b43aef12ace18cd06591a6f13d0ad7de09": "2026-09-07T17:01:17.930370+00:00",
     "a8df3fb5694bb11a35aae0d37ce1d4cc579d01bbd23f3828015da08ed729b3b5": "2026-09-02T09:31:01.471268+00:00",
