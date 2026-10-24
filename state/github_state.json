@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 31,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 1002,
-  "early_signal_last_scan_utc": "2026-10-24T10:11:01.911557+00:00",
+  "early_signal_last_scan_utc": "2026-10-24T12:40:51.401167+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -7505,7 +7505,7 @@
     }
   },
   "last_keepalive_utc": "2026-10-23T10:40:53.220355+00:00",
-  "last_state_change_utc": "2026-10-24T10:11:01.966496+00:00",
+  "last_state_change_utc": "2026-10-24T12:40:51.440545+00:00",
   "market_noise_suppressed": 9,
   "milestone_alerts": {},
   "rumor_alerts_sent": 127,
@@ -7513,11 +7513,11 @@
   "rumor_confirmed_count": 44,
   "rumor_confirmed_dedups": 0,
   "rumor_denied_count": 1,
-  "rumor_duplicates_suppressed": 839,
+  "rumor_duplicates_suppressed": 840,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 27,
   "rumor_integrity_repairs": 2705,
-  "rumor_last_scan_utc": "2026-10-24T10:11:01.890732+00:00",
+  "rumor_last_scan_utc": "2026-10-24T12:40:51.387356+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -8650,15 +8650,15 @@
       "category": "DELISTING / RELISTING",
       "company_name": "Bank CIMB Niaga",
       "copy_duplicate_count": 0,
-      "credible_effective_independent_count": 1.8,
+      "credible_effective_independent_count": 1.0,
       "derivative_source_count": 0,
-      "detected_source_count": 2,
-      "effective_independent_count": 1.8,
+      "detected_source_count": 1,
+      "effective_independent_count": 1.0,
       "entity_aliases": [],
       "entity_resolution_source": null,
       "first_seen_utc": "2026-10-19T12:37:00+00:00",
-      "high_quality_source_count": 2,
-      "independent_story_count": 2,
+      "high_quality_source_count": 1,
+      "independent_story_count": 1,
       "issuer_profile": {
         "business_activity": "PT Bank CIMB Niaga Tbk, together with its subsidiaries, provides various banking products and services in Indonesia and internationally. The company offers saving, current, and time and term deposit products; Sharia and payroll savings prod",
         "controller": null,
@@ -8723,28 +8723,18 @@
           "source": "kontan.co.id",
           "tier": 4,
           "weight": 1.0
-        },
-        {
-          "derivative": false,
-          "group": "emitennews.com",
-          "new_material": 0,
-          "quality": "MEDIUM",
-          "semantic_copy": false,
-          "source": "Emitennews.com",
-          "tier": 3,
-          "weight": 0.8
         }
       ],
       "source_count": 3,
       "source_quality": "MEDIUM",
-      "source_quality_score": 6.0,
+      "source_quality_score": 4.0,
       "sources": [
         "kontan.co.id",
         "Emitennews.com",
         "TradingView"
       ],
       "status": "ACTIVE",
-      "strength": "MEDIUM",
+      "strength": "WEAK",
       "ticker": "BNGA",
       "title": "Menghijau di Tengah Wacana Delisting, Intip Kembali Profil Emiten BNGA dan Kinerjanya - kontan.co.id"
     },
