@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 31,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 1002,
-  "early_signal_last_scan_utc": "2026-10-24T00:41:29.885120+00:00",
+  "early_signal_last_scan_utc": "2026-10-24T01:50:57.267210+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -1072,44 +1072,6 @@
         "share_count": null,
         "stage": "RENCANA / PROSPEKTUS",
         "stage_step": 2,
-        "stage_total": 5,
-        "stake": [],
-        "standby_buyer": null,
-        "target": null,
-        "target_confirmed": false,
-        "tender_price": null,
-        "underwriter": null,
-        "use_of_funds": []
-      },
-      "ticker": ""
-    },
-    "IPO|TITLE|PT SWAYASA PRAKARSA MULAI MASA BOOKBUILDING DENGAN": {
-      "family": "IPO",
-      "first_seen_utc": "2026-08-25T01:41:06.993860+00:00",
-      "last_alert_utc": "2026-08-25T01:41:06.993855+00:00",
-      "last_seen_utc": "2026-08-25T01:41:06.993855+00:00",
-      "market_context": {
-        "change_pct": null,
-        "last_price": null,
-        "market_date": null
-      },
-      "material_snapshot": {
-        "acquirer": null,
-        "acquirer_confirmed": false,
-        "event_type": "IPO",
-        "execution_price": null,
-        "ipo_single_price": null,
-        "money": [
-          "Rp45 miliar"
-        ],
-        "official_authority": null,
-        "official_kind": null,
-        "price_range": null,
-        "ratio": null,
-        "schedule": {},
-        "share_count": null,
-        "stage": "BOOKBUILDING",
-        "stage_step": 3,
         "stage_total": 5,
         "stake": [],
         "standby_buyer": null,
@@ -7507,7 +7469,7 @@
     }
   },
   "last_keepalive_utc": "2026-10-23T10:40:53.220355+00:00",
-  "last_state_change_utc": "2026-10-24T00:41:29.946088+00:00",
+  "last_state_change_utc": "2026-10-24T01:50:57.298353+00:00",
   "market_noise_suppressed": 9,
   "milestone_alerts": {},
   "rumor_alerts_sent": 127,
@@ -7519,7 +7481,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 27,
   "rumor_integrity_repairs": 2705,
-  "rumor_last_scan_utc": "2026-10-24T00:41:29.863901+00:00",
+  "rumor_last_scan_utc": "2026-10-24T01:50:57.253230+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -9919,7 +9881,6 @@
     "ac4a63a11531dbc3fe8ab138e8a0daf7a5cb222266d0b3877cdf249d2a84951f": "2026-10-04T15:41:06.864315+00:00",
     "ac61e56b1bf48d32e0e8dd03051b5a0f4559b946a29d87b5090b47e0d4172d3f": "2026-09-17T01:11:44.651468+00:00",
     "ac7305378c01f4e11d447c01070c69fd484a413be45e0062f3668f4f7933ffc8": "2026-09-25T16:20:50.588575+00:00",
-    "ad291d62b611b627e4a4f50088661fa7d01d706dc07f044f6239bbf0ad8457e0": "2026-08-25T01:41:06.993837+00:00",
     "ad5958ad49731502a760ce31751bb4e9ada90ed8e2492f18081d3728fdd9b511": "2026-10-05T12:41:28.033499+00:00",
     "ad6ef924669e07b523bb7f3744f44eb5190353ee290a899f0af190284cd3a12f": "2026-10-06T00:31:04.597141+00:00",
     "ad7c0b6878acb68a59dd58d4ee90327bb89550a712f3a8b3c951ecc749cebce1": "2026-09-16T10:51:01.710363+00:00",
