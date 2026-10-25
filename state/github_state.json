@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 31,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 1002,
-  "early_signal_last_scan_utc": "2026-10-25T07:50:48.148463+00:00",
+  "early_signal_last_scan_utc": "2026-10-25T08:10:52.320206+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -4124,42 +4124,6 @@
       },
       "ticker": ""
     },
-    "M&A / TAKEOVER|TITLE|SEPI PEMINAT IMBS KEMBALI PERPANJANG KETR RCTI": {
-      "family": "M&A / TAKEOVER",
-      "first_seen_utc": "2026-08-26T08:01:09.569396+00:00",
-      "last_alert_utc": "2026-08-26T08:01:09.569386+00:00",
-      "last_seen_utc": "2026-08-26T08:01:09.569386+00:00",
-      "market_context": {
-        "change_pct": null,
-        "last_price": null,
-        "market_date": null
-      },
-      "material_snapshot": {
-        "acquirer": null,
-        "acquirer_confirmed": false,
-        "event_type": "TENDER OFFER",
-        "execution_price": null,
-        "ipo_single_price": null,
-        "money": [],
-        "official_authority": null,
-        "official_kind": null,
-        "price_range": null,
-        "ratio": null,
-        "schedule": {},
-        "share_count": null,
-        "stage": "TENDER OFFER",
-        "stage_step": 6,
-        "stage_total": 7,
-        "stake": [],
-        "standby_buyer": null,
-        "target": null,
-        "target_confirmed": false,
-        "tender_price": null,
-        "underwriter": null,
-        "use_of_funds": []
-      },
-      "ticker": ""
-    },
     "M&A / TAKEOVER|TITLE|SGI INET 2026 NILAI TRANSAKSI RP280 MILIAR": {
       "family": "M&A / TAKEOVER",
       "first_seen_utc": "2026-09-18T01:41:15.519996+00:00",
@@ -7458,7 +7422,7 @@
     }
   },
   "last_keepalive_utc": "2026-10-23T10:40:53.220355+00:00",
-  "last_state_change_utc": "2026-10-25T07:50:48.177873+00:00",
+  "last_state_change_utc": "2026-10-25T08:10:52.350646+00:00",
   "market_noise_suppressed": 9,
   "milestone_alerts": {},
   "rumor_alerts_sent": 127,
@@ -7470,7 +7434,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 27,
   "rumor_integrity_repairs": 2705,
-  "rumor_last_scan_utc": "2026-10-25T07:50:48.137954+00:00",
+  "rumor_last_scan_utc": "2026-10-25T08:10:52.309398+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -9725,7 +9689,6 @@
     "23631988368f35d98ff769a9badb44701656daefbb89abe01028a0ed3998262f": "2026-09-23T04:30:51.459933+00:00",
     "2425eaf6c4692970aeb9afa3e92df36eb3c0ea9648a7ca63fe7406865db786ea": "2026-10-03T14:50:45.376143+00:00",
     "269f90e444cb4638aac529b92bab54baffbda2b1b30c406665b1ca8cd3aec12e": "2026-08-30T08:40:49.258736+00:00",
-    "26e07c995021dd21c7602e153d4caaba3092cd2362059aab77d35cfc545f1a5b": "2026-08-26T08:01:09.569362+00:00",
     "270562ea3dff0292a3fdea93673ea633636308ba5e93f4cb4ed688e12f20c707": "2026-09-14T09:20:54.324058+00:00",
     "273ebb2ba1eb8d2aea400d9c36a002da7e0b11dd07ede951cf9e7655200cb78e": "2026-10-19T00:50:39.877732+00:00",
     "27d6aeea63093039e397ca421be6af54b76fefb13ba9d82e770d5a6d977b67d6": "2026-10-09T09:01:19.797856+00:00",
