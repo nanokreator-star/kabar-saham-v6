@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 31,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 1002,
-  "early_signal_last_scan_utc": "2026-10-25T10:20:53.191707+00:00",
+  "early_signal_last_scan_utc": "2026-10-25T10:30:55.709631+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -6095,7 +6095,7 @@
       "owner_context_sources": 0,
       "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
       "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-      "owner_v6_checked_utc": "2026-10-24T22:20:58.568853+00:00",
+      "owner_v6_checked_utc": "2026-10-25T10:30:49.934095+00:00",
       "owner_v6_pages_fetched": 0,
       "profile_source": "Yahoo Finance",
       "profile_source_quality": "FALLBACK",
@@ -6104,7 +6104,7 @@
       "subindustry": null,
       "subsector": null,
       "ticker": "CIMB",
-      "verified_at": "2026-10-24T22:20:59.213874+00:00",
+      "verified_at": "2026-10-25T10:30:50.703145+00:00",
       "website": null
     },
     "CMNP": {
@@ -7422,7 +7422,7 @@
     }
   },
   "last_keepalive_utc": "2026-10-23T10:40:53.220355+00:00",
-  "last_state_change_utc": "2026-10-25T10:20:53.244420+00:00",
+  "last_state_change_utc": "2026-10-25T10:30:55.761081+00:00",
   "market_noise_suppressed": 9,
   "milestone_alerts": {},
   "rumor_alerts_sent": 128,
@@ -7430,11 +7430,11 @@
   "rumor_confirmed_count": 44,
   "rumor_confirmed_dedups": 0,
   "rumor_denied_count": 1,
-  "rumor_duplicates_suppressed": 871,
+  "rumor_duplicates_suppressed": 872,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 27,
   "rumor_integrity_repairs": 2705,
-  "rumor_last_scan_utc": "2026-10-25T10:20:53.173602+00:00",
+  "rumor_last_scan_utc": "2026-10-25T10:30:55.691149+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -8616,7 +8616,7 @@
         "owner_context_sources": 0,
         "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
         "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-        "owner_v6_checked_utc": "2026-10-24T22:20:58.568853+00:00",
+        "owner_v6_checked_utc": "2026-10-25T10:30:49.934095+00:00",
         "owner_v6_pages_fetched": 0,
         "profile_source": "Yahoo Finance",
         "profile_source_quality": "FALLBACK",
@@ -8625,7 +8625,7 @@
         "subindustry": null,
         "subsector": null,
         "ticker": "CIMB",
-        "verified_at": "2026-10-24T22:20:59.213874+00:00",
+        "verified_at": "2026-10-25T10:30:50.703145+00:00",
         "website": null
       },
       "key": "DELISTING / RELISTING|TICKER|CIMB",
@@ -8635,7 +8635,7 @@
       "market_data": null,
       "official_confirmation": null,
       "premium_source_count": 0,
-      "profile_refresh_utc": "2026-10-24T22:21:04.465951+00:00",
+      "profile_refresh_utc": "2026-10-25T10:30:55.689065+00:00",
       "published": "Thu, 22 Oct 2026 04:03:11 GMT",
       "rumor_details": {
         "ipo_price": null,
@@ -9174,7 +9174,7 @@
       "key": "MERGER|TITLE|MENAKAR PROSPEK KINERJA BUMN KARYA JELANG WACANA",
       "last_alert_utc": "2026-10-25T10:10:53.190640+00:00",
       "last_seen_utc": "2026-10-25T09:07:25+00:00",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWGhnOVpqMkZ5cjg2ZGo0WEptbzl1V3RJVEhJOWdSYXFqbm5DbXJvSElSS0FhZHlSbFNmTVd6UDZvQm85ZHJVQVBqYkdvRjhZbTRrcU16MjBfTGpKVGxtYmFwVFFqdFZLbkUtMFozWm9xNmMxdm15aUxNaVQzWk5CMVJaQmhfX01NTnV1bkhQLW4tV0JjbEhOWlI3WmF0YVpQMFFjUW1XS1RVbXVkWXfSAaYBQVVfeXFMUFo5cEZZaWtHT3NVVHIxS2J5eDNuZnd6bTl5ZnU4ZDlQd0hnZTBCRVpJeXU4bFlpcE5aLWo2UURXWkRKMWNJUDZRT3EzVXNQQU5XakRPbzRUb0NHZWU0clcxM0w3c3hRTUl2ZUV1MVlvZ1M4X3E0U3dfM0xoaXNuUkc3NkV4U0tVeGw4ZEIzcE1PcW9tMFhhUFBXZ1JiQjktU1Jielh0QQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWjlwRllpa0dPc1VUcjFLYnl4M25md3ptOXlmdThkOVB3SGdlMEJFWkl5dThsWWlwTlotajZRRFdaREoxY0lQNlFPcTNVc1BBTldqRE9vNFRvQ0dlZTRyVzEzTDdzeFFNSXZlRXUxWW9nUzhfcTRTd18zTGhpc25SRzc2RXhTS1V4bDhkQjNwTU9xb20wWGFQUFdnUmJCOS1TUmJ6WHRB0gGmAUFVX3lxTFBaOXBGWWlrR09zVVRyMUtieXgzbmZ3em05eWZ1OGQ5UHdIZ2UwQkVaSXl1OGxZaXBOWi1qNlFEV1pESjFjSVA2UU9xM1VzUEFOV2pET280VG9DR2VlNHJXMTNMN3N4UU1JdmVFdTFZb2dTOF9xNFN3XzNMaGlzblJHNzZFeFNLVXhsOGRCM3BNT3FvbTBYYVBQV2dSYkI5LVNSYnpYdEE?oc=5",
       "market_data": null,
       "official_confirmation": null,
       "premium_source_count": 1,
@@ -9191,7 +9191,7 @@
         "underwriter": null
       },
       "semantic_copy_count": 0,
-      "source": "kontan.co.id",
+      "source": "KONTAN",
       "source_breakdown": [
         {
           "derivative": false,
@@ -9199,7 +9199,7 @@
           "new_material": 0,
           "quality": "HIGH",
           "semantic_copy": false,
-          "source": "kontan.co.id",
+          "source": "KONTAN",
           "tier": 4,
           "weight": 1.0
         }
@@ -9208,13 +9208,13 @@
       "source_quality": "MEDIUM",
       "source_quality_score": 4.0,
       "sources": [
-        "kontan.co.id",
-        "KONTAN"
+        "KONTAN",
+        "kontan.co.id"
       ],
       "status": "ACTIVE",
       "strength": "WEAK",
       "ticker": null,
-      "title": "Menakar Prospek Kinerja Emiten BUMN Karya Jelang Wacana Merger Akhir 2026 - kontan.co.id"
+      "title": "Menakar Prospek Kinerja Emiten BUMN Karya Jelang Wacana Merger Akhir 2026 - KONTAN"
     },
     "PRIVATE PLACEMENT|TICKER|EFEK": {
       "category": "PRIVATE PLACEMENT",
