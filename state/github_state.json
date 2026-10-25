@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 31,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 1002,
-  "early_signal_last_scan_utc": "2026-10-25T14:20:53.856433+00:00",
+  "early_signal_last_scan_utc": "2026-10-25T15:01:02.169320+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -1709,45 +1709,6 @@
         "underwriter": null,
         "use_of_funds": [
           "AKUISISI / INVESTASI"
-        ]
-      },
-      "ticker": ""
-    },
-    "M&A / TAKEOVER|PARTIES|RENCANA|PIPA 2026": {
-      "family": "M&A / TAKEOVER",
-      "first_seen_utc": "2026-08-26T14:51:16.094141+00:00",
-      "last_alert_utc": "2026-08-26T14:51:16.094141+00:00",
-      "last_seen_utc": "2026-08-26T14:51:16.094141+00:00",
-      "market_context": {
-        "change_pct": null,
-        "last_price": null,
-        "market_date": null
-      },
-      "material_snapshot": {
-        "acquirer": "Rencana",
-        "acquirer_confirmed": true,
-        "event_type": "AKUISISI",
-        "execution_price": null,
-        "ipo_single_price": null,
-        "money": [],
-        "official_authority": null,
-        "official_kind": null,
-        "price_range": null,
-        "ratio": null,
-        "schedule": {},
-        "share_count": null,
-        "stage": "SPA / SIGNED",
-        "stage_step": 4,
-        "stage_total": 7,
-        "stake": [],
-        "standby_buyer": null,
-        "target": "PIPA 2026",
-        "target_confirmed": true,
-        "tender_price": null,
-        "underwriter": null,
-        "use_of_funds": [
-          "AKUISISI / INVESTASI",
-          "EKSPANSI / CAPEX"
         ]
       },
       "ticker": ""
@@ -7422,7 +7383,7 @@
     }
   },
   "last_keepalive_utc": "2026-10-23T10:40:53.220355+00:00",
-  "last_state_change_utc": "2026-10-25T14:20:53.904410+00:00",
+  "last_state_change_utc": "2026-10-25T15:01:02.218370+00:00",
   "market_noise_suppressed": 9,
   "milestone_alerts": {},
   "rumor_alerts_sent": 132,
@@ -7434,7 +7395,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 27,
   "rumor_integrity_repairs": 2705,
-  "rumor_last_scan_utc": "2026-10-25T14:20:53.839933+00:00",
+  "rumor_last_scan_utc": "2026-10-25T15:01:02.155093+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -9489,7 +9450,6 @@
     "0f07586bb610315eb485f41810b46cbe40a9e15da67bb5c6083c7428c0777d26": "2026-09-18T13:40:46.595316+00:00",
     "10168ffe8c6c06e86f806f9be29da51a1f7ad69b13ed3be9d7a7ef5415cdac41": "2026-09-25T16:20:50.588575+00:00",
     "12b5dcccbfec6410a0129fd0b334a4a6359d11b7bdb06b8f71b3d8b2fe981ece": "2026-09-17T19:41:14.787581+00:00",
-    "12e5b101df035bb84cb0326a90325ae011a89e7d5dca0ce80486d0e3e5d6c2d7": "2026-08-26T14:51:16.094141+00:00",
     "1330b3527a0cf5999f1131ce26f0a98971d3b18fd1f2897fe02b427c6ed0394b": "2026-09-18T13:31:06.274963+00:00",
     "140f0c2a6683951a9732ea25bdb3a05078cca40bb33a37636166bedd289f0bd4": "2026-08-29T13:53:16.888644+00:00",
     "14932677db0dbdb5bf9e3af25dcd19f76fb769c73a79f3d9846b3fbf61717dd3": "2026-09-17T20:01:21.731964+00:00",
