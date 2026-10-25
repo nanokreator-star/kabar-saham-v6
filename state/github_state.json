@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 31,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 1002,
-  "early_signal_last_scan_utc": "2026-10-25T20:30:50.861185+00:00",
+  "early_signal_last_scan_utc": "2026-10-25T20:51:46.741550+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -1464,44 +1464,6 @@
       },
       "ticker": ""
     },
-    "M&A / TAKEOVER|PARTIES|EMITEN PIPA PAPARKAN RENCANA|PERUSAHAAN DI SEKTOR GAS ALAM": {
-      "family": "M&A / TAKEOVER",
-      "first_seen_utc": "2026-08-26T20:51:36.935635+00:00",
-      "last_alert_utc": "2026-08-26T20:51:36.935635+00:00",
-      "last_seen_utc": "2026-08-26T20:51:36.935635+00:00",
-      "market_context": {
-        "change_pct": null,
-        "last_price": null,
-        "market_date": null
-      },
-      "material_snapshot": {
-        "acquirer": "Emiten PIPA Paparkan Rencana",
-        "acquirer_confirmed": true,
-        "event_type": "AKUISISI",
-        "execution_price": null,
-        "ipo_single_price": null,
-        "money": [],
-        "official_authority": null,
-        "official_kind": null,
-        "price_range": null,
-        "ratio": null,
-        "schedule": {},
-        "share_count": null,
-        "stage": "RENCANA",
-        "stage_step": 2,
-        "stage_total": 7,
-        "stake": [],
-        "standby_buyer": null,
-        "target": "Perusahaan di Sektor Gas Alam",
-        "target_confirmed": true,
-        "tender_price": null,
-        "underwriter": null,
-        "use_of_funds": [
-          "AKUISISI / INVESTASI"
-        ]
-      },
-      "ticker": ""
-    },
     "M&A / TAKEOVER|PARTIES|GABRIEL REY DAN ANDRY HAKIM|20 SAHAM TRUK": {
       "family": "M&A / TAKEOVER",
       "first_seen_utc": "2026-09-22T07:51:40.556452+00:00",
@@ -2363,48 +2325,6 @@
         ]
       },
       "ticker": "NAYZ"
-    },
-    "M&A / TAKEOVER|TICKER|PIPA": {
-      "family": "M&A / TAKEOVER",
-      "first_seen_utc": "2026-08-19T00:31:02.208969+00:00",
-      "last_alert_utc": "2026-08-26T14:51:16.094162+00:00",
-      "last_seen_utc": "2026-08-26T20:51:36.935644+00:00",
-      "market_context": {
-        "change_pct": 13.9665,
-        "last_price": 204.0,
-        "market_date": "2026-08-24"
-      },
-      "material_snapshot": {
-        "acquirer": "Rencana",
-        "acquirer_confirmed": true,
-        "event_type": "AKUISISI",
-        "execution_price": null,
-        "ipo_single_price": null,
-        "money": [],
-        "official_authority": null,
-        "official_kind": null,
-        "price_range": null,
-        "ratio": null,
-        "schedule": {},
-        "share_count": null,
-        "stage": "SPA / SIGNED",
-        "stage_step": 4,
-        "stage_total": 7,
-        "stake": [
-          40.94,
-          16.99
-        ],
-        "standby_buyer": null,
-        "target": "PIPA 2026",
-        "target_confirmed": true,
-        "tender_price": null,
-        "underwriter": null,
-        "use_of_funds": [
-          "AKUISISI / INVESTASI",
-          "EKSPANSI / CAPEX"
-        ]
-      },
-      "ticker": "PIPA"
     },
     "M&A / TAKEOVER|TICKER|PNGO": {
       "family": "M&A / TAKEOVER",
@@ -7347,7 +7267,7 @@
     }
   },
   "last_keepalive_utc": "2026-10-23T10:40:53.220355+00:00",
-  "last_state_change_utc": "2026-10-25T20:30:50.886817+00:00",
+  "last_state_change_utc": "2026-10-25T20:51:46.743871+00:00",
   "market_noise_suppressed": 9,
   "milestone_alerts": {},
   "rumor_alerts_sent": 138,
@@ -7359,7 +7279,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 27,
   "rumor_integrity_repairs": 2705,
-  "rumor_last_scan_utc": "2026-10-25T20:30:50.852248+00:00",
+  "rumor_last_scan_utc": "2026-10-25T20:51:46.741474+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -9504,7 +9424,6 @@
     "651597f755a571b1795bffd9abc30d78055e9e8dc60ce9a2f18cbd85114e1380": "2026-09-04T21:01:15.994282+00:00",
     "66cc00243bb6a8bfbc4d97203c2a5f9b1c5cd40ab2956cb5c237193ac3c22fbe": "2026-09-16T05:11:03.419031+00:00",
     "66eaf0dec3376f910945d1ded3852dab8c7087773a822335935105688330bd8c": "2026-10-09T15:30:59.357852+00:00",
-    "66ed0e932d59d13861d953962d6068888b45db61163663a8c6fb5bb53db04500": "2026-08-26T20:51:36.935635+00:00",
     "6a085b6052904a6e16e3c346e8347e7edfe05c70332c9ec5ac340418ed7cfcf4": "2026-10-18T13:40:53.442362+00:00",
     "6a81ae4a51d2f38926dc15ff38e0637f2c8becd06b9a02fb8d5eb9cf8e00c3ef": "2026-10-01T10:31:06.919882+00:00",
     "6a9995b4e4ae16b4c8723d08e3a136cae11cacb552fbfe678fb92d333232a544": "2026-10-02T06:50:58.197330+00:00",
