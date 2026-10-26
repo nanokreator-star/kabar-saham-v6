@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 31,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 1002,
-  "early_signal_last_scan_utc": "2026-10-26T03:20:58.174521+00:00",
+  "early_signal_last_scan_utc": "2026-10-26T04:10:40.584385+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -5180,6 +5180,44 @@
       },
       "ticker": "LAPD"
     },
+    "RIGHTS ISSUE|TITLE|PACK MELONJAK TENGAH RENCANA RP8 TRILIUN SUARA": {
+      "family": "RIGHTS ISSUE",
+      "first_seen_utc": "2026-10-26T04:10:42.102288+00:00",
+      "last_alert_utc": "2026-10-26T04:10:42.102283+00:00",
+      "last_seen_utc": "2026-10-26T04:10:42.102283+00:00",
+      "market_context": {
+        "change_pct": null,
+        "last_price": null,
+        "market_date": null
+      },
+      "material_snapshot": {
+        "acquirer": null,
+        "acquirer_confirmed": false,
+        "event_type": "RIGHTS ISSUE",
+        "execution_price": null,
+        "ipo_single_price": null,
+        "money": [
+          "Rp8,2 triliun"
+        ],
+        "official_authority": null,
+        "official_kind": null,
+        "price_range": null,
+        "ratio": null,
+        "schedule": {},
+        "share_count": null,
+        "stage": "RENCANA",
+        "stage_step": 2,
+        "stage_total": 6,
+        "stake": [],
+        "standby_buyer": null,
+        "target": null,
+        "target_confirmed": false,
+        "tender_price": null,
+        "underwriter": null,
+        "use_of_funds": []
+      },
+      "ticker": ""
+    },
     "RIGHTS ISSUE|TITLE|PETROSEA RENCANAKAN MAKSIMAL 170 JUTA BSINEWS ID": {
       "family": "RIGHTS ISSUE",
       "first_seen_utc": "2026-10-15T15:40:46.536891+00:00",
@@ -7249,7 +7287,7 @@
     }
   },
   "last_keepalive_utc": "2026-10-23T10:40:53.220355+00:00",
-  "last_state_change_utc": "2026-10-26T03:20:58.233611+00:00",
+  "last_state_change_utc": "2026-10-26T04:10:42.103865+00:00",
   "market_noise_suppressed": 9,
   "milestone_alerts": {},
   "rumor_alerts_sent": 143,
@@ -7257,11 +7295,11 @@
   "rumor_confirmed_count": 44,
   "rumor_confirmed_dedups": 0,
   "rumor_denied_count": 8,
-  "rumor_duplicates_suppressed": 878,
+  "rumor_duplicates_suppressed": 879,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 27,
   "rumor_integrity_repairs": 2705,
-  "rumor_last_scan_utc": "2026-10-26T03:20:57.333363+00:00",
+  "rumor_last_scan_utc": "2026-10-26T04:10:38.997649+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -8282,12 +8320,12 @@
       "key": "DELISTING / RELISTING|TICKER|CIMB",
       "last_alert_utc": "2026-10-26T00:10:58.383557+00:00",
       "last_seen_utc": "2026-10-24T23:00:00+00:00",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSDJFOGJabVZOdHNtWkctd3BGRnhmNElCQldQUG5pTmdtdzNOZ09mNERtSVN5TG94c253TUFzeDBFVklMenlvam5UQUlvN1Npak1jdEhOMjE3NUtQM3hoUGdEY2hQWFQweHI3dk8tbmJpMWg5UlVpTVVXRVc3Y2tpVVZ4RmhLdWxtTnhxa1laVnRBTW9rUmJNa3RNVWxpcDlUQWlQbG9kZkptZUt4NWFudlp3?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNcDhRRXhjaVVXdFUwd1FKNllpM1BTRUhNNzQwcTEwX095WlBIMmhBc0RIZERhRWROa1pXOVVBc29KQ2RUdkJQZUNMMjNvUldldndmNjROZHBJWXNEbEtIbWNRbFkxOEEyRlZPZzc2NTB4SENtMmxxX09PSjJMNkIxcURvZU84X1kta0c5X0ZDUzdEWWE5THpIUlJtbG5HRHQ2VFlzNUpJSzFNLUs0VE16TzVvUE85MW5EaHFBdUNHZnJmLUVONndmV0JVSm5PMDZIRTFwUm9ZdjhQQjRuRHRhSGdRMNIB6AFBVV95cUxPcG1WVXFkTFh3cC1DYzFwajVRcDZaQnY5Tk9BcFRQSlYtbS1CaGZoamxydVpEUlduMVpiRDYtOVZHZHpfaGJTRGJ2eDFvUWtTWk93dDljV0IwaW1teFlETXNScjJJSFRfNGRsaTl1Q3pPSkc4SWJ1eFREN0NuNml2SE9ITHdhN2ZqUjdnX3ZkWFQxaTRLandjVmhmNTUzMGdGZlV5TzZGRjA5QlhhRkVjdldvbGphbURYaTVIcFc5ejc2UGQ5VG11REZkLWN5T2dMbEE0MGd0bXNPeDctd2ppbTEtYWhPQzh5?oc=5",
       "market_data": null,
       "official_confirmation": null,
       "premium_source_count": 0,
       "profile_refresh_utc": "2026-10-25T22:40:47.553627+00:00",
-      "published": "Thu, 22 Oct 2026 04:03:11 GMT",
+      "published": "Sat, 24 Oct 2026 11:27:51 GMT",
       "rumor_details": {
         "ipo_price": null,
         "listing_estimate": null,
@@ -8299,7 +8337,7 @@
         "underwriter": null
       },
       "semantic_copy_count": 0,
-      "source": "Bisnis.com",
+      "source": "Hallo Indonesia",
       "source_breakdown": [
         {
           "derivative": false,
@@ -8337,10 +8375,10 @@
       "source_quality_score": 1.0,
       "sources": [
         "Hallo Indonesia",
-        "Bisnis.com",
         "Hallo Bisnis",
         "Monitor Indonesia",
         "Ceritojambi.com",
+        "Bisnis.com",
         "FORTUNE Indonesia",
         "CNBC Indonesia",
         "CNN Indonesia"
@@ -8348,7 +8386,7 @@
       "status": "DENIED",
       "strength": "WEAK",
       "ticker": "CIMB",
-      "title": "CIMB Group Bantah Rumor Delisting CIMB Niaga (BNGA) dari BEI - Bisnis.com"
+      "title": "CIMB Niaga Bantah Isu Delisting, Bagaimana Rumor Privatisasi Muncul dan Apa Penjelasan Resmi CIMB Group? - Hallo Indonesia - Hallo Indonesia"
     },
     "DELISTING / RELISTING|TICKER|FREE": {
       "category": "DELISTING / RELISTING",
@@ -9639,6 +9677,7 @@
     "f45a50ac4f93cdc7704060c239f789a48f42c01de0c856a2807161d0ee430aed": "2026-10-02T10:11:01.070905+00:00",
     "f57a99f18ef13c0b676802e584a617426102d7a0d568142fbc5df343cf30f0fd": "2026-08-29T08:31:20.016719+00:00",
     "f7c7ebe6089542a2dee5847b151054d979c1fdae2a6b2938c13784a03cfc332a": "2026-10-02T04:31:12.378972+00:00",
+    "f9afa5ab42b28eb0c81ce872265bfef6b869a1a7dd2f4a4ff5fcbbe3074b3d74": "2026-10-26T04:10:42.102262+00:00",
     "fac82e55cd7fcbb0a27ac1cb95c128785bf525147783fc8ea5027e3895ca1225": "2026-10-12T08:41:02.498704+00:00",
     "fb850201bfe087fefba521031c66de65f8f6cf02257bed9a8cbefd59dc0117d7": "2026-10-09T10:30:46.081506+00:00",
     "fd0208d48157ef194061e8e2cbc7eab061cb7768f18caa63c98bf1c1e46333f0": "2026-10-09T15:30:59.357852+00:00",
