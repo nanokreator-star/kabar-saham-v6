@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 31,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 1002,
-  "early_signal_last_scan_utc": "2026-10-26T01:27:01.540000+00:00",
+  "early_signal_last_scan_utc": "2026-10-26T02:40:50.194272+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -7287,7 +7287,7 @@
     }
   },
   "last_keepalive_utc": "2026-10-23T10:40:53.220355+00:00",
-  "last_state_change_utc": "2026-10-26T01:27:01.571784+00:00",
+  "last_state_change_utc": "2026-10-26T02:40:50.227972+00:00",
   "market_noise_suppressed": 9,
   "milestone_alerts": {},
   "rumor_alerts_sent": 143,
@@ -7295,11 +7295,11 @@
   "rumor_confirmed_count": 44,
   "rumor_confirmed_dedups": 0,
   "rumor_denied_count": 8,
-  "rumor_duplicates_suppressed": 875,
+  "rumor_duplicates_suppressed": 876,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 27,
   "rumor_integrity_repairs": 2705,
-  "rumor_last_scan_utc": "2026-10-26T01:27:01.528338+00:00",
+  "rumor_last_scan_utc": "2026-10-26T02:40:49.508079+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -8196,14 +8196,14 @@
       "category": "DELISTING / RELISTING",
       "company_name": "Bank CIMB Niaga",
       "copy_duplicate_count": 0,
-      "credible_effective_independent_count": 1.0,
+      "credible_effective_independent_count": 0,
       "derivative_source_count": 0,
       "detected_source_count": 1,
-      "effective_independent_count": 1.0,
+      "effective_independent_count": 0.3,
       "entity_aliases": [],
       "entity_resolution_source": null,
       "first_seen_utc": "2026-10-19T12:37:00+00:00",
-      "high_quality_source_count": 1,
+      "high_quality_source_count": 0,
       "independent_story_count": 1,
       "issuer_profile": {
         "business_activity": "PT Bank CIMB Niaga Tbk, together with its subsidiaries, provides various banking products and services in Indonesia and internationally. The company offers saving, current, and time and term deposit products; Sharia and payroll savings prod",
@@ -8228,7 +8228,7 @@
       "key": "DELISTING / RELISTING|TICKER|BNGA",
       "last_alert_utc": "2026-10-22T07:21:00.752116+00:00",
       "last_seen_utc": "2026-10-22T04:03:44+00:00",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVzlvR3pWUWxiLWFOb1l5RjFBbWlvT0w5d0p6VnhxVkNSc0F6NEw5a2xBX2xXM1BWMERaempXaTloOFFmTVhJV3dMLXpWNm9yNXhKLXlDRjZTd3hlR3A0M19zWU5TMHRIb0J5ZXhsNl8yU2dJRGpGWjRwZHRqOHhya2wxOXdmbmFLdC1VZjRCZDB6OEctSEhLcy1zQkFlZkpLbkdqYXNyRWMzbHRrX1R2bzdXTDFjVF85ODhWdNIBtAFBVV95cUxNU2huVXlhSnpNMmtKRE5jaFMyZGVfLUZzUzV0NHNWTWQtUW1tamc5ZTdVR2ZxanFNSnBzd3hLeHFRcUN5aVpTZWdpQjJveVhxazJBVUtwMVU1YkY3TVVMX09VX05UcDhlSUZuTVJ3MkZtS2p2UTdYR01ncE9WZXdtalNSLTUtYkJEUUprcy01UFNGRG4wcmc1TzhmNGNBWW1PMEFFU0pZS3Bac1M1Q09tb3pxNjc?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBGd3VQSWVUTlZXRmM1dEc0N3loazdvenVSQlVhWGp5WERrc1V0Mnk5SG9GM2IteWtjaXFkM3FGM2tmN1RKX081VmZza2RoWUpJaTlXMFN4ODNJbG5BWTZTZmpyeER4Zw?oc=5",
       "market_data": {
         "change_pct": -2.0289855072463765,
         "fetched_at": "2026-10-22T07:20:59.554314+00:00",
@@ -8244,7 +8244,7 @@
         "volume_ratio": 12.183296
       },
       "official_confirmation": null,
-      "premium_source_count": 1,
+      "premium_source_count": 0,
       "profile_refresh_utc": "2026-10-25T16:50:58.687008+00:00",
       "published": "Thu, 22 Oct 2026 04:03:44 GMT",
       "rumor_details": {
@@ -8258,31 +8258,31 @@
         "underwriter": null
       },
       "semantic_copy_count": 0,
-      "source": "kontan.co.id",
+      "source": "TradingView",
       "source_breakdown": [
         {
           "derivative": false,
-          "group": "kontan.co.id",
+          "group": "tradingview",
           "new_material": 0,
-          "quality": "HIGH",
+          "quality": "LOW",
           "semantic_copy": false,
-          "source": "kontan.co.id",
-          "tier": 4,
-          "weight": 1.0
+          "source": "TradingView",
+          "tier": 1,
+          "weight": 0.35
         }
       ],
       "source_count": 3,
-      "source_quality": "MEDIUM",
-      "source_quality_score": 4.0,
+      "source_quality": "LOW",
+      "source_quality_score": 0.3,
       "sources": [
+        "TradingView",
         "kontan.co.id",
-        "Emitennews.com",
-        "TradingView"
+        "Emitennews.com"
       ],
       "status": "ACTIVE",
       "strength": "WEAK",
       "ticker": "BNGA",
-      "title": "Menghijau di Tengah Wacana Delisting, Intip Kembali Profil Emiten BNGA dan Kinerjanya - kontan.co.id"
+      "title": "Menghijau di Tengah Wacana Delisting, Intip Kembali Profil Emiten BNGA dan Kinerjanya - TradingView"
     },
     "DELISTING / RELISTING|TICKER|CIMB": {
       "category": "DELISTING / RELISTING",
@@ -8374,11 +8374,11 @@
       "source_quality": "LOW",
       "source_quality_score": 1.0,
       "sources": [
-        "Hallo Indonesia",
-        "Bisnis.com",
         "Hallo Bisnis",
-        "Monitor Indonesia",
+        "Bisnis.com",
         "Ceritojambi.com",
+        "Monitor Indonesia",
+        "Hallo Indonesia",
         "FORTUNE Indonesia",
         "CNBC Indonesia",
         "CNN Indonesia"
