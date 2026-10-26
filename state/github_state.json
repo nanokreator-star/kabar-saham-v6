@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 31,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 1002,
-  "early_signal_last_scan_utc": "2026-10-26T05:40:58.934944+00:00",
+  "early_signal_last_scan_utc": "2026-10-26T08:31:02.214346+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -1880,6 +1880,44 @@
         "use_of_funds": []
       },
       "ticker": "ASII"
+    },
+    "M&A / TAKEOVER|TICKER|BUMI": {
+      "family": "M&A / TAKEOVER",
+      "first_seen_utc": "2026-10-26T08:31:20.232538+00:00",
+      "last_alert_utc": "2026-10-26T08:31:20.232527+00:00",
+      "last_seen_utc": "2026-10-26T08:31:20.232527+00:00",
+      "market_context": {
+        "change_pct": -1.4286,
+        "last_price": 138.0,
+        "market_date": "2026-10-26"
+      },
+      "material_snapshot": {
+        "acquirer": "BUMI",
+        "acquirer_confirmed": true,
+        "event_type": "AKUISISI",
+        "execution_price": null,
+        "ipo_single_price": null,
+        "money": [],
+        "official_authority": null,
+        "official_kind": null,
+        "price_range": null,
+        "ratio": null,
+        "schedule": {},
+        "share_count": null,
+        "stage": "MOU",
+        "stage_step": 3,
+        "stage_total": 7,
+        "stake": [],
+        "standby_buyer": null,
+        "target": "Mount Margaret",
+        "target_confirmed": true,
+        "tender_price": null,
+        "underwriter": null,
+        "use_of_funds": [
+          "AKUISISI / INVESTASI"
+        ]
+      },
+      "ticker": "BUMI"
     },
     "M&A / TAKEOVER|TICKER|BYAN": {
       "family": "M&A / TAKEOVER",
@@ -5818,7 +5856,7 @@
       "owner_context_sources": 0,
       "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
       "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-      "owner_v6_checked_utc": "2026-10-15T13:31:22.047599+00:00",
+      "owner_v6_checked_utc": "2026-10-26T08:31:19.616869+00:00",
       "owner_v6_pages_fetched": 0,
       "profile_source": "Yahoo Finance",
       "profile_source_quality": "FALLBACK",
@@ -7287,7 +7325,7 @@
     }
   },
   "last_keepalive_utc": "2026-10-23T10:40:53.220355+00:00",
-  "last_state_change_utc": "2026-10-26T05:40:58.967976+00:00",
+  "last_state_change_utc": "2026-10-26T08:31:20.235290+00:00",
   "market_noise_suppressed": 9,
   "milestone_alerts": {},
   "rumor_alerts_sent": 147,
@@ -7299,7 +7337,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 27,
   "rumor_integrity_repairs": 2705,
-  "rumor_last_scan_utc": "2026-10-26T05:40:57.693243+00:00",
+  "rumor_last_scan_utc": "2026-10-26T08:31:00.991055+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -9569,6 +9607,7 @@
     "9297deea431daa3bf652ff1541cdc57b1bb3a7abd2ad7c20fd3d1f320feceedf": "2026-09-16T07:11:36.034829+00:00",
     "93b98e5324b3b4a4d86def42303d6f78f8ce459a0b9be52e4153b2fcce68b9d0": "2026-09-18T01:41:15.519996+00:00",
     "93d11c210b0c34e836561a6a10e5adfff9c887851bd5edee83cf88211d0c20c8": "2026-09-18T01:41:15.519996+00:00",
+    "93d40432bbecacbc3d90d9521977dd750e3baf5e6fa27acbf399ffed46012542": "2026-10-26T08:31:20.232478+00:00",
     "948783525b501fe439a445b4a38a970df288b4801e1ee21ee4bb6c956a3f4c3d": "2026-09-18T11:31:09.317756+00:00",
     "96a520e53f7155a3f8e60e112b5f1bf8ac54101b0125add0d1b18b0d9d4a8652": "2026-10-01T16:31:16.621213+00:00",
     "974d92ee48b538a04596bb5c980fc09f5cd66608d901837616c28100f1b66ca5": "2026-09-15T04:11:16.787656+00:00",
