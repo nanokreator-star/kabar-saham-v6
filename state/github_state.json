@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 31,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 1002,
-  "early_signal_last_scan_utc": "2026-10-27T17:40:44.957574+00:00",
+  "early_signal_last_scan_utc": "2026-10-27T18:10:36.227879+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -4385,50 +4385,6 @@
       },
       "ticker": "BRIS"
     },
-    "RIGHTS ISSUE|TICKER|KOTA": {
-      "family": "RIGHTS ISSUE",
-      "first_seen_utc": "2026-08-28T18:01:15.825926+00:00",
-      "last_alert_utc": "2026-08-28T18:01:15.825920+00:00",
-      "last_seen_utc": "2026-08-28T18:01:15.825920+00:00",
-      "market_context": {
-        "change_pct": 19.7183,
-        "last_price": 170.0,
-        "market_date": "2026-08-27"
-      },
-      "material_snapshot": {
-        "acquirer": null,
-        "acquirer_confirmed": false,
-        "event_type": "RIGHTS ISSUE",
-        "execution_price": null,
-        "ipo_single_price": null,
-        "money": [
-          "Rp1,2 triliun",
-          "Rp3,2 triliun",
-          "Rp4,4 triliun"
-        ],
-        "official_authority": null,
-        "official_kind": null,
-        "price_range": null,
-        "ratio": null,
-        "schedule": {},
-        "share_count": "100 miliar saham",
-        "stage": "RENCANA",
-        "stage_step": 2,
-        "stage_total": 6,
-        "stake": [],
-        "standby_buyer": null,
-        "target": null,
-        "target_confirmed": false,
-        "tender_price": null,
-        "underwriter": null,
-        "use_of_funds": [
-          "AKUISISI / INVESTASI",
-          "MODAL KERJA",
-          "PENGEMBANGAN USAHA"
-        ]
-      },
-      "ticker": "KOTA"
-    },
     "RIGHTS ISSUE|TICKER|NINE": {
       "family": "RIGHTS ISSUE",
       "first_seen_utc": "2026-10-13T02:50:57.795382+00:00",
@@ -7373,7 +7329,7 @@
     }
   },
   "last_keepalive_utc": "2026-10-23T10:40:53.220355+00:00",
-  "last_state_change_utc": "2026-10-27T17:40:58.907448+00:00",
+  "last_state_change_utc": "2026-10-27T18:10:36.252056+00:00",
   "market_noise_suppressed": 10,
   "milestone_alerts": {},
   "rumor_alerts_sent": 151,
@@ -7385,7 +7341,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 27,
   "rumor_integrity_repairs": 2705,
-  "rumor_last_scan_utc": "2026-10-27T17:40:44.950826+00:00",
+  "rumor_last_scan_utc": "2026-10-27T18:10:36.220449+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -9611,7 +9567,6 @@
     "c76d361989a26af601c420bc1b9d523e33e80e86539bcdc2da6182debe75a10f": "2026-09-22T07:51:40.556429+00:00",
     "c7a6013a2c6ba6faf8230cc799e19e7982746659652ed0c38308607bfcd0c98d": "2026-09-27T02:21:22.105985+00:00",
     "c90f201961a9f9efc1802061b66ebe2bf583bdc273a1476f4405b7deeed27264": "2026-09-30T16:31:13.529133+00:00",
-    "cac9c1d8543f1760b917636f01b7d023dc2331644c8af036e297ce2e56feb013": "2026-08-28T18:01:15.825902+00:00",
     "cd9196851e1c1075a76436e7884e5359513f90cc97cfb147c332cae70673ecb0": "2026-10-12T03:20:50.948805+00:00",
     "ce8e551323b705c6b9d10316b8ee83da618a0685855dfd1e43f75fe4c968329e": "2026-09-30T06:41:24.283066+00:00",
     "ceadea4b9f989a1e6fe036a012b9a3b29af48f61e83f63fa14f25e55b699e5aa": "2026-09-18T12:41:11.653094+00:00",
