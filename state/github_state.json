@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 31,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 1002,
-  "early_signal_last_scan_utc": "2026-10-27T16:50:46.548423+00:00",
+  "early_signal_last_scan_utc": "2026-10-27T17:40:44.957574+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -5168,6 +5168,52 @@
       },
       "ticker": "PTRO"
     },
+    "RIGHTS ISSUE|TITLE|LAPD BERENCANA MILIAR JSI SETOR MODAL LEWAT": {
+      "family": "RIGHTS ISSUE",
+      "first_seen_utc": "2026-10-27T17:40:58.906030+00:00",
+      "last_alert_utc": "2026-10-27T17:40:58.906026+00:00",
+      "last_seen_utc": "2026-10-27T17:40:58.906026+00:00",
+      "market_context": {
+        "change_pct": -3.2258,
+        "last_price": 60.0,
+        "market_date": "2026-10-26"
+      },
+      "material_snapshot": {
+        "acquirer": null,
+        "acquirer_confirmed": false,
+        "event_type": "RIGHTS ISSUE",
+        "execution_price": "Rp30",
+        "ipo_single_price": null,
+        "money": [
+          "Rp38,85 miliar",
+          "Rp30,6 miliar",
+          "Rp8,25 miliar"
+        ],
+        "official_authority": null,
+        "official_kind": null,
+        "price_range": null,
+        "ratio": null,
+        "schedule": {},
+        "share_count": "2 Miliar saham",
+        "stage": "RENCANA",
+        "stage_step": 2,
+        "stage_total": 6,
+        "stake": [
+          50.42,
+          51.0,
+          87.5
+        ],
+        "standby_buyer": null,
+        "target": null,
+        "target_confirmed": false,
+        "tender_price": null,
+        "underwriter": null,
+        "use_of_funds": [
+          "PENGEMBANGAN USAHA"
+        ]
+      },
+      "ticker": "LAPD"
+    },
     "RIGHTS ISSUE|TITLE|MENELISIK RENCANA LAPD 2026 INBRENG BSS PROSPEK": {
       "family": "RIGHTS ISSUE",
       "first_seen_utc": "2026-09-15T04:11:16.787680+00:00",
@@ -6578,7 +6624,7 @@
       "owner_context_sources": 0,
       "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
       "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-      "owner_v6_checked_utc": "2026-09-15T07:01:23.682410+00:00",
+      "owner_v6_checked_utc": "2026-10-27T17:40:58.307303+00:00",
       "owner_v6_pages_fetched": 0,
       "profile_source": "Yahoo Finance",
       "profile_source_quality": "FALLBACK",
@@ -6587,7 +6633,7 @@
       "subindustry": null,
       "subsector": null,
       "ticker": "LAPD",
-      "verified_at": "2026-09-15T07:01:23.664558+00:00",
+      "verified_at": "2026-10-27T17:40:58.296582+00:00",
       "website": null
     },
     "MBSS": {
@@ -7327,7 +7373,7 @@
     }
   },
   "last_keepalive_utc": "2026-10-23T10:40:53.220355+00:00",
-  "last_state_change_utc": "2026-10-27T16:50:46.592141+00:00",
+  "last_state_change_utc": "2026-10-27T17:40:58.907448+00:00",
   "market_noise_suppressed": 10,
   "milestone_alerts": {},
   "rumor_alerts_sent": 151,
@@ -7339,7 +7385,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 27,
   "rumor_integrity_repairs": 2705,
-  "rumor_last_scan_utc": "2026-10-27T16:50:46.533694+00:00",
+  "rumor_last_scan_utc": "2026-10-27T17:40:44.950826+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -9390,6 +9436,7 @@
     "270562ea3dff0292a3fdea93673ea633636308ba5e93f4cb4ed688e12f20c707": "2026-09-14T09:20:54.324058+00:00",
     "273ebb2ba1eb8d2aea400d9c36a002da7e0b11dd07ede951cf9e7655200cb78e": "2026-10-19T00:50:39.877732+00:00",
     "27d6aeea63093039e397ca421be6af54b76fefb13ba9d82e770d5a6d977b67d6": "2026-10-09T09:01:19.797856+00:00",
+    "280223ec0ee0c127fd660e15e429baf138b31369ebf62decbe93f1c4815badfb": "2026-10-27T17:40:58.906010+00:00",
     "2b0067eb48ec03cb84a77ef2406308bfbf0ef0d3dd236c927f941fc8180af8e0": "2026-10-14T09:01:08.585304+00:00",
     "2b29593be0aa369524a661cd942d48ca86a6dbc0db382b91b2642e4017378b47": "2026-10-02T14:01:27.297323+00:00",
     "2dc57356dd724abb060028c3ee4539d7d63fdc9d0106f6d538c6dcfac057e4aa": "2026-09-26T18:11:32.751551+00:00",
