@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 31,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 1002,
-  "early_signal_last_scan_utc": "2026-10-27T04:10:52.104752+00:00",
+  "early_signal_last_scan_utc": "2026-10-27T04:30:42.968602+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -2696,6 +2696,42 @@
         "share_count": null,
         "stage": "TENDER OFFER",
         "stage_step": 6,
+        "stage_total": 7,
+        "stake": [],
+        "standby_buyer": null,
+        "target": null,
+        "target_confirmed": false,
+        "tender_price": null,
+        "underwriter": null,
+        "use_of_funds": []
+      },
+      "ticker": ""
+    },
+    "M&A / TAKEOVER|TITLE|BUMI RESOURCES EXPANDS AUSTRALIAN FOOTPRINT WITH 22M": {
+      "family": "M&A / TAKEOVER",
+      "first_seen_utc": "2026-10-27T04:11:08.696513+00:00",
+      "last_alert_utc": "2026-10-27T04:11:08.696513+00:00",
+      "last_seen_utc": "2026-10-27T04:11:08.696513+00:00",
+      "market_context": {
+        "change_pct": null,
+        "last_price": null,
+        "market_date": null
+      },
+      "material_snapshot": {
+        "acquirer": null,
+        "acquirer_confirmed": false,
+        "event_type": "TAKEOVER",
+        "execution_price": null,
+        "ipo_single_price": null,
+        "money": [],
+        "official_authority": null,
+        "official_kind": null,
+        "price_range": null,
+        "ratio": null,
+        "schedule": {},
+        "share_count": null,
+        "stage": "MOU",
+        "stage_step": 3,
         "stage_total": 7,
         "stake": [],
         "standby_buyer": null,
@@ -7363,7 +7399,7 @@
     }
   },
   "last_keepalive_utc": "2026-10-23T10:40:53.220355+00:00",
-  "last_state_change_utc": "2026-10-27T04:11:08.698753+00:00",
+  "last_state_change_utc": "2026-10-27T04:30:42.995040+00:00",
   "market_noise_suppressed": 10,
   "milestone_alerts": {},
   "rumor_alerts_sent": 151,
@@ -7375,7 +7411,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 27,
   "rumor_integrity_repairs": 2705,
-  "rumor_last_scan_utc": "2026-10-27T04:10:51.402397+00:00",
+  "rumor_last_scan_utc": "2026-10-27T04:30:41.901291+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
