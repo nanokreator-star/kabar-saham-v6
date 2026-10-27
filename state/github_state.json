@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 31,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 1002,
-  "early_signal_last_scan_utc": "2026-10-27T18:10:36.227879+00:00",
+  "early_signal_last_scan_utc": "2026-10-27T23:21:00.023731+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -5982,7 +5982,7 @@
       "owner_context_sources": 0,
       "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
       "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-      "owner_v6_checked_utc": "2026-10-27T11:20:40.454929+00:00",
+      "owner_v6_checked_utc": "2026-10-27T23:20:53.197976+00:00",
       "owner_v6_pages_fetched": 0,
       "profile_source": "Yahoo Finance",
       "profile_source_quality": "FALLBACK",
@@ -5991,7 +5991,7 @@
       "subindustry": null,
       "subsector": null,
       "ticker": "CIMB",
-      "verified_at": "2026-10-27T11:20:42.113699+00:00",
+      "verified_at": "2026-10-27T23:20:54.250996+00:00",
       "website": null
     },
     "CMNP": {
@@ -7329,7 +7329,7 @@
     }
   },
   "last_keepalive_utc": "2026-10-23T10:40:53.220355+00:00",
-  "last_state_change_utc": "2026-10-27T18:10:36.252056+00:00",
+  "last_state_change_utc": "2026-10-27T23:21:00.062963+00:00",
   "market_noise_suppressed": 10,
   "milestone_alerts": {},
   "rumor_alerts_sent": 151,
@@ -7341,7 +7341,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 27,
   "rumor_integrity_repairs": 2705,
-  "rumor_last_scan_utc": "2026-10-27T18:10:36.220449+00:00",
+  "rumor_last_scan_utc": "2026-10-27T23:21:00.009306+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -8347,7 +8347,7 @@
         "owner_context_sources": 0,
         "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
         "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-        "owner_v6_checked_utc": "2026-10-27T11:20:40.454929+00:00",
+        "owner_v6_checked_utc": "2026-10-27T23:20:53.197976+00:00",
         "owner_v6_pages_fetched": 0,
         "profile_source": "Yahoo Finance",
         "profile_source_quality": "FALLBACK",
@@ -8356,7 +8356,7 @@
         "subindustry": null,
         "subsector": null,
         "ticker": "CIMB",
-        "verified_at": "2026-10-27T11:20:42.113699+00:00",
+        "verified_at": "2026-10-27T23:20:54.250996+00:00",
         "website": null
       },
       "key": "DELISTING / RELISTING|TICKER|CIMB",
@@ -8366,7 +8366,7 @@
       "market_data": null,
       "official_confirmation": null,
       "premium_source_count": 0,
-      "profile_refresh_utc": "2026-10-27T11:20:47.377387+00:00",
+      "profile_refresh_utc": "2026-10-27T23:21:00.007120+00:00",
       "published": "Sat, 24 Oct 2026 11:27:51 GMT",
       "rumor_details": {
         "ipo_price": null,
