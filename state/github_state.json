@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 31,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 1002,
-  "early_signal_last_scan_utc": "2026-10-27T03:30:52.998407+00:00",
+  "early_signal_last_scan_utc": "2026-10-27T04:10:52.104752+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -61,7 +61,7 @@
       "volume_ratio": 0.22
     }
   },
-  "event_duplicates_suppressed": 82,
+  "event_duplicates_suppressed": 83,
   "event_memory": {
     "IPO|TICKER|FOTO": {
       "family": "IPO",
@@ -1885,11 +1885,11 @@
       "family": "M&A / TAKEOVER",
       "first_seen_utc": "2026-10-26T08:31:20.232538+00:00",
       "last_alert_utc": "2026-10-26T08:31:20.232527+00:00",
-      "last_seen_utc": "2026-10-26T08:31:20.232527+00:00",
+      "last_seen_utc": "2026-10-27T04:11:08.696527+00:00",
       "market_context": {
-        "change_pct": -1.4286,
-        "last_price": 138.0,
-        "market_date": "2026-10-26"
+        "change_pct": 0.0,
+        "last_price": 137.0,
+        "market_date": "2026-10-27"
       },
       "material_snapshot": {
         "acquirer": "BUMI",
@@ -5894,7 +5894,7 @@
       "owner_context_sources": 0,
       "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
       "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-      "owner_v6_checked_utc": "2026-10-26T08:31:19.616869+00:00",
+      "owner_v6_checked_utc": "2026-10-27T04:11:08.696219+00:00",
       "owner_v6_pages_fetched": 0,
       "profile_source": "Yahoo Finance",
       "profile_source_quality": "FALLBACK",
@@ -7363,8 +7363,8 @@
     }
   },
   "last_keepalive_utc": "2026-10-23T10:40:53.220355+00:00",
-  "last_state_change_utc": "2026-10-27T03:30:54.343330+00:00",
-  "market_noise_suppressed": 9,
+  "last_state_change_utc": "2026-10-27T04:11:08.698753+00:00",
+  "market_noise_suppressed": 10,
   "milestone_alerts": {},
   "rumor_alerts_sent": 151,
   "rumor_baseline_initialized": true,
@@ -7375,7 +7375,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 27,
   "rumor_integrity_repairs": 2705,
-  "rumor_last_scan_utc": "2026-10-27T03:30:52.188311+00:00",
+  "rumor_last_scan_utc": "2026-10-27T04:10:51.402397+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -8440,9 +8440,9 @@
       "source_quality": "LOW",
       "source_quality_score": 0.7,
       "sources": [
-        "Hallo Indonesia",
         "Hallo Bisnis",
         "Ceritojambi.com",
+        "Hallo Indonesia",
         "Monitor Indonesia",
         "Bisnis.com",
         "FORTUNE Indonesia",
@@ -9553,6 +9553,7 @@
     "3e41b2e6370e3be56026c8b942d8012a317d97fb86bbd896d6c603dc782e0088": "2026-10-19T13:31:10.412032+00:00",
     "3f78ae7a42cf76bd1df432f650f2891921b19245b8d8a196ce68ef39c2419fe6": "2026-09-18T02:31:36.685014+00:00",
     "410a4a9e7a2e874095da50a6d1cb47c3048fa76f31a9b4f168e5af02978d0930": "2026-09-27T00:31:18.150625+00:00",
+    "42f9f5d98451768c32748138f916802569c29c10ef089898f01a325ee9be1765": "2026-10-27T04:11:08.696513+00:00",
     "43fa02f3a191c3fc51552d478c82c128d76a71ce79320d4f3e9b49d99af8a5f6": "2026-08-28T16:40:51.239803+00:00",
     "448ca97eda77b809bad9eae0d34a380ea56aa5ad01a6ec1849eebc13ba705e57": "2026-10-16T14:11:03.419877+00:00",
     "495de9b968006e16e9a6a266d07c4466fbb79a1ffdfe654091c972916a2bbf89": "2026-08-29T14:31:13.281142+00:00",
