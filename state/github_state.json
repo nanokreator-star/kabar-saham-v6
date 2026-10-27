@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 31,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 1002,
-  "early_signal_last_scan_utc": "2026-10-27T01:41:09.649775+00:00",
+  "early_signal_last_scan_utc": "2026-10-27T03:10:50.083322+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -4585,6 +4585,44 @@
       },
       "ticker": ""
     },
+    "RIGHTS ISSUE|TITLE|BRIS MENGUAT PERSEN BUYBACK RP500 MILIAR TENGAH": {
+      "family": "RIGHTS ISSUE",
+      "first_seen_utc": "2026-10-27T03:10:52.845638+00:00",
+      "last_alert_utc": "2026-10-27T03:10:52.845633+00:00",
+      "last_seen_utc": "2026-10-27T03:10:52.845633+00:00",
+      "market_context": {
+        "change_pct": null,
+        "last_price": null,
+        "market_date": null
+      },
+      "material_snapshot": {
+        "acquirer": null,
+        "acquirer_confirmed": false,
+        "event_type": "RIGHTS ISSUE",
+        "execution_price": null,
+        "ipo_single_price": null,
+        "money": [
+          "Rp500 miliar"
+        ],
+        "official_authority": null,
+        "official_kind": null,
+        "price_range": null,
+        "ratio": null,
+        "schedule": {},
+        "share_count": null,
+        "stage": "RENCANA",
+        "stage_step": 2,
+        "stage_total": 6,
+        "stake": [],
+        "standby_buyer": null,
+        "target": null,
+        "target_confirmed": false,
+        "tender_price": null,
+        "underwriter": null,
+        "use_of_funds": []
+      },
+      "ticker": ""
+    },
     "RIGHTS ISSUE|TITLE|BRIS PROFIL KINERJA DIVIDEN RENCANA PINTU": {
       "family": "RIGHTS ISSUE",
       "first_seen_utc": "2026-10-22T12:30:51.521618+00:00",
@@ -7325,7 +7363,7 @@
     }
   },
   "last_keepalive_utc": "2026-10-23T10:40:53.220355+00:00",
-  "last_state_change_utc": "2026-10-27T01:41:09.689294+00:00",
+  "last_state_change_utc": "2026-10-27T03:10:52.847616+00:00",
   "market_noise_suppressed": 9,
   "milestone_alerts": {},
   "rumor_alerts_sent": 151,
@@ -7337,7 +7375,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 27,
   "rumor_integrity_repairs": 2705,
-  "rumor_last_scan_utc": "2026-10-27T01:41:08.741379+00:00",
+  "rumor_last_scan_utc": "2026-10-27T03:10:48.781201+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -9528,6 +9566,7 @@
     "525153e0abd1914c20a6a3ace053963a321d3bfb7135fe1ec18f949dfee14809": "2026-10-06T12:10:54.889035+00:00",
     "52ad2598c5b7983ec400c38f4381d39fd190c5e09f7bb3295f9cb047cb7f8978": "2026-10-13T02:50:57.795357+00:00",
     "53e95c182b4ff32e6c77f31910f263a3d61f61206ca6a399dd525c83434f0d2d": "2026-08-31T02:30:59.962731+00:00",
+    "5423f46a162876b3643d80e89d2031e1f62c659f29612dc1a64442ff81577cbe": "2026-10-27T03:10:52.845614+00:00",
     "55066476c98a62d199e1546be01cb3f9c6f443f8d5b96d341faf16a98f0436cb": "2026-10-06T07:01:11.470402+00:00",
     "550f201918f7cf2700a041970f674372c494e11acecd03a6c07b01a97ac8d5f9": "2026-09-29T09:11:28.029100+00:00",
     "5530899577172a24e7782183fb75aeadd93a98f4def48e343ef0a8b642b49e6e": "2026-09-18T01:41:15.519996+00:00",
