@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 31,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 1002,
-  "early_signal_last_scan_utc": "2026-10-28T06:20:51.855719+00:00",
+  "early_signal_last_scan_utc": "2026-10-28T06:31:02.753664+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -953,42 +953,6 @@
         "share_count": null,
         "stage": "OFFERING",
         "stage_step": 4,
-        "stage_total": 5,
-        "stake": [],
-        "standby_buyer": null,
-        "target": null,
-        "target_confirmed": false,
-        "tender_price": null,
-        "underwriter": null,
-        "use_of_funds": []
-      },
-      "ticker": ""
-    },
-    "IPO|TITLE|PASAR FLUKTUATIF BEI PERKETAT KUALITAS CALON BURSA": {
-      "family": "IPO",
-      "first_seen_utc": "2026-08-29T05:40:45.259660+00:00",
-      "last_alert_utc": "2026-08-29T05:40:45.259654+00:00",
-      "last_seen_utc": "2026-08-29T06:30:55.462301+00:00",
-      "market_context": {
-        "change_pct": null,
-        "last_price": null,
-        "market_date": null
-      },
-      "material_snapshot": {
-        "acquirer": null,
-        "acquirer_confirmed": false,
-        "event_type": "IPO",
-        "execution_price": null,
-        "ipo_single_price": null,
-        "money": [],
-        "official_authority": null,
-        "official_kind": null,
-        "price_range": null,
-        "ratio": null,
-        "schedule": {},
-        "share_count": null,
-        "stage": "RENCANA / PROSPEKTUS",
-        "stage_step": 2,
         "stage_total": 5,
         "stake": [],
         "standby_buyer": null,
@@ -7290,7 +7254,7 @@
     }
   },
   "last_keepalive_utc": "2026-10-23T10:40:53.220355+00:00",
-  "last_state_change_utc": "2026-10-28T06:20:51.892920+00:00",
+  "last_state_change_utc": "2026-10-28T06:31:02.792049+00:00",
   "market_noise_suppressed": 10,
   "milestone_alerts": {},
   "rumor_alerts_sent": 153,
@@ -7302,7 +7266,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 27,
   "rumor_integrity_repairs": 2705,
-  "rumor_last_scan_utc": "2026-10-28T06:20:51.842893+00:00",
+  "rumor_last_scan_utc": "2026-10-28T06:31:02.740235+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -8309,7 +8273,9 @@
       "derivative_source_count": 0,
       "detected_source_count": 1,
       "effective_independent_count": 0.3,
-      "entity_aliases": [],
+      "entity_aliases": [
+        "VKTR Teknologi Mobilitas"
+      ],
       "entity_resolution_source": null,
       "first_seen_utc": "2026-10-26T01:07:47+00:00",
       "high_quality_source_count": 0,
@@ -8407,7 +8373,7 @@
       "key": "DELISTING / RELISTING|TITLE|TIDUR BURSA 59 BERPOTENSI DELISTING ADA YANG",
       "last_alert_utc": "2026-10-28T06:20:51.841614+00:00",
       "last_seen_utc": "2026-10-28T06:12:47+00:00",
-      "link": "https://id.investing.com/news/stock-market-news/enam-bulan-disuspensi-70-emiten-terancam-delisting-termasuk-waskita-hingga-wika-2911211",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZ1hNdUk5c1Nxdy11X19HQVVwcldveXF5SEZNb2VLNkROSXpjTmYya0p4aldDMjFvUGRJTWNranNhUHdfalFiSjlrNW00Yzc3VnZyb094Q3RuQlpsNlRDamRhR2lSSkJZTGJJWnZPMDhjMWF0b2JGSURMTC0wXzBMWGtuenI1TUVrLUxOb3ZkR3FDVXlTZHpTcFRkLWs5RklEVjUwWnBYVml5clVadnI1d2s2Q25MaUZRNVBwbXhGTEhMYTRNWGdpMXRCR3JXUnpG?oc=5",
       "market_data": null,
       "official_confirmation": null,
       "premium_source_count": 0,
@@ -8428,7 +8394,7 @@
       "source_breakdown": [
         {
           "derivative": false,
-          "group": "id.investing.com",
+          "group": "investing.com indonesia",
           "new_material": 0,
           "quality": "LOW",
           "semantic_copy": false,
@@ -9391,7 +9357,6 @@
     "1330b3527a0cf5999f1131ce26f0a98971d3b18fd1f2897fe02b427c6ed0394b": "2026-09-18T13:31:06.274963+00:00",
     "140f0c2a6683951a9732ea25bdb3a05078cca40bb33a37636166bedd289f0bd4": "2026-08-29T13:53:16.888644+00:00",
     "14932677db0dbdb5bf9e3af25dcd19f76fb769c73a79f3d9846b3fbf61717dd3": "2026-09-17T20:01:21.731964+00:00",
-    "151f17f0267fb563ce82e18323c9b9ff31657d6d28084d531ee223c8ed0b8276": "2026-08-29T06:30:55.462288+00:00",
     "17d166eda3d2eaf971408220a84e44295105a841ca0747bbcc0a82e96f4fa06b": "2026-09-18T05:21:05.457166+00:00",
     "18beeebad9d1af50f22cc31ba32cf7cd3d7f43b1e9c7f390145e19aa869f8355": "2026-09-04T07:31:09.699142+00:00",
     "194e34aadbbadb29ea6284201a6dd105ccc6ce0854cc6e659ade2124e03624a8": "2026-10-02T06:01:02.686653+00:00",
