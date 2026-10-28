@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 31,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 1002,
-  "early_signal_last_scan_utc": "2026-10-28T13:11:05.161988+00:00",
+  "early_signal_last_scan_utc": "2026-10-28T14:01:19.069789+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -5693,7 +5693,7 @@
       "owner_context_sources": 0,
       "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
       "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-      "owner_v6_checked_utc": "2026-10-28T02:00:57.458348+00:00",
+      "owner_v6_checked_utc": "2026-10-28T14:01:18.664922+00:00",
       "owner_v6_pages_fetched": 0,
       "profile_source": "Yahoo Finance",
       "profile_source_quality": "FALLBACK",
@@ -6085,7 +6085,7 @@
       "owner_context_sources": 0,
       "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
       "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-      "owner_v6_checked_utc": "2026-10-28T02:00:48.088194+00:00",
+      "owner_v6_checked_utc": "2026-10-28T14:01:11.829412+00:00",
       "owner_v6_pages_fetched": 0,
       "profile_source": "Yahoo Finance",
       "profile_source_quality": "FALLBACK",
@@ -6094,7 +6094,7 @@
       "subindustry": null,
       "subsector": null,
       "ticker": "FREE",
-      "verified_at": "2026-10-28T02:00:49.237029+00:00",
+      "verified_at": "2026-10-28T14:01:12.372368+00:00",
       "website": null
     },
     "FROM": {
@@ -7182,7 +7182,7 @@
     }
   },
   "last_keepalive_utc": "2026-10-23T10:40:53.220355+00:00",
-  "last_state_change_utc": "2026-10-28T13:11:05.198145+00:00",
+  "last_state_change_utc": "2026-10-28T14:01:19.110524+00:00",
   "market_noise_suppressed": 10,
   "milestone_alerts": {},
   "rumor_alerts_sent": 154,
@@ -7194,7 +7194,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 29,
   "rumor_integrity_repairs": 2705,
-  "rumor_last_scan_utc": "2026-10-28T13:11:05.150600+00:00",
+  "rumor_last_scan_utc": "2026-10-28T14:01:19.055726+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -8128,7 +8128,7 @@
         "owner_context_sources": 0,
         "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
         "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-        "owner_v6_checked_utc": "2026-10-28T02:00:48.088194+00:00",
+        "owner_v6_checked_utc": "2026-10-28T14:01:11.829412+00:00",
         "owner_v6_pages_fetched": 0,
         "profile_source": "Yahoo Finance",
         "profile_source_quality": "FALLBACK",
@@ -8137,7 +8137,7 @@
         "subindustry": null,
         "subsector": null,
         "ticker": "FREE",
-        "verified_at": "2026-10-28T02:00:49.237029+00:00",
+        "verified_at": "2026-10-28T14:01:12.372368+00:00",
         "website": null
       },
       "key": "DELISTING / RELISTING|TICKER|FREE",
@@ -8147,7 +8147,7 @@
       "market_data": null,
       "official_confirmation": null,
       "premium_source_count": 0,
-      "profile_refresh_utc": "2026-10-28T02:00:57.726014+00:00",
+      "profile_refresh_utc": "2026-10-28T14:01:19.053890+00:00",
       "published": "Mon, 26 Oct 2026 01:07:47 GMT",
       "rumor_details": {
         "ipo_price": null,
@@ -9198,7 +9198,6 @@
     "10168ffe8c6c06e86f806f9be29da51a1f7ad69b13ed3be9d7a7ef5415cdac41": "2026-09-25T16:20:50.588575+00:00",
     "12b5dcccbfec6410a0129fd0b334a4a6359d11b7bdb06b8f71b3d8b2fe981ece": "2026-09-17T19:41:14.787581+00:00",
     "1330b3527a0cf5999f1131ce26f0a98971d3b18fd1f2897fe02b427c6ed0394b": "2026-09-18T13:31:06.274963+00:00",
-    "140f0c2a6683951a9732ea25bdb3a05078cca40bb33a37636166bedd289f0bd4": "2026-08-29T13:53:16.888644+00:00",
     "14932677db0dbdb5bf9e3af25dcd19f76fb769c73a79f3d9846b3fbf61717dd3": "2026-09-17T20:01:21.731964+00:00",
     "17d166eda3d2eaf971408220a84e44295105a841ca0747bbcc0a82e96f4fa06b": "2026-09-18T05:21:05.457166+00:00",
     "18beeebad9d1af50f22cc31ba32cf7cd3d7f43b1e9c7f390145e19aa869f8355": "2026-09-04T07:31:09.699142+00:00",
