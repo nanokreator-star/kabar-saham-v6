@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 31,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 1002,
-  "early_signal_last_scan_utc": "2026-10-28T14:01:19.069789+00:00",
+  "early_signal_last_scan_utc": "2026-10-28T14:41:09.860929+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -4052,42 +4052,6 @@
       },
       "ticker": ""
     },
-    "M&A / TAKEOVER|TITLE|WAJIB DUA PUTRA UTAMA MAKMUR MUNDUR DANA": {
-      "family": "M&A / TAKEOVER",
-      "first_seen_utc": "2026-08-29T14:31:13.281166+00:00",
-      "last_alert_utc": "2026-08-29T14:31:13.281160+00:00",
-      "last_seen_utc": "2026-08-29T14:31:13.281160+00:00",
-      "market_context": {
-        "change_pct": -2.1277,
-        "last_price": 92.0,
-        "market_date": "2026-08-28"
-      },
-      "material_snapshot": {
-        "acquirer": null,
-        "acquirer_confirmed": false,
-        "event_type": "TENDER OFFER",
-        "execution_price": null,
-        "ipo_single_price": null,
-        "money": [],
-        "official_authority": null,
-        "official_kind": null,
-        "price_range": null,
-        "ratio": null,
-        "schedule": {},
-        "share_count": null,
-        "stage": "TENDER OFFER",
-        "stage_step": 6,
-        "stage_total": 7,
-        "stake": [],
-        "standby_buyer": null,
-        "target": null,
-        "target_confirmed": false,
-        "tender_price": null,
-        "underwriter": null,
-        "use_of_funds": []
-      },
-      "ticker": "DPUM"
-    },
     "M&A / TAKEOVER|TITLE|WIBOWO GROUP CAPITAL RAMPUNGKAN WAJIB MBSS BISNIS": {
       "family": "M&A / TAKEOVER",
       "first_seen_utc": "2026-10-17T04:00:45.709409+00:00",
@@ -7182,7 +7146,7 @@
     }
   },
   "last_keepalive_utc": "2026-10-23T10:40:53.220355+00:00",
-  "last_state_change_utc": "2026-10-28T14:01:19.110524+00:00",
+  "last_state_change_utc": "2026-10-28T14:41:09.903126+00:00",
   "market_noise_suppressed": 10,
   "milestone_alerts": {},
   "rumor_alerts_sent": 154,
@@ -7194,7 +7158,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 29,
   "rumor_integrity_repairs": 2705,
-  "rumor_last_scan_utc": "2026-10-28T14:01:19.055726+00:00",
+  "rumor_last_scan_utc": "2026-10-28T14:41:09.845719+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -9254,7 +9218,6 @@
     "410a4a9e7a2e874095da50a6d1cb47c3048fa76f31a9b4f168e5af02978d0930": "2026-09-27T00:31:18.150625+00:00",
     "42f9f5d98451768c32748138f916802569c29c10ef089898f01a325ee9be1765": "2026-10-27T04:11:08.696513+00:00",
     "448ca97eda77b809bad9eae0d34a380ea56aa5ad01a6ec1849eebc13ba705e57": "2026-10-16T14:11:03.419877+00:00",
-    "495de9b968006e16e9a6a266d07c4466fbb79a1ffdfe654091c972916a2bbf89": "2026-08-29T14:31:13.281142+00:00",
     "4ab9a69bccaebda4cb98738a2d02ab258b60dcec67953bca9de31383ab85e326": "2026-09-29T21:31:05.703671+00:00",
     "4e366d9dd5be88b3ad8af4ffbe72644974814223920231aa43dd4153bc11aaf9": "2026-09-26T13:20:51.223636+00:00",
     "50399a0342a2d006cd2336812af52e6a80127e8e17c6f4226373887588ef7452": "2026-10-19T13:31:10.412032+00:00",
