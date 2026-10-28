@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 31,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 1002,
-  "early_signal_last_scan_utc": "2026-10-28T11:31:30.109862+00:00",
+  "early_signal_last_scan_utc": "2026-10-28T13:11:05.161988+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -4016,42 +4016,6 @@
       },
       "ticker": "NAYZ"
     },
-    "M&A / TAKEOVER|TITLE|TUNTAS AEP NUSANTARA KUASAI 99 48 PERSEN": {
-      "family": "M&A / TAKEOVER",
-      "first_seen_utc": "2026-08-29T09:01:04.104739+00:00",
-      "last_alert_utc": "2026-08-29T13:01:39.906053+00:00",
-      "last_seen_utc": "2026-08-29T13:01:39.906053+00:00",
-      "market_context": {
-        "change_pct": 0.0,
-        "last_price": 3470.0,
-        "market_date": "2026-08-28"
-      },
-      "material_snapshot": {
-        "acquirer": null,
-        "acquirer_confirmed": false,
-        "event_type": "TENDER OFFER",
-        "execution_price": null,
-        "ipo_single_price": null,
-        "money": [],
-        "official_authority": null,
-        "official_kind": null,
-        "price_range": null,
-        "ratio": null,
-        "schedule": {},
-        "share_count": "9.484.700 saham",
-        "stage": "TENDER OFFER",
-        "stage_step": 6,
-        "stage_total": 7,
-        "stake": [],
-        "standby_buyer": null,
-        "target": null,
-        "target_confirmed": false,
-        "tender_price": null,
-        "underwriter": null,
-        "use_of_funds": []
-      },
-      "ticker": "PNGO"
-    },
     "M&A / TAKEOVER|TITLE|ULTJ BELI FRISIAN FLAG RP14 FRIESLANDCAMPINA JADI": {
       "family": "M&A / TAKEOVER",
       "first_seen_utc": "2026-09-18T13:40:46.595339+00:00",
@@ -7218,7 +7182,7 @@
     }
   },
   "last_keepalive_utc": "2026-10-23T10:40:53.220355+00:00",
-  "last_state_change_utc": "2026-10-28T11:31:30.142371+00:00",
+  "last_state_change_utc": "2026-10-28T13:11:05.198145+00:00",
   "market_noise_suppressed": 10,
   "milestone_alerts": {},
   "rumor_alerts_sent": 154,
@@ -7230,7 +7194,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 29,
   "rumor_integrity_repairs": 2705,
-  "rumor_last_scan_utc": "2026-10-28T11:31:30.099700+00:00",
+  "rumor_last_scan_utc": "2026-10-28T13:11:05.150600+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -8063,13 +8027,13 @@
       "copy_duplicate_count": 0,
       "credible_effective_independent_count": 0,
       "derivative_source_count": 0,
-      "detected_source_count": 2,
-      "effective_independent_count": 0.7,
+      "detected_source_count": 1,
+      "effective_independent_count": 0.3,
       "entity_aliases": [],
       "entity_resolution_source": null,
       "first_seen_utc": "2026-10-21T07:41:28+00:00",
       "high_quality_source_count": 0,
-      "independent_story_count": 2,
+      "independent_story_count": 1,
       "issuer_profile": {
         "business_activity": null,
         "controller": null,
@@ -8121,21 +8085,11 @@
           "source": "Hallo Bisnis",
           "tier": 1,
           "weight": 0.35
-        },
-        {
-          "derivative": false,
-          "group": "ceritojambi.com",
-          "new_material": 0,
-          "quality": "LOW",
-          "semantic_copy": false,
-          "source": "Ceritojambi.com",
-          "tier": 1,
-          "weight": 0.35
         }
       ],
       "source_count": 9,
       "source_quality": "LOW",
-      "source_quality_score": 0.7,
+      "source_quality_score": 0.3,
       "sources": [
         "Hallo Bisnis",
         "Ceritojambi.com",
@@ -9397,7 +9351,6 @@
     "a463fb835a1f6b3b78368e5c04c178e2e5d089adba455f0779831ee35af7e59a": "2026-10-09T15:30:59.357852+00:00",
     "a610c7c5b697ee7f7548e70e3eb1ba6d2b4d6e8d6aba9c70f5a36ca3c2998a7d": "2026-09-07T11:10:59.517731+00:00",
     "a73b41389d45c46af52da1fd7dce1169607dffa1ad0a90525083dbd0f06ad970": "2026-10-24T03:30:58.394421+00:00",
-    "a756f94948679cb9e44f144a87f88e2767b95f261c152c0dc6161ad83b48ed7e": "2026-08-29T13:01:39.906036+00:00",
     "a7a4b1588da2190fce00918be07126b43aef12ace18cd06591a6f13d0ad7de09": "2026-09-07T17:01:17.930370+00:00",
     "a8df3fb5694bb11a35aae0d37ce1d4cc579d01bbd23f3828015da08ed729b3b5": "2026-09-02T09:31:01.471268+00:00",
     "ac1495342b650756ef3870c528d0e76e5bac6f229932d89ad8260e6f4c18eff2": "2026-10-06T04:31:36.095256+00:00",
