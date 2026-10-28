@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 31,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 1002,
-  "early_signal_last_scan_utc": "2026-10-28T20:41:10.549280+00:00",
+  "early_signal_last_scan_utc": "2026-10-28T23:40:50.360600+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -7099,7 +7099,7 @@
     }
   },
   "last_keepalive_utc": "2026-10-23T10:40:53.220355+00:00",
-  "last_state_change_utc": "2026-10-28T20:41:10.583023+00:00",
+  "last_state_change_utc": "2026-10-28T23:40:50.384359+00:00",
   "market_noise_suppressed": 10,
   "milestone_alerts": {},
   "rumor_alerts_sent": 154,
@@ -7109,9 +7109,9 @@
   "rumor_denied_count": 12,
   "rumor_duplicates_suppressed": 879,
   "rumor_entity_rekeys": 1,
-  "rumor_expired_count": 29,
+  "rumor_expired_count": 30,
   "rumor_integrity_repairs": 2705,
-  "rumor_last_scan_utc": "2026-10-28T20:41:10.535924+00:00",
+  "rumor_last_scan_utc": "2026-10-28T23:40:50.353185+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -8591,6 +8591,7 @@
       "key": "MERGER|TICKER|WALL",
       "last_alert_utc": "2026-10-22T01:31:18.474663+00:00",
       "last_seen_utc": "2026-10-21T23:38:00+00:00",
+      "last_state_change_utc": "2026-10-28T23:40:50.353170+00:00",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNaENxRnBCOHAwV3lmbDFINjlZbUJqR3NlaDNkUFhRakE1VmZ1X3ktdDQzZWlHd3JoZDQ1VHNXejU4b1pHekwxSkVmeFJ2b2Q4LUE3a2ZPZjRLVm1XU3E2TWM2QTNmbFRyZVAyTmNzc1RidUdIeXhyMFhDZW1VRGNVYTBNZU1XVnJ2c0ZzWVBSOXB4NHJNbko2Y3VCM2dZQ2NPRW9zb1VaSEZhMnFEOXhpVmZkQ3ZwV2ctSXRNb1ZhWjgzWHR0N3fSAcsBQVVfeXFMTnpEUVp4aFpQdU8zV1ptY0txOEJMbGlyUWNtcTdBVlRMcHpfYVl6OGlDZU5SMUZZVTVzcFd0UTY0UmlSbUNFNkExczFQVEpEVUxpd25NWHdVN1AwUnNvTUpmQ3JaQlJSTk45R3BNVHpoYjJnQlFvUkZibHV2MmtPelE4M0pSclRFVTZFV3Vid0NSaTRwZzJoNWgyZ3ZmQmM2emdtWlV6LXF1em40Q0JqTkNyQ3F0LTJVa2xMWERCOFZqUWtaQTFkd2U1Tnc?oc=5",
       "market_data": null,
       "official_confirmation": null,
@@ -8627,7 +8628,7 @@
       "sources": [
         "Katadata.co.id"
       ],
-      "status": "ACTIVE",
+      "status": "EXPIRED",
       "strength": "WEAK",
       "ticker": "WALL",
       "title": "Wall Street Menghijau Didongrak Wacana Merger SpaceX - Tesla Milik Elon Musk - Katadata.co.id"
