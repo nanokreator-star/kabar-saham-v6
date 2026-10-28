@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 31,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 1002,
-  "early_signal_last_scan_utc": "2026-10-28T02:31:01.629648+00:00",
+  "early_signal_last_scan_utc": "2026-10-28T03:10:50.020455+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -7290,10 +7290,10 @@
     }
   },
   "last_keepalive_utc": "2026-10-23T10:40:53.220355+00:00",
-  "last_state_change_utc": "2026-10-28T02:31:01.673119+00:00",
+  "last_state_change_utc": "2026-10-28T03:10:50.144053+00:00",
   "market_noise_suppressed": 10,
   "milestone_alerts": {},
-  "rumor_alerts_sent": 151,
+  "rumor_alerts_sent": 152,
   "rumor_baseline_initialized": true,
   "rumor_confirmed_count": 44,
   "rumor_confirmed_dedups": 0,
@@ -7302,7 +7302,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 27,
   "rumor_integrity_repairs": 2705,
-  "rumor_last_scan_utc": "2026-10-28T02:31:01.615529+00:00",
+  "rumor_last_scan_utc": "2026-10-28T03:10:50.010697+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -8514,6 +8514,78 @@
       "strength": "CONFIRMED OFFICIAL",
       "ticker": null,
       "title": "keterbukaan informasi transaksi pelepasan ekuitas atau divestasi kepemilikan saham entitas - PT Bursa Efek Indonesia"
+    },
+    "IPO|COMPANY|ANTHROPIC": {
+      "category": "IPO",
+      "company_name": "Anthropic",
+      "copy_duplicate_count": 0,
+      "credible_effective_independent_count": 0,
+      "derivative_source_count": 0,
+      "detected_source_count": 1,
+      "effective_independent_count": 0.3,
+      "entity_aliases": [
+        "Anthropic"
+      ],
+      "entity_resolution_source": null,
+      "first_seen_utc": "2026-10-28T02:57:28+00:00",
+      "high_quality_source_count": 0,
+      "independent_story_count": 1,
+      "issuer_profile": {
+        "business_activity": null,
+        "controller": null,
+        "industry": null,
+        "issuer_name": "Anthropic",
+        "major_shareholders": [],
+        "profile_source": "MULTI-SOURCE MEDIA CONTEXT (1)",
+        "profile_source_quality": "MEDIA_CONTEXT",
+        "sector": null,
+        "subsector": null,
+        "ticker": null,
+        "verified_at": "2026-10-28T03:10:49.364893+00:00"
+      },
+      "key": "IPO|COMPANY|ANTHROPIC",
+      "last_alert_utc": "2026-10-28T03:10:50.009738+00:00",
+      "last_seen_utc": "2026-10-28T02:57:28+00:00",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPR3RxTHdUTjd2MGxYSXk5cldPeTdyLXJ2QTZSYWlKQUtsUjcxT3Z3N2dQZEw3SmpKbFZmWllsRnhPOThhbDVmSkIwLW1sdnpTUzNDcHlTOWlieXRNb09TM2M1akJvdVVyeEFjdk1zN2l5MHZoX0ZBV28yQ2NWUFpGRm5vV08tX3IzZWRtM1JrQXpBTzUwTXRnczkwMDhvX0VLWUh3T04tVnViUGpfRDFNNmNqdlJDQQ?oc=5",
+      "market_data": null,
+      "official_confirmation": null,
+      "premium_source_count": 0,
+      "profile_refresh_utc": null,
+      "published": "Wed, 28 Oct 2026 02:57:28 GMT",
+      "rumor_details": {
+        "ipo_price": null,
+        "listing_estimate": null,
+        "money": [],
+        "percentages": [],
+        "price_range": null,
+        "rumored_party": null,
+        "share_count": null,
+        "underwriter": null
+      },
+      "semantic_copy_count": 0,
+      "source": "FORTUNE Indonesia",
+      "source_breakdown": [
+        {
+          "derivative": false,
+          "group": "fortune indonesia",
+          "new_material": 0,
+          "quality": "LOW",
+          "semantic_copy": false,
+          "source": "FORTUNE Indonesia",
+          "tier": 1,
+          "weight": 0.35
+        }
+      ],
+      "source_count": 1,
+      "source_quality": "LOW",
+      "source_quality_score": 0.3,
+      "sources": [
+        "FORTUNE Indonesia"
+      ],
+      "status": "ACTIVE",
+      "strength": "WEAK",
+      "ticker": null,
+      "title": "Anthropic Akan IPO, Valuasi Ditargetkan 2 Triliun Dolar AS - FORTUNE Indonesia"
     },
     "IPO|COMPANY|BEI CATAT 9 CALON EMITEN": {
       "category": "IPO",
