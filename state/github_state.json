@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 31,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 1002,
-  "early_signal_last_scan_utc": "2026-10-28T09:40:55.842529+00:00",
+  "early_signal_last_scan_utc": "2026-10-28T11:01:06.829931+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -7218,7 +7218,7 @@
     }
   },
   "last_keepalive_utc": "2026-10-23T10:40:53.220355+00:00",
-  "last_state_change_utc": "2026-10-28T09:40:55.873171+00:00",
+  "last_state_change_utc": "2026-10-28T11:01:06.857515+00:00",
   "market_noise_suppressed": 10,
   "milestone_alerts": {},
   "rumor_alerts_sent": 153,
@@ -7228,9 +7228,9 @@
   "rumor_denied_count": 12,
   "rumor_duplicates_suppressed": 879,
   "rumor_entity_rekeys": 1,
-  "rumor_expired_count": 28,
+  "rumor_expired_count": 29,
   "rumor_integrity_repairs": 2705,
-  "rumor_last_scan_utc": "2026-10-28T09:40:55.834313+00:00",
+  "rumor_last_scan_utc": "2026-10-28T11:01:06.818962+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -7616,85 +7616,6 @@
       "strength": "CONFIRMED OFFICIAL",
       "ticker": "ASRI",
       "title": "PENYAMPAIAN BUKTI IKLAN KETERBUKAAN INFORMASI PT CHANDRA ASRI PACIFIC TBK SEHUBUNGAN DENGAN RENCANA PEMBELIAN KEMBALI SAHAM PE - PT Bursa Efek Indonesia"
-    },
-    "BUYBACK|TICKER|FROM": {
-      "category": "BUYBACK",
-      "company_name": "ASHMORE ASSET MANAGEMENT INDONESIA",
-      "copy_duplicate_count": 0,
-      "credible_effective_independent_count": 1.1,
-      "derivative_source_count": 0,
-      "detected_source_count": 1,
-      "effective_independent_count": 1.1,
-      "entity_aliases": [
-        "ASHMORE ASSET MANAGEMENT INDONESIA TBK (&qu",
-        "ASHMORE ASSET MANAGEMENT INDONESIA"
-      ],
-      "entity_resolution_source": null,
-      "first_seen_utc": "2026-09-28T10:54:46+00:00",
-      "high_quality_source_count": 1,
-      "independent_story_count": 1,
-      "issuer_profile": {
-        "business_activity": null,
-        "controller": null,
-        "industry": null,
-        "issuer_name": "ASHMORE ASSET MANAGEMENT INDONESIA",
-        "owner_context_sources": 0,
-        "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
-        "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-        "owner_v6_checked_utc": "2026-10-02T03:30:55.890320+00:00",
-        "owner_v6_pages_fetched": 0,
-        "profile_source": "Yahoo Finance",
-        "profile_source_quality": "FALLBACK",
-        "profile_source_url": null,
-        "sector": null,
-        "subindustry": null,
-        "subsector": null,
-        "ticker": "FROM",
-        "verified_at": "2026-10-02T03:30:56.531664+00:00",
-        "website": null
-      },
-      "key": "BUYBACK|TICKER|FROM",
-      "last_seen_utc": "2026-09-28T10:54:46+00:00",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQmhQSlVxdVFKRDBReTZEYndaNVROZ1RMNWs3RTFqaHRmOUhFRl91ME05eHlHUUl3T1Y2QUR4ZEVnSkF3X19ocjVWRFZHUHA5dENVTkE1dkNacXRzenZkM0J6bHRTdGhGREp3aVJWeWVqTk04SGlpNmt3M1VpR2pkLUNNM2NsVzR4bUU3SF9LVHRPTFo4dnNHNG51MEV3NkdENEZzYkNOVWV2SXk2QXVkRk1mWQ?oc=5",
-      "market_data": null,
-      "official_confirmation": null,
-      "premium_source_count": 1,
-      "profile_refresh_utc": "2026-10-02T03:30:58.094399+00:00",
-      "published": "Mon, 28 Sep 2026 10:54:46 GMT",
-      "rumor_details": {
-        "ipo_price": null,
-        "listing_estimate": null,
-        "money": [],
-        "percentages": [],
-        "price_range": null,
-        "rumored_party": null,
-        "share_count": null,
-        "underwriter": null
-      },
-      "semantic_copy_count": 0,
-      "source": "PT Bursa Efek Indonesia",
-      "source_breakdown": [
-        {
-          "derivative": false,
-          "group": "pt bursa efek indonesia",
-          "new_material": 0,
-          "quality": "OFFICIAL",
-          "semantic_copy": false,
-          "source": "PT Bursa Efek Indonesia",
-          "tier": 5,
-          "weight": 1.1
-        }
-      ],
-      "source_count": 1,
-      "source_quality": "MEDIUM",
-      "source_quality_score": 5.5,
-      "sources": [
-        "PT Bursa Efek Indonesia"
-      ],
-      "status": "CONFIRMED OFFICIAL",
-      "strength": "CONFIRMED OFFICIAL",
-      "ticker": "FROM",
-      "title": "INFORMATION DISCLOSURE PROPOSED TRANSFER OF THE SHARES RESULTING FROM THE BUYBACK PT ASHMORE ASSET MANAGEMENT INDONESIA TBK (&qu - PT Bursa Efek Indonesia"
     },
     "BUYBACK|TICKER|IHSG": {
       "category": "BUYBACK",
@@ -9088,6 +9009,7 @@
       "key": "RIGHTS ISSUE|TICKER|CMNP",
       "last_alert_utc": "2026-10-21T14:01:56.464504+00:00",
       "last_seen_utc": "2026-10-21T11:01:00+00:00",
+      "last_state_change_utc": "2026-10-28T11:01:06.818944+00:00",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdFp1WHM4bGNDbFo1a2VSam9VZnVSeU43MVpMOExsOHpsTndWTW5OS2k5TTFsenFmYnRodkFoWGF4ZmNJZTViam83YXR0RlZZUUZuYmVGUDluR3pOZ0JLcl9HN2w2Qk8wRS1wbnU1NDhjRGk0cXBBc3pvcVQ0bjY0Q2tGZy1SdHlQN3B0Qkk0X3puQm8tT3c?oc=5",
       "market_data": {
         "change_pct": -1.4814814814814816,
@@ -9137,7 +9059,7 @@
       "sources": [
         "Emitennews.com"
       ],
-      "status": "ACTIVE",
+      "status": "EXPIRED",
       "strength": "WEAK",
       "ticker": "CMNP",
       "title": "Saham Bergejolak, Emiten Babah Alun (CMNP) Sentil Isu Rights Issue - Emitennews.com"
