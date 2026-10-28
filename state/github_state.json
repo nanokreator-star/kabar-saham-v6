@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 31,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 1002,
-  "early_signal_last_scan_utc": "2026-10-28T11:01:06.829931+00:00",
+  "early_signal_last_scan_utc": "2026-10-28T11:31:30.109862+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -5871,7 +5871,7 @@
       "owner_context_sources": 0,
       "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
       "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-      "owner_v6_checked_utc": "2026-10-27T23:20:53.197976+00:00",
+      "owner_v6_checked_utc": "2026-10-28T11:30:58.873942+00:00",
       "owner_v6_pages_fetched": 0,
       "profile_source": "Yahoo Finance",
       "profile_source_quality": "FALLBACK",
@@ -5880,7 +5880,7 @@
       "subindustry": null,
       "subsector": null,
       "ticker": "CIMB",
-      "verified_at": "2026-10-27T23:20:54.250996+00:00",
+      "verified_at": "2026-10-28T11:31:12.224425+00:00",
       "website": null
     },
     "CMNP": {
@@ -7218,10 +7218,10 @@
     }
   },
   "last_keepalive_utc": "2026-10-23T10:40:53.220355+00:00",
-  "last_state_change_utc": "2026-10-28T11:01:06.857515+00:00",
+  "last_state_change_utc": "2026-10-28T11:31:30.142371+00:00",
   "market_noise_suppressed": 10,
   "milestone_alerts": {},
-  "rumor_alerts_sent": 153,
+  "rumor_alerts_sent": 154,
   "rumor_baseline_initialized": true,
   "rumor_confirmed_count": 44,
   "rumor_confirmed_dedups": 0,
@@ -7230,7 +7230,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 29,
   "rumor_integrity_repairs": 2705,
-  "rumor_last_scan_utc": "2026-10-28T11:01:06.818962+00:00",
+  "rumor_last_scan_utc": "2026-10-28T11:31:30.099700+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -8078,7 +8078,7 @@
         "owner_context_sources": 0,
         "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
         "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-        "owner_v6_checked_utc": "2026-10-27T23:20:53.197976+00:00",
+        "owner_v6_checked_utc": "2026-10-28T11:30:58.873942+00:00",
         "owner_v6_pages_fetched": 0,
         "profile_source": "Yahoo Finance",
         "profile_source_quality": "FALLBACK",
@@ -8087,18 +8087,18 @@
         "subindustry": null,
         "subsector": null,
         "ticker": "CIMB",
-        "verified_at": "2026-10-27T23:20:54.250996+00:00",
+        "verified_at": "2026-10-28T11:31:12.224425+00:00",
         "website": null
       },
       "key": "DELISTING / RELISTING|TICKER|CIMB",
-      "last_alert_utc": "2026-10-26T13:50:57.631916+00:00",
+      "last_alert_utc": "2026-10-28T11:31:30.097916+00:00",
       "last_seen_utc": "2026-10-24T23:00:00+00:00",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNcDhRRXhjaVVXdFUwd1FKNllpM1BTRUhNNzQwcTEwX095WlBIMmhBc0RIZERhRWROa1pXOVVBc29KQ2RUdkJQZUNMMjNvUldldndmNjROZHBJWXNEbEtIbWNRbFkxOEEyRlZPZzc2NTB4SENtMmxxX09PSjJMNkIxcURvZU84X1kta0c5X0ZDUzdEWWE5THpIUlJtbG5HRHQ2VFlzNUpJSzFNLUs0VE16TzVvUE85MW5EaHFBdUNHZnJmLUVONndmV0JVSm5PMDZIRTFwUm9ZdjhQQjRuRHRhSGdRMNIB6AFBVV95cUxPcG1WVXFkTFh3cC1DYzFwajVRcDZaQnY5Tk9BcFRQSlYtbS1CaGZoamxydVpEUlduMVpiRDYtOVZHZHpfaGJTRGJ2eDFvUWtTWk93dDljV0IwaW1teFlETXNScjJJSFRfNGRsaTl1Q3pPSkc4SWJ1eFREN0NuNml2SE9ITHdhN2ZqUjdnX3ZkWFQxaTRLandjVmhmNTUzMGdGZlV5TzZGRjA5QlhhRkVjdldvbGphbURYaTVIcFc5ejc2UGQ5VG11REZkLWN5T2dMbEE0MGd0bXNPeDctd2ppbTEtYWhPQzh5?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPdWdpU0V5WnFBWGpsMXJYTzFVaDNlR1NXSkRHT1N6LWFPMFR6Z0R6ZTlpYjF4M1NGVF9Gak5ERHZWb3JDZ05fblR1R0U4VFNQZlhJa08wZkRtb2x1QzFKTTBHbjdkX3BVNHVrY0Q3cFBGYnZXR01BM2l0ZE9yWGYyUjNTeUVBSG1Na2FQUVlaN2tmT3RpdVFIOWdFV0FGd3o2M1c1bV9HV090ZE43d2FMeVE5aVgyOGF6bldDSkczV3VwOUpUZXptZHFyZ0w3UkJ4dXBHbU9Tb05JXzRfaDdCTUNJUznSAeoBQVVfeXFMTms4bkZwbGhHb3NxMzlIbjUxLW1Mamx3MjdRTHJzMkZKbmV2UVhHb1IzRVp3WURDdTY4eWZoTkcwY19YRU1GaTY5WVFjSjdpLTR2c2JrckZPRzI0b0RyLTY3bHVUOFRndG51a09nQzJSZGFxVzh6bEd5UEdpSGdNNlFoQU1NRmlhUWlsVHI2MHdQdXFjemdTZ1ZDQkRDLXBjdERhUHg3cWwwNG8tWEdEU3M0T1dLaG04SmY3UjlhLWpzYndYSGMwUVNDT2MybFoyckt1RU9QNnh6MlNZMFU5R2pIZEQ4cGY1OFpn?oc=5",
       "market_data": null,
       "official_confirmation": null,
       "premium_source_count": 0,
-      "profile_refresh_utc": "2026-10-27T23:21:00.007120+00:00",
-      "published": "Sat, 24 Oct 2026 11:27:51 GMT",
+      "profile_refresh_utc": "2026-10-28T11:31:04.340245+00:00",
+      "published": "Sat, 24 Oct 2026 23:00:00 GMT",
       "rumor_details": {
         "ipo_price": null,
         "listing_estimate": null,
@@ -8110,7 +8110,7 @@
         "underwriter": null
       },
       "semantic_copy_count": 0,
-      "source": "Hallo Indonesia",
+      "source": "Hallo Bisnis",
       "source_breakdown": [
         {
           "derivative": false,
@@ -8137,19 +8137,19 @@
       "source_quality": "LOW",
       "source_quality_score": 0.7,
       "sources": [
-        "Hallo Indonesia",
         "Hallo Bisnis",
         "Ceritojambi.com",
+        "Hallo Indonesia",
         "Monitor Indonesia",
         "Bisnis.com",
         "FORTUNE Indonesia",
         "CNBC Indonesia",
         "CNN Indonesia"
       ],
-      "status": "DENIED",
+      "status": "ACTIVE",
       "strength": "WEAK",
       "ticker": "CIMB",
-      "title": "CIMB Niaga Bantah Isu Delisting, Bagaimana Rumor Privatisasi Muncul dan Apa Penjelasan Resmi CIMB Group? - Hallo Indonesia - Hallo Indonesia"
+      "title": "CIMB Niaga dan Isu Delisting Saham, Ini Asal-Usul Rumor Privatisasi serta Respons OJK pada 22 Oktober 2026 - Hallobisnis.com - Hallo Bisnis"
     },
     "DELISTING / RELISTING|TICKER|FREE": {
       "category": "DELISTING / RELISTING",
