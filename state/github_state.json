@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 31,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 1002,
-  "early_signal_last_scan_utc": "2026-10-29T18:31:00.385592+00:00",
+  "early_signal_last_scan_utc": "2026-10-29T18:40:54.870575+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -7141,7 +7141,7 @@
     }
   },
   "last_keepalive_utc": "2026-10-23T10:40:53.220355+00:00",
-  "last_state_change_utc": "2026-10-29T18:31:00.426482+00:00",
+  "last_state_change_utc": "2026-10-29T18:40:54.898822+00:00",
   "market_noise_suppressed": 10,
   "milestone_alerts": {},
   "rumor_alerts_sent": 155,
@@ -7152,8 +7152,8 @@
   "rumor_duplicates_suppressed": 914,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 31,
-  "rumor_integrity_repairs": 2814,
-  "rumor_last_scan_utc": "2026-10-29T18:31:00.371936+00:00",
+  "rumor_integrity_repairs": 2816,
+  "rumor_last_scan_utc": "2026-10-29T18:40:54.860618+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -8688,8 +8688,8 @@
       "detected_source_count": 3,
       "effective_independent_count": 0.8,
       "entity_aliases": [
-        "Bank BCA (BBCA",
-        "Bank Central Asia"
+        "Bank Central Asia",
+        "Bank BCA (BBCA"
       ],
       "entity_resolution_source": null,
       "first_seen_utc": "2026-10-29T05:15:21+00:00",
