@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 31,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 1002,
-  "early_signal_last_scan_utc": "2026-10-29T08:10:59.015088+00:00",
+  "early_signal_last_scan_utc": "2026-10-29T08:20:51.073658+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -7175,7 +7175,7 @@
     }
   },
   "last_keepalive_utc": "2026-10-23T10:40:53.220355+00:00",
-  "last_state_change_utc": "2026-10-29T08:10:59.085911+00:00",
+  "last_state_change_utc": "2026-10-29T08:20:51.111037+00:00",
   "market_noise_suppressed": 10,
   "milestone_alerts": {},
   "rumor_alerts_sent": 155,
@@ -7186,8 +7186,8 @@
   "rumor_duplicates_suppressed": 882,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 31,
-  "rumor_integrity_repairs": 2712,
-  "rumor_last_scan_utc": "2026-10-29T08:10:58.999587+00:00",
+  "rumor_integrity_repairs": 2713,
+  "rumor_last_scan_utc": "2026-10-29T08:20:51.060537+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -7497,7 +7497,7 @@
     },
     "BUYBACK|TICKER|ASRI": {
       "category": "BUYBACK",
-      "company_name": "CHANDRA ASRI PACIFIC",
+      "company_name": "PT CHANDRA ASRI PACIFIC TBK SEHUBUNGAN DENGAN RENCANA PEMBELIAN KEMBALI SAHAM PE",
       "copy_duplicate_count": 0,
       "credible_effective_independent_count": 1.1,
       "derivative_source_count": 0,
@@ -8986,11 +8986,11 @@
     "MERGER|TITLE|DBS INDONESIA BANTAH RUMOR MERGER DENGAN BCA": {
       "category": "MERGER",
       "company_name": null,
-      "copy_duplicate_count": 2,
+      "copy_duplicate_count": 1,
       "credible_effective_independent_count": 0,
       "derivative_source_count": 0,
-      "detected_source_count": 3,
-      "effective_independent_count": 0.5,
+      "detected_source_count": 2,
+      "effective_independent_count": 0.4,
       "entity_aliases": [],
       "entity_resolution_source": null,
       "first_seen_utc": "2026-10-29T05:35:25+00:00",
@@ -9015,7 +9015,7 @@
         "share_count": null,
         "underwriter": null
       },
-      "semantic_copy_count": 2,
+      "semantic_copy_count": 1,
       "source": "Suara Independent News",
       "source_breakdown": [
         {
@@ -9037,25 +9037,15 @@
           "source": "CentralBatam",
           "tier": 1,
           "weight": 0.06
-        },
-        {
-          "derivative": true,
-          "group": "limapagi",
-          "new_material": 0,
-          "quality": "LOW",
-          "semantic_copy": true,
-          "source": "Limapagi",
-          "tier": 1,
-          "weight": 0.06
         }
       ],
       "source_count": 3,
       "source_quality": "LOW",
-      "source_quality_score": 0.5,
+      "source_quality_score": 0.4,
       "sources": [
         "Suara Independent News",
-        "Limapagi",
-        "CentralBatam"
+        "CentralBatam",
+        "Limapagi"
       ],
       "status": "DENIED",
       "strength": "WEAK",
