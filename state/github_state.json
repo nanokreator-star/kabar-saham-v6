@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 31,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 1002,
-  "early_signal_last_scan_utc": "2026-10-29T05:41:05.106921+00:00",
+  "early_signal_last_scan_utc": "2026-10-29T05:51:47.493471+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -5626,7 +5626,7 @@
       "owner_context_sources": 0,
       "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
       "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-      "owner_v6_checked_utc": "2026-10-25T16:50:48.181239+00:00",
+      "owner_v6_checked_utc": "2026-10-29T05:50:55.504347+00:00",
       "owner_v6_pages_fetched": 0,
       "profile_source": "Yahoo Finance",
       "profile_source_quality": "FALLBACK",
@@ -5635,7 +5635,7 @@
       "subindustry": null,
       "subsector": null,
       "ticker": "BNGA",
-      "verified_at": "2026-10-25T16:50:50.111628+00:00",
+      "verified_at": "2026-10-29T05:51:27.234629+00:00",
       "website": "https://www.cimbniaga.co.id"
     },
     "BRIS": {
@@ -7155,19 +7155,19 @@
     }
   },
   "last_keepalive_utc": "2026-10-23T10:40:53.220355+00:00",
-  "last_state_change_utc": "2026-10-29T05:41:05.138980+00:00",
+  "last_state_change_utc": "2026-10-29T05:51:47.523753+00:00",
   "market_noise_suppressed": 10,
   "milestone_alerts": {},
-  "rumor_alerts_sent": 154,
+  "rumor_alerts_sent": 155,
   "rumor_baseline_initialized": true,
   "rumor_confirmed_count": 44,
   "rumor_confirmed_dedups": 0,
   "rumor_denied_count": 12,
-  "rumor_duplicates_suppressed": 881,
+  "rumor_duplicates_suppressed": 882,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 31,
-  "rumor_integrity_repairs": 2708,
-  "rumor_last_scan_utc": "2026-10-29T05:41:05.096432+00:00",
+  "rumor_integrity_repairs": 2709,
+  "rumor_last_scan_utc": "2026-10-29T05:51:47.483368+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -7477,7 +7477,7 @@
     },
     "BUYBACK|TICKER|ASRI": {
       "category": "BUYBACK",
-      "company_name": "PT CHANDRA ASRI PACIFIC TBK SEHUBUNGAN DENGAN RENCANA PEMBELIAN KEMBALI SAHAM PE",
+      "company_name": "CHANDRA ASRI PACIFIC",
       "copy_duplicate_count": 0,
       "credible_effective_independent_count": 1.1,
       "derivative_source_count": 0,
@@ -7907,14 +7907,16 @@
       "category": "DELISTING / RELISTING",
       "company_name": "Bank CIMB Niaga",
       "copy_duplicate_count": 0,
-      "credible_effective_independent_count": 0,
+      "credible_effective_independent_count": 0.8,
       "derivative_source_count": 0,
       "detected_source_count": 1,
-      "effective_independent_count": 0.3,
-      "entity_aliases": [],
+      "effective_independent_count": 0.8,
+      "entity_aliases": [
+        "Bank CIMB Niaga"
+      ],
       "entity_resolution_source": null,
       "first_seen_utc": "2026-10-19T12:37:00+00:00",
-      "high_quality_source_count": 0,
+      "high_quality_source_count": 1,
       "independent_story_count": 1,
       "issuer_profile": {
         "business_activity": "PT Bank CIMB Niaga Tbk, together with its subsidiaries, provides various banking products and services in Indonesia and internationally. The company offers saving, current, and time and term deposit products; Sharia and payroll savings prod",
@@ -7924,7 +7926,7 @@
         "owner_context_sources": 0,
         "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
         "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-        "owner_v6_checked_utc": "2026-10-25T16:50:48.181239+00:00",
+        "owner_v6_checked_utc": "2026-10-29T05:50:55.504347+00:00",
         "owner_v6_pages_fetched": 0,
         "profile_source": "Yahoo Finance",
         "profile_source_quality": "FALLBACK",
@@ -7933,32 +7935,32 @@
         "subindustry": null,
         "subsector": null,
         "ticker": "BNGA",
-        "verified_at": "2026-10-25T16:50:50.111628+00:00",
+        "verified_at": "2026-10-29T05:51:27.234629+00:00",
         "website": "https://www.cimbniaga.co.id"
       },
       "key": "DELISTING / RELISTING|TICKER|BNGA",
-      "last_alert_utc": "2026-10-22T07:21:00.752116+00:00",
-      "last_seen_utc": "2026-10-22T04:03:44+00:00",
+      "last_alert_utc": "2026-10-29T05:51:47.481887+00:00",
+      "last_seen_utc": "2026-10-26T07:00:00+00:00",
       "last_state_change_utc": "2026-10-29T04:10:55.869691+00:00",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBGd3VQSWVUTlZXRmM1dEc0N3loazdvenVSQlVhWGp5WERrc1V0Mnk5SG9GM2IteWtjaXFkM3FGM2tmN1RKX081VmZza2RoWUpJaTlXMFN4ODNJbG5BWTZTZmpyeER4Zw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdm9MVnpoYktZQUJnZmdQTzJsdTJTd1Y2Mjd6SU1EQUZzWGR0MGQzUEJwcTBqMFBhOEFoTFVPMXpOOEVkdzYyWktrcHhobnF5V2EtVzBLUEZscFRFMDZjb2pCVlRjMGxxRjI5eENVQkRFRG1FcWN6dm9KaXhsSlZhajNEUm9DZERUT0p6anBxa04?oc=5",
       "market_data": {
-        "change_pct": -2.0289855072463765,
-        "fetched_at": "2026-10-22T07:20:59.554314+00:00",
-        "last_price": 1690.0,
-        "market_date": "2026-10-22",
-        "previous_close": 1725.0,
+        "change_pct": -1.2987012987012987,
+        "fetched_at": "2026-10-29T05:51:01.531239+00:00",
+        "last_price": 1520.0,
+        "market_date": "2026-10-29",
+        "previous_close": 1540.0,
         "source": "Yahoo Finance via yfinance",
         "symbol": "BNGA.JK",
         "ticker": "BNGA",
-        "volume": 28554600,
-        "volume_avg_20d": 7267330.0,
-        "volume_median_20d": 2343750.0,
-        "volume_ratio": 12.183296
+        "volume": 1533000,
+        "volume_avg_20d": 11126515.0,
+        "volume_median_20d": 3721950.0,
+        "volume_ratio": 0.41188086889936726
       },
       "official_confirmation": null,
       "premium_source_count": 0,
-      "profile_refresh_utc": "2026-10-25T16:50:58.687008+00:00",
-      "published": "Thu, 22 Oct 2026 04:03:44 GMT",
+      "profile_refresh_utc": "2026-10-29T05:51:02.447826+00:00",
+      "published": "Mon, 26 Oct 2026 07:00:00 GMT",
       "rumor_details": {
         "ipo_price": null,
         "listing_estimate": null,
@@ -7970,31 +7972,31 @@
         "underwriter": null
       },
       "semantic_copy_count": 0,
-      "source": "TradingView",
+      "source": "Emitennews.com",
       "source_breakdown": [
         {
           "derivative": false,
-          "group": "tradingview",
+          "group": "emitennews.com",
           "new_material": 0,
-          "quality": "LOW",
+          "quality": "MEDIUM",
           "semantic_copy": false,
-          "source": "TradingView",
-          "tier": 1,
-          "weight": 0.35
+          "source": "Emitennews.com",
+          "tier": 3,
+          "weight": 0.8
         }
       ],
       "source_count": 3,
       "source_quality": "LOW",
-      "source_quality_score": 0.3,
+      "source_quality_score": 2.0,
       "sources": [
+        "Emitennews.com",
         "TradingView",
-        "kontan.co.id",
-        "Emitennews.com"
+        "kontan.co.id"
       ],
-      "status": "EXPIRED",
+      "status": "ACTIVE",
       "strength": "WEAK",
       "ticker": "BNGA",
-      "title": "Menghijau di Tengah Wacana Delisting, Intip Kembali Profil Emiten BNGA dan Kinerjanya - TradingView"
+      "title": "Jawab Isu Delisting, Presdir Bank CIMB Niaga (BNGA) Ungkap Ini - Emitennews.com"
     },
     "DELISTING / RELISTING|TICKER|CIMB": {
       "category": "DELISTING / RELISTING",
@@ -8763,13 +8765,13 @@
       "independent_story_count": 1,
       "issuer_profile": null,
       "key": "MERGER|TITLE|DBS INDONESIA BANTAH RUMOR MERGER DENGAN BCA",
-      "last_seen_utc": "2026-10-29T05:35:29+00:00",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1sdExqaGlBcmJhaUYzSC1FN0FQVWhkVHNSbWdNVFdaYmh5ZHpvVW45aGNhMVFWQ3A5N3ZjemFMUE55dG5qSzZBMFhHZXBZRWtpOFJOVUN4VGI3S01QQ3J6dkFKSksydGF4Z1dLS1FJYUJ5Zw?oc=5",
+      "last_seen_utc": "2026-10-29T05:37:35+00:00",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4yOGt6NGxxTmVnXzh3c2Z4Ml9NQXV4Ny1zN19SUy1mcWZEZGtYWHM3dDdhckxqTmx6LXNFREF2cnN2NExMYno2V1FXV1ctTkZZTkNEVEc5SkpKdTVsVzV0S25sT1RNYVBnUklidTBwZVc3YUpVU0t3WERseWxuZw?oc=5",
       "market_data": null,
       "official_confirmation": null,
       "premium_source_count": 0,
       "profile_refresh_utc": null,
-      "published": "Thu, 29 Oct 2026 05:35:29 GMT",
+      "published": "Thu, 29 Oct 2026 05:37:35 GMT",
       "rumor_details": {
         "ipo_price": null,
         "listing_estimate": null,
@@ -8781,40 +8783,41 @@
         "underwriter": null
       },
       "semantic_copy_count": 1,
-      "source": "CentralBatam",
+      "source": "Suara Independent News",
       "source_breakdown": [
         {
           "derivative": false,
-          "group": "centralbatam",
+          "group": "suara independent news",
           "new_material": 0,
           "quality": "LOW",
           "semantic_copy": false,
-          "source": "CentralBatam",
+          "source": "Suara Independent News",
           "tier": 1,
           "weight": 0.35
         },
         {
           "derivative": true,
-          "group": "limapagi",
+          "group": "centralbatam",
           "new_material": 0,
           "quality": "LOW",
           "semantic_copy": true,
-          "source": "Limapagi",
+          "source": "CentralBatam",
           "tier": 1,
           "weight": 0.06
         }
       ],
-      "source_count": 2,
+      "source_count": 3,
       "source_quality": "LOW",
       "source_quality_score": 0.4,
       "sources": [
-        "Limapagi",
-        "CentralBatam"
+        "Suara Independent News",
+        "CentralBatam",
+        "Limapagi"
       ],
       "status": "DENIED",
       "strength": "WEAK",
       "ticker": null,
-      "title": "DBS Indonesia Bantah Rumor Merger dengan BCA - CentralBatam"
+      "title": "DBS Indonesia Bantah Rumor Merger dengan BCA - Suara Independent News"
     },
     "MERGER|TITLE|MENAKAR PROSPEK KINERJA BUMN KARYA JELANG WACANA": {
       "category": "MERGER",
