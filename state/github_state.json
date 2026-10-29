@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 31,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 1002,
-  "early_signal_last_scan_utc": "2026-10-29T19:01:05.577121+00:00",
+  "early_signal_last_scan_utc": "2026-10-29T19:11:00.687023+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -7141,7 +7141,7 @@
     }
   },
   "last_keepalive_utc": "2026-10-23T10:40:53.220355+00:00",
-  "last_state_change_utc": "2026-10-29T19:01:05.607484+00:00",
+  "last_state_change_utc": "2026-10-29T19:11:00.714798+00:00",
   "market_noise_suppressed": 10,
   "milestone_alerts": {},
   "rumor_alerts_sent": 155,
@@ -7152,8 +7152,8 @@
   "rumor_duplicates_suppressed": 914,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 31,
-  "rumor_integrity_repairs": 2819,
-  "rumor_last_scan_utc": "2026-10-29T19:01:05.564749+00:00",
+  "rumor_integrity_repairs": 2820,
+  "rumor_last_scan_utc": "2026-10-29T19:11:00.676448+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -8682,11 +8682,11 @@
     "MERGER|TICKER|BBCA": {
       "category": "MERGER",
       "company_name": "Bank Central Asia",
-      "copy_duplicate_count": 1,
+      "copy_duplicate_count": 0,
       "credible_effective_independent_count": 0,
       "derivative_source_count": 0,
       "detected_source_count": 2,
-      "effective_independent_count": 0.4,
+      "effective_independent_count": 0.7,
       "entity_aliases": [
         "Bank Central Asia",
         "Bank BCA (BBCA"
@@ -8694,7 +8694,7 @@
       "entity_resolution_source": null,
       "first_seen_utc": "2026-10-29T05:15:21+00:00",
       "high_quality_source_count": 0,
-      "independent_story_count": 1,
+      "independent_story_count": 2,
       "issuer_profile": {
         "business_activity": "PT Bank Central Asia Tbk provides commercial banking and other financial services. The company offers time deposits, e- deposits, spinning, Dana Lander accounts, customer accounts, gold stage; loans, such as business, investment credit, sec",
         "controller": null,
@@ -8733,7 +8733,7 @@
         "share_count": null,
         "underwriter": null
       },
-      "semantic_copy_count": 1,
+      "semantic_copy_count": 0,
       "source": "Limapagi",
       "source_breakdown": [
         {
@@ -8747,23 +8747,23 @@
           "weight": 0.35
         },
         {
-          "derivative": true,
-          "group": "idx channel",
+          "derivative": false,
+          "group": "traders union",
           "new_material": 0,
           "quality": "LOW",
-          "semantic_copy": true,
-          "source": "IDX Channel",
+          "semantic_copy": false,
+          "source": "Traders Union",
           "tier": 1,
-          "weight": 0.06
+          "weight": 0.35
         }
       ],
       "source_count": 3,
       "source_quality": "LOW",
-      "source_quality_score": 0.4,
+      "source_quality_score": 0.7,
       "sources": [
-        "IDX Channel",
         "Limapagi",
-        "Traders Union"
+        "Traders Union",
+        "IDX Channel"
       ],
       "status": "DENIED",
       "strength": "WEAK",
