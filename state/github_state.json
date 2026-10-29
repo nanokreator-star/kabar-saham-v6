@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 31,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 1002,
-  "early_signal_last_scan_utc": "2026-10-29T09:30:55.507830+00:00",
+  "early_signal_last_scan_utc": "2026-10-29T09:41:00.872708+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -7103,7 +7103,7 @@
     }
   },
   "last_keepalive_utc": "2026-10-23T10:40:53.220355+00:00",
-  "last_state_change_utc": "2026-10-29T09:30:55.536767+00:00",
+  "last_state_change_utc": "2026-10-29T09:41:00.921498+00:00",
   "market_noise_suppressed": 10,
   "milestone_alerts": {},
   "rumor_alerts_sent": 155,
@@ -7111,11 +7111,11 @@
   "rumor_confirmed_count": 44,
   "rumor_confirmed_dedups": 0,
   "rumor_denied_count": 12,
-  "rumor_duplicates_suppressed": 885,
+  "rumor_duplicates_suppressed": 886,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 31,
-  "rumor_integrity_repairs": 2724,
-  "rumor_last_scan_utc": "2026-10-29T09:30:55.500018+00:00",
+  "rumor_integrity_repairs": 2726,
+  "rumor_last_scan_utc": "2026-10-29T09:41:00.853867+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -8137,13 +8137,13 @@
       },
       "key": "DELISTING / RELISTING|TITLE|TIDUR BURSA 59 BERPOTENSI DELISTING ADA YANG",
       "last_alert_utc": "2026-10-28T06:20:51.841614+00:00",
-      "last_seen_utc": "2026-10-28T06:12:47+00:00",
+      "last_seen_utc": "2026-10-28T17:17:13+00:00",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZ1hNdUk5c1Nxdy11X19HQVVwcldveXF5SEZNb2VLNkROSXpjTmYya0p4aldDMjFvUGRJTWNranNhUHdfalFiSjlrNW00Yzc3VnZyb094Q3RuQlpsNlRDamRhR2lSSkJZTGJJWnZPMDhjMWF0b2JGSURMTC0wXzBMWGtuenI1TUVrLUxOb3ZkR3FDVXlTZHpTcFRkLWs5RklEVjUwWnBYVml5clVadnI1d2s2Q25MaUZRNVBwbXhGTEhMYTRNWGdpMXRCR3JXUnpG?oc=5",
       "market_data": null,
       "official_confirmation": null,
       "premium_source_count": 0,
       "profile_refresh_utc": null,
-      "published": "Wed, 28 Oct 2026 06:12:47 GMT",
+      "published": "Wed, 28 Oct 2026 17:17:13 GMT",
       "rumor_details": {
         "ipo_price": null,
         "listing_estimate": null,
