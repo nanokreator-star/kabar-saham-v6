@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 31,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 1002,
-  "early_signal_last_scan_utc": "2026-10-29T13:10:58.221584+00:00",
+  "early_signal_last_scan_utc": "2026-10-29T13:20:51.875516+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -7103,7 +7103,7 @@
     }
   },
   "last_keepalive_utc": "2026-10-23T10:40:53.220355+00:00",
-  "last_state_change_utc": "2026-10-29T13:10:58.264231+00:00",
+  "last_state_change_utc": "2026-10-29T13:20:51.905622+00:00",
   "market_noise_suppressed": 10,
   "milestone_alerts": {},
   "rumor_alerts_sent": 155,
@@ -7111,11 +7111,11 @@
   "rumor_confirmed_count": 44,
   "rumor_confirmed_dedups": 0,
   "rumor_denied_count": 12,
-  "rumor_duplicates_suppressed": 888,
+  "rumor_duplicates_suppressed": 889,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 31,
-  "rumor_integrity_repairs": 2760,
-  "rumor_last_scan_utc": "2026-10-29T13:10:58.206227+00:00",
+  "rumor_integrity_repairs": 2761,
+  "rumor_last_scan_utc": "2026-10-29T13:20:51.867077+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -8926,11 +8926,11 @@
     "MERGER|TITLE|DBS INDONESIA BANTAH RUMOR MERGER DENGAN BCA": {
       "category": "MERGER",
       "company_name": null,
-      "copy_duplicate_count": 0,
+      "copy_duplicate_count": 2,
       "credible_effective_independent_count": 0,
       "derivative_source_count": 0,
-      "detected_source_count": 1,
-      "effective_independent_count": 0.3,
+      "detected_source_count": 3,
+      "effective_independent_count": 0.5,
       "entity_aliases": [],
       "entity_resolution_source": null,
       "first_seen_utc": "2026-10-29T05:35:25+00:00",
@@ -8938,13 +8938,13 @@
       "independent_story_count": 1,
       "issuer_profile": null,
       "key": "MERGER|TITLE|DBS INDONESIA BANTAH RUMOR MERGER DENGAN BCA",
-      "last_seen_utc": "2026-10-29T05:35:29+00:00",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1sdExqaGlBcmJhaUYzSC1FN0FQVWhkVHNSbWdNVFdaYmh5ZHpvVW45aGNhMVFWQ3A5N3ZjemFMUE55dG5qSzZBMFhHZXBZRWtpOFJOVUN4VGI3S01QQ3J6dkFKSksydGF4Z1dLS1FJYUJ5Zw?oc=5",
+      "last_seen_utc": "2026-10-29T05:37:35+00:00",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4yOGt6NGxxTmVnXzh3c2Z4Ml9NQXV4Ny1zN19SUy1mcWZEZGtYWHM3dDdhckxqTmx6LXNFREF2cnN2NExMYno2V1FXV1ctTkZZTkNEVEc5SkpKdTVsVzV0S25sT1RNYVBnUklidTBwZVc3YUpVU0t3WERseWxuZw?oc=5",
       "market_data": null,
       "official_confirmation": null,
       "premium_source_count": 0,
       "profile_refresh_utc": null,
-      "published": "Thu, 29 Oct 2026 05:35:29 GMT",
+      "published": "Thu, 29 Oct 2026 05:37:35 GMT",
       "rumor_details": {
         "ipo_price": null,
         "listing_estimate": null,
@@ -8955,32 +8955,52 @@
         "share_count": null,
         "underwriter": null
       },
-      "semantic_copy_count": 0,
-      "source": "CentralBatam",
+      "semantic_copy_count": 2,
+      "source": "Suara Independent News",
       "source_breakdown": [
         {
           "derivative": false,
-          "group": "centralbatam",
+          "group": "suara independent news",
           "new_material": 0,
           "quality": "LOW",
           "semantic_copy": false,
-          "source": "CentralBatam",
+          "source": "Suara Independent News",
           "tier": 1,
           "weight": 0.35
+        },
+        {
+          "derivative": true,
+          "group": "centralbatam",
+          "new_material": 0,
+          "quality": "LOW",
+          "semantic_copy": true,
+          "source": "CentralBatam",
+          "tier": 1,
+          "weight": 0.06
+        },
+        {
+          "derivative": true,
+          "group": "limapagi",
+          "new_material": 0,
+          "quality": "LOW",
+          "semantic_copy": true,
+          "source": "Limapagi",
+          "tier": 1,
+          "weight": 0.06
         }
       ],
       "source_count": 3,
       "source_quality": "LOW",
-      "source_quality_score": 0.3,
+      "source_quality_score": 0.5,
       "sources": [
-        "CentralBatam",
         "Suara Independent News",
-        "Limapagi"
+        "Limapagi",
+        "CentralBatam"
       ],
       "status": "DENIED",
       "strength": "WEAK",
       "ticker": null,
-      "title": "DBS Indonesia Bantah Rumor Merger dengan BCA - CentralBatam"
+      "title": "DBS Indonesia Bantah Rumor Merger dengan BCA - Suara Independent News"
     },
     "MERGER|TITLE|MENAKAR PROSPEK KINERJA BUMN KARYA JELANG WACANA": {
       "category": "MERGER",
