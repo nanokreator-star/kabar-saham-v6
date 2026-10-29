@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 31,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 1002,
-  "early_signal_last_scan_utc": "2026-10-29T09:10:57.749921+00:00",
+  "early_signal_last_scan_utc": "2026-10-29T09:20:57.382141+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -571,42 +571,6 @@
         "stake": [
           50.0
         ],
-        "standby_buyer": null,
-        "target": null,
-        "target_confirmed": false,
-        "tender_price": null,
-        "underwriter": null,
-        "use_of_funds": []
-      },
-      "ticker": ""
-    },
-    "IPO|TITLE|BUKAN TAK LAKU ALASAN CALON MENUNDA SUARA": {
-      "family": "IPO",
-      "first_seen_utc": "2026-08-30T05:01:07.776317+00:00",
-      "last_alert_utc": "2026-08-30T05:01:07.776309+00:00",
-      "last_seen_utc": "2026-08-30T09:20:57.407002+00:00",
-      "market_context": {
-        "change_pct": null,
-        "last_price": null,
-        "market_date": null
-      },
-      "material_snapshot": {
-        "acquirer": null,
-        "acquirer_confirmed": false,
-        "event_type": "IPO",
-        "execution_price": null,
-        "ipo_single_price": null,
-        "money": [],
-        "official_authority": null,
-        "official_kind": null,
-        "price_range": null,
-        "ratio": null,
-        "schedule": {},
-        "share_count": null,
-        "stage": "OFFERING",
-        "stage_step": 4,
-        "stage_total": 5,
-        "stake": [],
         "standby_buyer": null,
         "target": null,
         "target_confirmed": false,
@@ -7139,7 +7103,7 @@
     }
   },
   "last_keepalive_utc": "2026-10-23T10:40:53.220355+00:00",
-  "last_state_change_utc": "2026-10-29T09:10:57.790338+00:00",
+  "last_state_change_utc": "2026-10-29T09:20:57.415906+00:00",
   "market_noise_suppressed": 10,
   "milestone_alerts": {},
   "rumor_alerts_sent": 155,
@@ -7150,8 +7114,8 @@
   "rumor_duplicates_suppressed": 885,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 31,
-  "rumor_integrity_repairs": 2720,
-  "rumor_last_scan_utc": "2026-10-29T09:10:57.735898+00:00",
+  "rumor_integrity_repairs": 2722,
+  "rumor_last_scan_utc": "2026-10-29T09:20:57.373620+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -8683,15 +8647,15 @@
       "copy_duplicate_count": 0,
       "credible_effective_independent_count": 0,
       "derivative_source_count": 0,
-      "detected_source_count": 2,
-      "effective_independent_count": 0.7,
+      "detected_source_count": 1,
+      "effective_independent_count": 0.3,
       "entity_aliases": [
         "Bank Central Asia"
       ],
       "entity_resolution_source": null,
       "first_seen_utc": "2026-10-29T05:15:21+00:00",
       "high_quality_source_count": 0,
-      "independent_story_count": 2,
+      "independent_story_count": 1,
       "issuer_profile": {
         "business_activity": "PT Bank Central Asia Tbk provides commercial banking and other financial services. The company offers time deposits, e- deposits, spinning, Dana Lander accounts, customer accounts, gold stage; loans, such as business, investment credit, sec",
         "controller": null,
@@ -8742,24 +8706,14 @@
           "source": "Limapagi",
           "tier": 1,
           "weight": 0.35
-        },
-        {
-          "derivative": false,
-          "group": "traders union",
-          "new_material": 0,
-          "quality": "LOW",
-          "semantic_copy": false,
-          "source": "Traders Union",
-          "tier": 1,
-          "weight": 0.35
         }
       ],
       "source_count": 2,
       "source_quality": "LOW",
-      "source_quality_score": 0.7,
+      "source_quality_score": 0.3,
       "sources": [
-        "Traders Union",
-        "Limapagi"
+        "Limapagi",
+        "Traders Union"
       ],
       "status": "DENIED",
       "strength": "WEAK",
@@ -9649,7 +9603,6 @@
     "d8180a58f1d06a1944b77556f75cbcc31f9d5b39b153808456807cf2281223da": "2026-09-18T02:31:38.041070+00:00",
     "d859f509e1004c282649f78bedfe6450ceb10b7744c96f8de597132c87b8837a": "2026-09-30T14:01:06.994357+00:00",
     "db73471c6739ea54270da405e8edf15b16331f04c63c77531381b39009b021bc": "2026-09-17T19:41:14.787581+00:00",
-    "db953a8993c872959c7a093023ec584e401db28da72b68d8637e91521fe9bb18": "2026-08-30T09:20:57.406987+00:00",
     "dc8d46bae2e24725d7c967c2c2d45f1bb33cee2accd200d84085dae4a3e993eb": "2026-09-30T14:11:10.184761+00:00",
     "dcb8a0ec91d1638ae4106e9f3288479f55453dd41d82f7009a3f30f3c6d545d7": "2026-10-01T13:10:51.936210+00:00",
     "dde2dc608ac115cc766b9774c9b5dbe2533f91f32f0fe603fb244c38bceecbdd": "2026-10-02T08:01:06.364826+00:00",
