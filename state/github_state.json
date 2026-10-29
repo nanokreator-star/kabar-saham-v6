@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 31,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 1002,
-  "early_signal_last_scan_utc": "2026-10-29T20:01:05.990604+00:00",
+  "early_signal_last_scan_utc": "2026-10-29T20:10:59.528244+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -5397,7 +5397,7 @@
       "owner_context_sources": 0,
       "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
       "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-      "owner_v6_checked_utc": "2026-10-29T08:01:05.519965+00:00",
+      "owner_v6_checked_utc": "2026-10-29T20:10:54.479687+00:00",
       "owner_v6_pages_fetched": 0,
       "profile_source": "Yahoo Finance",
       "profile_source_quality": "FALLBACK",
@@ -5406,7 +5406,7 @@
       "subindustry": null,
       "subsector": null,
       "ticker": "ASET",
-      "verified_at": "2026-10-29T08:01:06.240319+00:00",
+      "verified_at": "2026-10-29T20:10:55.653450+00:00",
       "website": null
     },
     "ASII": {
@@ -7141,7 +7141,7 @@
     }
   },
   "last_keepalive_utc": "2026-10-23T10:40:53.220355+00:00",
-  "last_state_change_utc": "2026-10-29T20:01:06.020823+00:00",
+  "last_state_change_utc": "2026-10-29T20:10:59.572533+00:00",
   "market_noise_suppressed": 10,
   "milestone_alerts": {},
   "rumor_alerts_sent": 155,
@@ -7152,8 +7152,8 @@
   "rumor_duplicates_suppressed": 914,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 31,
-  "rumor_integrity_repairs": 2829,
-  "rumor_last_scan_utc": "2026-10-29T20:01:05.978140+00:00",
+  "rumor_integrity_repairs": 2830,
+  "rumor_last_scan_utc": "2026-10-29T20:10:59.512491+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -8219,7 +8219,7 @@
     },
     "DIVESTASI|TICKER|ASET": {
       "category": "DIVESTASI",
-      "company_name": "PT LANCARTAMA SEJATI TBK KEPADA PT PERMANA NAMMA MULIA",
+      "company_name": "ASET",
       "copy_duplicate_count": 0,
       "credible_effective_independent_count": 1.1,
       "derivative_source_count": 0,
@@ -8240,7 +8240,7 @@
         "owner_context_sources": 0,
         "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
         "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-        "owner_v6_checked_utc": "2026-10-29T08:01:05.519965+00:00",
+        "owner_v6_checked_utc": "2026-10-29T20:10:54.479687+00:00",
         "owner_v6_pages_fetched": 0,
         "profile_source": "Yahoo Finance",
         "profile_source_quality": "FALLBACK",
@@ -8249,7 +8249,7 @@
         "subindustry": null,
         "subsector": null,
         "ticker": "ASET",
-        "verified_at": "2026-10-29T08:01:06.240319+00:00",
+        "verified_at": "2026-10-29T20:10:55.653450+00:00",
         "website": null
       },
       "key": "DIVESTASI|TICKER|ASET",
@@ -8258,7 +8258,7 @@
       "market_data": null,
       "official_confirmation": null,
       "premium_source_count": 1,
-      "profile_refresh_utc": "2026-10-29T08:01:10.064628+00:00",
+      "profile_refresh_utc": "2026-10-29T20:10:59.507885+00:00",
       "published": "Thu, 29 Oct 2026 07:57:57 GMT",
       "rumor_details": {
         "ipo_price": null,
@@ -8682,19 +8682,19 @@
     "MERGER|TICKER|BBCA": {
       "category": "MERGER",
       "company_name": "Bank Central Asia",
-      "copy_duplicate_count": 0,
+      "copy_duplicate_count": 1,
       "credible_effective_independent_count": 0,
       "derivative_source_count": 0,
       "detected_source_count": 2,
-      "effective_independent_count": 0.7,
+      "effective_independent_count": 0.4,
       "entity_aliases": [
-        "Bank Central Asia",
-        "Bank BCA (BBCA"
+        "Bank BCA (BBCA",
+        "Bank Central Asia"
       ],
       "entity_resolution_source": null,
       "first_seen_utc": "2026-10-29T05:15:21+00:00",
       "high_quality_source_count": 0,
-      "independent_story_count": 2,
+      "independent_story_count": 1,
       "issuer_profile": {
         "business_activity": "PT Bank Central Asia Tbk provides commercial banking and other financial services. The company offers time deposits, e- deposits, spinning, Dana Lander accounts, customer accounts, gold stage; loans, such as business, investment credit, sec",
         "controller": null,
@@ -8733,7 +8733,7 @@
         "share_count": null,
         "underwriter": null
       },
-      "semantic_copy_count": 0,
+      "semantic_copy_count": 1,
       "source": "Limapagi",
       "source_breakdown": [
         {
@@ -8747,23 +8747,23 @@
           "weight": 0.35
         },
         {
-          "derivative": false,
-          "group": "traders union",
+          "derivative": true,
+          "group": "idx channel",
           "new_material": 0,
           "quality": "LOW",
-          "semantic_copy": false,
-          "source": "Traders Union",
+          "semantic_copy": true,
+          "source": "IDX Channel",
           "tier": 1,
-          "weight": 0.35
+          "weight": 0.06
         }
       ],
       "source_count": 3,
       "source_quality": "LOW",
-      "source_quality_score": 0.7,
+      "source_quality_score": 0.4,
       "sources": [
+        "IDX Channel",
         "Limapagi",
-        "Traders Union",
-        "IDX Channel"
+        "Traders Union"
       ],
       "status": "DENIED",
       "strength": "WEAK",
