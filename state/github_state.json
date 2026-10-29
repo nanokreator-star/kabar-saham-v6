@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 31,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 1002,
-  "early_signal_last_scan_utc": "2026-10-29T02:01:01.887341+00:00",
+  "early_signal_last_scan_utc": "2026-10-29T02:10:57.432482+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -4155,6 +4155,42 @@
       },
       "ticker": "BRIS"
     },
+    "RIGHTS ISSUE|TICKER|MGLV": {
+      "family": "RIGHTS ISSUE",
+      "first_seen_utc": "2026-10-29T02:11:07.229180+00:00",
+      "last_alert_utc": "2026-10-29T02:11:07.229176+00:00",
+      "last_seen_utc": "2026-10-29T02:11:07.229176+00:00",
+      "market_context": {
+        "change_pct": 6.7442,
+        "last_price": 11475.0,
+        "market_date": "2026-10-29"
+      },
+      "material_snapshot": {
+        "acquirer": null,
+        "acquirer_confirmed": false,
+        "event_type": "RIGHTS ISSUE",
+        "execution_price": null,
+        "ipo_single_price": null,
+        "money": [],
+        "official_authority": null,
+        "official_kind": null,
+        "price_range": null,
+        "ratio": null,
+        "schedule": {},
+        "share_count": null,
+        "stage": "EFEKTIF",
+        "stage_step": 4,
+        "stage_total": 6,
+        "stake": [],
+        "standby_buyer": null,
+        "target": null,
+        "target_confirmed": false,
+        "tender_price": null,
+        "underwriter": null,
+        "use_of_funds": []
+      },
+      "ticker": "MGLV"
+    },
     "RIGHTS ISSUE|TICKER|NINE": {
       "family": "RIGHTS ISSUE",
       "first_seen_utc": "2026-10-13T02:50:57.795382+00:00",
@@ -5610,7 +5646,7 @@
       "owner_context_sources": 0,
       "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
       "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-      "owner_v6_checked_utc": "2026-10-28T14:01:18.664922+00:00",
+      "owner_v6_checked_utc": "2026-10-29T02:10:57.123384+00:00",
       "owner_v6_pages_fetched": 0,
       "profile_source": "Yahoo Finance",
       "profile_source_quality": "FALLBACK",
@@ -6002,7 +6038,7 @@
       "owner_context_sources": 0,
       "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
       "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-      "owner_v6_checked_utc": "2026-10-28T14:01:11.829412+00:00",
+      "owner_v6_checked_utc": "2026-10-29T02:10:49.455739+00:00",
       "owner_v6_pages_fetched": 0,
       "profile_source": "Yahoo Finance",
       "profile_source_quality": "FALLBACK",
@@ -6011,7 +6047,7 @@
       "subindustry": null,
       "subsector": null,
       "ticker": "FREE",
-      "verified_at": "2026-10-28T14:01:12.372368+00:00",
+      "verified_at": "2026-10-29T02:10:50.111129+00:00",
       "website": null
     },
     "FROM": {
@@ -6381,6 +6417,26 @@
       "ticker": "MBSS",
       "verified_at": "2026-10-25T13:11:12.196011+00:00",
       "website": "https://www.mbss.co.id"
+    },
+    "MGLV": {
+      "business_activity": "PT NexAI Digital Infrastruktur Tbk engages in wholesale trading of household goods and equipment in Indonesia. Its products include furniture, appliances, sanitary, lighting, and kitchen cabinets.",
+      "controller": null,
+      "industry": "Furnishings, Fixtures & Appliances",
+      "issuer_name": "NexAI Digital Infrastruktur",
+      "owner_context_sources": 0,
+      "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
+      "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
+      "owner_v6_checked_utc": "2026-10-29T02:11:06.466086+00:00",
+      "owner_v6_pages_fetched": 0,
+      "profile_source": "Yahoo Finance",
+      "profile_source_quality": "FALLBACK",
+      "profile_source_url": null,
+      "sector": "Consumer Cyclical",
+      "subindustry": null,
+      "subsector": null,
+      "ticker": "MGLV",
+      "verified_at": "2026-10-29T02:11:00.403649+00:00",
+      "website": "https://nexai-group.com"
     },
     "MPIX": {
       "business_activity": "PT Mitra Pedagang Indonesia Tbk, a technology company, operates a digital platform that facilitates transactions for micro, small, and medium enterprises (MSMEs) under the MPStore brand in Indonesia. The company operates through Digital Pro",
@@ -7099,7 +7155,7 @@
     }
   },
   "last_keepalive_utc": "2026-10-23T10:40:53.220355+00:00",
-  "last_state_change_utc": "2026-10-29T02:01:01.937339+00:00",
+  "last_state_change_utc": "2026-10-29T02:11:07.230631+00:00",
   "market_noise_suppressed": 10,
   "milestone_alerts": {},
   "rumor_alerts_sent": 154,
@@ -7110,8 +7166,8 @@
   "rumor_duplicates_suppressed": 881,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 30,
-  "rumor_integrity_repairs": 2706,
-  "rumor_last_scan_utc": "2026-10-29T02:01:01.875982+00:00",
+  "rumor_integrity_repairs": 2707,
+  "rumor_last_scan_utc": "2026-10-29T02:10:57.426055+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -7421,7 +7477,7 @@
     },
     "BUYBACK|TICKER|ASRI": {
       "category": "BUYBACK",
-      "company_name": "PT CHANDRA ASRI PACIFIC TBK SEHUBUNGAN DENGAN RENCANA PEMBELIAN KEMBALI SAHAM PE",
+      "company_name": "CHANDRA ASRI PACIFIC",
       "copy_duplicate_count": 0,
       "credible_effective_independent_count": 1.1,
       "derivative_source_count": 0,
@@ -8046,7 +8102,7 @@
         "owner_context_sources": 0,
         "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
         "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-        "owner_v6_checked_utc": "2026-10-28T14:01:11.829412+00:00",
+        "owner_v6_checked_utc": "2026-10-29T02:10:49.455739+00:00",
         "owner_v6_pages_fetched": 0,
         "profile_source": "Yahoo Finance",
         "profile_source_quality": "FALLBACK",
@@ -8055,7 +8111,7 @@
         "subindustry": null,
         "subsector": null,
         "ticker": "FREE",
-        "verified_at": "2026-10-28T14:01:12.372368+00:00",
+        "verified_at": "2026-10-29T02:10:50.111129+00:00",
         "website": null
       },
       "key": "DELISTING / RELISTING|TICKER|FREE",
@@ -8065,7 +8121,7 @@
       "market_data": null,
       "official_confirmation": null,
       "premium_source_count": 0,
-      "profile_refresh_utc": "2026-10-28T14:01:19.053890+00:00",
+      "profile_refresh_utc": "2026-10-29T02:10:57.425287+00:00",
       "published": "Mon, 26 Oct 2026 01:07:47 GMT",
       "rumor_details": {
         "ipo_price": null,
@@ -9064,6 +9120,7 @@
     "273ebb2ba1eb8d2aea400d9c36a002da7e0b11dd07ede951cf9e7655200cb78e": "2026-10-19T00:50:39.877732+00:00",
     "27d6aeea63093039e397ca421be6af54b76fefb13ba9d82e770d5a6d977b67d6": "2026-10-09T09:01:19.797856+00:00",
     "280223ec0ee0c127fd660e15e429baf138b31369ebf62decbe93f1c4815badfb": "2026-10-27T17:40:58.906010+00:00",
+    "287c0840abdd9074cc618047847d70e8bf6f6d84f38528ba167a6fa1b7e6d28f": "2026-10-29T02:11:07.229156+00:00",
     "2b0067eb48ec03cb84a77ef2406308bfbf0ef0d3dd236c927f941fc8180af8e0": "2026-10-14T09:01:08.585304+00:00",
     "2b29593be0aa369524a661cd942d48ca86a6dbc0db382b91b2642e4017378b47": "2026-10-02T14:01:27.297323+00:00",
     "2dc57356dd724abb060028c3ee4539d7d63fdc9d0106f6d538c6dcfac057e4aa": "2026-09-26T18:11:32.751551+00:00",
