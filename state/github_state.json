@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 31,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 1002,
-  "early_signal_last_scan_utc": "2026-10-29T08:31:02.202384+00:00",
+  "early_signal_last_scan_utc": "2026-10-29T08:40:53.359739+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -738,42 +738,6 @@
       "first_seen_utc": "2026-09-16T13:50:59.873396+00:00",
       "last_alert_utc": "2026-09-16T13:50:59.873391+00:00",
       "last_seen_utc": "2026-09-16T13:50:59.873391+00:00",
-      "market_context": {
-        "change_pct": null,
-        "last_price": null,
-        "market_date": null
-      },
-      "material_snapshot": {
-        "acquirer": null,
-        "acquirer_confirmed": false,
-        "event_type": "IPO",
-        "execution_price": null,
-        "ipo_single_price": null,
-        "money": [],
-        "official_authority": null,
-        "official_kind": null,
-        "price_range": null,
-        "ratio": null,
-        "schedule": {},
-        "share_count": null,
-        "stage": "RENCANA / PROSPEKTUS",
-        "stage_step": 2,
-        "stage_total": 5,
-        "stake": [],
-        "standby_buyer": null,
-        "target": null,
-        "target_confirmed": false,
-        "tender_price": null,
-        "underwriter": null,
-        "use_of_funds": []
-      },
-      "ticker": ""
-    },
-    "IPO|TITLE|CALON TUNDA BEI KOMITMEN UTAMAKAN BERKUALITAS RCTI": {
-      "family": "IPO",
-      "first_seen_utc": "2026-08-28T13:40:50.293413+00:00",
-      "last_alert_utc": "2026-08-28T13:40:50.293407+00:00",
-      "last_seen_utc": "2026-08-30T08:40:49.258759+00:00",
       "market_context": {
         "change_pct": null,
         "last_price": null,
@@ -7175,7 +7139,7 @@
     }
   },
   "last_keepalive_utc": "2026-10-23T10:40:53.220355+00:00",
-  "last_state_change_utc": "2026-10-29T08:31:02.245789+00:00",
+  "last_state_change_utc": "2026-10-29T08:40:53.401913+00:00",
   "market_noise_suppressed": 10,
   "milestone_alerts": {},
   "rumor_alerts_sent": 155,
@@ -7183,11 +7147,11 @@
   "rumor_confirmed_count": 44,
   "rumor_confirmed_dedups": 0,
   "rumor_denied_count": 12,
-  "rumor_duplicates_suppressed": 883,
+  "rumor_duplicates_suppressed": 884,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 31,
-  "rumor_integrity_repairs": 2715,
-  "rumor_last_scan_utc": "2026-10-29T08:31:02.185750+00:00",
+  "rumor_integrity_repairs": 2716,
+  "rumor_last_scan_utc": "2026-10-29T08:40:53.344238+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -8749,13 +8713,13 @@
         "website": "https://www.bca.co.id"
       },
       "key": "MERGER|TICKER|BBCA",
-      "last_seen_utc": "2026-10-29T08:18:31+00:00",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOFAyM2c3THVyU21fTng1cVVrR05XRWw2Tm03b2ZwQ2l5blRjLUo2OWtVQlBqSVZyQ1I1NUJMbWk0Zjl3a3ltQ0ZlRUpNNERJRF9JbzAyVTNQbWtoTVZCeW84TFVPb2xtUDBmNTdJSkNadkFNMVpGTVJQd1FSaUVQcTl6aTRNWlloVE1iSE1mVQ?oc=5",
+      "last_seen_utc": "2026-10-29T05:15:21+00:00",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxObGpyeWszM1NMclRHRjRMcDF2dVA5UFViV1RRRXNyYW5QeE5LaWtUV3FqaGZKN3BGTngzS0wtVWFkbHRvaWhBNG9FWW5mWXNzSGt6b2J6aktacV9FUGNGZXBjUUpoTEE3UGx1UUc0bzR3TTJvTkpMenFzMFhtdWZERnBkM2FJOUNEOFZuMWFEMlBkd1RQS2lEcGNVSVhJUQ?oc=5",
       "market_data": null,
       "official_confirmation": null,
       "premium_source_count": 0,
       "profile_refresh_utc": "2026-10-29T06:41:19.487318+00:00",
-      "published": "Thu, 29 Oct 2026 08:18:31 GMT",
+      "published": "Thu, 29 Oct 2026 05:15:21 GMT",
       "rumor_details": {
         "ipo_price": null,
         "listing_estimate": null,
@@ -8767,15 +8731,15 @@
         "underwriter": null
       },
       "semantic_copy_count": 0,
-      "source": "Limapagi",
+      "source": "Traders Union",
       "source_breakdown": [
         {
           "derivative": false,
-          "group": "limapagi",
+          "group": "traders union",
           "new_material": 0,
           "quality": "LOW",
           "semantic_copy": false,
-          "source": "Limapagi",
+          "source": "Traders Union",
           "tier": 1,
           "weight": 0.35
         }
@@ -8784,13 +8748,13 @@
       "source_quality": "LOW",
       "source_quality_score": 0.3,
       "sources": [
-        "Limapagi",
-        "Traders Union"
+        "Traders Union",
+        "Limapagi"
       ],
       "status": "DENIED",
       "strength": "WEAK",
       "ticker": "BBCA",
-      "title": "DBS Bantah Rumor Merger dengan BCA Saham BBCA Turun 5,78 Persen - Limapagi"
+      "title": "DBS Indonesia bantah rumor merger dengan BCA di tengah gejolak saham BBCA - Traders Union"
     },
     "MERGER|TICKER|WALL": {
       "category": "MERGER",
@@ -9488,7 +9452,6 @@
     "23009cecac49a7bdb0c49820a59b69c655a8feca6af91712bf1db5e9b9622bfd": "2026-09-30T11:21:40.393091+00:00",
     "23631988368f35d98ff769a9badb44701656daefbb89abe01028a0ed3998262f": "2026-09-23T04:30:51.459933+00:00",
     "2425eaf6c4692970aeb9afa3e92df36eb3c0ea9648a7ca63fe7406865db786ea": "2026-10-03T14:50:45.376143+00:00",
-    "269f90e444cb4638aac529b92bab54baffbda2b1b30c406665b1ca8cd3aec12e": "2026-08-30T08:40:49.258736+00:00",
     "270562ea3dff0292a3fdea93673ea633636308ba5e93f4cb4ed688e12f20c707": "2026-09-14T09:20:54.324058+00:00",
     "273ebb2ba1eb8d2aea400d9c36a002da7e0b11dd07ede951cf9e7655200cb78e": "2026-10-19T00:50:39.877732+00:00",
     "27d6aeea63093039e397ca421be6af54b76fefb13ba9d82e770d5a6d977b67d6": "2026-10-09T09:01:19.797856+00:00",
