@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 31,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 1002,
-  "early_signal_last_scan_utc": "2026-10-29T11:50:56.409256+00:00",
+  "early_signal_last_scan_utc": "2026-10-29T12:01:05.451982+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -7103,7 +7103,7 @@
     }
   },
   "last_keepalive_utc": "2026-10-23T10:40:53.220355+00:00",
-  "last_state_change_utc": "2026-10-29T11:50:56.669795+00:00",
+  "last_state_change_utc": "2026-10-29T12:01:05.491245+00:00",
   "market_noise_suppressed": 10,
   "milestone_alerts": {},
   "rumor_alerts_sent": 155,
@@ -7114,8 +7114,8 @@
   "rumor_duplicates_suppressed": 887,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 31,
-  "rumor_integrity_repairs": 2746,
-  "rumor_last_scan_utc": "2026-10-29T11:50:56.400151+00:00",
+  "rumor_integrity_repairs": 2748,
+  "rumor_last_scan_utc": "2026-10-29T12:01:05.439407+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -8644,11 +8644,11 @@
     "MERGER|TICKER|BBCA": {
       "category": "MERGER",
       "company_name": "Bank Central Asia",
-      "copy_duplicate_count": 0,
+      "copy_duplicate_count": 1,
       "credible_effective_independent_count": 0,
       "derivative_source_count": 0,
-      "detected_source_count": 2,
-      "effective_independent_count": 0.7,
+      "detected_source_count": 3,
+      "effective_independent_count": 0.8,
       "entity_aliases": [
         "Bank Central Asia"
       ],
@@ -8694,7 +8694,7 @@
         "share_count": null,
         "underwriter": null
       },
-      "semantic_copy_count": 0,
+      "semantic_copy_count": 1,
       "source": "Limapagi",
       "source_breakdown": [
         {
@@ -8716,11 +8716,21 @@
           "source": "Traders Union",
           "tier": 1,
           "weight": 0.35
+        },
+        {
+          "derivative": true,
+          "group": "idx channel",
+          "new_material": 0,
+          "quality": "LOW",
+          "semantic_copy": true,
+          "source": "IDX Channel",
+          "tier": 1,
+          "weight": 0.06
         }
       ],
       "source_count": 3,
       "source_quality": "LOW",
-      "source_quality_score": 0.7,
+      "source_quality_score": 0.8,
       "sources": [
         "Traders Union",
         "Limapagi",
@@ -8926,11 +8936,11 @@
     "MERGER|TITLE|DBS INDONESIA BANTAH RUMOR MERGER DENGAN BCA": {
       "category": "MERGER",
       "company_name": null,
-      "copy_duplicate_count": 1,
+      "copy_duplicate_count": 2,
       "credible_effective_independent_count": 0,
       "derivative_source_count": 0,
-      "detected_source_count": 2,
-      "effective_independent_count": 0.4,
+      "detected_source_count": 3,
+      "effective_independent_count": 0.5,
       "entity_aliases": [],
       "entity_resolution_source": null,
       "first_seen_utc": "2026-10-29T05:35:25+00:00",
@@ -8955,7 +8965,7 @@
         "share_count": null,
         "underwriter": null
       },
-      "semantic_copy_count": 1,
+      "semantic_copy_count": 2,
       "source": "Suara Independent News",
       "source_breakdown": [
         {
@@ -8977,15 +8987,25 @@
           "source": "CentralBatam",
           "tier": 1,
           "weight": 0.06
+        },
+        {
+          "derivative": true,
+          "group": "limapagi",
+          "new_material": 0,
+          "quality": "LOW",
+          "semantic_copy": true,
+          "source": "Limapagi",
+          "tier": 1,
+          "weight": 0.06
         }
       ],
       "source_count": 3,
       "source_quality": "LOW",
-      "source_quality_score": 0.4,
+      "source_quality_score": 0.5,
       "sources": [
         "Suara Independent News",
-        "CentralBatam",
-        "Limapagi"
+        "Limapagi",
+        "CentralBatam"
       ],
       "status": "DENIED",
       "strength": "WEAK",
