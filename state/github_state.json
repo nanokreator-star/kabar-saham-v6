@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 31,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 1002,
-  "early_signal_last_scan_utc": "2026-10-29T18:01:07.588024+00:00",
+  "early_signal_last_scan_utc": "2026-10-29T18:10:51.326465+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -3897,6 +3897,44 @@
       },
       "ticker": "NAYZ"
     },
+    "M&A / TAKEOVER|TITLE|TGUK PERKUAT LANJUTKAN WAJIB LENSA HUKUM": {
+      "family": "M&A / TAKEOVER",
+      "first_seen_utc": "2026-10-29T18:10:53.636681+00:00",
+      "last_alert_utc": "2026-10-29T18:10:53.636674+00:00",
+      "last_seen_utc": "2026-10-29T18:10:53.636674+00:00",
+      "market_context": {
+        "change_pct": null,
+        "last_price": null,
+        "market_date": null
+      },
+      "material_snapshot": {
+        "acquirer": null,
+        "acquirer_confirmed": false,
+        "event_type": "TENDER OFFER",
+        "execution_price": null,
+        "ipo_single_price": null,
+        "money": [],
+        "official_authority": null,
+        "official_kind": null,
+        "price_range": null,
+        "ratio": null,
+        "schedule": {},
+        "share_count": null,
+        "stage": "TENDER OFFER",
+        "stage_step": 6,
+        "stage_total": 7,
+        "stake": [],
+        "standby_buyer": null,
+        "target": null,
+        "target_confirmed": false,
+        "tender_price": null,
+        "underwriter": null,
+        "use_of_funds": [
+          "AKUISISI / INVESTASI"
+        ]
+      },
+      "ticker": ""
+    },
     "M&A / TAKEOVER|TITLE|ULTJ BELI FRISIAN FLAG RP14 FRIESLANDCAMPINA JADI": {
       "family": "M&A / TAKEOVER",
       "first_seen_utc": "2026-09-18T13:40:46.595339+00:00",
@@ -7103,7 +7141,7 @@
     }
   },
   "last_keepalive_utc": "2026-10-23T10:40:53.220355+00:00",
-  "last_state_change_utc": "2026-10-29T18:01:07.623975+00:00",
+  "last_state_change_utc": "2026-10-29T18:10:53.639204+00:00",
   "market_noise_suppressed": 10,
   "milestone_alerts": {},
   "rumor_alerts_sent": 155,
@@ -7114,8 +7152,8 @@
   "rumor_duplicates_suppressed": 914,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 31,
-  "rumor_integrity_repairs": 2809,
-  "rumor_last_scan_utc": "2026-10-29T18:01:07.576070+00:00",
+  "rumor_integrity_repairs": 2811,
+  "rumor_last_scan_utc": "2026-10-29T18:10:51.314595+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -7425,7 +7463,7 @@
     },
     "BUYBACK|TICKER|ASRI": {
       "category": "BUYBACK",
-      "company_name": "PT CHANDRA ASRI PACIFIC TBK SEHUBUNGAN DENGAN RENCANA PEMBELIAN KEMBALI SAHAM PE",
+      "company_name": "CHANDRA ASRI PACIFIC",
       "copy_duplicate_count": 0,
       "credible_effective_independent_count": 1.1,
       "derivative_source_count": 0,
@@ -9546,6 +9584,7 @@
     "6a9995b4e4ae16b4c8723d08e3a136cae11cacb552fbfe678fb92d333232a544": "2026-10-02T06:50:58.197330+00:00",
     "6b0356f1b341163b2daf1bf92d46e0587b8b3f356071b68f5f900e83cfeb9d2b": "2026-09-07T07:41:03.722878+00:00",
     "6d484b9307bc337b49fd3acc64a2c4dc82a7bc529561dd3b17521d38be0dbce5": "2026-09-23T02:51:16.322581+00:00",
+    "6e0cde1a68224c52958199cbf6893754c5ef38faad4bbdee1acc246d08c87894": "2026-10-29T18:10:53.636655+00:00",
     "6e0f7fec7fa965a9fbcefbb7838d761e7672209e2e9ab21e4fd5737537a1bd4d": "2026-10-02T05:30:57.313883+00:00",
     "6efb844fb1727d59e73589e899c5469c4b1406372f6c2c38cec8b43780c5ead0": "2026-09-19T03:11:06.233093+00:00",
     "727df9d83ff500868582417fc4c6cf292d306c6a5031743712335c5e1e2519b5": "2026-10-16T05:30:47.513641+00:00",
