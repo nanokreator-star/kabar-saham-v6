@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 31,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 1002,
-  "early_signal_last_scan_utc": "2026-10-29T08:01:10.073769+00:00",
+  "early_signal_last_scan_utc": "2026-10-29T08:10:59.015088+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -7175,7 +7175,7 @@
     }
   },
   "last_keepalive_utc": "2026-10-23T10:40:53.220355+00:00",
-  "last_state_change_utc": "2026-10-29T08:01:10.095120+00:00",
+  "last_state_change_utc": "2026-10-29T08:10:59.085911+00:00",
   "market_noise_suppressed": 10,
   "milestone_alerts": {},
   "rumor_alerts_sent": 155,
@@ -7186,8 +7186,8 @@
   "rumor_duplicates_suppressed": 882,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 31,
-  "rumor_integrity_repairs": 2711,
-  "rumor_last_scan_utc": "2026-10-29T08:01:10.067167+00:00",
+  "rumor_integrity_repairs": 2712,
+  "rumor_last_scan_utc": "2026-10-29T08:10:58.999587+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -8260,7 +8260,7 @@
       "detected_source_count": 1,
       "effective_independent_count": 1.1,
       "entity_aliases": [
-        "LANCARTAMA SEJATI TBK KEPADA PT PERMANA NAMMA MULIA"
+        "PERMANA NAMMA MULIA"
       ],
       "entity_resolution_source": null,
       "first_seen_utc": "2026-10-29T07:57:56+00:00",
