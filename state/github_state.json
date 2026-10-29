@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 31,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 1002,
-  "early_signal_last_scan_utc": "2026-10-29T17:31:04.985955+00:00",
+  "early_signal_last_scan_utc": "2026-10-29T17:40:46.695448+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -7103,7 +7103,7 @@
     }
   },
   "last_keepalive_utc": "2026-10-23T10:40:53.220355+00:00",
-  "last_state_change_utc": "2026-10-29T17:31:05.029164+00:00",
+  "last_state_change_utc": "2026-10-29T17:40:46.715771+00:00",
   "market_noise_suppressed": 10,
   "milestone_alerts": {},
   "rumor_alerts_sent": 155,
@@ -7114,8 +7114,8 @@
   "rumor_duplicates_suppressed": 914,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 31,
-  "rumor_integrity_repairs": 2806,
-  "rumor_last_scan_utc": "2026-10-29T17:31:04.971282+00:00",
+  "rumor_integrity_repairs": 2807,
+  "rumor_last_scan_utc": "2026-10-29T17:40:46.688962+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -8647,16 +8647,16 @@
       "copy_duplicate_count": 1,
       "credible_effective_independent_count": 0,
       "derivative_source_count": 0,
-      "detected_source_count": 2,
-      "effective_independent_count": 0.4,
+      "detected_source_count": 3,
+      "effective_independent_count": 0.8,
       "entity_aliases": [
-        "Bank BCA (BBCA",
-        "Bank Central Asia"
+        "Bank Central Asia",
+        "Bank BCA (BBCA"
       ],
       "entity_resolution_source": null,
       "first_seen_utc": "2026-10-29T05:15:21+00:00",
       "high_quality_source_count": 0,
-      "independent_story_count": 1,
+      "independent_story_count": 2,
       "issuer_profile": {
         "business_activity": "PT Bank Central Asia Tbk provides commercial banking and other financial services. The company offers time deposits, e- deposits, spinning, Dana Lander accounts, customer accounts, gold stage; loans, such as business, investment credit, sec",
         "controller": null,
@@ -8709,6 +8709,16 @@
           "weight": 0.35
         },
         {
+          "derivative": false,
+          "group": "traders union",
+          "new_material": 0,
+          "quality": "LOW",
+          "semantic_copy": false,
+          "source": "Traders Union",
+          "tier": 1,
+          "weight": 0.35
+        },
+        {
           "derivative": true,
           "group": "idx channel",
           "new_material": 0,
@@ -8721,7 +8731,7 @@
       ],
       "source_count": 3,
       "source_quality": "LOW",
-      "source_quality_score": 0.4,
+      "source_quality_score": 0.8,
       "sources": [
         "IDX Channel",
         "Limapagi",
