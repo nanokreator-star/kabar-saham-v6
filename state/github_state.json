@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 31,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 1002,
-  "early_signal_last_scan_utc": "2026-10-30T19:11:14.446098+00:00",
+  "early_signal_last_scan_utc": "2026-10-30T19:20:53.424175+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -7087,7 +7087,7 @@
     }
   },
   "last_keepalive_utc": "2026-10-23T10:40:53.220355+00:00",
-  "last_state_change_utc": "2026-10-30T19:11:14.480770+00:00",
+  "last_state_change_utc": "2026-10-30T19:20:53.456722+00:00",
   "market_noise_suppressed": 10,
   "milestone_alerts": {},
   "rumor_alerts_sent": 156,
@@ -7098,8 +7098,8 @@
   "rumor_duplicates_suppressed": 948,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 31,
-  "rumor_integrity_repairs": 2966,
-  "rumor_last_scan_utc": "2026-10-30T19:11:14.434002+00:00",
+  "rumor_integrity_repairs": 2967,
+  "rumor_last_scan_utc": "2026-10-30T19:20:53.413442+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -7133,7 +7133,7 @@
         "subindustry": null,
         "subsector": null,
         "ticker": "BBCA",
-        "verified_at": "2026-10-30T07:01:13.345331+00:00",
+        "verified_at": "2026-10-30T19:11:01.392415+00:00",
         "website": "https://www.bca.co.id"
       },
       "key": "AKUISISI / TAKEOVER|TICKER|BBCA",
