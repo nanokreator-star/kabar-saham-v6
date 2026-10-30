@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 31,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 1002,
-  "early_signal_last_scan_utc": "2026-10-30T20:10:55.617167+00:00",
+  "early_signal_last_scan_utc": "2026-10-30T20:20:51.303423+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -7087,7 +7087,7 @@
     }
   },
   "last_keepalive_utc": "2026-10-23T10:40:53.220355+00:00",
-  "last_state_change_utc": "2026-10-30T20:10:55.656441+00:00",
+  "last_state_change_utc": "2026-10-30T20:20:51.476955+00:00",
   "market_noise_suppressed": 10,
   "milestone_alerts": {},
   "rumor_alerts_sent": 156,
@@ -7098,8 +7098,8 @@
   "rumor_duplicates_suppressed": 948,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 31,
-  "rumor_integrity_repairs": 2972,
-  "rumor_last_scan_utc": "2026-10-30T20:10:55.604637+00:00",
+  "rumor_integrity_repairs": 2973,
+  "rumor_last_scan_utc": "2026-10-30T20:20:51.294710+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -9122,8 +9122,8 @@
       "source_quality": "LOW",
       "source_quality_score": 0.4,
       "sources": [
-        "CentralBatam",
         "Limapagi",
+        "CentralBatam",
         "Suara Independent News"
       ],
       "status": "DENIED",
