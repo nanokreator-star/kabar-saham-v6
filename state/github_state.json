@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 31,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 1002,
-  "early_signal_last_scan_utc": "2026-10-30T09:10:55.969337+00:00",
+  "early_signal_last_scan_utc": "2026-10-30T09:20:49.409845+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -7123,7 +7123,7 @@
     }
   },
   "last_keepalive_utc": "2026-10-23T10:40:53.220355+00:00",
-  "last_state_change_utc": "2026-10-30T09:10:55.998475+00:00",
+  "last_state_change_utc": "2026-10-30T09:20:49.432303+00:00",
   "market_noise_suppressed": 10,
   "milestone_alerts": {},
   "rumor_alerts_sent": 155,
@@ -7131,11 +7131,11 @@
   "rumor_confirmed_count": 44,
   "rumor_confirmed_dedups": 0,
   "rumor_denied_count": 12,
-  "rumor_duplicates_suppressed": 941,
+  "rumor_duplicates_suppressed": 942,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 31,
-  "rumor_integrity_repairs": 2895,
-  "rumor_last_scan_utc": "2026-10-30T09:10:55.959992+00:00",
+  "rumor_integrity_repairs": 2897,
+  "rumor_last_scan_utc": "2026-10-30T09:20:49.402355+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -7445,7 +7445,7 @@
     },
     "BUYBACK|TICKER|ASRI": {
       "category": "BUYBACK",
-      "company_name": "PT CHANDRA ASRI PACIFIC TBK SEHUBUNGAN DENGAN RENCANA PEMBELIAN KEMBALI SAHAM PERSE",
+      "company_name": "CHANDRA ASRI PACIFIC",
       "copy_duplicate_count": 0,
       "credible_effective_independent_count": 1.1,
       "derivative_source_count": 0,
@@ -8665,17 +8665,17 @@
       "category": "MERGER",
       "company_name": "Bank Central Asia",
       "copy_duplicate_count": 0,
-      "credible_effective_independent_count": 1.0,
+      "credible_effective_independent_count": 0,
       "derivative_source_count": 0,
       "detected_source_count": 1,
-      "effective_independent_count": 1.0,
+      "effective_independent_count": 0.3,
       "entity_aliases": [
         "Bank Central Asia",
         "Bank BCA (BBCA"
       ],
       "entity_resolution_source": null,
       "first_seen_utc": "2026-10-29T05:15:21+00:00",
-      "high_quality_source_count": 1,
+      "high_quality_source_count": 0,
       "independent_story_count": 1,
       "issuer_profile": {
         "business_activity": "PT Bank Central Asia Tbk provides commercial banking and other financial services. The company offers time deposits, e- deposits, spinning, Dana Lander accounts, customer accounts, gold stage; loans, such as business, investment credit, sec",
@@ -8698,13 +8698,13 @@
         "website": "https://www.bca.co.id"
       },
       "key": "MERGER|TICKER|BBCA",
-      "last_seen_utc": "2026-10-30T01:17:56+00:00",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOFAyM2c3THVyU21fTng1cVVrR05XRWw2Tm03b2ZwQ2l5blRjLUo2OWtVQlBqSVZyQ1I1NUJMbWk0Zjl3a3ltQ0ZlRUpNNERJRF9JbzAyVTNQbWtoTVZCeW84TFVPb2xtUDBmNTdJSkNadkFNMVpGTVJQd1FSaUVQcTl6aTRNWlloVE1iSE1mVQ?oc=5",
+      "last_seen_utc": "2026-10-29T08:16:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNY0otM05JUUNOeE1EVjZBVlpnNTFLWlhFckU3cjVwN2dBTEhST2ZkYU50a2hTakkzZDRBbTJmajZRbW8tQW1UWTRSTEtWUkU0eUlMMkxsVTJMcGJ3OXRRMVlPZkp5OFNCeTVlMnRzZTczYzhwaU9XR3ZHY0VDXzI1ekhCeVhXUVpXMDlpSm53ZWw5SzF6TkFjT29B0gGfAUFVX3lxTE1xcUpibHFlQVNQcGpqa1l1MTBzeG52TG1wUndpMVh4dk5rSkp3eGlTLVdUckdWVVJSdjZHSUVCUFVWWkx5Q1hqVE5XSUVWMmlWd1ZKbXdPOGttU2VEZWJNcXJ6MGJkdjhwS2k2REhWVE9wenFqMVdOTTY5OFRWdlIxR19vOUR5dmZIeVRtdWxHa3ExSEx6SDNyX2pyTmpQSQ?oc=5",
       "market_data": null,
       "official_confirmation": null,
-      "premium_source_count": 1,
+      "premium_source_count": 0,
       "profile_refresh_utc": "2026-10-30T07:01:23.402383+00:00",
-      "published": "Thu, 29 Oct 2026 08:18:31 GMT",
+      "published": "Thu, 29 Oct 2026 08:16:00 GMT",
       "rumor_details": {
         "ipo_price": null,
         "listing_estimate": null,
@@ -8716,32 +8716,32 @@
         "underwriter": null
       },
       "semantic_copy_count": 0,
-      "source": "Limapagi",
+      "source": "IDX Channel",
       "source_breakdown": [
         {
           "derivative": false,
-          "group": "kontan.co.id",
+          "group": "idx channel",
           "new_material": 0,
-          "quality": "HIGH",
+          "quality": "LOW",
           "semantic_copy": false,
-          "source": "KONTAN",
-          "tier": 4,
-          "weight": 1.0
+          "source": "IDX Channel",
+          "tier": 1,
+          "weight": 0.35
         }
       ],
       "source_count": 4,
-      "source_quality": "MEDIUM",
-      "source_quality_score": 4.0,
+      "source_quality": "LOW",
+      "source_quality_score": 0.3,
       "sources": [
+        "IDX Channel",
         "Limapagi",
         "KONTAN",
-        "Traders Union",
-        "IDX Channel"
+        "Traders Union"
       ],
       "status": "DENIED",
       "strength": "WEAK",
       "ticker": "BBCA",
-      "title": "DBS Bantah Rumor Merger dengan BCA Saham BBCA Turun 5,78 Persen - Limapagi"
+      "title": "DBS Bantah Rumor Merger, Saham BBCA Balik Jatuh 5 Persen - IDX Channel"
     },
     "MERGER|TICKER|WALL": {
       "category": "MERGER",
