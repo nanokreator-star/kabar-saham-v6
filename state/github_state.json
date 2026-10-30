@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 31,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 1002,
-  "early_signal_last_scan_utc": "2026-10-30T02:20:52.242685+00:00",
+  "early_signal_last_scan_utc": "2026-10-30T02:31:01.239389+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -7141,7 +7141,7 @@
     }
   },
   "last_keepalive_utc": "2026-10-23T10:40:53.220355+00:00",
-  "last_state_change_utc": "2026-10-30T02:20:52.267407+00:00",
+  "last_state_change_utc": "2026-10-30T02:31:01.276390+00:00",
   "market_noise_suppressed": 10,
   "milestone_alerts": {},
   "rumor_alerts_sent": 155,
@@ -7149,11 +7149,11 @@
   "rumor_confirmed_count": 44,
   "rumor_confirmed_dedups": 0,
   "rumor_denied_count": 12,
-  "rumor_duplicates_suppressed": 914,
+  "rumor_duplicates_suppressed": 915,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 31,
-  "rumor_integrity_repairs": 2832,
-  "rumor_last_scan_utc": "2026-10-30T02:20:52.233229+00:00",
+  "rumor_integrity_repairs": 2833,
+  "rumor_last_scan_utc": "2026-10-30T02:31:01.228157+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -7463,7 +7463,7 @@
     },
     "BUYBACK|TICKER|ASRI": {
       "category": "BUYBACK",
-      "company_name": "CHANDRA ASRI PACIFIC",
+      "company_name": "PT CHANDRA ASRI PACIFIC TBK SEHUBUNGAN DENGAN RENCANA PEMBELIAN KEMBALI SAHAM PERSE",
       "copy_duplicate_count": 0,
       "credible_effective_independent_count": 1.1,
       "derivative_source_count": 0,
@@ -7499,13 +7499,13 @@
         "website": "https://www.alamsuterarealty.co.id"
       },
       "key": "BUYBACK|TICKER|ASRI",
-      "last_seen_utc": "2026-10-29T01:47:43+00:00",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORXh3TjA3WkxWR1N4NmpUYmptSTZGazl2SUctcmxPaWpGRkhmbjVhQ2hxOFRiUUhjR0EyVU9CajhXZnVKTWN1Q3d0TUp0bWJiaHhzWE9pQ3J1TTB2WUdCWlo4bUJudVRzejhuZllBMExuTmVfQnV1NFBEcTNPMXpkVkhhdFhXQTBaQWVzaEpUbjgtNjV3VDk1ajc0allxRERBVkExQjZVYm5JM1djVGRJZWZDcw?oc=5",
+      "last_seen_utc": "2026-10-29T00:43:29+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSmFOVzRhOW0wT2pub3hTUUtVU3AtNzljTi10MDJiMDlLUXFSVFBCSDFkeGNiY2JDbjhkRXVzUnp4UFRTek1sbDNlNFZRd1A1OTFJb2Y3VzZCMG9TbkZtOU1YUTRiMEZBRFk1cWItamlGMkRIYVI3X2VDclk2MHlRREJEYU1YRkIyZWlhRy1uWWF0ZzVFUHVkU1FoT090cHV0dTdRZHBKY1ZqbTZBcWVLcF8tNA?oc=5",
       "market_data": null,
       "official_confirmation": null,
       "premium_source_count": 1,
       "profile_refresh_utc": "2026-10-30T02:01:37.808864+00:00",
-      "published": "Thu, 29 Oct 2026 01:47:43 GMT",
+      "published": "Thu, 29 Oct 2026 00:43:29 GMT",
       "rumor_details": {
         "ipo_price": null,
         "listing_estimate": null,
@@ -7539,7 +7539,7 @@
       "status": "CONFIRMED OFFICIAL",
       "strength": "CONFIRMED OFFICIAL",
       "ticker": "ASRI",
-      "title": "PENYAMPAIAN BUKTI IKLAN KETERBUKAAN INFORMASI PT CHANDRA ASRI PACIFIC TBK SEHUBUNGAN DENGAN RENCANA PEMBELIAN KEMBALI SAHAM PE - PT Bursa Efek Indonesia"
+      "title": "KETERBUKAAN INFORMASI KEPADA PEMEGANG SAHAM PT CHANDRA ASRI PACIFIC TBK SEHUBUNGAN DENGAN RENCANA PEMBELIAN KEMBALI SAHAM PERSE - PT Bursa Efek Indonesia"
     },
     "BUYBACK|TICKER|IHSG": {
       "category": "BUYBACK",
@@ -8685,16 +8685,16 @@
       "copy_duplicate_count": 1,
       "credible_effective_independent_count": 0,
       "derivative_source_count": 0,
-      "detected_source_count": 2,
-      "effective_independent_count": 0.4,
+      "detected_source_count": 3,
+      "effective_independent_count": 0.8,
       "entity_aliases": [
-        "Bank Central Asia",
-        "Bank BCA (BBCA"
+        "Bank BCA (BBCA",
+        "Bank Central Asia"
       ],
       "entity_resolution_source": null,
       "first_seen_utc": "2026-10-29T05:15:21+00:00",
       "high_quality_source_count": 0,
-      "independent_story_count": 1,
+      "independent_story_count": 2,
       "issuer_profile": {
         "business_activity": "PT Bank Central Asia Tbk provides commercial banking and other financial services. The company offers time deposits, e- deposits, spinning, Dana Lander accounts, customer accounts, gold stage; loans, such as business, investment credit, sec",
         "controller": null,
@@ -8747,6 +8747,16 @@
           "weight": 0.35
         },
         {
+          "derivative": false,
+          "group": "traders union",
+          "new_material": 0,
+          "quality": "LOW",
+          "semantic_copy": false,
+          "source": "Traders Union",
+          "tier": 1,
+          "weight": 0.35
+        },
+        {
           "derivative": true,
           "group": "idx channel",
           "new_material": 0,
@@ -8759,7 +8769,7 @@
       ],
       "source_count": 3,
       "source_quality": "LOW",
-      "source_quality_score": 0.4,
+      "source_quality_score": 0.8,
       "sources": [
         "IDX Channel",
         "Limapagi",
@@ -9557,7 +9567,6 @@
     "520360d6ab63cef3cdef18e8c213b954312a5ece69f3488ee52d41e004602442": "2026-10-07T08:31:12.460624+00:00",
     "525153e0abd1914c20a6a3ace053963a321d3bfb7135fe1ec18f949dfee14809": "2026-10-06T12:10:54.889035+00:00",
     "52ad2598c5b7983ec400c38f4381d39fd190c5e09f7bb3295f9cb047cb7f8978": "2026-10-13T02:50:57.795357+00:00",
-    "53e95c182b4ff32e6c77f31910f263a3d61f61206ca6a399dd525c83434f0d2d": "2026-08-31T02:30:59.962731+00:00",
     "5423f46a162876b3643d80e89d2031e1f62c659f29612dc1a64442ff81577cbe": "2026-10-27T03:10:52.845614+00:00",
     "55066476c98a62d199e1546be01cb3f9c6f443f8d5b96d341faf16a98f0436cb": "2026-10-06T07:01:11.470402+00:00",
     "550f201918f7cf2700a041970f674372c494e11acecd03a6c07b01a97ac8d5f9": "2026-09-29T09:11:28.029100+00:00",
