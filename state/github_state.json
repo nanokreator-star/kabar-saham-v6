@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 31,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 1002,
-  "early_signal_last_scan_utc": "2026-10-30T10:40:48.359289+00:00",
+  "early_signal_last_scan_utc": "2026-10-30T10:50:46.940613+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -7123,7 +7123,7 @@
     }
   },
   "last_keepalive_utc": "2026-10-23T10:40:53.220355+00:00",
-  "last_state_change_utc": "2026-10-30T10:40:48.396386+00:00",
+  "last_state_change_utc": "2026-10-30T10:50:46.963372+00:00",
   "market_noise_suppressed": 10,
   "milestone_alerts": {},
   "rumor_alerts_sent": 155,
@@ -7134,8 +7134,8 @@
   "rumor_duplicates_suppressed": 947,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 31,
-  "rumor_integrity_repairs": 2909,
-  "rumor_last_scan_utc": "2026-10-30T10:40:48.346519+00:00",
+  "rumor_integrity_repairs": 2911,
+  "rumor_last_scan_utc": "2026-10-30T10:50:46.933291+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -7452,9 +7452,9 @@
       "detected_source_count": 1,
       "effective_independent_count": 1.1,
       "entity_aliases": [
+        "CHANDRA ASRI PACIFIC",
         "CHANDRA ASRI PACIFIC TBK SEHUBUNGAN DENGAN RENCANA PEMBELIAN KEMBALI SAHAM PERSE",
-        "CHANDRA ASRI PACIFIC TBK SEHUBUNGAN DENGAN RENCANA PEMBELIAN KEMBALI SAHAM PE",
-        "CHANDRA ASRI PACIFIC"
+        "CHANDRA ASRI PACIFIC TBK SEHUBUNGAN DENGAN RENCANA PEMBELIAN KEMBALI SAHAM PE"
       ],
       "entity_resolution_source": null,
       "first_seen_utc": "2026-10-19T06:03:10+00:00",
@@ -7870,6 +7870,63 @@
       "strength": "CONFIRMED OFFICIAL",
       "ticker": null,
       "title": "KETERBUKAAN INFORMASI TERKAIT DENGAN RENCANA PT BARITO PACIFIC TBK (\u201cPERSEROAN\u201d) UNTUK MELAKUKAN PEMBELIAN KEMBALI SAHAM ( - PT Bursa Efek Indonesia"
+    },
+    "BUYBACK|TITLE|PRDA LAPORAN BUYBACK 30 OKT 2026 DOCX": {
+      "category": "BUYBACK",
+      "company_name": "PT Bur",
+      "copy_duplicate_count": 0,
+      "credible_effective_independent_count": 1.1,
+      "derivative_source_count": 0,
+      "detected_source_count": 1,
+      "effective_independent_count": 1.1,
+      "entity_aliases": [],
+      "entity_resolution_source": null,
+      "first_seen_utc": "2026-10-30T10:46:09+00:00",
+      "high_quality_source_count": 1,
+      "independent_story_count": 1,
+      "issuer_profile": null,
+      "key": "BUYBACK|TITLE|PRDA LAPORAN BUYBACK 30 OKT 2026 DOCX",
+      "last_seen_utc": "2026-10-30T10:46:09+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWnVKQTZjcTVJUVdSYUg2UzFZQ1pyRTdfWkFBSVk0SXNrRGgzcm1BVlFJcF9zQ016OHJPcE5WMFdSTGdqUUxlV0pwNUdIV0dNTUExWjF2dFdLeDdrbmdsaFFuOE1TdnFtWWJtTHBMWktIRkpLZkZ2OEdHdzhwcjdMV3FEMlQtZlh6Vm01WmxQNkVyZHlGZW9zLUwybVpQMzNUNmkwa3dwZ05FejdwTUktQUdnTQ?oc=5",
+      "market_data": null,
+      "official_confirmation": null,
+      "premium_source_count": 1,
+      "profile_refresh_utc": null,
+      "published": "Fri, 30 Oct 2026 10:46:09 GMT",
+      "rumor_details": {
+        "ipo_price": null,
+        "listing_estimate": null,
+        "money": [],
+        "percentages": [],
+        "price_range": null,
+        "rumored_party": null,
+        "share_count": null,
+        "underwriter": null
+      },
+      "semantic_copy_count": 0,
+      "source": "PT Bursa Efek Indonesia",
+      "source_breakdown": [
+        {
+          "derivative": false,
+          "group": "pt bursa efek indonesia",
+          "new_material": 0,
+          "quality": "OFFICIAL",
+          "semantic_copy": false,
+          "source": "PT Bursa Efek Indonesia",
+          "tier": 5,
+          "weight": 1.1
+        }
+      ],
+      "source_count": 1,
+      "source_quality": "MEDIUM",
+      "source_quality_score": 5.5,
+      "sources": [
+        "PT Bursa Efek Indonesia"
+      ],
+      "status": "CONFIRMED OFFICIAL",
+      "strength": "CONFIRMED OFFICIAL",
+      "ticker": null,
+      "title": "PRDA_Laporan Buyback-30 Okt 2026.docx - PT Bursa Efek Indonesia"
     },
     "DELISTING / RELISTING|TICKER|BNGA": {
       "category": "DELISTING / RELISTING",
