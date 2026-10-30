@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 31,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 1002,
-  "early_signal_last_scan_utc": "2026-10-30T07:30:57.282643+00:00",
+  "early_signal_last_scan_utc": "2026-10-30T07:40:52.267500+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -7123,7 +7123,7 @@
     }
   },
   "last_keepalive_utc": "2026-10-23T10:40:53.220355+00:00",
-  "last_state_change_utc": "2026-10-30T07:30:57.329746+00:00",
+  "last_state_change_utc": "2026-10-30T07:40:52.319670+00:00",
   "market_noise_suppressed": 10,
   "milestone_alerts": {},
   "rumor_alerts_sent": 155,
@@ -7134,8 +7134,8 @@
   "rumor_duplicates_suppressed": 937,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 31,
-  "rumor_integrity_repairs": 2882,
-  "rumor_last_scan_utc": "2026-10-30T07:30:57.274986+00:00",
+  "rumor_integrity_repairs": 2883,
+  "rumor_last_scan_utc": "2026-10-30T07:40:52.259646+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -7445,7 +7445,7 @@
     },
     "BUYBACK|TICKER|ASRI": {
       "category": "BUYBACK",
-      "company_name": "CHANDRA ASRI PACIFIC",
+      "company_name": "PT CHANDRA ASRI PACIFIC TBK SEHUBUNGAN DENGAN RENCANA PEMBELIAN KEMBALI SAHAM PERSE",
       "copy_duplicate_count": 0,
       "credible_effective_independent_count": 1.1,
       "derivative_source_count": 0,
