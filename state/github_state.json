@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 31,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 1002,
-  "early_signal_last_scan_utc": "2026-10-31T00:01:05.659876+00:00",
+  "early_signal_last_scan_utc": "2026-10-31T00:10:51.452253+00:00",
   "early_signal_memory": {
     "BBCA": {
       "change_pct": -1.22,
@@ -7146,7 +7146,7 @@
     }
   },
   "last_keepalive_utc": "2026-10-23T10:40:53.220355+00:00",
-  "last_state_change_utc": "2026-10-31T00:01:05.702666+00:00",
+  "last_state_change_utc": "2026-10-31T00:10:51.494333+00:00",
   "market_noise_suppressed": 10,
   "milestone_alerts": {},
   "rumor_alerts_sent": 156,
@@ -7157,8 +7157,8 @@
   "rumor_duplicates_suppressed": 948,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 31,
-  "rumor_integrity_repairs": 2982,
-  "rumor_last_scan_utc": "2026-10-31T00:01:05.645362+00:00",
+  "rumor_integrity_repairs": 2983,
+  "rumor_last_scan_utc": "2026-10-31T00:10:51.438080+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BBCA": {
       "category": "AKUISISI / TAKEOVER",
@@ -9063,6 +9063,63 @@
       "strength": "WEAK",
       "ticker": null,
       "title": "DBS bantah rumor merger unit Indonesia dengan BCA - IDNFinancials"
+    },
+    "MERGER|TITLE|DBS BCA BANTAH RUMOR MERGER KONTAN CO": {
+      "category": "MERGER",
+      "company_name": null,
+      "copy_duplicate_count": 0,
+      "credible_effective_independent_count": 1.0,
+      "derivative_source_count": 0,
+      "detected_source_count": 1,
+      "effective_independent_count": 1.0,
+      "entity_aliases": [],
+      "entity_resolution_source": null,
+      "first_seen_utc": "2026-10-30T23:58:38+00:00",
+      "high_quality_source_count": 1,
+      "independent_story_count": 1,
+      "issuer_profile": null,
+      "key": "MERGER|TITLE|DBS BCA BANTAH RUMOR MERGER KONTAN CO",
+      "last_seen_utc": "2026-10-30T23:58:38+00:00",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1kNFd5a1gxZTVmTEkzSTRXUVpYSk9FLVN2YVltdGppbTFOLVB4d0xoT2h1eE56SE96LVZ3Vi1jOVJJUmhaRWlhcWRYUjFNUnBoQW5lRU9PV2NxTTV5TDZRYU05VG5RZkdPY1ptY0xoQUNhTkN20gFuQVVfeXFMTmxKaDdydU9uc3ROVkVwWWh6b2hEUS1JM2o3aW1mWFdnNWFaTno0WkNkcUdBMEJuZlZSaml3aVdrRTh1UEx6Q0hYSWNKSWZLbXdLb2VvZm1BQmQtNENLV3dHMmpfei1xLVNLX0ZZaEE?oc=5",
+      "market_data": null,
+      "official_confirmation": null,
+      "premium_source_count": 1,
+      "profile_refresh_utc": null,
+      "published": "Fri, 30 Oct 2026 23:58:38 GMT",
+      "rumor_details": {
+        "ipo_price": null,
+        "listing_estimate": null,
+        "money": [],
+        "percentages": [],
+        "price_range": null,
+        "rumored_party": null,
+        "share_count": null,
+        "underwriter": null
+      },
+      "semantic_copy_count": 0,
+      "source": "kontan.co.id",
+      "source_breakdown": [
+        {
+          "derivative": false,
+          "group": "kontan.co.id",
+          "new_material": 0,
+          "quality": "HIGH",
+          "semantic_copy": false,
+          "source": "kontan.co.id",
+          "tier": 4,
+          "weight": 1.0
+        }
+      ],
+      "source_count": 1,
+      "source_quality": "MEDIUM",
+      "source_quality_score": 4.0,
+      "sources": [
+        "kontan.co.id"
+      ],
+      "status": "DENIED",
+      "strength": "WEAK",
+      "ticker": null,
+      "title": "DBS dan BCA Bantah Rumor Merger - kontan.co.id"
     },
     "MERGER|TITLE|DBS GROUP BANTAH RUMOR MERGER BANK DBS": {
       "category": "MERGER",
