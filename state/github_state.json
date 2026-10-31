@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 31,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 1002,
-  "early_signal_last_scan_utc": "2026-10-31T11:20:51.771318+00:00",
+  "early_signal_last_scan_utc": "2026-10-31T11:31:02.400189+00:00",
   "early_signal_memory": {
     "BNGA": {
       "change_pct": -0.9,
@@ -7135,7 +7135,7 @@
     }
   },
   "last_keepalive_utc": "2026-10-23T10:40:53.220355+00:00",
-  "last_state_change_utc": "2026-10-31T11:20:51.805228+00:00",
+  "last_state_change_utc": "2026-10-31T11:31:02.432940+00:00",
   "market_noise_suppressed": 10,
   "milestone_alerts": {},
   "rumor_alerts_sent": 156,
@@ -7143,11 +7143,11 @@
   "rumor_confirmed_count": 44,
   "rumor_confirmed_dedups": 0,
   "rumor_denied_count": 12,
-  "rumor_duplicates_suppressed": 950,
+  "rumor_duplicates_suppressed": 951,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 31,
-  "rumor_integrity_repairs": 3037,
-  "rumor_last_scan_utc": "2026-10-31T11:20:51.760395+00:00",
+  "rumor_integrity_repairs": 3038,
+  "rumor_last_scan_utc": "2026-10-31T11:31:02.389518+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BUMI": {
       "category": "AKUISISI / TAKEOVER",
@@ -8801,13 +8801,13 @@
       "independent_story_count": 1,
       "issuer_profile": null,
       "key": "MERGER|TITLE|BCA BANTAH RUMOR MERGER HARGA AKHIR OKTOBER",
-      "last_seen_utc": "2026-10-28T08:17:00+00:00",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbExsYmxDVFY2SEV2Mm4wbTNDeGlqbEwxeDBDM0lSQlFHNGFjelNVYTFjQ3UzQWw1aVl5RnJHWkk3V0kyamFyZVlmWnZyb01uYTU1dGlLcnprMUxFdkNhcGlnVG1hd2I5Ym4xTncxYjBvX0pzUXFUSGQydHN2QUwxZVdNekxxNGtYZ2xRUEtzTGpGdTA?oc=5",
+      "last_seen_utc": "2026-10-30T10:30:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcHdHaUs2bk03bUJzVjczdkgzRXNLUmxPQ0NidlpIVGJKNW5ObG0xZ05xTktoQXI4QjczTkVSSkFGcnpRYi1yeDFSdDZxZTYyMWtjY3EtZVp4dlZqckg3Sy1MdEt4Rk55azZEM0xwVkFqMnZYT0EydjVTbGFnQTRMVmF3ZXhhYXR2Q3FRcWRB?oc=5",
       "market_data": null,
       "official_confirmation": null,
       "premium_source_count": 0,
       "profile_refresh_utc": null,
-      "published": "Wed, 28 Oct 2026 08:17:00 GMT",
+      "published": "Fri, 30 Oct 2026 10:30:00 GMT",
       "rumor_details": {
         "ipo_price": null,
         "listing_estimate": null,
