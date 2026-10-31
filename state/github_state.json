@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 31,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 1002,
-  "early_signal_last_scan_utc": "2026-10-31T19:40:45.648263+00:00",
+  "early_signal_last_scan_utc": "2026-10-31T19:57:26.061398+00:00",
   "early_signal_memory": {
     "BNGA": {
       "change_pct": -0.9,
@@ -5895,7 +5895,7 @@
       "owner_context_sources": 0,
       "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
       "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-      "owner_v6_checked_utc": "2026-10-31T07:40:57.607678+00:00",
+      "owner_v6_checked_utc": "2026-10-31T19:50:52.361837+00:00",
       "owner_v6_pages_fetched": 0,
       "profile_source": "Yahoo Finance",
       "profile_source_quality": "FALLBACK",
@@ -5904,7 +5904,7 @@
       "subindustry": null,
       "subsector": null,
       "ticker": "EFEK",
-      "verified_at": "2026-10-31T07:40:58.892332+00:00",
+      "verified_at": "2026-10-31T19:50:52.966678+00:00",
       "website": null
     },
     "ENVY": {
@@ -7037,7 +7037,7 @@
       "owner_context_sources": 0,
       "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
       "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-      "owner_v6_checked_utc": "2026-10-31T07:41:39.697147+00:00",
+      "owner_v6_checked_utc": "2026-10-31T19:51:33.191535+00:00",
       "owner_v6_pages_fetched": 1,
       "owner_v6_source_urls": [
         "https://satuvisiputra.com/id/hubungan-investor/kepemilikan-saham/"
@@ -7049,7 +7049,7 @@
       "subindustry": null,
       "subsector": null,
       "ticker": "VISI",
-      "verified_at": "2026-10-31T07:41:45.782621+00:00",
+      "verified_at": "2026-10-31T19:51:38.727392+00:00",
       "website": "https://satuvisiputra.com"
     },
     "VKTR": {
@@ -7135,7 +7135,7 @@
     }
   },
   "last_keepalive_utc": "2026-10-23T10:40:53.220355+00:00",
-  "last_state_change_utc": "2026-10-31T19:40:45.667097+00:00",
+  "last_state_change_utc": "2026-10-31T19:57:26.100239+00:00",
   "market_noise_suppressed": 10,
   "milestone_alerts": {},
   "rumor_alerts_sent": 156,
@@ -7146,8 +7146,8 @@
   "rumor_duplicates_suppressed": 952,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 31,
-  "rumor_integrity_repairs": 3087,
-  "rumor_last_scan_utc": "2026-10-31T19:40:45.642611+00:00",
+  "rumor_integrity_repairs": 3088,
+  "rumor_last_scan_utc": "2026-10-31T19:57:26.048751+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BUMI": {
       "category": "AKUISISI / TAKEOVER",
@@ -9295,7 +9295,7 @@
         "owner_context_sources": 0,
         "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
         "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-        "owner_v6_checked_utc": "2026-10-31T07:40:57.607678+00:00",
+        "owner_v6_checked_utc": "2026-10-31T19:50:52.361837+00:00",
         "owner_v6_pages_fetched": 0,
         "profile_source": "Yahoo Finance",
         "profile_source_quality": "FALLBACK",
@@ -9304,7 +9304,7 @@
         "subindustry": null,
         "subsector": null,
         "ticker": "EFEK",
-        "verified_at": "2026-10-31T07:40:58.892332+00:00",
+        "verified_at": "2026-10-31T19:50:52.966678+00:00",
         "website": null
       },
       "key": "PRIVATE PLACEMENT|TICKER|EFEK",
@@ -9315,7 +9315,7 @@
       "market_data": null,
       "official_confirmation": null,
       "premium_source_count": 1,
-      "profile_refresh_utc": "2026-10-31T07:41:04.563192+00:00",
+      "profile_refresh_utc": "2026-10-31T19:50:56.554455+00:00",
       "published": "Fri, 30 Oct 2026 07:19:26 GMT",
       "rumor_details": {
         "ipo_price": null,
@@ -9376,7 +9376,7 @@
         "owner_context_sources": 0,
         "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
         "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-        "owner_v6_checked_utc": "2026-10-31T07:41:39.697147+00:00",
+        "owner_v6_checked_utc": "2026-10-31T19:51:33.191535+00:00",
         "owner_v6_pages_fetched": 1,
         "owner_v6_source_urls": [
           "https://satuvisiputra.com/id/hubungan-investor/kepemilikan-saham/"
@@ -9388,7 +9388,7 @@
         "subindustry": null,
         "subsector": null,
         "ticker": "VISI",
-        "verified_at": "2026-10-31T07:41:45.782621+00:00",
+        "verified_at": "2026-10-31T19:51:38.727392+00:00",
         "website": "https://satuvisiputra.com"
       },
       "key": "PRIVATE PLACEMENT|TICKER|VISI",
@@ -9397,7 +9397,7 @@
       "market_data": null,
       "official_confirmation": null,
       "premium_source_count": 1,
-      "profile_refresh_utc": "2026-10-31T07:47:31.799507+00:00",
+      "profile_refresh_utc": "2026-10-31T19:57:26.044005+00:00",
       "published": "Fri, 30 Oct 2026 07:19:16 GMT",
       "rumor_details": {
         "ipo_price": null,
