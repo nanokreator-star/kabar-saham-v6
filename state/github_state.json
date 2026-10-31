@@ -3,19 +3,8 @@
   "early_signal_alerts_sent": 31,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 1002,
-  "early_signal_last_scan_utc": "2026-10-31T01:50:56.143012+00:00",
+  "early_signal_last_scan_utc": "2026-10-31T02:01:09.665259+00:00",
   "early_signal_memory": {
-    "BBCA": {
-      "change_pct": -1.22,
-      "combined": true,
-      "direction": "DOWN",
-      "last_alert_utc": "2026-09-30T18:40:49.887779+00:00",
-      "last_seen_utc": "2026-10-01T02:01:07.922452+00:00",
-      "level": "MEDIUM",
-      "market_date": "2026-09-30",
-      "signature": "BBCA|2026-09-30|MEDIUM|DOWN|RUMOR|AKUISISI / TAKEOVER|TICKER|BBCA",
-      "volume_ratio": 2.24
-    },
     "BNGA": {
       "change_pct": -0.9,
       "combined": true,
@@ -5915,7 +5904,7 @@
       "subindustry": null,
       "subsector": null,
       "ticker": "EFEK",
-      "verified_at": "2026-10-30T19:31:12.732045+00:00",
+      "verified_at": "2026-10-31T02:01:06.076316+00:00",
       "website": null
     },
     "ENVY": {
@@ -7146,7 +7135,7 @@
     }
   },
   "last_keepalive_utc": "2026-10-23T10:40:53.220355+00:00",
-  "last_state_change_utc": "2026-10-31T01:50:56.180342+00:00",
+  "last_state_change_utc": "2026-10-31T02:01:09.706702+00:00",
   "market_noise_suppressed": 10,
   "milestone_alerts": {},
   "rumor_alerts_sent": 156,
@@ -7157,8 +7146,8 @@
   "rumor_duplicates_suppressed": 948,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 31,
-  "rumor_integrity_repairs": 2993,
-  "rumor_last_scan_utc": "2026-10-31T01:50:56.131087+00:00",
+  "rumor_integrity_repairs": 2994,
+  "rumor_last_scan_utc": "2026-10-31T02:01:09.651452+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BUMI": {
       "category": "AKUISISI / TAKEOVER",
@@ -9315,7 +9304,7 @@
         "subindustry": null,
         "subsector": null,
         "ticker": "EFEK",
-        "verified_at": "2026-10-30T19:31:12.732045+00:00",
+        "verified_at": "2026-10-31T02:01:06.076316+00:00",
         "website": null
       },
       "key": "PRIVATE PLACEMENT|TICKER|EFEK",
@@ -9559,7 +9548,7 @@
         "owner_context_sources": 0,
         "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
         "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-        "owner_v6_checked_utc": "2026-10-30T07:20:54.928662+00:00",
+        "owner_v6_checked_utc": "2026-10-30T19:31:11.995331+00:00",
         "owner_v6_pages_fetched": 0,
         "profile_source": "Yahoo Finance",
         "profile_source_quality": "FALLBACK",
@@ -9568,7 +9557,7 @@
         "subindustry": null,
         "subsector": null,
         "ticker": "EFEK",
-        "verified_at": "2026-10-30T19:31:12.732045+00:00",
+        "verified_at": "2026-10-31T02:01:06.076316+00:00",
         "website": null
       },
       "key": "RIGHTS ISSUE|TICKER|EFEK",
@@ -9577,7 +9566,7 @@
       "market_data": null,
       "official_confirmation": null,
       "premium_source_count": 1,
-      "profile_refresh_utc": "2026-10-30T14:00:59.451601+00:00",
+      "profile_refresh_utc": "2026-10-31T02:01:09.644166+00:00",
       "published": "Fri, 30 Oct 2026 13:08:48 GMT",
       "rumor_details": {
         "ipo_price": null,
