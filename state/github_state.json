@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 31,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 1002,
-  "early_signal_last_scan_utc": "2026-10-31T06:50:45.359772+00:00",
+  "early_signal_last_scan_utc": "2026-10-31T07:01:06.130523+00:00",
   "early_signal_memory": {
     "BNGA": {
       "change_pct": -0.9,
@@ -7135,7 +7135,7 @@
     }
   },
   "last_keepalive_utc": "2026-10-23T10:40:53.220355+00:00",
-  "last_state_change_utc": "2026-10-31T06:50:45.386596+00:00",
+  "last_state_change_utc": "2026-10-31T07:01:06.164254+00:00",
   "market_noise_suppressed": 10,
   "milestone_alerts": {},
   "rumor_alerts_sent": 156,
@@ -7146,8 +7146,8 @@
   "rumor_duplicates_suppressed": 948,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 31,
-  "rumor_integrity_repairs": 3023,
-  "rumor_last_scan_utc": "2026-10-31T06:50:45.352600+00:00",
+  "rumor_integrity_repairs": 3024,
+  "rumor_last_scan_utc": "2026-10-31T07:01:06.119864+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BUMI": {
       "category": "AKUISISI / TAKEOVER",
@@ -8561,8 +8561,8 @@
       "copy_duplicate_count": 0,
       "credible_effective_independent_count": 0.8,
       "derivative_source_count": 0,
-      "detected_source_count": 2,
-      "effective_independent_count": 1.1,
+      "detected_source_count": 1,
+      "effective_independent_count": 0.8,
       "entity_aliases": [
         "Bank Central Asia",
         "Bank BCA (BBCA"
@@ -8570,7 +8570,7 @@
       "entity_resolution_source": null,
       "first_seen_utc": "2026-10-29T05:15:21+00:00",
       "high_quality_source_count": 1,
-      "independent_story_count": 2,
+      "independent_story_count": 1,
       "issuer_profile": {
         "business_activity": "PT Bank Central Asia Tbk provides commercial banking and other financial services. The company offers time deposits, e- deposits, spinning, Dana Lander accounts, customer accounts, gold stage; loans, such as business, investment credit, sec",
         "controller": null,
@@ -8621,21 +8621,11 @@
           "source": "Emitennews.com",
           "tier": 3,
           "weight": 0.8
-        },
-        {
-          "derivative": false,
-          "group": "traders union",
-          "new_material": 0,
-          "quality": "LOW",
-          "semantic_copy": false,
-          "source": "Traders Union",
-          "tier": 1,
-          "weight": 0.35
         }
       ],
       "source_count": 5,
       "source_quality": "LOW",
-      "source_quality_score": 2.4,
+      "source_quality_score": 2.0,
       "sources": [
         "Emitennews.com",
         "Traders Union",
