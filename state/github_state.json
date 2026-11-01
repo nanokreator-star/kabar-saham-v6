@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 31,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 1002,
-  "early_signal_last_scan_utc": "2026-11-01T18:10:50.734756+00:00",
+  "early_signal_last_scan_utc": "2026-11-01T18:20:53.814923+00:00",
   "early_signal_memory": {
     "BNGA": {
       "change_pct": -0.9,
@@ -7133,7 +7133,7 @@
     }
   },
   "last_keepalive_utc": "2026-10-23T10:40:53.220355+00:00",
-  "last_state_change_utc": "2026-11-01T18:10:50.751859+00:00",
+  "last_state_change_utc": "2026-11-01T18:20:53.840557+00:00",
   "market_noise_suppressed": 10,
   "milestone_alerts": {},
   "rumor_alerts_sent": 156,
@@ -7141,11 +7141,11 @@
   "rumor_confirmed_count": 44,
   "rumor_confirmed_dedups": 0,
   "rumor_denied_count": 12,
-  "rumor_duplicates_suppressed": 956,
+  "rumor_duplicates_suppressed": 957,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 33,
-  "rumor_integrity_repairs": 3208,
-  "rumor_last_scan_utc": "2026-11-01T18:10:50.730025+00:00",
+  "rumor_integrity_repairs": 3209,
+  "rumor_last_scan_utc": "2026-11-01T18:20:53.806975+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BUMI": {
       "category": "AKUISISI / TAKEOVER",
@@ -8744,7 +8744,7 @@
       "key": "MERGER|TITLE|BCA AKHIRNYA BUKA SUARA TEPIS RUMOR MERGER",
       "last_alert_utc": "2026-10-30T12:11:03.044237+00:00",
       "last_seen_utc": "2026-10-30T09:48:26+00:00",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaTZmbEVvcVotNlpTX1dvcnpWQlZMVHRiZmktOGpTbE4yYUZzLU94WXZIb2YtSkFBVk1ZZjhLQl9fREZtNE5MQndOMVJsVGtWVjNYQzhNWnd3NW96RlpwZVJ2VkNwLWowOXJKbWhiNjZ2T3RjSXJiWGFvNWtpT0ZmMUluZjkwNlVuM1A4ZGlmdzdNd9IBiwFBVV95cUxNbmlUbmpnSVJfYTR2aUR0NXpYRGE5R01fR2c2WVBjdjdqbjBEVEV4RC05ZmpUaUxwZUhxTHhQX01HTE0xOXU2Tzh6NFlEbDVCRk85SF9tZ1FSdk5PM01DQW9GSGFEa0dHT3NmMDZneFh3QUNKdjRVNFdCeG5iX2JkVVRKUmF6Umo3eFlV?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbmlUbmpnSVJfYTR2aUR0NXpYRGE5R01fR2c2WVBjdjdqbjBEVEV4RC05ZmpUaUxwZUhxTHhQX01HTE0xOXU2Tzh6NFlEbDVCRk85SF9tZ1FSdk5PM01DQW9GSGFEa0dHT3NmMDZneFh3QUNKdjRVNFdCeG5iX2JkVVRKUmF6Umo3eFlV0gGLAUFVX3lxTE1uaVRuamdJUl9hNHZpRHQ1elhEYTlHTV9HZzZZUGN2N2puMERURXhELTlmalRpTHBlSHFMeFBfTUdMTTE5dTZPOHo0WURsNUJGTzlIX21nUVJ2Tk8zTUNBb0ZIYURrR0dPc2YwNmd4WHdBQ0p2NFU0V0J4bmJfYmRVVEpSYXpSajd4WVU?oc=5",
       "market_data": null,
       "official_confirmation": null,
       "premium_source_count": 1,
@@ -8761,7 +8761,7 @@
         "underwriter": null
       },
       "semantic_copy_count": 0,
-      "source": "kontan.co.id",
+      "source": "KONTAN",
       "source_breakdown": [
         {
           "derivative": false,
@@ -8769,21 +8769,22 @@
           "new_material": 0,
           "quality": "HIGH",
           "semantic_copy": false,
-          "source": "kontan.co.id",
+          "source": "KONTAN",
           "tier": 4,
           "weight": 1.0
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_quality": "MEDIUM",
       "source_quality_score": 4.0,
       "sources": [
+        "KONTAN",
         "kontan.co.id"
       ],
       "status": "ACTIVE",
       "strength": "WEAK",
       "ticker": null,
-      "title": "BCA Akhirnya Buka Suara, Tepis Rumor Merger dengan DBS - kontan.co.id"
+      "title": "BCA Akhirnya Buka Suara, Tepis Rumor Merger dengan DBS - KONTAN"
     },
     "MERGER|TITLE|BCA BANTAH RUMOR MERGER HARGA AKHIR OKTOBER": {
       "category": "MERGER",
