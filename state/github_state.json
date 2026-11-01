@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 31,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 1002,
-  "early_signal_last_scan_utc": "2026-11-01T08:50:52.836012+00:00",
+  "early_signal_last_scan_utc": "2026-11-01T09:01:07.590303+00:00",
   "early_signal_memory": {
     "BNGA": {
       "change_pct": -0.9,
@@ -5404,7 +5404,7 @@
       "owner_context_sources": 0,
       "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
       "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-      "owner_v6_checked_utc": "2026-10-31T20:50:50.620488+00:00",
+      "owner_v6_checked_utc": "2026-11-01T09:01:03.104266+00:00",
       "owner_v6_pages_fetched": 0,
       "profile_source": "Yahoo Finance",
       "profile_source_quality": "FALLBACK",
@@ -5413,7 +5413,7 @@
       "subindustry": null,
       "subsector": null,
       "ticker": "ASET",
-      "verified_at": "2026-10-31T20:50:51.304335+00:00",
+      "verified_at": "2026-11-01T09:01:03.635850+00:00",
       "website": null
     },
     "ASII": {
@@ -7171,7 +7171,7 @@
     }
   },
   "last_keepalive_utc": "2026-10-23T10:40:53.220355+00:00",
-  "last_state_change_utc": "2026-11-01T08:50:52.868721+00:00",
+  "last_state_change_utc": "2026-11-01T09:01:07.624988+00:00",
   "market_noise_suppressed": 10,
   "milestone_alerts": {},
   "rumor_alerts_sent": 156,
@@ -7182,8 +7182,8 @@
   "rumor_duplicates_suppressed": 956,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 32,
-  "rumor_integrity_repairs": 3153,
-  "rumor_last_scan_utc": "2026-11-01T08:50:52.825234+00:00",
+  "rumor_integrity_repairs": 3154,
+  "rumor_last_scan_utc": "2026-11-01T09:01:07.579500+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BUMI": {
       "category": "AKUISISI / TAKEOVER",
@@ -8211,7 +8211,7 @@
     },
     "DIVESTASI|TICKER|ASET": {
       "category": "DIVESTASI",
-      "company_name": "PT LANCARTAMA SEJATI TBK KEPADA PT PERMANA NAMMA MULIA",
+      "company_name": "ASET",
       "copy_duplicate_count": 0,
       "credible_effective_independent_count": 1.1,
       "derivative_source_count": 0,
@@ -8232,7 +8232,7 @@
         "owner_context_sources": 0,
         "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
         "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-        "owner_v6_checked_utc": "2026-10-31T20:50:50.620488+00:00",
+        "owner_v6_checked_utc": "2026-11-01T09:01:03.104266+00:00",
         "owner_v6_pages_fetched": 0,
         "profile_source": "Yahoo Finance",
         "profile_source_quality": "FALLBACK",
@@ -8241,7 +8241,7 @@
         "subindustry": null,
         "subsector": null,
         "ticker": "ASET",
-        "verified_at": "2026-10-31T20:50:51.304335+00:00",
+        "verified_at": "2026-11-01T09:01:03.635850+00:00",
         "website": null
       },
       "key": "DIVESTASI|TICKER|ASET",
@@ -8250,7 +8250,7 @@
       "market_data": null,
       "official_confirmation": null,
       "premium_source_count": 1,
-      "profile_refresh_utc": "2026-10-31T20:50:55.107929+00:00",
+      "profile_refresh_utc": "2026-11-01T09:01:07.576009+00:00",
       "published": "Thu, 29 Oct 2026 07:57:57 GMT",
       "rumor_details": {
         "ipo_price": null,
