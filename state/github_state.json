@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 31,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 1002,
-  "early_signal_last_scan_utc": "2026-11-01T19:20:55.000401+00:00",
+  "early_signal_last_scan_utc": "2026-11-01T19:31:01.023379+00:00",
   "early_signal_memory": {
     "BNGA": {
       "change_pct": -0.9,
@@ -2884,48 +2884,6 @@
         "use_of_funds": []
       },
       "ticker": ""
-    },
-    "M&A / TAKEOVER|TITLE|IFORTE PERPANJANG LAGI IBST PATOK HARGA RP": {
-      "family": "M&A / TAKEOVER",
-      "first_seen_utc": "2026-09-02T19:21:15.784072+00:00",
-      "last_alert_utc": "2026-09-02T19:21:15.784065+00:00",
-      "last_seen_utc": "2026-09-02T19:21:15.784065+00:00",
-      "market_context": {
-        "change_pct": 0.0,
-        "last_price": 8475.0,
-        "market_date": "2026-09-01"
-      },
-      "material_snapshot": {
-        "acquirer": null,
-        "acquirer_confirmed": false,
-        "event_type": "TENDER OFFER",
-        "execution_price": null,
-        "ipo_single_price": null,
-        "money": [
-          "Rp3,51 miliar"
-        ],
-        "official_authority": null,
-        "official_kind": null,
-        "price_range": null,
-        "ratio": null,
-        "schedule": {},
-        "share_count": "650.832 saham",
-        "stage": "TENDER OFFER",
-        "stage_step": 6,
-        "stage_total": 7,
-        "stake": [
-          0.05,
-          99.95,
-          100.0
-        ],
-        "standby_buyer": null,
-        "target": null,
-        "target_confirmed": false,
-        "tender_price": null,
-        "underwriter": null,
-        "use_of_funds": []
-      },
-      "ticker": "IBST"
     },
     "M&A / TAKEOVER|TITLE|KETERBUKAAN INFORMASI DIBUAT DALAM RANGKA WAJIB YANG": {
       "family": "M&A / TAKEOVER",
@@ -7133,7 +7091,7 @@
     }
   },
   "last_keepalive_utc": "2026-10-23T10:40:53.220355+00:00",
-  "last_state_change_utc": "2026-11-01T19:20:55.033355+00:00",
+  "last_state_change_utc": "2026-11-01T19:31:01.040216+00:00",
   "market_noise_suppressed": 10,
   "milestone_alerts": {},
   "rumor_alerts_sent": 156,
@@ -7144,8 +7102,8 @@
   "rumor_duplicates_suppressed": 958,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 33,
-  "rumor_integrity_repairs": 3215,
-  "rumor_last_scan_utc": "2026-11-01T19:20:54.989087+00:00",
+  "rumor_integrity_repairs": 3216,
+  "rumor_last_scan_utc": "2026-11-01T19:31:01.016436+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BUMI": {
       "category": "AKUISISI / TAKEOVER",
@@ -9661,7 +9619,6 @@
     "2ec58d71d08c3e1f0950785a817616c822a58a71d51465794a3f15fa98987df5": "2026-09-27T00:31:18.150625+00:00",
     "2f02db820585b2716fbc2759c5e8b1af4caaa27a8d974a304ccb6d4a6bb84518": "2026-09-22T08:21:53.025227+00:00",
     "326a70fb3abcfad7b31c10f6b77c01969306fcb01b89af0b2f6f6f2e1c0b419e": "2026-10-02T09:21:04.459531+00:00",
-    "32a03db354f787a7abe2405f9ad29567f8ccc17313ae160654afff4a4f3eda0e": "2026-09-02T19:21:15.784045+00:00",
     "32bcea9c3f7f5848c5a1c3a99b398bfc823558d6ac18e2dce3ffedb95dd6c5df": "2026-09-30T06:01:06.349388+00:00",
     "3363a7736af8290cd381854853c1fca8515b841e3c7b9b54c47d001c6656938b": "2026-10-23T13:50:54.766597+00:00",
     "349bb28245dcba9f30943964fc29e163fb52ff590512a8934c2d726d3ec23759": "2026-10-19T13:31:10.412032+00:00",
