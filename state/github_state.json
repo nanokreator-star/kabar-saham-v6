@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 31,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 1002,
-  "early_signal_last_scan_utc": "2026-11-01T21:11:05.012455+00:00",
+  "early_signal_last_scan_utc": "2026-11-01T23:30:56.417969+00:00",
   "early_signal_memory": {
     "BNGA": {
       "change_pct": -0.9,
@@ -3648,6 +3648,42 @@
       },
       "ticker": ""
     },
+    "M&A / TAKEOVER|TITLE|SAIKO GELAR WAJIB NAYZ RP75 PER LEMBAR": {
+      "family": "M&A / TAKEOVER",
+      "first_seen_utc": "2026-11-01T23:30:57.921872+00:00",
+      "last_alert_utc": "2026-11-01T23:30:57.921866+00:00",
+      "last_seen_utc": "2026-11-01T23:30:57.921866+00:00",
+      "market_context": {
+        "change_pct": null,
+        "last_price": null,
+        "market_date": null
+      },
+      "material_snapshot": {
+        "acquirer": null,
+        "acquirer_confirmed": false,
+        "event_type": "TENDER OFFER",
+        "execution_price": null,
+        "ipo_single_price": null,
+        "money": [],
+        "official_authority": null,
+        "official_kind": null,
+        "price_range": null,
+        "ratio": null,
+        "schedule": {},
+        "share_count": null,
+        "stage": "TENDER OFFER",
+        "stage_step": 6,
+        "stage_total": 7,
+        "stake": [],
+        "standby_buyer": null,
+        "target": null,
+        "target_confirmed": false,
+        "tender_price": null,
+        "underwriter": null,
+        "use_of_funds": []
+      },
+      "ticker": ""
+    },
     "M&A / TAKEOVER|TITLE|SGI INET 2026 NILAI TRANSAKSI RP280 MILIAR": {
       "family": "M&A / TAKEOVER",
       "first_seen_utc": "2026-09-18T01:41:15.519996+00:00",
@@ -7091,7 +7127,7 @@
     }
   },
   "last_keepalive_utc": "2026-10-23T10:40:53.220355+00:00",
-  "last_state_change_utc": "2026-11-01T21:11:05.049317+00:00",
+  "last_state_change_utc": "2026-11-01T23:30:57.924017+00:00",
   "market_noise_suppressed": 10,
   "milestone_alerts": {},
   "rumor_alerts_sent": 156,
@@ -7103,7 +7139,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 33,
   "rumor_integrity_repairs": 3226,
-  "rumor_last_scan_utc": "2026-11-01T21:11:04.999718+00:00",
+  "rumor_last_scan_utc": "2026-11-01T23:30:56.407848+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BUMI": {
       "category": "AKUISISI / TAKEOVER",
@@ -8131,7 +8167,7 @@
     },
     "DIVESTASI|TICKER|ASET": {
       "category": "DIVESTASI",
-      "company_name": "ASET",
+      "company_name": "PT LANCARTAMA SEJATI TBK KEPADA PT PERMANA NAMMA MULIA",
       "copy_duplicate_count": 0,
       "credible_effective_independent_count": 1.1,
       "derivative_source_count": 0,
@@ -9783,6 +9819,7 @@
     "cf32ab1ffdd74efa7bc91db12ccdd343635e42f241654a6304bbeba05b7892dc": "2026-09-18T13:51:19.869418+00:00",
     "d031742429d4ddc670d1c48c2e160ac9223cac6a7b65bea3f9c3591ee66468e2": "2026-09-17T18:01:01.291552+00:00",
     "d1a32eeefce1d962f3ccebcf7b171fa833e5ea0a99f6df0e65f0e47090d90b96": "2026-10-14T15:01:47.057026+00:00",
+    "d2af2f20b5ffaa62f50a45e7fc8f9fa5c279edb6282a0b0b9253060979a57aaa": "2026-11-01T23:30:57.921848+00:00",
     "d2c572e1eb9fc8d2afe9217144d58afc3cc50cbd621f9321798bfbacc5fbefe5": "2026-09-19T07:31:15.920350+00:00",
     "d32c6d69d1423bead33e60a6da00f37aa57b87853d93e2e53cab58f288ce3e35": "2026-10-02T07:01:09.583770+00:00",
     "d4254d21d054d429eaac2ab15784e18dd7b79017c757ea6589b5059ecdd0a2fd": "2026-10-09T15:30:59.357852+00:00",
