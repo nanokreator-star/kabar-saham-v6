@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 31,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 1002,
-  "early_signal_last_scan_utc": "2026-11-01T09:40:52.184443+00:00",
+  "early_signal_last_scan_utc": "2026-11-01T09:50:50.113655+00:00",
   "early_signal_memory": {
     "BNGA": {
       "change_pct": -0.9,
@@ -2876,44 +2876,6 @@
         "stake": [
           66.58
         ],
-        "standby_buyer": null,
-        "target": null,
-        "target_confirmed": false,
-        "tender_price": null,
-        "underwriter": null,
-        "use_of_funds": []
-      },
-      "ticker": ""
-    },
-    "M&A / TAKEOVER|TITLE|IFORTE KEMBALI PERPANJANG IBST SIAPKAN RP921 JUTA": {
-      "family": "M&A / TAKEOVER",
-      "first_seen_utc": "2026-09-02T09:31:01.471295+00:00",
-      "last_alert_utc": "2026-09-02T09:31:01.471288+00:00",
-      "last_seen_utc": "2026-09-02T09:40:52.722223+00:00",
-      "market_context": {
-        "change_pct": null,
-        "last_price": null,
-        "market_date": null
-      },
-      "material_snapshot": {
-        "acquirer": null,
-        "acquirer_confirmed": false,
-        "event_type": "TENDER OFFER",
-        "execution_price": null,
-        "ipo_single_price": null,
-        "money": [
-          "Rp921,9 juta"
-        ],
-        "official_authority": null,
-        "official_kind": null,
-        "price_range": null,
-        "ratio": null,
-        "schedule": {},
-        "share_count": null,
-        "stage": "TENDER OFFER",
-        "stage_step": 6,
-        "stage_total": 7,
-        "stake": [],
         "standby_buyer": null,
         "target": null,
         "target_confirmed": false,
@@ -7171,7 +7133,7 @@
     }
   },
   "last_keepalive_utc": "2026-10-23T10:40:53.220355+00:00",
-  "last_state_change_utc": "2026-11-01T09:40:52.232197+00:00",
+  "last_state_change_utc": "2026-11-01T09:50:50.147206+00:00",
   "market_noise_suppressed": 10,
   "milestone_alerts": {},
   "rumor_alerts_sent": 156,
@@ -7182,8 +7144,8 @@
   "rumor_duplicates_suppressed": 956,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 33,
-  "rumor_integrity_repairs": 3157,
-  "rumor_last_scan_utc": "2026-11-01T09:40:52.175951+00:00",
+  "rumor_integrity_repairs": 3158,
+  "rumor_last_scan_utc": "2026-11-01T09:50:50.102659+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BUMI": {
       "category": "AKUISISI / TAKEOVER",
@@ -9773,7 +9735,6 @@
     "7e3895e7ee8d0a4e6fc9cd2457a395bf07585a701621d7222d6be4bbe85b500e": "2026-09-18T01:41:15.519996+00:00",
     "7fd3b1dd27aa542744394bab3b378c867e5bff181ae33627fccc3f14b87be04b": "2026-10-19T00:10:45.672074+00:00",
     "8057b0b7ce197f270af343b9f741393766b17c684dd8a7e35c47f485425da692": "2026-10-16T00:10:56.983068+00:00",
-    "80b92a8bd86c4beee1ff71d626bdb2d08e0ddb9c12fe353ff887361f9de06971": "2026-09-02T09:40:52.722208+00:00",
     "820dd87026bc16818346384b2100cff10b428975697ef35194bfd211d182c179": "2026-09-14T07:10:50.747891+00:00",
     "8217acf7a819bcae07623c0b49184bf0837c5c7f91620f390dbf978e0bc9b466": "2026-10-03T06:50:57.117343+00:00",
     "82d2c866d3916a1daf03994a182f12b34f4c3e374bed5f2f3e09d1047c3270fc": "2026-10-13T11:10:53.744723+00:00",
