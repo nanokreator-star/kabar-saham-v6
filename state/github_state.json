@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 31,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 1002,
-  "early_signal_last_scan_utc": "2026-11-01T09:01:07.590303+00:00",
+  "early_signal_last_scan_utc": "2026-11-01T09:10:54.605800+00:00",
   "early_signal_memory": {
     "BNGA": {
       "change_pct": -0.9,
@@ -7171,7 +7171,7 @@
     }
   },
   "last_keepalive_utc": "2026-10-23T10:40:53.220355+00:00",
-  "last_state_change_utc": "2026-11-01T09:01:07.624988+00:00",
+  "last_state_change_utc": "2026-11-01T09:10:54.637240+00:00",
   "market_noise_suppressed": 10,
   "milestone_alerts": {},
   "rumor_alerts_sent": 156,
@@ -7181,9 +7181,9 @@
   "rumor_denied_count": 12,
   "rumor_duplicates_suppressed": 956,
   "rumor_entity_rekeys": 1,
-  "rumor_expired_count": 32,
+  "rumor_expired_count": 33,
   "rumor_integrity_repairs": 3154,
-  "rumor_last_scan_utc": "2026-11-01T09:01:07.579500+00:00",
+  "rumor_last_scan_utc": "2026-11-01T09:10:54.595772+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BUMI": {
       "category": "AKUISISI / TAKEOVER",
@@ -8211,7 +8211,7 @@
     },
     "DIVESTASI|TICKER|ASET": {
       "category": "DIVESTASI",
-      "company_name": "ASET",
+      "company_name": "PT LANCARTAMA SEJATI TBK KEPADA PT PERMANA NAMMA MULIA",
       "copy_duplicate_count": 0,
       "credible_effective_independent_count": 1.1,
       "derivative_source_count": 0,
@@ -9206,6 +9206,7 @@
       "key": "MERGER|TITLE|MENAKAR PROSPEK KINERJA BUMN KARYA JELANG WACANA",
       "last_alert_utc": "2026-10-25T10:10:53.190640+00:00",
       "last_seen_utc": "2026-10-25T09:07:25+00:00",
+      "last_state_change_utc": "2026-11-01T09:10:54.595748+00:00",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWGhnOVpqMkZ5cjg2ZGo0WEptbzl1V3RJVEhJOWdSYXFqbm5DbXJvSElSS0FhZHlSbFNmTVd6UDZvQm85ZHJVQVBqYkdvRjhZbTRrcU16MjBfTGpKVGxtYmFwVFFqdFZLbkUtMFozWm9xNmMxdm15aUxNaVQzWk5CMVJaQmhfX01NTnV1bkhQLW4tV0JjbEhOWlI3WmF0YVpQMFFjUW1XS1RVbXVkWXfSAaYBQVVfeXFMUFo5cEZZaWtHT3NVVHIxS2J5eDNuZnd6bTl5ZnU4ZDlQd0hnZTBCRVpJeXU4bFlpcE5aLWo2UURXWkRKMWNJUDZRT3EzVXNQQU5XakRPbzRUb0NHZWU0clcxM0w3c3hRTUl2ZUV1MVlvZ1M4X3E0U3dfM0xoaXNuUkc3NkV4U0tVeGw4ZEIzcE1PcW9tMFhhUFBXZ1JiQjktU1Jielh0QQ?oc=5",
       "market_data": null,
       "official_confirmation": null,
@@ -9243,7 +9244,7 @@
         "kontan.co.id",
         "KONTAN"
       ],
-      "status": "ACTIVE",
+      "status": "EXPIRED",
       "strength": "WEAK",
       "ticker": null,
       "title": "Menakar Prospek Kinerja Emiten BUMN Karya Jelang Wacana Merger Akhir 2026 - kontan.co.id"
