@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 31,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 1002,
-  "early_signal_last_scan_utc": "2026-11-01T05:20:51.751533+00:00",
+  "early_signal_last_scan_utc": "2026-11-01T05:30:49.160579+00:00",
   "early_signal_memory": {
     "BNGA": {
       "change_pct": -0.9,
@@ -3401,6 +3401,42 @@
         "money": [],
         "official_authority": "IDX",
         "official_kind": "PRIMARY",
+        "price_range": null,
+        "ratio": null,
+        "schedule": {},
+        "share_count": null,
+        "stage": "TENDER OFFER",
+        "stage_step": 6,
+        "stage_total": 7,
+        "stake": [],
+        "standby_buyer": null,
+        "target": null,
+        "target_confirmed": false,
+        "tender_price": null,
+        "underwriter": null,
+        "use_of_funds": []
+      },
+      "ticker": ""
+    },
+    "M&A / TAKEOVER|TITLE|OJK PANTAU TRANSAKSI BAYAN GANTI PENGENDALI WAJIB": {
+      "family": "M&A / TAKEOVER",
+      "first_seen_utc": "2026-11-01T05:30:50.922773+00:00",
+      "last_alert_utc": "2026-11-01T05:30:50.922768+00:00",
+      "last_seen_utc": "2026-11-01T05:30:50.922768+00:00",
+      "market_context": {
+        "change_pct": null,
+        "last_price": null,
+        "market_date": null
+      },
+      "material_snapshot": {
+        "acquirer": null,
+        "acquirer_confirmed": false,
+        "event_type": "TENDER OFFER",
+        "execution_price": null,
+        "ipo_single_price": null,
+        "money": [],
+        "official_authority": null,
+        "official_kind": null,
         "price_range": null,
         "ratio": null,
         "schedule": {},
@@ -7135,7 +7171,7 @@
     }
   },
   "last_keepalive_utc": "2026-10-23T10:40:53.220355+00:00",
-  "last_state_change_utc": "2026-11-01T05:20:51.785967+00:00",
+  "last_state_change_utc": "2026-11-01T05:30:50.924219+00:00",
   "market_noise_suppressed": 10,
   "milestone_alerts": {},
   "rumor_alerts_sent": 156,
@@ -7146,8 +7182,8 @@
   "rumor_duplicates_suppressed": 954,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 32,
-  "rumor_integrity_repairs": 3132,
-  "rumor_last_scan_utc": "2026-11-01T05:20:51.739722+00:00",
+  "rumor_integrity_repairs": 3133,
+  "rumor_last_scan_utc": "2026-11-01T05:30:49.152823+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BUMI": {
       "category": "AKUISISI / TAKEOVER",
@@ -9631,6 +9667,7 @@
     "12b5dcccbfec6410a0129fd0b334a4a6359d11b7bdb06b8f71b3d8b2fe981ece": "2026-09-17T19:41:14.787581+00:00",
     "1330b3527a0cf5999f1131ce26f0a98971d3b18fd1f2897fe02b427c6ed0394b": "2026-09-18T13:31:06.274963+00:00",
     "14932677db0dbdb5bf9e3af25dcd19f76fb769c73a79f3d9846b3fbf61717dd3": "2026-09-17T20:01:21.731964+00:00",
+    "171135200577bddcd98dd8fcda8405a79c49f9f7c96694bc5010c8e4e5df715a": "2026-11-01T05:30:50.922757+00:00",
     "17d166eda3d2eaf971408220a84e44295105a841ca0747bbcc0a82e96f4fa06b": "2026-09-18T05:21:05.457166+00:00",
     "18beeebad9d1af50f22cc31ba32cf7cd3d7f43b1e9c7f390145e19aa869f8355": "2026-09-04T07:31:09.699142+00:00",
     "194e34aadbbadb29ea6284201a6dd105ccc6ce0854cc6e659ade2124e03624a8": "2026-10-02T06:01:02.686653+00:00",
