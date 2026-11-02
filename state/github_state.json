@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 31,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 1002,
-  "early_signal_last_scan_utc": "2026-11-02T07:20:54.612754+00:00",
+  "early_signal_last_scan_utc": "2026-11-02T07:31:01.263453+00:00",
   "early_signal_memory": {
     "BNGA": {
       "change_pct": -0.9,
@@ -7199,7 +7199,7 @@
     }
   },
   "last_keepalive_utc": "2026-10-23T10:40:53.220355+00:00",
-  "last_state_change_utc": "2026-11-02T07:20:54.642836+00:00",
+  "last_state_change_utc": "2026-11-02T07:31:01.282120+00:00",
   "market_noise_suppressed": 10,
   "milestone_alerts": {},
   "rumor_alerts_sent": 156,
@@ -7210,8 +7210,8 @@
   "rumor_duplicates_suppressed": 960,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 35,
-  "rumor_integrity_repairs": 3260,
-  "rumor_last_scan_utc": "2026-11-02T07:20:54.602989+00:00",
+  "rumor_integrity_repairs": 3261,
+  "rumor_last_scan_utc": "2026-11-02T07:31:01.257681+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BUMI": {
       "category": "AKUISISI / TAKEOVER",
@@ -8625,18 +8625,18 @@
       "category": "MERGER",
       "company_name": "Bank Central Asia",
       "copy_duplicate_count": 0,
-      "credible_effective_independent_count": 0,
+      "credible_effective_independent_count": 0.8,
       "derivative_source_count": 0,
-      "detected_source_count": 1,
-      "effective_independent_count": 0.3,
+      "detected_source_count": 2,
+      "effective_independent_count": 1.1,
       "entity_aliases": [
         "Bank Central Asia",
         "Bank BCA (BBCA"
       ],
       "entity_resolution_source": null,
       "first_seen_utc": "2026-10-29T05:15:21+00:00",
-      "high_quality_source_count": 0,
-      "independent_story_count": 1,
+      "high_quality_source_count": 1,
+      "independent_story_count": 2,
       "issuer_profile": {
         "business_activity": "PT Bank Central Asia Tbk provides commercial banking and other financial services. The company offers time deposits, e- deposits, spinning, Dana Lander accounts, customer accounts, gold stage; loans, such as business, investment credit, sec",
         "controller": null,
@@ -8680,22 +8680,32 @@
       "source_breakdown": [
         {
           "derivative": false,
-          "group": "idx channel",
+          "group": "emitennews.com",
+          "new_material": 0,
+          "quality": "MEDIUM",
+          "semantic_copy": false,
+          "source": "Emitennews.com",
+          "tier": 3,
+          "weight": 0.8
+        },
+        {
+          "derivative": false,
+          "group": "limapagi",
           "new_material": 0,
           "quality": "LOW",
           "semantic_copy": false,
-          "source": "IDX Channel",
+          "source": "Limapagi",
           "tier": 1,
           "weight": 0.35
         }
       ],
       "source_count": 5,
       "source_quality": "LOW",
-      "source_quality_score": 0.3,
+      "source_quality_score": 2.4,
       "sources": [
         "Emitennews.com",
-        "IDX Channel",
         "Limapagi",
+        "IDX Channel",
         "Traders Union",
         "KONTAN"
       ],
