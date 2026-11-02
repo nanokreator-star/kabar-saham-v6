@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 31,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 1002,
-  "early_signal_last_scan_utc": "2026-11-02T03:21:58.013928+00:00",
+  "early_signal_last_scan_utc": "2026-11-02T05:30:57.350919+00:00",
   "early_signal_memory": {
     "BNGA": {
       "change_pct": -0.9,
@@ -459,6 +459,42 @@
       "first_seen_utc": "2026-10-09T09:01:19.797880+00:00",
       "last_alert_utc": "2026-10-09T09:01:19.797875+00:00",
       "last_seen_utc": "2026-10-09T09:01:19.797875+00:00",
+      "market_context": {
+        "change_pct": null,
+        "last_price": null,
+        "market_date": null
+      },
+      "material_snapshot": {
+        "acquirer": null,
+        "acquirer_confirmed": false,
+        "event_type": "IPO",
+        "execution_price": null,
+        "ipo_single_price": null,
+        "money": [],
+        "official_authority": null,
+        "official_kind": null,
+        "price_range": null,
+        "ratio": null,
+        "schedule": {},
+        "share_count": null,
+        "stage": "RENCANA / PROSPEKTUS",
+        "stage_step": 2,
+        "stage_total": 5,
+        "stake": [],
+        "standby_buyer": null,
+        "target": null,
+        "target_confirmed": false,
+        "tender_price": null,
+        "underwriter": null,
+        "use_of_funds": []
+      },
+      "ticker": ""
+    },
+    "IPO|TITLE|BEI PERLUAS PEMBINAAN UMKM SIAPKAN CALON DEMOKRATIS": {
+      "family": "IPO",
+      "first_seen_utc": "2026-11-02T05:31:00.539775+00:00",
+      "last_alert_utc": "2026-11-02T05:31:00.539769+00:00",
+      "last_seen_utc": "2026-11-02T05:31:00.539769+00:00",
       "market_context": {
         "change_pct": null,
         "last_price": null,
@@ -7127,7 +7163,7 @@
     }
   },
   "last_keepalive_utc": "2026-10-23T10:40:53.220355+00:00",
-  "last_state_change_utc": "2026-11-02T03:21:58.015962+00:00",
+  "last_state_change_utc": "2026-11-02T05:31:00.541771+00:00",
   "market_noise_suppressed": 10,
   "milestone_alerts": {},
   "rumor_alerts_sent": 156,
@@ -7139,7 +7175,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 34,
   "rumor_integrity_repairs": 3249,
-  "rumor_last_scan_utc": "2026-11-02T03:21:58.013856+00:00",
+  "rumor_last_scan_utc": "2026-11-02T05:30:57.343280+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BUMI": {
       "category": "AKUISISI / TAKEOVER",
@@ -8168,7 +8204,7 @@
     },
     "DIVESTASI|TICKER|ASET": {
       "category": "DIVESTASI",
-      "company_name": "ASET",
+      "company_name": "PT LANCARTAMA SEJATI TBK KEPADA PT PERMANA NAMMA MULIA",
       "copy_duplicate_count": 0,
       "credible_effective_independent_count": 1.1,
       "derivative_source_count": 0,
@@ -9740,6 +9776,7 @@
     "86475d31d6ce8e93b7682a7df4ee647f538ba3edb6709dd563013601bac94640": "2026-10-06T06:11:51.459019+00:00",
     "866c40c123dc04907d95aff8779c29984dd7a4c2b8b00dc7a5ed1bb369179f0a": "2026-09-25T08:02:07.576911+00:00",
     "86790f40859d1676744a56250ed0133ec6319cabec2b4d06e57980e4673b2c7c": "2026-10-19T13:31:10.412032+00:00",
+    "87156cdd168b3922127e4f194fa6ac3abcf8ec0c4654500d593f56e4dd965050": "2026-11-02T05:31:00.539751+00:00",
     "87c0c2c0852a5aca71ee89106e5676efa0ff9219eaf5ed5f23ecc8e691f6b65d": "2026-09-25T16:20:50.588575+00:00",
     "8aa03d9384d1352b9bcced9b35f68b0d9686f83003265c4acbdfb851e650a6f7": "2026-10-16T14:11:03.419877+00:00",
     "8c4f8459f2a0383c5469969d6fef6df8fca510c7d0f7f502826fb185a8c99e67": "2026-10-03T15:01:01.430159+00:00",
