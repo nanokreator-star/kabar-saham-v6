@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 31,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 1002,
-  "early_signal_last_scan_utc": "2026-11-02T06:50:48.554804+00:00",
+  "early_signal_last_scan_utc": "2026-11-02T07:01:06.029797+00:00",
   "early_signal_memory": {
     "BNGA": {
       "change_pct": -0.9,
@@ -7199,7 +7199,7 @@
     }
   },
   "last_keepalive_utc": "2026-10-23T10:40:53.220355+00:00",
-  "last_state_change_utc": "2026-11-02T06:50:48.588602+00:00",
+  "last_state_change_utc": "2026-11-02T07:01:06.055559+00:00",
   "market_noise_suppressed": 10,
   "milestone_alerts": {},
   "rumor_alerts_sent": 156,
@@ -7209,9 +7209,9 @@
   "rumor_denied_count": 12,
   "rumor_duplicates_suppressed": 960,
   "rumor_entity_rekeys": 1,
-  "rumor_expired_count": 34,
-  "rumor_integrity_repairs": 3257,
-  "rumor_last_scan_utc": "2026-11-02T06:50:48.543682+00:00",
+  "rumor_expired_count": 35,
+  "rumor_integrity_repairs": 3258,
+  "rumor_last_scan_utc": "2026-11-02T07:01:06.022003+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BUMI": {
       "category": "AKUISISI / TAKEOVER",
@@ -7946,7 +7946,7 @@
       "key": "DELISTING / RELISTING|TICKER|BNGA",
       "last_alert_utc": "2026-10-29T05:51:47.481887+00:00",
       "last_seen_utc": "2026-10-26T07:00:00+00:00",
-      "last_state_change_utc": "2026-10-29T04:10:55.869691+00:00",
+      "last_state_change_utc": "2026-11-02T07:01:06.021985+00:00",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdm9MVnpoYktZQUJnZmdQTzJsdTJTd1Y2Mjd6SU1EQUZzWGR0MGQzUEJwcTBqMFBhOEFoTFVPMXpOOEVkdzYyWktrcHhobnF5V2EtVzBLUEZscFRFMDZjb2pCVlRjMGxxRjI5eENVQkRFRG1FcWN6dm9KaXhsSlZhajNEUm9DZERUT0p6anBxa04?oc=5",
       "market_data": {
         "change_pct": -1.2987012987012987,
@@ -7998,7 +7998,7 @@
         "TradingView",
         "kontan.co.id"
       ],
-      "status": "ACTIVE",
+      "status": "EXPIRED",
       "strength": "WEAK",
       "ticker": "BNGA",
       "title": "Jawab Isu Delisting, Presdir Bank CIMB Niaga (BNGA) Ungkap Ini - Emitennews.com"
