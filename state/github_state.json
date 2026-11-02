@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 31,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 1002,
-  "early_signal_last_scan_utc": "2026-11-02T07:40:56.369610+00:00",
+  "early_signal_last_scan_utc": "2026-11-02T07:51:02.320960+00:00",
   "early_signal_memory": {
     "BNGA": {
       "change_pct": -0.9,
@@ -156,6 +156,42 @@
       "first_seen_utc": "2026-11-02T05:40:55.897892+00:00",
       "last_alert_utc": "2026-11-02T05:40:55.897887+00:00",
       "last_seen_utc": "2026-11-02T05:40:55.897887+00:00",
+      "market_context": {
+        "change_pct": null,
+        "last_price": null,
+        "market_date": null
+      },
+      "material_snapshot": {
+        "acquirer": null,
+        "acquirer_confirmed": false,
+        "event_type": "IPO",
+        "execution_price": null,
+        "ipo_single_price": null,
+        "money": [],
+        "official_authority": null,
+        "official_kind": null,
+        "price_range": null,
+        "ratio": null,
+        "schedule": {},
+        "share_count": null,
+        "stage": "RENCANA / PROSPEKTUS",
+        "stage_step": 2,
+        "stage_total": 5,
+        "stake": [],
+        "standby_buyer": null,
+        "target": null,
+        "target_confirmed": false,
+        "tender_price": null,
+        "underwriter": null,
+        "use_of_funds": []
+      },
+      "ticker": ""
+    },
+    "IPO|TITLE|BEI LUNCURKAN EMPAT STRATEGI PERKUAT KESIAPAN CALON": {
+      "family": "IPO",
+      "first_seen_utc": "2026-11-02T07:51:04.335963+00:00",
+      "last_alert_utc": "2026-11-02T07:51:04.335957+00:00",
+      "last_seen_utc": "2026-11-02T07:51:04.335957+00:00",
       "market_context": {
         "change_pct": null,
         "last_price": null,
@@ -7255,7 +7291,7 @@
     }
   },
   "last_keepalive_utc": "2026-10-23T10:40:53.220355+00:00",
-  "last_state_change_utc": "2026-11-02T07:41:11.017253+00:00",
+  "last_state_change_utc": "2026-11-02T07:51:04.338551+00:00",
   "market_noise_suppressed": 10,
   "milestone_alerts": {},
   "rumor_alerts_sent": 156,
@@ -7266,8 +7302,8 @@
   "rumor_duplicates_suppressed": 960,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 35,
-  "rumor_integrity_repairs": 3262,
-  "rumor_last_scan_utc": "2026-11-02T07:40:56.359322+00:00",
+  "rumor_integrity_repairs": 3263,
+  "rumor_last_scan_utc": "2026-11-02T07:51:02.308626+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BUMI": {
       "category": "AKUISISI / TAKEOVER",
@@ -9873,6 +9909,7 @@
     "87c0c2c0852a5aca71ee89106e5676efa0ff9219eaf5ed5f23ecc8e691f6b65d": "2026-09-25T16:20:50.588575+00:00",
     "8aa03d9384d1352b9bcced9b35f68b0d9686f83003265c4acbdfb851e650a6f7": "2026-10-16T14:11:03.419877+00:00",
     "8c4f8459f2a0383c5469969d6fef6df8fca510c7d0f7f502826fb185a8c99e67": "2026-10-03T15:01:01.430159+00:00",
+    "8df24b3522b7853ed1a1dbb2a936ee654ceb7b6eb7029da9703d96cb81c426ca": "2026-11-02T07:51:04.335939+00:00",
     "8e2e1c61bd9210a4fa893bcd58866412788cd0b659f5b063e27d121cb335e822": "2026-09-09T02:53:14.984832+00:00",
     "8ed28ff4cca238d45e3ce8104a84c14a987b6bfefe8e46fa380b33303ef92296": "2026-10-16T14:11:03.419877+00:00",
     "8f0b98b0ca49fa3e09317675a374a3ce3afac8cfba04341a927eee75e973fc2b": "2026-10-09T21:50:39.651530+00:00",
