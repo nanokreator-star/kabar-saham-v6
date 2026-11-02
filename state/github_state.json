@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 31,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 1002,
-  "early_signal_last_scan_utc": "2026-11-02T20:37:46.466568+00:00",
+  "early_signal_last_scan_utc": "2026-11-02T20:41:01.749464+00:00",
   "early_signal_memory": {
     "BNGA": {
       "change_pct": -0.9,
@@ -7371,7 +7371,7 @@
     }
   },
   "last_keepalive_utc": "2026-10-23T10:40:53.220355+00:00",
-  "last_state_change_utc": "2026-11-02T20:37:46.500065+00:00",
+  "last_state_change_utc": "2026-11-02T20:41:01.787157+00:00",
   "market_noise_suppressed": 10,
   "milestone_alerts": {},
   "rumor_alerts_sent": 157,
@@ -7383,7 +7383,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 35,
   "rumor_integrity_repairs": 3264,
-  "rumor_last_scan_utc": "2026-11-02T20:37:46.455872+00:00",
+  "rumor_last_scan_utc": "2026-11-02T20:41:01.736945+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BUMI": {
       "category": "AKUISISI / TAKEOVER",
@@ -10011,7 +10011,7 @@
         "subindustry": null,
         "subsector": null,
         "ticker": "EFEK",
-        "verified_at": "2026-11-02T08:21:03.863867+00:00",
+        "verified_at": "2026-11-02T20:31:06.513628+00:00",
         "website": null
       },
       "key": "RIGHTS ISSUE|TICKER|EFEK",
