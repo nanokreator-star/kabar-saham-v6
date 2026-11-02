@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 31,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 1002,
-  "early_signal_last_scan_utc": "2026-11-02T01:01:03.720629+00:00",
+  "early_signal_last_scan_utc": "2026-11-02T01:10:50.446173+00:00",
   "early_signal_memory": {
     "BNGA": {
       "change_pct": -0.9,
@@ -7127,7 +7127,7 @@
     }
   },
   "last_keepalive_utc": "2026-10-23T10:40:53.220355+00:00",
-  "last_state_change_utc": "2026-11-02T01:01:03.760906+00:00",
+  "last_state_change_utc": "2026-11-02T01:10:50.498954+00:00",
   "market_noise_suppressed": 10,
   "milestone_alerts": {},
   "rumor_alerts_sent": 156,
@@ -7137,9 +7137,9 @@
   "rumor_denied_count": 12,
   "rumor_duplicates_suppressed": 960,
   "rumor_entity_rekeys": 1,
-  "rumor_expired_count": 33,
-  "rumor_integrity_repairs": 3235,
-  "rumor_last_scan_utc": "2026-11-02T01:01:03.706821+00:00",
+  "rumor_expired_count": 34,
+  "rumor_integrity_repairs": 3236,
+  "rumor_last_scan_utc": "2026-11-02T01:10:50.439642+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BUMI": {
       "category": "AKUISISI / TAKEOVER",
@@ -8054,6 +8054,7 @@
       "key": "DELISTING / RELISTING|TICKER|FREE",
       "last_alert_utc": "2026-10-26T01:27:01.527456+00:00",
       "last_seen_utc": "2026-10-26T01:07:47+00:00",
+      "last_state_change_utc": "2026-11-02T01:10:50.439623+00:00",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdmk2d1AtLUxSN2FocXV4NVZ2ZE05ZURLM0FKSmM0TmNTZGVsVzZhMEdhYmZnVnBfSGFGaG1EalN2WUtNN1Fmc3hnVnRqTlNZRG9pODJvLS1xal80aHNLV2FqVWJxMVBNck8zN2FVQWhpd2NQS1A0bVdBeTEzY1ZkZzRZaFR1YVdBZ0ljQVRzYm1tbjItSXdORE80Sk9TcXozQmhHV1V4WGdRaWtUYjBvQlRJTHZGV3lGX2U2dzFPQ0Ezbkk?oc=5",
       "market_data": null,
       "official_confirmation": null,
@@ -8090,7 +8091,7 @@
       "sources": [
         "Inforiau"
       ],
-      "status": "ACTIVE",
+      "status": "EXPIRED",
       "strength": "WEAK",
       "ticker": "FREE",
       "title": "Free Float Minim, Sejumlah Emiten Pilih Jalan Go Private: Sinyal Bahaya bagi Pasar Modal Indonesia? - Inforiau"
