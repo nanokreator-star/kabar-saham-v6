@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 31,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 1002,
-  "early_signal_last_scan_utc": "2026-11-02T19:31:56.888261+00:00",
+  "early_signal_last_scan_utc": "2026-11-02T19:41:00.980869+00:00",
   "early_signal_memory": {
     "BNGA": {
       "change_pct": -0.9,
@@ -118,8 +118,8 @@
     "IPO|TITLE|BEI BIDIK 15 300 USAHA MENENGAH SIAPKAN": {
       "family": "IPO",
       "first_seen_utc": "2026-11-02T13:31:55.558172+00:00",
-      "last_alert_utc": "2026-11-02T13:31:55.558166+00:00",
-      "last_seen_utc": "2026-11-02T13:31:55.558166+00:00",
+      "last_alert_utc": "2026-11-02T19:41:11.337336+00:00",
+      "last_seen_utc": "2026-11-02T19:41:11.337336+00:00",
       "market_context": {
         "change_pct": null,
         "last_price": null,
@@ -143,7 +143,9 @@
         "stage": "OFFERING",
         "stage_step": 4,
         "stage_total": 5,
-        "stake": [],
+        "stake": [
+          3.0
+        ],
         "standby_buyer": null,
         "target": null,
         "target_confirmed": false,
@@ -151,7 +153,7 @@
         "underwriter": null,
         "use_of_funds": []
       },
-      "ticker": ""
+      "ticker": "UMKM"
     },
     "IPO|TITLE|BEI CATAT TIGA CALON DENGAN ASET JUMBO": {
       "family": "IPO",
@@ -7223,6 +7225,26 @@
       "verified_at": "2026-09-18T11:31:04.666293+00:00",
       "website": "https://www.ultrajaya.co.id"
     },
+    "UMKM": {
+      "business_activity": null,
+      "controller": null,
+      "industry": null,
+      "issuer_name": null,
+      "owner_context_sources": 0,
+      "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
+      "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
+      "owner_v6_checked_utc": "2026-11-02T19:41:10.813128+00:00",
+      "owner_v6_pages_fetched": 0,
+      "profile_source": "Yahoo Finance",
+      "profile_source_quality": "FALLBACK",
+      "profile_source_url": null,
+      "sector": null,
+      "subindustry": null,
+      "subsector": null,
+      "ticker": "UMKM",
+      "verified_at": "2026-11-02T19:41:10.794923+00:00",
+      "website": null
+    },
     "UNTR": {
       "business_activity": "PT United Tractors Tbk, together with its subsidiaries, provides coal mining services in Indonesia. The company operates in five segments: Construction Machinery, Mining Contracting, Thermal and Metallurgical Coal Mining, Gold and Other Min",
       "controller": null,
@@ -7349,7 +7371,7 @@
     }
   },
   "last_keepalive_utc": "2026-10-23T10:40:53.220355+00:00",
-  "last_state_change_utc": "2026-11-02T19:31:56.906621+00:00",
+  "last_state_change_utc": "2026-11-02T19:41:11.339903+00:00",
   "market_noise_suppressed": 10,
   "milestone_alerts": {},
   "rumor_alerts_sent": 157,
@@ -7361,7 +7383,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 35,
   "rumor_integrity_repairs": 3264,
-  "rumor_last_scan_utc": "2026-11-02T19:31:56.880458+00:00",
+  "rumor_last_scan_utc": "2026-11-02T19:41:00.975235+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BUMI": {
       "category": "AKUISISI / TAKEOVER",
@@ -10262,6 +10284,7 @@
     "cee67825f1415edf4af562c32edefdc7c77b7b126ded056f9b5c8fc538bc328f": "2026-09-07T06:00:59.778628+00:00",
     "cf32ab1ffdd74efa7bc91db12ccdd343635e42f241654a6304bbeba05b7892dc": "2026-09-18T13:51:19.869418+00:00",
     "d031742429d4ddc670d1c48c2e160ac9223cac6a7b65bea3f9c3591ee66468e2": "2026-09-17T18:01:01.291552+00:00",
+    "d1171079134edfb071e2fbf4635300b37b9f901eb22d6d192d79527d2ed5f893": "2026-11-02T19:41:11.337317+00:00",
     "d1a32eeefce1d962f3ccebcf7b171fa833e5ea0a99f6df0e65f0e47090d90b96": "2026-10-14T15:01:47.057026+00:00",
     "d2af2f20b5ffaa62f50a45e7fc8f9fa5c279edb6282a0b0b9253060979a57aaa": "2026-11-01T23:30:57.921848+00:00",
     "d2c572e1eb9fc8d2afe9217144d58afc3cc50cbd621f9321798bfbacc5fbefe5": "2026-09-19T07:31:15.920350+00:00",
