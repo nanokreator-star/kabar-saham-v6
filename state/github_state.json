@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 31,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 1002,
-  "early_signal_last_scan_utc": "2026-11-03T03:50:53.644833+00:00",
+  "early_signal_last_scan_utc": "2026-11-03T04:01:10.624281+00:00",
   "early_signal_memory": {
     "BNGA": {
       "change_pct": -0.9,
@@ -4287,12 +4287,12 @@
     "RIGHTS ISSUE|TICKER|PART": {
       "family": "RIGHTS ISSUE",
       "first_seen_utc": "2026-11-02T07:41:11.014547+00:00",
-      "last_alert_utc": "2026-11-02T07:41:11.014540+00:00",
-      "last_seen_utc": "2026-11-02T07:41:11.014540+00:00",
+      "last_alert_utc": "2026-11-03T04:01:32.178988+00:00",
+      "last_seen_utc": "2026-11-03T04:01:32.178988+00:00",
       "market_context": {
-        "change_pct": -0.8772,
-        "last_price": 113.0,
-        "market_date": "2026-11-02"
+        "change_pct": -1.7857,
+        "last_price": 110.0,
+        "market_date": "2026-11-03"
       },
       "material_snapshot": {
         "acquirer": null,
@@ -4306,7 +4306,7 @@
         "price_range": null,
         "ratio": null,
         "schedule": {},
-        "share_count": "8 Miliar saham",
+        "share_count": "1 Miliar saham",
         "stage": "RENCANA",
         "stage_step": 2,
         "stage_total": 6,
@@ -4316,7 +4316,9 @@
         "target_confirmed": false,
         "tender_price": null,
         "underwriter": null,
-        "use_of_funds": []
+        "use_of_funds": [
+          "MODAL KERJA"
+        ]
       },
       "ticker": "PART"
     },
@@ -6812,7 +6814,7 @@
       "owner_context_sources": 0,
       "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
       "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-      "owner_v6_checked_utc": "2026-11-02T07:41:10.440009+00:00",
+      "owner_v6_checked_utc": "2026-11-03T04:01:31.546603+00:00",
       "owner_v6_pages_fetched": 0,
       "profile_source": "Yahoo Finance",
       "profile_source_quality": "FALLBACK",
@@ -7371,7 +7373,7 @@
     }
   },
   "last_keepalive_utc": "2026-10-23T10:40:53.220355+00:00",
-  "last_state_change_utc": "2026-11-03T03:51:01.289288+00:00",
+  "last_state_change_utc": "2026-11-03T04:01:32.180989+00:00",
   "market_noise_suppressed": 10,
   "milestone_alerts": {},
   "rumor_alerts_sent": 157,
@@ -7383,7 +7385,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 35,
   "rumor_integrity_repairs": 3264,
-  "rumor_last_scan_utc": "2026-11-03T03:50:53.631540+00:00",
+  "rumor_last_scan_utc": "2026-11-03T04:01:10.615484+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BUMI": {
       "category": "AKUISISI / TAKEOVER",
@@ -10278,6 +10280,7 @@
     "93d40432bbecacbc3d90d9521977dd750e3baf5e6fa27acbf399ffed46012542": "2026-10-26T08:31:20.232478+00:00",
     "948783525b501fe439a445b4a38a970df288b4801e1ee21ee4bb6c956a3f4c3d": "2026-09-18T11:31:09.317756+00:00",
     "94f5393b01a6201b1064e067adc3fb2d00b16715521b66d4354611d99dd49d3b": "2026-11-02T07:41:11.014521+00:00",
+    "958438a390dd53aedc604d91a5871b03277efb46e26194ac8216a8c3eaac1ca1": "2026-11-03T04:01:32.178966+00:00",
     "96a520e53f7155a3f8e60e112b5f1bf8ac54101b0125add0d1b18b0d9d4a8652": "2026-10-01T16:31:16.621213+00:00",
     "974d92ee48b538a04596bb5c980fc09f5cd66608d901837616c28100f1b66ca5": "2026-09-15T04:11:16.787656+00:00",
     "99eddadc9391f8427e37eeb6b516b6d89ae153203f43ad5b3c9b2299549b5b22": "2026-10-02T10:51:37.467291+00:00",
@@ -10299,6 +10302,7 @@
     "ac4a63a11531dbc3fe8ab138e8a0daf7a5cb222266d0b3877cdf249d2a84951f": "2026-10-04T15:41:06.864315+00:00",
     "ac61e56b1bf48d32e0e8dd03051b5a0f4559b946a29d87b5090b47e0d4172d3f": "2026-09-17T01:11:44.651468+00:00",
     "ac7305378c01f4e11d447c01070c69fd484a413be45e0062f3668f4f7933ffc8": "2026-09-25T16:20:50.588575+00:00",
+    "accb7810f9ca34f9aa5e1864abc6ba169eb624e730194af05116d1d3177abf77": "2026-11-03T04:01:32.178966+00:00",
     "ad5958ad49731502a760ce31751bb4e9ada90ed8e2492f18081d3728fdd9b511": "2026-10-05T12:41:28.033499+00:00",
     "ad6ef924669e07b523bb7f3744f44eb5190353ee290a899f0af190284cd3a12f": "2026-10-06T00:31:04.597141+00:00",
     "ad7c0b6878acb68a59dd58d4ee90327bb89550a712f3a8b3c951ecc749cebce1": "2026-09-16T10:51:01.710363+00:00",
