@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 31,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 1002,
-  "early_signal_last_scan_utc": "2026-11-04T10:20:49.571312+00:00",
+  "early_signal_last_scan_utc": "2026-11-04T11:41:02.832052+00:00",
   "early_signal_memory": {
     "BNGA": {
       "change_pct": -0.9,
@@ -7563,7 +7563,7 @@
     }
   },
   "last_keepalive_utc": "2026-10-23T10:40:53.220355+00:00",
-  "last_state_change_utc": "2026-11-04T10:20:49.641363+00:00",
+  "last_state_change_utc": "2026-11-04T11:41:02.848916+00:00",
   "market_noise_suppressed": 10,
   "milestone_alerts": {},
   "rumor_alerts_sent": 157,
@@ -7571,11 +7571,11 @@
   "rumor_confirmed_count": 44,
   "rumor_confirmed_dedups": 0,
   "rumor_denied_count": 12,
-  "rumor_duplicates_suppressed": 961,
+  "rumor_duplicates_suppressed": 962,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 36,
   "rumor_integrity_repairs": 3264,
-  "rumor_last_scan_utc": "2026-11-04T10:20:49.563383+00:00",
+  "rumor_last_scan_utc": "2026-11-04T11:41:02.828450+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BUMI": {
       "category": "AKUISISI / TAKEOVER",
@@ -9991,13 +9991,13 @@
       "independent_story_count": 1,
       "issuer_profile": null,
       "key": "PRIVATE PLACEMENT|COMPANY|BHUWANATALA INDAH PERMAI",
-      "last_seen_utc": "2026-11-04T09:42:32+00:00",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQUMyVnc1VFVBcjFzbDNqa2tTNVNDQVAzZ3dvTjdDUXE5SGEzNVh4NC1teFJNTVBQSEQ4VGlXVXZIc3AwV3hYQTVSNms4OG5HNEhyMjhQajB1SjF3UFlBS3owTjJmTTRIc3NHQTZ3V1pJS1dQQklLcVJtdjRUOFhZdjFQWGhnNi1KdFVSTEVNQzZJNE94NGplSGhLTEpUTHlMX2hfMFl6SWFqV1BSckE5OWMwSQ?oc=5",
+      "last_seen_utc": "2026-11-04T11:38:02+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNX1ZxYXpVS0l0eEd4amJWdnZFblpFSEZ5bmFqXzlYaFpLZjBldXRqanVjNHE2TmlNMmZhUWI1V2NNdEdLWHFpTDVvOEFyWGlGZnVjbkg0NTNqYjNMQWNqWVZFZ0hFR2J6UlkyVGxQMDdYWmNsdm5oNFpaTEp6ZUViOEhVSjlIY0VidGFGaUZKS09NTFdnX0s0ZGwwZFlxUGlTWU4xeHBRdWxPd0ZCOUMzU1VCaw?oc=5",
       "market_data": null,
       "official_confirmation": null,
       "premium_source_count": 1,
       "profile_refresh_utc": null,
-      "published": "Wed, 04 Nov 2026 09:42:32 GMT",
+      "published": "Wed, 04 Nov 2026 11:38:02 GMT",
       "rumor_details": {
         "ipo_price": null,
         "listing_estimate": null,
