@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 31,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 1002,
-  "early_signal_last_scan_utc": "2026-11-04T06:10:51.232668+00:00",
+  "early_signal_last_scan_utc": "2026-11-04T07:10:54.929890+00:00",
   "early_signal_memory": {
     "BNGA": {
       "change_pct": -0.9,
@@ -6283,7 +6283,7 @@
       "owner_context_sources": 0,
       "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
       "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-      "owner_v6_checked_utc": "2026-11-03T12:20:53.092319+00:00",
+      "owner_v6_checked_utc": "2026-11-04T07:10:50.786510+00:00",
       "owner_v6_pages_fetched": 0,
       "profile_source": "Yahoo Finance",
       "profile_source_quality": "FALLBACK",
@@ -6292,7 +6292,7 @@
       "subindustry": null,
       "subsector": null,
       "ticker": "EFEK",
-      "verified_at": "2026-11-03T12:20:54.543610+00:00",
+      "verified_at": "2026-11-04T07:10:51.444605+00:00",
       "website": null
     },
     "ENVY": {
@@ -7563,7 +7563,7 @@
     }
   },
   "last_keepalive_utc": "2026-10-23T10:40:53.220355+00:00",
-  "last_state_change_utc": "2026-11-04T06:11:11.192018+00:00",
+  "last_state_change_utc": "2026-11-04T07:10:54.956239+00:00",
   "market_noise_suppressed": 10,
   "milestone_alerts": {},
   "rumor_alerts_sent": 157,
@@ -7571,11 +7571,11 @@
   "rumor_confirmed_count": 44,
   "rumor_confirmed_dedups": 0,
   "rumor_denied_count": 12,
-  "rumor_duplicates_suppressed": 960,
+  "rumor_duplicates_suppressed": 961,
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 36,
   "rumor_integrity_repairs": 3264,
-  "rumor_last_scan_utc": "2026-11-04T06:10:51.220625+00:00",
+  "rumor_last_scan_utc": "2026-11-04T07:10:54.921091+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BUMI": {
       "category": "AKUISISI / TAKEOVER",
@@ -10231,7 +10231,7 @@
     },
     "RIGHTS ISSUE|TICKER|EFEK": {
       "category": "RIGHTS ISSUE",
-      "company_name": "PT Bur",
+      "company_name": "PT BAN",
       "copy_duplicate_count": 0,
       "credible_effective_independent_count": 1.1,
       "derivative_source_count": 0,
@@ -10252,7 +10252,7 @@
         "owner_context_sources": 0,
         "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
         "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-        "owner_v6_checked_utc": "2026-11-03T12:20:53.092319+00:00",
+        "owner_v6_checked_utc": "2026-11-04T07:10:50.786510+00:00",
         "owner_v6_pages_fetched": 0,
         "profile_source": "Yahoo Finance",
         "profile_source_quality": "FALLBACK",
@@ -10261,17 +10261,17 @@
         "subindustry": null,
         "subsector": null,
         "ticker": "EFEK",
-        "verified_at": "2026-11-03T12:20:54.543610+00:00",
+        "verified_at": "2026-11-04T07:10:51.444605+00:00",
         "website": null
       },
       "key": "RIGHTS ISSUE|TICKER|EFEK",
-      "last_seen_utc": "2026-10-30T13:08:48+00:00",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbTFpTlZCVHExbS1ZMjNRQm9qVmxIOEw1NTh2YXFUaFhJek5UU0F6X2VocGt1SjBacTltanVfYV9fNlhrTUFHa1VRR1lHaVJBaE1uTkxPVU4zREpSRmpuV3pPWXRGMUhkU0V2TWVRUDdjUjFTSzA4Y2ptT01KM1UweG5aVTJkTDdBS2hYcHRIRnVPcnVKVnNxSXF6TU9xTW12Wm9EUC1EN0plc0RwWUUzbncyRQ?oc=5",
+      "last_seen_utc": "2026-11-04T06:26:27+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZnJtcVhjcFhFN0JQODlyUmM3SW43MHpuellVbUwyaXlMdnRDQS00QXo3ZmFLMHdwaElMVzhISV9EZjdBTFdpajRoTVNYamNDa0JIMGc5NVNEbm1zUEM2QWpxRkdXd2NJSWphd0FSbDdJUElTSlVuNUJQVGdSMzFfNXRwWWRqTFhtWnFUOXc4N3I2NDhQSklvcWlJMzVQZ1EwejYzTm5RTzZmU0dXdEdPUUFKcw?oc=5",
       "market_data": null,
       "official_confirmation": null,
       "premium_source_count": 1,
-      "profile_refresh_utc": "2026-11-03T12:20:59.952534+00:00",
-      "published": "Fri, 30 Oct 2026 13:08:48 GMT",
+      "profile_refresh_utc": "2026-11-04T07:10:54.919764+00:00",
+      "published": "Wed, 04 Nov 2026 06:26:27 GMT",
       "rumor_details": {
         "ipo_price": null,
         "listing_estimate": null,
@@ -10305,7 +10305,7 @@
       "status": "CONFIRMED OFFICIAL",
       "strength": "CONFIRMED OFFICIAL",
       "ticker": "EFEK",
-      "title": "KETERBUKAAN INFORMASI KEPADA PEMEGANG SAHAM TERKAIT RENCANA PENAMBAHAN MODAL TANPA MEMBERIKAN HAK MEMESAN EFEK TERLEBIH DAHULU P - PT Bursa Efek Indonesia"
+      "title": "PENGUMUMAN HASIL PELAKSANAAN PENAMBAHAN MODAL TANPA MEMBERIKAN HAK MEMESAN EFEK TERLEBIH DAHULU PT BANK INA PERDANA Tbk (\u201c - PT Bursa Efek Indonesia"
     }
   },
   "schema_version": 3,
