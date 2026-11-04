@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 31,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 1002,
-  "early_signal_last_scan_utc": "2026-11-04T02:01:19.703332+00:00",
+  "early_signal_last_scan_utc": "2026-11-04T03:01:18.524156+00:00",
   "early_signal_memory": {
     "BNGA": {
       "change_pct": -0.9,
@@ -7525,7 +7525,7 @@
     }
   },
   "last_keepalive_utc": "2026-10-23T10:40:53.220355+00:00",
-  "last_state_change_utc": "2026-11-04T02:01:34.222785+00:00",
+  "last_state_change_utc": "2026-11-04T03:01:18.558221+00:00",
   "market_noise_suppressed": 10,
   "milestone_alerts": {},
   "rumor_alerts_sent": 157,
@@ -7535,9 +7535,9 @@
   "rumor_denied_count": 12,
   "rumor_duplicates_suppressed": 960,
   "rumor_entity_rekeys": 1,
-  "rumor_expired_count": 35,
+  "rumor_expired_count": 36,
   "rumor_integrity_repairs": 3264,
-  "rumor_last_scan_utc": "2026-11-04T02:01:19.693601+00:00",
+  "rumor_last_scan_utc": "2026-11-04T03:01:18.514185+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BUMI": {
       "category": "AKUISISI / TAKEOVER",
@@ -8673,6 +8673,7 @@
       "key": "IPO|COMPANY|ANTHROPIC",
       "last_alert_utc": "2026-10-28T03:10:50.009738+00:00",
       "last_seen_utc": "2026-10-28T02:57:28+00:00",
+      "last_state_change_utc": "2026-11-04T03:01:18.514154+00:00",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPR3RxTHdUTjd2MGxYSXk5cldPeTdyLXJ2QTZSYWlKQUtsUjcxT3Z3N2dQZEw3SmpKbFZmWllsRnhPOThhbDVmSkIwLW1sdnpTUzNDcHlTOWlieXRNb09TM2M1akJvdVVyeEFjdk1zN2l5MHZoX0ZBV28yQ2NWUFpGRm5vV08tX3IzZWRtM1JrQXpBTzUwTXRnczkwMDhvX0VLWUh3T04tVnViUGpfRDFNNmNqdlJDQQ?oc=5",
       "market_data": null,
       "official_confirmation": null,
@@ -8709,7 +8710,7 @@
       "sources": [
         "FORTUNE Indonesia"
       ],
-      "status": "ACTIVE",
+      "status": "EXPIRED",
       "strength": "WEAK",
       "ticker": null,
       "title": "Anthropic Akan IPO, Valuasi Ditargetkan 2 Triliun Dolar AS - FORTUNE Indonesia"
