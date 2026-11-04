@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 31,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 1002,
-  "early_signal_last_scan_utc": "2026-11-04T01:20:52.165929+00:00",
+  "early_signal_last_scan_utc": "2026-11-04T01:41:06.090507+00:00",
   "early_signal_memory": {
     "BNGA": {
       "change_pct": -0.9,
@@ -3108,6 +3108,42 @@
         "use_of_funds": []
       },
       "ticker": ""
+    },
+    "M&A / TAKEOVER|TITLE|IDEA TEKEN PJBS NAWASENA SELANGKAH LAGI JADI": {
+      "family": "M&A / TAKEOVER",
+      "first_seen_utc": "2026-11-04T01:41:21.334601+00:00",
+      "last_alert_utc": "2026-11-04T01:41:21.334594+00:00",
+      "last_seen_utc": "2026-11-04T01:41:21.334594+00:00",
+      "market_context": {
+        "change_pct": -0.9091,
+        "last_price": 218.0,
+        "market_date": "2026-11-03"
+      },
+      "material_snapshot": {
+        "acquirer": null,
+        "acquirer_confirmed": false,
+        "event_type": "TAKEOVER",
+        "execution_price": null,
+        "ipo_single_price": null,
+        "money": [],
+        "official_authority": null,
+        "official_kind": null,
+        "price_range": null,
+        "ratio": null,
+        "schedule": {},
+        "share_count": null,
+        "stage": "SPA / SIGNED",
+        "stage_step": 4,
+        "stage_total": 7,
+        "stake": [],
+        "standby_buyer": null,
+        "target": null,
+        "target_confirmed": false,
+        "tender_price": null,
+        "underwriter": null,
+        "use_of_funds": []
+      },
+      "ticker": "IDEA"
     },
     "M&A / TAKEOVER|TITLE|KETERBUKAAN INFORMASI DIBUAT DALAM RANGKA WAJIB YANG": {
       "family": "M&A / TAKEOVER",
@@ -7489,7 +7525,7 @@
     }
   },
   "last_keepalive_utc": "2026-10-23T10:40:53.220355+00:00",
-  "last_state_change_utc": "2026-11-04T01:20:58.267266+00:00",
+  "last_state_change_utc": "2026-11-04T01:41:21.336820+00:00",
   "market_noise_suppressed": 10,
   "milestone_alerts": {},
   "rumor_alerts_sent": 157,
@@ -7501,7 +7537,7 @@
   "rumor_entity_rekeys": 1,
   "rumor_expired_count": 35,
   "rumor_integrity_repairs": 3264,
-  "rumor_last_scan_utc": "2026-11-04T01:20:52.160025+00:00",
+  "rumor_last_scan_utc": "2026-11-04T01:41:06.082051+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BUMI": {
       "category": "AKUISISI / TAKEOVER",
@@ -10374,6 +10410,7 @@
     "8369a0ebe7ace864bb10e8d0156174e4aea54db8bba4b8baee0298a69c5d0b36": "2026-09-18T17:10:52.492870+00:00",
     "8458e7d675fa6b30c925750239d9653971af66178a6c296a421b1129d2aa5990": "2026-10-19T13:31:10.412032+00:00",
     "84b48ca398ec3ec441de426bfad7247305714ed98d078aeb64ff2982f48ddbee": "2026-10-05T11:10:59.749837+00:00",
+    "85566a2fd8f51dae84a46df43fcf4cfa240c10d689c9baa083f581087412574b": "2026-11-04T01:41:21.334576+00:00",
     "86475d31d6ce8e93b7682a7df4ee647f538ba3edb6709dd563013601bac94640": "2026-10-06T06:11:51.459019+00:00",
     "866c40c123dc04907d95aff8779c29984dd7a4c2b8b00dc7a5ed1bb369179f0a": "2026-09-25T08:02:07.576911+00:00",
     "86790f40859d1676744a56250ed0133ec6319cabec2b4d06e57980e4673b2c7c": "2026-10-19T13:31:10.412032+00:00",
