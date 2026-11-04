@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 31,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 1002,
-  "early_signal_last_scan_utc": "2026-11-04T15:01:05.298953+00:00",
+  "early_signal_last_scan_utc": "2026-11-04T17:20:39.931872+00:00",
   "early_signal_memory": {
     "BNGA": {
       "change_pct": -0.9,
@@ -7521,7 +7521,7 @@
     }
   },
   "last_keepalive_utc": "2026-10-23T10:40:53.220355+00:00",
-  "last_state_change_utc": "2026-11-04T15:01:05.310908+00:00",
+  "last_state_change_utc": "2026-11-04T17:20:39.944595+00:00",
   "market_noise_suppressed": 10,
   "milestone_alerts": {},
   "rumor_alerts_sent": 157,
@@ -7531,9 +7531,9 @@
   "rumor_denied_count": 12,
   "rumor_duplicates_suppressed": 962,
   "rumor_entity_rekeys": 8,
-  "rumor_expired_count": 36,
+  "rumor_expired_count": 37,
   "rumor_integrity_repairs": 3264,
-  "rumor_last_scan_utc": "2026-11-04T15:01:05.296440+00:00",
+  "rumor_last_scan_utc": "2026-11-04T17:20:39.929330+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BUMI": {
       "category": "AKUISISI / TAKEOVER",
@@ -8519,6 +8519,7 @@
       "key": "DELISTING / RELISTING|TITLE|TIDUR BURSA 59 BERPOTENSI DELISTING ADA YANG",
       "last_alert_utc": "2026-10-28T06:20:51.841614+00:00",
       "last_seen_utc": "2026-10-28T17:17:13+00:00",
+      "last_state_change_utc": "2026-11-04T17:20:39.929313+00:00",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZ1hNdUk5c1Nxdy11X19HQVVwcldveXF5SEZNb2VLNkROSXpjTmYya0p4aldDMjFvUGRJTWNranNhUHdfalFiSjlrNW00Yzc3VnZyb094Q3RuQlpsNlRDamRhR2lSSkJZTGJJWnZPMDhjMWF0b2JGSURMTC0wXzBMWGtuenI1TUVrLUxOb3ZkR3FDVXlTZHpTcFRkLWs5RklEVjUwWnBYVml5clVadnI1d2s2Q25MaUZRNVBwbXhGTEhMYTRNWGdpMXRCR3JXUnpG?oc=5",
       "market_data": null,
       "official_confirmation": null,
@@ -8555,7 +8556,7 @@
       "sources": [
         "Investing.com Indonesia"
       ],
-      "status": "ACTIVE",
+      "status": "EXPIRED",
       "strength": "WEAK",
       "ticker": null,
       "title": "Saham Tidur di Bursa: 59 Emiten Berpotensi Delisting, Ada yang Disuspensi 7 Tahun - Investing.com Indonesia"
