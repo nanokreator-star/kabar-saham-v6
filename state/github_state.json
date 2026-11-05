@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 31,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 1002,
-  "early_signal_last_scan_utc": "2026-11-05T03:50:57.494412+00:00",
+  "early_signal_last_scan_utc": "2026-11-05T11:40:43.000190+00:00",
   "early_signal_memory": {
     "BNGA": {
       "change_pct": -0.9,
@@ -6315,7 +6315,7 @@
       "owner_context_sources": 0,
       "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
       "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-      "owner_v6_checked_utc": "2026-11-04T19:20:40.448517+00:00",
+      "owner_v6_checked_utc": "2026-11-05T11:40:38.519220+00:00",
       "owner_v6_pages_fetched": 0,
       "profile_source": "Yahoo Finance",
       "profile_source_quality": "FALLBACK",
@@ -6324,7 +6324,7 @@
       "subindustry": null,
       "subsector": null,
       "ticker": "EFEK",
-      "verified_at": "2026-11-05T01:41:00.326271+00:00",
+      "verified_at": "2026-11-05T11:40:39.403953+00:00",
       "website": null
     },
     "ENVY": {
@@ -7615,7 +7615,7 @@
     }
   },
   "last_keepalive_utc": "2026-10-23T10:40:53.220355+00:00",
-  "last_state_change_utc": "2026-11-05T03:51:02.511385+00:00",
+  "last_state_change_utc": "2026-11-05T11:40:43.028128+00:00",
   "market_noise_suppressed": 10,
   "milestone_alerts": {},
   "rumor_alerts_sent": 157,
@@ -7624,10 +7624,10 @@
   "rumor_confirmed_dedups": 0,
   "rumor_denied_count": 12,
   "rumor_duplicates_suppressed": 962,
-  "rumor_entity_rekeys": 8,
+  "rumor_entity_rekeys": 9,
   "rumor_expired_count": 37,
   "rumor_integrity_repairs": 3264,
-  "rumor_last_scan_utc": "2026-11-05T03:50:57.488820+00:00",
+  "rumor_last_scan_utc": "2026-11-05T11:40:42.992309+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BUMI": {
       "category": "AKUISISI / TAKEOVER",
@@ -10192,63 +10192,6 @@
       "ticker": "VISI",
       "title": "BUKTI UPLOAD PENGUMUMAN PELAKSANAAN PMTHMETD PT SATU VISI PUTRA TBK (VISI) Bukti Upload pada Web Bursa Efek Indonesia Link: htt - PT Bursa Efek Indonesia"
     },
-    "PRIVATE PLACEMENT|TITLE|BUKTI IKLAN KETERBUKAAN INFORMASI RENCANA PMTHMETD PT": {
-      "category": "PRIVATE PLACEMENT",
-      "company_name": "PT Ban",
-      "copy_duplicate_count": 0,
-      "credible_effective_independent_count": 1.1,
-      "derivative_source_count": 0,
-      "detected_source_count": 1,
-      "effective_independent_count": 1.1,
-      "entity_aliases": [],
-      "entity_resolution_source": null,
-      "first_seen_utc": "2026-11-04T12:58:22+00:00",
-      "high_quality_source_count": 1,
-      "independent_story_count": 1,
-      "issuer_profile": null,
-      "key": "PRIVATE PLACEMENT|TITLE|BUKTI IKLAN KETERBUKAAN INFORMASI RENCANA PMTHMETD PT",
-      "last_seen_utc": "2026-11-04T12:58:22+00:00",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQd0pIMnV6VzlocXNpYUFSc1B2WDhZQmN2NzlGaE5WLU9ObHRxMjlQQWFfc1JVRDJxQTRJRXRrUnpKUzY5Z2dzUllSQ1FubWs0SzZXT2J6S3FjaFBRbG5hZXN2WE5UdFd6cC1WR2tVLXdvYms5ckwybzRUam5uSU1VT3Y0ZlhPbzEtZk5UcF9WSFBSMVFBOUcxa25ZTTJmNWc1NEpXVkNJNndCYWwzY3pxODF4MA?oc=5",
-      "market_data": null,
-      "official_confirmation": null,
-      "premium_source_count": 1,
-      "profile_refresh_utc": null,
-      "published": "Wed, 04 Nov 2026 12:58:22 GMT",
-      "rumor_details": {
-        "ipo_price": null,
-        "listing_estimate": null,
-        "money": [],
-        "percentages": [],
-        "price_range": null,
-        "rumored_party": null,
-        "share_count": null,
-        "underwriter": null
-      },
-      "semantic_copy_count": 0,
-      "source": "PT Bursa Efek Indonesia",
-      "source_breakdown": [
-        {
-          "derivative": false,
-          "group": "pt bursa efek indonesia",
-          "new_material": 0,
-          "quality": "OFFICIAL",
-          "semantic_copy": false,
-          "source": "PT Bursa Efek Indonesia",
-          "tier": 5,
-          "weight": 1.1
-        }
-      ],
-      "source_count": 1,
-      "source_quality": "MEDIUM",
-      "source_quality_score": 5.5,
-      "sources": [
-        "PT Bursa Efek Indonesia"
-      ],
-      "status": "CONFIRMED OFFICIAL",
-      "strength": "CONFIRMED OFFICIAL",
-      "ticker": null,
-      "title": "Bukti Iklan Keterbukaan Informasi rencana PMTHMETD PT Bank Ina Perdana Tbk pada Website Perseroan versi Bahasa Indonesia https:/ - PT Bursa Efek Indonesia"
-    },
     "RIGHTS ISSUE|TICKER|CMNP": {
       "category": "RIGHTS ISSUE",
       "company_name": "Citra Marga Nusaphala Persada",
@@ -10364,7 +10307,7 @@
         "owner_context_sources": 0,
         "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
         "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-        "owner_v6_checked_utc": "2026-11-04T19:20:40.448517+00:00",
+        "owner_v6_checked_utc": "2026-11-05T11:40:38.519220+00:00",
         "owner_v6_pages_fetched": 0,
         "profile_source": "Yahoo Finance",
         "profile_source_quality": "FALLBACK",
@@ -10373,7 +10316,7 @@
         "subindustry": null,
         "subsector": null,
         "ticker": "EFEK",
-        "verified_at": "2026-11-05T01:41:00.326271+00:00",
+        "verified_at": "2026-11-05T11:40:39.403953+00:00",
         "website": null
       },
       "key": "RIGHTS ISSUE|TICKER|EFEK",
@@ -10382,7 +10325,7 @@
       "market_data": null,
       "official_confirmation": null,
       "premium_source_count": 1,
-      "profile_refresh_utc": "2026-11-04T19:20:45.857979+00:00",
+      "profile_refresh_utc": "2026-11-05T11:40:42.990377+00:00",
       "published": "Wed, 04 Nov 2026 06:26:27 GMT",
       "rumor_details": {
         "ipo_price": null,
