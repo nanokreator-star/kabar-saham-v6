@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 31,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 1002,
-  "early_signal_last_scan_utc": "2026-11-05T02:00:52.899240+00:00",
+  "early_signal_last_scan_utc": "2026-11-05T03:50:57.494412+00:00",
   "early_signal_memory": {
     "BNGA": {
       "change_pct": -0.9,
@@ -4396,6 +4396,44 @@
       },
       "ticker": "BRIS"
     },
+    "RIGHTS ISSUE|TICKER|GIAA": {
+      "family": "RIGHTS ISSUE",
+      "first_seen_utc": "2026-11-05T03:51:02.508712+00:00",
+      "last_alert_utc": "2026-11-05T03:51:02.508706+00:00",
+      "last_seen_utc": "2026-11-05T03:51:02.508706+00:00",
+      "market_context": {
+        "change_pct": 7.8947,
+        "last_price": 41.0,
+        "market_date": "2026-11-05"
+      },
+      "material_snapshot": {
+        "acquirer": null,
+        "acquirer_confirmed": false,
+        "event_type": "RIGHTS ISSUE",
+        "execution_price": null,
+        "ipo_single_price": null,
+        "money": [
+          "Rp16,91 triliun"
+        ],
+        "official_authority": null,
+        "official_kind": null,
+        "price_range": null,
+        "ratio": null,
+        "schedule": {},
+        "share_count": null,
+        "stage": "RENCANA",
+        "stage_step": 2,
+        "stage_total": 6,
+        "stake": [],
+        "standby_buyer": null,
+        "target": null,
+        "target_confirmed": false,
+        "tender_price": null,
+        "underwriter": null,
+        "use_of_funds": []
+      },
+      "ticker": "GIAA"
+    },
     "RIGHTS ISSUE|TICKER|MGLV": {
       "family": "RIGHTS ISSUE",
       "first_seen_utc": "2026-10-29T02:11:07.229180+00:00",
@@ -6429,6 +6467,26 @@
       "verified_at": "2026-10-02T10:05:39.763382+00:00",
       "website": "https://futura-energi.com"
     },
+    "GIAA": {
+      "business_activity": "PT. Garuda Indonesia (Persero) Tbk provides airline services in Indonesia and internationally.",
+      "controller": null,
+      "industry": "Airlines",
+      "issuer_name": "Garuda Indonesia (Persero",
+      "owner_context_sources": 0,
+      "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
+      "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
+      "owner_v6_checked_utc": "2026-11-05T03:51:01.654052+00:00",
+      "owner_v6_pages_fetched": 0,
+      "profile_source": "Yahoo Finance",
+      "profile_source_quality": "FALLBACK",
+      "profile_source_url": null,
+      "sector": "Industrials",
+      "subindustry": null,
+      "subsector": null,
+      "ticker": "GIAA",
+      "verified_at": "2026-11-05T03:51:01.198032+00:00",
+      "website": "https://www.garuda-indonesia.com"
+    },
     "GMFI": {
       "business_activity": "PT Garuda Maintenance Facility Aero Asia Tbk provides various aircraft maintenance, repair, and overhaul services in Indonesia. It operates through Repair and Maintenance Airframe, Engine, and Component; Line Maintenance and Technical Groun",
       "controller": null,
@@ -7557,7 +7615,7 @@
     }
   },
   "last_keepalive_utc": "2026-10-23T10:40:53.220355+00:00",
-  "last_state_change_utc": "2026-11-05T02:00:52.921206+00:00",
+  "last_state_change_utc": "2026-11-05T03:51:02.511385+00:00",
   "market_noise_suppressed": 10,
   "milestone_alerts": {},
   "rumor_alerts_sent": 157,
@@ -7569,7 +7627,7 @@
   "rumor_entity_rekeys": 8,
   "rumor_expired_count": 37,
   "rumor_integrity_repairs": 3264,
-  "rumor_last_scan_utc": "2026-11-05T02:00:52.894249+00:00",
+  "rumor_last_scan_utc": "2026-11-05T03:50:57.488820+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BUMI": {
       "category": "AKUISISI / TAKEOVER",
@@ -10385,6 +10443,7 @@
     "0e2dcc230a547b39f1fbec28ce1fb6e159d75b3afc73cc16bf086c93d9ac44ed": "2026-10-20T06:21:28.958011+00:00",
     "0f07586bb610315eb485f41810b46cbe40a9e15da67bb5c6083c7428c0777d26": "2026-09-18T13:40:46.595316+00:00",
     "10168ffe8c6c06e86f806f9be29da51a1f7ad69b13ed3be9d7a7ef5415cdac41": "2026-09-25T16:20:50.588575+00:00",
+    "1209a300997459dd85c40d783bdb1827539b6b5240bfff8af4d93d1db4fa31c2": "2026-11-05T03:51:02.508684+00:00",
     "12b5dcccbfec6410a0129fd0b334a4a6359d11b7bdb06b8f71b3d8b2fe981ece": "2026-09-17T19:41:14.787581+00:00",
     "1330b3527a0cf5999f1131ce26f0a98971d3b18fd1f2897fe02b427c6ed0394b": "2026-09-18T13:31:06.274963+00:00",
     "14932677db0dbdb5bf9e3af25dcd19f76fb769c73a79f3d9846b3fbf61717dd3": "2026-09-17T20:01:21.731964+00:00",
@@ -10406,6 +10465,7 @@
     "23009cecac49a7bdb0c49820a59b69c655a8feca6af91712bf1db5e9b9622bfd": "2026-09-30T11:21:40.393091+00:00",
     "23631988368f35d98ff769a9badb44701656daefbb89abe01028a0ed3998262f": "2026-09-23T04:30:51.459933+00:00",
     "2425eaf6c4692970aeb9afa3e92df36eb3c0ea9648a7ca63fe7406865db786ea": "2026-10-03T14:50:45.376143+00:00",
+    "2481c9cb2d6794541e3383722a74d075c72311bf4253794ca50accf72f432947": "2026-11-05T03:51:02.508684+00:00",
     "270562ea3dff0292a3fdea93673ea633636308ba5e93f4cb4ed688e12f20c707": "2026-09-14T09:20:54.324058+00:00",
     "273ebb2ba1eb8d2aea400d9c36a002da7e0b11dd07ede951cf9e7655200cb78e": "2026-10-19T00:50:39.877732+00:00",
     "27d6aeea63093039e397ca421be6af54b76fefb13ba9d82e770d5a6d977b67d6": "2026-10-09T09:01:19.797856+00:00",
@@ -10482,6 +10542,7 @@
     "6e0cde1a68224c52958199cbf6893754c5ef38faad4bbdee1acc246d08c87894": "2026-10-29T18:10:53.636655+00:00",
     "6e0f7fec7fa965a9fbcefbb7838d761e7672209e2e9ab21e4fd5737537a1bd4d": "2026-10-02T05:30:57.313883+00:00",
     "6efb844fb1727d59e73589e899c5469c4b1406372f6c2c38cec8b43780c5ead0": "2026-09-19T03:11:06.233093+00:00",
+    "704a5528a74f5d28453e9858c8f45627bbcf31f226c93c12019732e38d01dac3": "2026-11-05T03:51:02.508684+00:00",
     "727df9d83ff500868582417fc4c6cf292d306c6a5031743712335c5e1e2519b5": "2026-10-16T05:30:47.513641+00:00",
     "7396f28be91c4f70184084961d9bacd6670aaf984b68db3b0c8e67dff0291b7f": "2026-09-11T09:11:04.145656+00:00",
     "755dd30c612b52176ee114f2d320148d259f21da18423235fe768edcf8d05fe4": "2026-09-18T22:01:40.239575+00:00",
@@ -10531,6 +10592,7 @@
     "958438a390dd53aedc604d91a5871b03277efb46e26194ac8216a8c3eaac1ca1": "2026-11-03T04:01:32.178966+00:00",
     "96a520e53f7155a3f8e60e112b5f1bf8ac54101b0125add0d1b18b0d9d4a8652": "2026-10-01T16:31:16.621213+00:00",
     "974d92ee48b538a04596bb5c980fc09f5cd66608d901837616c28100f1b66ca5": "2026-09-15T04:11:16.787656+00:00",
+    "98d1b8d6c9b07b848380d34b8962d5a76be94d10dbc650caf0f76d327307a372": "2026-11-05T03:51:02.508684+00:00",
     "99eddadc9391f8427e37eeb6b516b6d89ae153203f43ad5b3c9b2299549b5b22": "2026-10-02T10:51:37.467291+00:00",
     "9a270271dc55a215a093946784242058d212d9e30c3c9de2cf680a19448d958c": "2026-10-09T15:30:59.357852+00:00",
     "9ac69e909a620f15a2891b5de03535724de24710e982007f7a3876bd66dfd1af": "2026-09-17T19:41:14.787581+00:00",
