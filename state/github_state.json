@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 31,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 1002,
-  "early_signal_last_scan_utc": "2026-11-06T15:10:53.108365+00:00",
+  "early_signal_last_scan_utc": "2026-11-06T16:20:43.189884+00:00",
   "early_signal_memory": {
     "BNGA": {
       "change_pct": -0.9,
@@ -7786,10 +7786,10 @@
     }
   },
   "last_keepalive_utc": "2026-11-06T10:50:40.166496+00:00",
-  "last_state_change_utc": "2026-11-06T15:10:53.141861+00:00",
+  "last_state_change_utc": "2026-11-06T16:20:43.210845+00:00",
   "market_noise_suppressed": 10,
   "milestone_alerts": {},
-  "rumor_alerts_sent": 157,
+  "rumor_alerts_sent": 158,
   "rumor_baseline_initialized": true,
   "rumor_confirmed_count": 44,
   "rumor_confirmed_dedups": 0,
@@ -7798,7 +7798,7 @@
   "rumor_entity_rekeys": 10,
   "rumor_expired_count": 39,
   "rumor_integrity_repairs": 3264,
-  "rumor_last_scan_utc": "2026-11-06T15:10:53.100678+00:00",
+  "rumor_last_scan_utc": "2026-11-06T16:20:43.183585+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BUMI": {
       "category": "AKUISISI / TAKEOVER",
@@ -8960,6 +8960,80 @@
       "strength": "CONFIRMED OFFICIAL",
       "ticker": "ASET",
       "title": "LAPORAN RINGKAS PENDAPAT KEWAJARAN RENCANA TRANSAKSI DIVESTASI ASET PT LANCARTAMA SEJATI TBK KEPADA PT PERMANA NAMMA MULIA - PT Bursa Efek Indonesia"
+    },
+    "IPO|COMPANY|ANDALAN ARTHA": {
+      "category": "IPO",
+      "company_name": "Andalan Artha",
+      "copy_duplicate_count": 0,
+      "credible_effective_independent_count": 1.0,
+      "derivative_source_count": 0,
+      "detected_source_count": 1,
+      "effective_independent_count": 1.0,
+      "entity_aliases": [
+        "Andalan Artha"
+      ],
+      "entity_resolution_source": null,
+      "first_seen_utc": "2026-11-06T12:20:30+00:00",
+      "high_quality_source_count": 1,
+      "independent_story_count": 1,
+      "issuer_profile": {
+        "business_activity": "aktivitas penunjang pertambangan dan penggalian lainnya ini berpotensi menghimpun dana segar maksimal Rp 316,76 miliar",
+        "controller": null,
+        "industry": null,
+        "issuer_name": "Andalan Artha",
+        "major_shareholders": [],
+        "profile_source": "MULTI-SOURCE MEDIA CONTEXT (1)",
+        "profile_source_quality": "MEDIA_CONTEXT",
+        "sector": "Basic Materials",
+        "subsector": null,
+        "ticker": null,
+        "verified_at": "2026-11-06T16:20:42.542229+00:00"
+      },
+      "key": "IPO|COMPANY|ANDALAN ARTHA",
+      "last_alert_utc": "2026-11-06T16:20:43.183242+00:00",
+      "last_seen_utc": "2026-11-06T12:20:30+00:00",
+      "link": "https://www.kontan.co.id/tag/pt-andalan-artha-primanusa-tbk-anda",
+      "market_data": null,
+      "official_confirmation": null,
+      "premium_source_count": 1,
+      "profile_refresh_utc": null,
+      "published": "Fri, 06 Nov 2026 12:20:30 GMT",
+      "rumor_details": {
+        "ipo_price": null,
+        "listing_estimate": null,
+        "money": [
+          "Rp316,76 miliar"
+        ],
+        "percentages": [],
+        "price_range": "Rp158\u2013Rp189",
+        "rumored_party": null,
+        "share_count": "1,67 miliar saham",
+        "underwriter": null
+      },
+      "semantic_copy_count": 0,
+      "source": "kontan.co.id",
+      "source_breakdown": [
+        {
+          "derivative": false,
+          "group": "kontan.co.id",
+          "new_material": 3,
+          "quality": "HIGH",
+          "semantic_copy": false,
+          "source": "kontan.co.id",
+          "tier": 4,
+          "weight": 1.0
+        }
+      ],
+      "source_count": 1,
+      "source_quality": "MEDIUM",
+      "source_quality_score": 4.0,
+      "sources": [
+        "kontan.co.id"
+      ],
+      "status": "ACTIVE",
+      "strength": "MEDIUM",
+      "ticker": null,
+      "title": "Andalan Artha Bakal IPO di Harga Rp 158-Rp 189 per Saham, Ini Catatan Analis - kontan.co.id"
     },
     "IPO|COMPANY|ANTHROPIC": {
       "category": "IPO",
