@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 31,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 1002,
-  "early_signal_last_scan_utc": "2026-11-06T20:00:56.931878+00:00",
+  "early_signal_last_scan_utc": "2026-11-06T20:20:50.383106+00:00",
   "early_signal_memory": {
     "BNGA": {
       "change_pct": -0.9,
@@ -1522,50 +1522,6 @@
         ]
       },
       "ticker": "TRUK"
-    },
-    "M&A / TAKEOVER|PARTIES|JEJAK EKSPANSI BUMI DI TAMBANG EMAS|LOYAL METALS": {
-      "family": "M&A / TAKEOVER",
-      "first_seen_utc": "2026-09-07T11:10:59.517755+00:00",
-      "last_alert_utc": "2026-09-07T15:01:20.529182+00:00",
-      "last_seen_utc": "2026-09-07T20:11:02.371392+00:00",
-      "market_context": {
-        "change_pct": 1.9149,
-        "last_price": 4790.0,
-        "market_date": "2026-09-07"
-      },
-      "material_snapshot": {
-        "acquirer": "Jejak Ekspansi BUMI di Tambang Emas",
-        "acquirer_confirmed": true,
-        "event_type": "AKUISISI",
-        "execution_price": null,
-        "ipo_single_price": null,
-        "money": [
-          "Rp1,73 triliun",
-          "Rp1,6 triliun",
-          "Rp6,9 triliun",
-          "Rp70,36 triliun"
-        ],
-        "official_authority": null,
-        "official_kind": null,
-        "price_range": null,
-        "ratio": null,
-        "schedule": {},
-        "share_count": null,
-        "stage": "SPA / SIGNED",
-        "stage_step": 4,
-        "stage_total": 7,
-        "stake": [],
-        "standby_buyer": null,
-        "target": "Loyal Metals",
-        "target_confirmed": true,
-        "tender_price": null,
-        "underwriter": null,
-        "use_of_funds": [
-          "AKUISISI / INVESTASI",
-          "EKSPANSI / CAPEX"
-        ]
-      },
-      "ticker": "ARKO"
     },
     "M&A / TAKEOVER|PARTIES|MESIN EKSPANSI BIKE KIAN MEMBARA|45 SAHAM SUMBER BARA ABADI": {
       "family": "M&A / TAKEOVER",
@@ -7748,7 +7704,7 @@
     }
   },
   "last_keepalive_utc": "2026-11-06T10:50:40.166496+00:00",
-  "last_state_change_utc": "2026-11-06T20:00:56.960460+00:00",
+  "last_state_change_utc": "2026-11-06T20:20:50.406336+00:00",
   "market_noise_suppressed": 10,
   "milestone_alerts": {},
   "rumor_alerts_sent": 159,
@@ -7760,7 +7716,7 @@
   "rumor_entity_rekeys": 10,
   "rumor_expired_count": 39,
   "rumor_integrity_repairs": 3264,
-  "rumor_last_scan_utc": "2026-11-06T20:00:56.923243+00:00",
+  "rumor_last_scan_utc": "2026-11-06T20:20:50.374257+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BUMI": {
       "category": "AKUISISI / TAKEOVER",
@@ -10955,7 +10911,6 @@
     "af5ee6206bdfbb4db1560df97a2d427c07377b68622867def752e84134ec5474": "2026-11-04T06:11:11.189314+00:00",
     "afd45df3bd8b502ba1f14b0a18da2fa67c3aeb4153f4ac275a53a371e8743c08": "2026-10-09T08:50:56.506750+00:00",
     "aff1aed4492d432381f45f2844a61b40022eec0c75e0f4aebfd5213ff1d7db07": "2026-10-19T13:31:07.910173+00:00",
-    "b03bcc0c45bea5a342212945f54ea2a8480226f3b8c27ec3317acf017bf273e1": "2026-09-07T20:11:02.371381+00:00",
     "b06790236559d0321e75fc985b3495ee0d3cfa84626a74d27d6e04a4cd0fc76a": "2026-10-12T23:10:55.373229+00:00",
     "b0ae7ae551e020d28f0f0de5ed556355966bedca0e62f315372ea95b04f0610e": "2026-10-06T03:21:42.651530+00:00",
     "b0f45eb33805a9b223649a508d62856160dc61068e1bb77ce40d1a16b5c25642": "2026-10-01T16:11:00.916718+00:00",
