@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 31,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 1002,
-  "early_signal_last_scan_utc": "2026-11-05T23:50:36.658050+00:00",
+  "early_signal_last_scan_utc": "2026-11-06T01:50:51.919767+00:00",
   "early_signal_memory": {
     "BNGA": {
       "change_pct": -0.9,
@@ -6324,7 +6324,7 @@
       "subindustry": null,
       "subsector": null,
       "ticker": "EFEK",
-      "verified_at": "2026-11-05T23:40:53.190557+00:00",
+      "verified_at": "2026-11-06T01:50:48.223264+00:00",
       "website": null
     },
     "ENVY": {
@@ -7615,7 +7615,7 @@
     }
   },
   "last_keepalive_utc": "2026-10-23T10:40:53.220355+00:00",
-  "last_state_change_utc": "2026-11-05T23:50:36.677924+00:00",
+  "last_state_change_utc": "2026-11-06T01:50:51.935787+00:00",
   "market_noise_suppressed": 10,
   "milestone_alerts": {},
   "rumor_alerts_sent": 157,
@@ -7627,7 +7627,7 @@
   "rumor_entity_rekeys": 9,
   "rumor_expired_count": 37,
   "rumor_integrity_repairs": 3264,
-  "rumor_last_scan_utc": "2026-11-05T23:50:36.652071+00:00",
+  "rumor_last_scan_utc": "2026-11-06T01:50:51.915471+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BUMI": {
       "category": "AKUISISI / TAKEOVER",
@@ -10053,7 +10053,7 @@
         "owner_context_sources": 0,
         "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
         "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-        "owner_v6_checked_utc": "2026-11-05T11:40:38.519220+00:00",
+        "owner_v6_checked_utc": "2026-11-05T23:40:52.294032+00:00",
         "owner_v6_pages_fetched": 0,
         "profile_source": "Yahoo Finance",
         "profile_source_quality": "FALLBACK",
@@ -10062,7 +10062,7 @@
         "subindustry": null,
         "subsector": null,
         "ticker": "EFEK",
-        "verified_at": "2026-11-05T23:40:53.190557+00:00",
+        "verified_at": "2026-11-06T01:50:48.223264+00:00",
         "website": null
       },
       "key": "PRIVATE PLACEMENT|TICKER|EFEK",
@@ -10073,7 +10073,7 @@
       "market_data": null,
       "official_confirmation": null,
       "premium_source_count": 1,
-      "profile_refresh_utc": "2026-11-05T13:41:20.651666+00:00",
+      "profile_refresh_utc": "2026-11-06T01:50:51.913734+00:00",
       "published": "Wed, 04 Nov 2026 12:58:22 GMT",
       "rumor_details": {
         "ipo_price": null,
@@ -10316,7 +10316,7 @@
         "subindustry": null,
         "subsector": null,
         "ticker": "EFEK",
-        "verified_at": "2026-11-05T23:40:53.190557+00:00",
+        "verified_at": "2026-11-06T01:50:48.223264+00:00",
         "website": null
       },
       "key": "RIGHTS ISSUE|TICKER|EFEK",
