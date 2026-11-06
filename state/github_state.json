@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 31,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 1002,
-  "early_signal_last_scan_utc": "2026-11-06T10:10:32.096123+00:00",
+  "early_signal_last_scan_utc": "2026-11-06T10:20:40.302394+00:00",
   "early_signal_memory": {
     "BNGA": {
       "change_pct": -0.9,
@@ -958,6 +958,58 @@
         "use_of_funds": []
       },
       "ticker": ""
+    },
+    "IPO|TITLE|MEMBEDAH KINERJA KEUANGAN ANDA CALON ENERGI PERTAMA": {
+      "family": "IPO",
+      "first_seen_utc": "2026-11-06T10:20:58.826737+00:00",
+      "last_alert_utc": "2026-11-06T10:20:58.826732+00:00",
+      "last_seen_utc": "2026-11-06T10:20:58.826732+00:00",
+      "market_context": {
+        "change_pct": null,
+        "last_price": null,
+        "market_date": null
+      },
+      "material_snapshot": {
+        "acquirer": null,
+        "acquirer_confirmed": false,
+        "event_type": "IPO",
+        "execution_price": null,
+        "ipo_single_price": null,
+        "money": [
+          "Rp316,76 miliar",
+          "Rp42 miliar",
+          "Rp3,26 miliar",
+          "Rp219,15 miliar",
+          "Rp65,01 miliar"
+        ],
+        "official_authority": null,
+        "official_kind": null,
+        "price_range": "Rp158\u2013Rp189",
+        "ratio": null,
+        "schedule": {},
+        "share_count": "1,676 miliar saham",
+        "stage": "OFFERING",
+        "stage_step": 4,
+        "stage_total": 5,
+        "stake": [
+          25.1,
+          8.69,
+          35.0,
+          21.26,
+          13.74,
+          65.0
+        ],
+        "standby_buyer": null,
+        "target": null,
+        "target_confirmed": false,
+        "tender_price": null,
+        "underwriter": null,
+        "use_of_funds": [
+          "MODAL KERJA",
+          "PELUNASAN UTANG"
+        ]
+      },
+      "ticker": "RATU"
     },
     "IPO|TITLE|OJK CATAT TUJUH CALON TARGET DANA RP": {
       "family": "IPO",
@@ -7364,6 +7416,26 @@
       "verified_at": "2026-10-05T12:41:17.604112+00:00",
       "website": "https://ransentertainment.co.id"
     },
+    "RATU": {
+      "business_activity": "PT Raharja Energi Cepu Tbk, through its subsidiary, PT Raharja Energi Tanjung Jabung, engages in the mining and excavation of oil and gas business in Indonesia. The company holds a 2.2423% participating interest in the Cepu block; and 8% pa",
+      "controller": null,
+      "industry": "Oil & Gas E&P",
+      "issuer_name": "Raharja Energi Cepu",
+      "owner_context_sources": 0,
+      "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
+      "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
+      "owner_v6_checked_utc": "2026-11-06T10:20:58.116842+00:00",
+      "owner_v6_pages_fetched": 0,
+      "profile_source": "Yahoo Finance",
+      "profile_source_quality": "FALLBACK",
+      "profile_source_url": null,
+      "sector": "Energy",
+      "subindustry": null,
+      "subsector": null,
+      "ticker": "RATU",
+      "verified_at": "2026-11-06T10:20:54.682248+00:00",
+      "website": "https://rec.co.id"
+    },
     "SEPI": {
       "business_activity": null,
       "controller": null,
@@ -7750,7 +7822,7 @@
     }
   },
   "last_keepalive_utc": "2026-10-23T10:40:53.220355+00:00",
-  "last_state_change_utc": "2026-11-06T10:11:05.420749+00:00",
+  "last_state_change_utc": "2026-11-06T10:20:58.828803+00:00",
   "market_noise_suppressed": 10,
   "milestone_alerts": {},
   "rumor_alerts_sent": 157,
@@ -7762,7 +7834,7 @@
   "rumor_entity_rekeys": 10,
   "rumor_expired_count": 38,
   "rumor_integrity_repairs": 3264,
-  "rumor_last_scan_utc": "2026-11-06T10:10:32.091519+00:00",
+  "rumor_last_scan_utc": "2026-11-06T10:20:40.295979+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BUMI": {
       "category": "AKUISISI / TAKEOVER",
@@ -10902,6 +10974,7 @@
     "f09ec87150ea11047c92de5b8dfb9de40fb3e39180df7af414cfd75b5a22f8c5": "2026-10-19T13:31:10.412032+00:00",
     "f23c921f275496bd59d0a018f7fb0f57c130584260fc26ff53b491a8c6252398": "2026-09-23T03:11:08.630669+00:00",
     "f37eec74c8a5009576af9f856ba3b20537085b23ad2ef86676a6ae27921163db": "2026-10-09T15:40:55.077618+00:00",
+    "f3ea74ce53e720fe421c85a98f6f3e6782e51175f91d62b165dcdf9a74c0c76f": "2026-11-06T10:20:58.826714+00:00",
     "f40f48aa39e7ec2f572918dc6477a96a0381feea8eb446e15bd184cf1bc50e1b": "2026-10-07T03:41:01.122940+00:00",
     "f45a50ac4f93cdc7704060c239f789a48f42c01de0c856a2807161d0ee430aed": "2026-10-02T10:11:01.070905+00:00",
     "f6be074e05d9d29661953d89ad38daabd749bb2eadb49b0c25be0ea480a55bf1": "2026-10-30T22:41:49.055512+00:00",
