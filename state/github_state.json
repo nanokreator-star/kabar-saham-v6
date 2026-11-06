@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 31,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 1002,
-  "early_signal_last_scan_utc": "2026-11-06T07:50:54.905685+00:00",
+  "early_signal_last_scan_utc": "2026-11-06T08:50:40.633315+00:00",
   "early_signal_memory": {
     "BNGA": {
       "change_pct": -0.9,
@@ -919,42 +919,6 @@
       "first_seen_utc": "2026-09-16T13:50:59.873396+00:00",
       "last_alert_utc": "2026-09-16T13:50:59.873391+00:00",
       "last_seen_utc": "2026-09-16T13:50:59.873391+00:00",
-      "market_context": {
-        "change_pct": null,
-        "last_price": null,
-        "market_date": null
-      },
-      "material_snapshot": {
-        "acquirer": null,
-        "acquirer_confirmed": false,
-        "event_type": "IPO",
-        "execution_price": null,
-        "ipo_single_price": null,
-        "money": [],
-        "official_authority": null,
-        "official_kind": null,
-        "price_range": null,
-        "ratio": null,
-        "schedule": {},
-        "share_count": null,
-        "stage": "RENCANA / PROSPEKTUS",
-        "stage_step": 2,
-        "stage_total": 5,
-        "stake": [],
-        "standby_buyer": null,
-        "target": null,
-        "target_confirmed": false,
-        "tender_price": null,
-        "underwriter": null,
-        "use_of_funds": []
-      },
-      "ticker": ""
-    },
-    "IPO|TITLE|KESEHATAN DOMINASI CALON BURSA ADA CALON CNBCINDONESIA": {
-      "family": "IPO",
-      "first_seen_utc": "2026-09-07T05:20:47.269743+00:00",
-      "last_alert_utc": "2026-09-07T05:20:47.269739+00:00",
-      "last_seen_utc": "2026-09-07T08:41:01.960543+00:00",
       "market_context": {
         "change_pct": null,
         "last_price": null,
@@ -7699,7 +7663,7 @@
     }
   },
   "last_keepalive_utc": "2026-10-23T10:40:53.220355+00:00",
-  "last_state_change_utc": "2026-11-06T07:50:54.937011+00:00",
+  "last_state_change_utc": "2026-11-06T08:50:40.665445+00:00",
   "market_noise_suppressed": 10,
   "milestone_alerts": {},
   "rumor_alerts_sent": 157,
@@ -7711,7 +7675,7 @@
   "rumor_entity_rekeys": 10,
   "rumor_expired_count": 37,
   "rumor_integrity_repairs": 3264,
-  "rumor_last_scan_utc": "2026-11-06T07:50:54.897626+00:00",
+  "rumor_last_scan_utc": "2026-11-06T08:50:40.624471+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BUMI": {
       "category": "AKUISISI / TAKEOVER",
@@ -10613,7 +10577,6 @@
     "1962c723d96cdbeb17d3e5f5219b57782e8db06b60bbbfeccaeb294012c16873": "2026-09-26T18:20:53.491933+00:00",
     "1ab368b7959516aa246d345837c3dd014878bdd9353fcf714c094b8d4ff8aa59": "2026-10-02T06:01:01.800061+00:00",
     "1c5b380735bd1ad2389f2e0f4655850eadfbc1a18a12ee7f2b93b191c0bfbc81": "2026-09-30T06:31:11.701312+00:00",
-    "1cbab3154354e118815ed27dc3fc238c0b615ae06d1e585160aaae3552d17417": "2026-09-07T08:41:01.960525+00:00",
     "1d7123549ca4174d97c5964462be4bd756eac59d99ce6ca54fd83d4777f82076": "2026-10-05T11:52:02.589730+00:00",
     "1edc20362f784a6c9bd9c963b92b0ce8d36d392af90c2a91f7dd1c95bdb5237e": "2026-09-09T02:53:23.259378+00:00",
     "1f0f838dbcc7db9cdb6b85d5fb96821724ca15d8ae40dfab1d99d75359e6efe9": "2026-09-11T11:40:56.657911+00:00",
