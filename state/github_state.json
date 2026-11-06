@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 31,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 1002,
-  "early_signal_last_scan_utc": "2026-11-06T01:50:51.919767+00:00",
+  "early_signal_last_scan_utc": "2026-11-06T03:30:49.746820+00:00",
   "early_signal_memory": {
     "BNGA": {
       "change_pct": -0.9,
@@ -78,6 +78,42 @@
         "use_of_funds": []
       },
       "ticker": "FOTO"
+    },
+    "IPO|TITLE|ANDA MASUK BOOK BUILDING CEK PROFIL LINI": {
+      "family": "IPO",
+      "first_seen_utc": "2026-11-06T03:30:57.791772+00:00",
+      "last_alert_utc": "2026-11-06T03:30:57.791766+00:00",
+      "last_seen_utc": "2026-11-06T03:30:57.791766+00:00",
+      "market_context": {
+        "change_pct": null,
+        "last_price": null,
+        "market_date": null
+      },
+      "material_snapshot": {
+        "acquirer": null,
+        "acquirer_confirmed": false,
+        "event_type": "IPO",
+        "execution_price": null,
+        "ipo_single_price": null,
+        "money": [],
+        "official_authority": null,
+        "official_kind": null,
+        "price_range": null,
+        "ratio": null,
+        "schedule": {},
+        "share_count": null,
+        "stage": "BOOKBUILDING",
+        "stage_step": 3,
+        "stage_total": 5,
+        "stake": [],
+        "standby_buyer": null,
+        "target": null,
+        "target_confirmed": false,
+        "tender_price": null,
+        "underwriter": null,
+        "use_of_funds": []
+      },
+      "ticker": ""
     },
     "IPO|TITLE|ANTHROPIC AKUI RISIKO EKSISTENSIAL AI DALAM PROSPEKTUS": {
       "family": "IPO",
@@ -7615,7 +7651,7 @@
     }
   },
   "last_keepalive_utc": "2026-10-23T10:40:53.220355+00:00",
-  "last_state_change_utc": "2026-11-06T01:50:51.935787+00:00",
+  "last_state_change_utc": "2026-11-06T03:30:57.794441+00:00",
   "market_noise_suppressed": 10,
   "milestone_alerts": {},
   "rumor_alerts_sent": 157,
@@ -7627,7 +7663,7 @@
   "rumor_entity_rekeys": 9,
   "rumor_expired_count": 37,
   "rumor_integrity_repairs": 3264,
-  "rumor_last_scan_utc": "2026-11-06T01:50:51.915471+00:00",
+  "rumor_last_scan_utc": "2026-11-06T03:30:49.738223+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BUMI": {
       "category": "AKUISISI / TAKEOVER",
@@ -10552,6 +10588,7 @@
     "a610c7c5b697ee7f7548e70e3eb1ba6d2b4d6e8d6aba9c70f5a36ca3c2998a7d": "2026-09-07T11:10:59.517731+00:00",
     "a73b41389d45c46af52da1fd7dce1169607dffa1ad0a90525083dbd0f06ad970": "2026-10-24T03:30:58.394421+00:00",
     "a7a4b1588da2190fce00918be07126b43aef12ace18cd06591a6f13d0ad7de09": "2026-09-07T17:01:17.930370+00:00",
+    "aa9fe9cdbe4500845349fa1ff7b78b1639cc2aeb27abd242de299d3cc85e4db2": "2026-11-06T03:30:57.791748+00:00",
     "ac1495342b650756ef3870c528d0e76e5bac6f229932d89ad8260e6f4c18eff2": "2026-10-06T04:31:36.095256+00:00",
     "ac4a63a11531dbc3fe8ab138e8a0daf7a5cb222266d0b3877cdf249d2a84951f": "2026-10-04T15:41:06.864315+00:00",
     "ac61e56b1bf48d32e0e8dd03051b5a0f4559b946a29d87b5090b47e0d4172d3f": "2026-09-17T01:11:44.651468+00:00",
