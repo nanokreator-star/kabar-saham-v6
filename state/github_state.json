@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 31,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 1002,
-  "early_signal_last_scan_utc": "2026-11-06T05:10:39.209411+00:00",
+  "early_signal_last_scan_utc": "2026-11-06T05:30:42.227248+00:00",
   "early_signal_memory": {
     "BNGA": {
       "change_pct": -0.9,
@@ -41,6 +41,50 @@
   },
   "event_duplicates_suppressed": 86,
   "event_memory": {
+    "IPO|TICKER|ANDA": {
+      "family": "IPO",
+      "first_seen_utc": "2026-11-06T05:30:51.416792+00:00",
+      "last_alert_utc": "2026-11-06T05:30:51.416787+00:00",
+      "last_seen_utc": "2026-11-06T05:30:51.416787+00:00",
+      "market_context": {
+        "change_pct": null,
+        "last_price": null,
+        "market_date": null
+      },
+      "material_snapshot": {
+        "acquirer": null,
+        "acquirer_confirmed": false,
+        "event_type": "IPO",
+        "execution_price": null,
+        "ipo_single_price": null,
+        "money": [
+          "Rp316,76 miliar",
+          "Rp316,7 miliar",
+          "Rp500 miliar",
+          "Rp50 miliar",
+          "Rp250 miliar"
+        ],
+        "official_authority": null,
+        "official_kind": null,
+        "price_range": "Rp158\u2013Rp189",
+        "ratio": null,
+        "schedule": {
+          "listing": "29/6/2026"
+        },
+        "share_count": "1,67 Miliar saham",
+        "stage": "OFFERING",
+        "stage_step": 4,
+        "stage_total": 5,
+        "stake": [],
+        "standby_buyer": null,
+        "target": null,
+        "target_confirmed": false,
+        "tender_price": null,
+        "underwriter": null,
+        "use_of_funds": []
+      },
+      "ticker": "ANDA"
+    },
     "IPO|TICKER|FOTO": {
       "family": "IPO",
       "first_seen_utc": "2026-10-06T04:41:03.093356+00:00",
@@ -5736,6 +5780,26 @@
       "verified_at": "2026-10-13T11:50:48.010553+00:00",
       "website": null
     },
+    "ANDA": {
+      "business_activity": null,
+      "controller": null,
+      "industry": null,
+      "issuer_name": null,
+      "owner_context_sources": 0,
+      "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
+      "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
+      "owner_v6_checked_utc": "2026-11-06T05:30:50.698578+00:00",
+      "owner_v6_pages_fetched": 0,
+      "profile_source": "Yahoo Finance",
+      "profile_source_quality": "FALLBACK",
+      "profile_source_url": null,
+      "sector": null,
+      "subindustry": null,
+      "subsector": null,
+      "ticker": "ANDA",
+      "verified_at": "2026-11-06T05:30:50.685174+00:00",
+      "website": null
+    },
     "AQUA": {
       "business_activity": null,
       "controller": null,
@@ -7651,7 +7715,7 @@
     }
   },
   "last_keepalive_utc": "2026-10-23T10:40:53.220355+00:00",
-  "last_state_change_utc": "2026-11-06T05:10:39.239576+00:00",
+  "last_state_change_utc": "2026-11-06T05:30:51.418792+00:00",
   "market_noise_suppressed": 10,
   "milestone_alerts": {},
   "rumor_alerts_sent": 157,
@@ -7663,7 +7727,7 @@
   "rumor_entity_rekeys": 9,
   "rumor_expired_count": 37,
   "rumor_integrity_repairs": 3264,
-  "rumor_last_scan_utc": "2026-11-06T05:10:39.203592+00:00",
+  "rumor_last_scan_utc": "2026-11-06T05:30:42.221485+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BUMI": {
       "category": "AKUISISI / TAKEOVER",
@@ -10402,6 +10466,7 @@
   "schema_version": 3,
   "sent": {
     "0041c3eddec72a75940c506a654c729fbd1897b0cb4930f663bf354f9da72a41": "2026-10-02T04:10:42.623331+00:00",
+    "00505258854c05924b60fe9487ff320fde2f9302bb52ca508e2428d0872805d9": "2026-11-06T05:30:51.416770+00:00",
     "01008cec9104b0bd540bc593146a7fdf50b03dec91a75f1cd5121c13bdef45f5": "2026-10-09T10:00:51.467003+00:00",
     "0279ba57626dd3f97c322fbad53d163ec5632df52ca8ec25042475430e123324": "2026-10-16T14:11:03.419877+00:00",
     "03742ff5feb9c0187f2cb9cdccb533f593623d46f56b8ad7096d0d9aada2ccfb": "2026-10-09T04:00:48.305901+00:00",
@@ -10530,7 +10595,6 @@
     "7a7252f59adec6890a150fb1e56044e669b823a229a354f1e20bb98c996d04a5": "2026-10-04T05:20:46.249722+00:00",
     "7d39fc6ab050a0a2d42c9c3373fb1fd1429b7fb1f5ac87b806bf01873b94f064": "2026-09-07T05:41:22.094975+00:00",
     "7d8e7d6e1fec2363d57c09750844e6d9b711996c3bf54b8b1e2236907115e8e4": "2026-09-16T05:20:51.883358+00:00",
-    "7df87c4aa27eae4980c08f2a6fd81624b3e5752a762637585f0752e2c8e809a7": "2026-09-07T05:20:47.269722+00:00",
     "7e3895e7ee8d0a4e6fc9cd2457a395bf07585a701621d7222d6be4bbe85b500e": "2026-09-18T01:41:15.519996+00:00",
     "7fd3b1dd27aa542744394bab3b378c867e5bff181ae33627fccc3f14b87be04b": "2026-10-19T00:10:45.672074+00:00",
     "8057b0b7ce197f270af343b9f741393766b17c684dd8a7e35c47f485425da692": "2026-10-16T00:10:56.983068+00:00",
