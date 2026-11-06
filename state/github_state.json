@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 31,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 1002,
-  "early_signal_last_scan_utc": "2026-11-06T09:20:49.960972+00:00",
+  "early_signal_last_scan_utc": "2026-11-06T09:50:39.148614+00:00",
   "early_signal_memory": {
     "BNGA": {
       "change_pct": -0.9,
@@ -44,8 +44,8 @@
     "IPO|TICKER|ANDA": {
       "family": "IPO",
       "first_seen_utc": "2026-11-06T05:30:51.416792+00:00",
-      "last_alert_utc": "2026-11-06T05:41:04.446197+00:00",
-      "last_seen_utc": "2026-11-06T05:41:04.446197+00:00",
+      "last_alert_utc": "2026-11-06T09:50:48.554808+00:00",
+      "last_seen_utc": "2026-11-06T09:50:48.554808+00:00",
       "market_context": {
         "change_pct": null,
         "last_price": null,
@@ -59,29 +59,38 @@
         "ipo_single_price": null,
         "money": [
           "Rp316,76 miliar",
-          "Rp316,7 miliar"
+          "Rp166,40 miliar",
+          "Rp107,01 miliar",
+          "Rp316,7 miliar",
+          "Rp42,00 miliar"
         ],
         "official_authority": null,
         "official_kind": null,
         "price_range": "Rp158\u2013Rp189",
         "ratio": null,
         "schedule": {
-          "bookbuilding": "5 November 2026",
-          "listing": "29/6/2026"
+          "allotment": "27 November 2026",
+          "bookbuilding": "17 November 2026",
+          "distribution": "30 November 2026",
+          "listing": "29/6/2026",
+          "offering": "27 November 2026"
         },
         "share_count": "1,67 Miliar saham",
         "stage": "OFFERING",
         "stage_step": 4,
         "stage_total": 5,
         "stake": [
-          3.48
+          35.0
         ],
         "standby_buyer": null,
         "target": null,
         "target_confirmed": false,
         "tender_price": null,
         "underwriter": null,
-        "use_of_funds": []
+        "use_of_funds": [
+          "MODAL KERJA",
+          "PELUNASAN UTANG"
+        ]
       },
       "ticker": "ANDA"
     },
@@ -7699,7 +7708,7 @@
     }
   },
   "last_keepalive_utc": "2026-10-23T10:40:53.220355+00:00",
-  "last_state_change_utc": "2026-11-06T09:20:51.322498+00:00",
+  "last_state_change_utc": "2026-11-06T09:50:48.556948+00:00",
   "market_noise_suppressed": 10,
   "milestone_alerts": {},
   "rumor_alerts_sent": 157,
@@ -7709,9 +7718,9 @@
   "rumor_denied_count": 12,
   "rumor_duplicates_suppressed": 962,
   "rumor_entity_rekeys": 10,
-  "rumor_expired_count": 37,
+  "rumor_expired_count": 38,
   "rumor_integrity_repairs": 3264,
-  "rumor_last_scan_utc": "2026-11-06T09:20:49.952204+00:00",
+  "rumor_last_scan_utc": "2026-11-06T09:50:39.142254+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BUMI": {
       "category": "AKUISISI / TAKEOVER",
@@ -9584,6 +9593,7 @@
       "key": "MERGER|TITLE|BCA AKHIRNYA BUKA SUARA TEPIS RUMOR MERGER",
       "last_alert_utc": "2026-10-30T12:11:03.044237+00:00",
       "last_seen_utc": "2026-10-30T09:48:26+00:00",
+      "last_state_change_utc": "2026-11-06T09:50:39.142236+00:00",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaTZmbEVvcVotNlpTX1dvcnpWQlZMVHRiZmktOGpTbE4yYUZzLU94WXZIb2YtSkFBVk1ZZjhLQl9fREZtNE5MQndOMVJsVGtWVjNYQzhNWnd3NW96RlpwZVJ2VkNwLWowOXJKbWhiNjZ2T3RjSXJiWGFvNWtpT0ZmMUluZjkwNlVuM1A4ZGlmdzdNd9IBiwFBVV95cUxNbmlUbmpnSVJfYTR2aUR0NXpYRGE5R01fR2c2WVBjdjdqbjBEVEV4RC05ZmpUaUxwZUhxTHhQX01HTE0xOXU2Tzh6NFlEbDVCRk85SF9tZ1FSdk5PM01DQW9GSGFEa0dHT3NmMDZneFh3QUNKdjRVNFdCeG5iX2JkVVRKUmF6Umo3eFlV?oc=5",
       "market_data": null,
       "official_confirmation": null,
@@ -9621,7 +9631,7 @@
         "kontan.co.id",
         "KONTAN"
       ],
-      "status": "ACTIVE",
+      "status": "EXPIRED",
       "strength": "WEAK",
       "ticker": null,
       "title": "BCA Akhirnya Buka Suara, Tepis Rumor Merger dengan DBS - kontan.co.id"
@@ -10790,6 +10800,7 @@
     "b762b850223a20385d61ea79b86e2e92478caf860083f112902a68fd8268dccf": "2026-09-25T16:20:50.588575+00:00",
     "b83c088f675dec0197ad062243281cb9d7066f4d2704615a72cfabbf48264493": "2026-10-09T15:40:47.997362+00:00",
     "b856eb93f4db93e898eb466da2e10163f704921de91509a51838e1cc035685f0": "2026-10-13T11:01:03.020692+00:00",
+    "b92d499db3cc990bbe998b0bf8244b8f2cf15d876942d235f6d38fd297718845": "2026-11-06T09:50:48.554791+00:00",
     "ba8e4170b3a58f34e222b462410ce75905873d0f0991f645eefe205328ce7b62": "2026-10-05T11:41:00.567552+00:00",
     "bbe76897469955defca3c40617f0f2a7a56e05d3ef00df10575670664570b9a4": "2026-10-17T04:00:45.709387+00:00",
     "bcba1c36104398d407e5a304e692336948e5b924d883349920a2440ee7290793": "2026-09-17T19:41:14.787581+00:00",
