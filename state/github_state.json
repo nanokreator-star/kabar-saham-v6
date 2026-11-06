@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 31,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 1002,
-  "early_signal_last_scan_utc": "2026-11-06T09:50:39.148614+00:00",
+  "early_signal_last_scan_utc": "2026-11-06T10:10:32.096123+00:00",
   "early_signal_memory": {
     "BNGA": {
       "change_pct": -0.9,
@@ -4299,6 +4299,48 @@
       },
       "ticker": ""
     },
+    "M&A / TAKEOVER|TITLE|VISIONARY CAPITAL GELAR WAJIB TGUK RP56 PER": {
+      "family": "M&A / TAKEOVER",
+      "first_seen_utc": "2026-11-06T10:11:05.419237+00:00",
+      "last_alert_utc": "2026-11-06T10:11:05.419213+00:00",
+      "last_seen_utc": "2026-11-06T10:11:05.419213+00:00",
+      "market_context": {
+        "change_pct": 0.0,
+        "last_price": 75.0,
+        "market_date": "2026-11-06"
+      },
+      "material_snapshot": {
+        "acquirer": null,
+        "acquirer_confirmed": false,
+        "event_type": "TENDER OFFER",
+        "execution_price": null,
+        "ipo_single_price": null,
+        "money": [
+          "Rp42,94 miliar"
+        ],
+        "official_authority": null,
+        "official_kind": null,
+        "price_range": null,
+        "ratio": null,
+        "schedule": {},
+        "share_count": "766,73 juta saham",
+        "stage": "TENDER OFFER",
+        "stage_step": 6,
+        "stage_total": 7,
+        "stake": [
+          21.47,
+          56.84,
+          9.2
+        ],
+        "standby_buyer": null,
+        "target": null,
+        "target_confirmed": false,
+        "tender_price": null,
+        "underwriter": null,
+        "use_of_funds": []
+      },
+      "ticker": "TGUK"
+    },
     "M&A / TAKEOVER|TITLE|WIBOWO GROUP CAPITAL RAMPUNGKAN WAJIB MBSS BISNIS": {
       "family": "M&A / TAKEOVER",
       "first_seen_utc": "2026-10-17T04:00:45.709409+00:00",
@@ -7470,7 +7512,7 @@
       "owner_context_sources": 0,
       "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
       "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-      "owner_v6_checked_utc": "2026-10-06T20:01:33.643359+00:00",
+      "owner_v6_checked_utc": "2026-11-06T10:11:04.760577+00:00",
       "owner_v6_pages_fetched": 0,
       "profile_source": "Yahoo Finance",
       "profile_source_quality": "FALLBACK",
@@ -7479,7 +7521,7 @@
       "subindustry": null,
       "subsector": null,
       "ticker": "TGUK",
-      "verified_at": "2026-10-05T11:51:13.733152+00:00",
+      "verified_at": "2026-11-06T10:10:44.122333+00:00",
       "website": "https://teguk.co.id"
     },
     "TPIA": {
@@ -7708,7 +7750,7 @@
     }
   },
   "last_keepalive_utc": "2026-10-23T10:40:53.220355+00:00",
-  "last_state_change_utc": "2026-11-06T09:50:48.556948+00:00",
+  "last_state_change_utc": "2026-11-06T10:11:05.420749+00:00",
   "market_noise_suppressed": 10,
   "milestone_alerts": {},
   "rumor_alerts_sent": 157,
@@ -7720,7 +7762,7 @@
   "rumor_entity_rekeys": 10,
   "rumor_expired_count": 38,
   "rumor_integrity_repairs": 3264,
-  "rumor_last_scan_utc": "2026-11-06T09:50:39.142254+00:00",
+  "rumor_last_scan_utc": "2026-11-06T10:10:32.091519+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BUMI": {
       "category": "AKUISISI / TAKEOVER",
@@ -10705,6 +10747,7 @@
     "6a81ae4a51d2f38926dc15ff38e0637f2c8becd06b9a02fb8d5eb9cf8e00c3ef": "2026-10-01T10:31:06.919882+00:00",
     "6a931dc4f9d84f40c1f05ccfce8c959f914f402e5af9fc28eaf133027a8780b5": "2026-11-02T05:40:55.897868+00:00",
     "6a9995b4e4ae16b4c8723d08e3a136cae11cacb552fbfe678fb92d333232a544": "2026-10-02T06:50:58.197330+00:00",
+    "6d1129dc50a0ca5e216725197b14bb9bc54600cda164f7d23ebb1aebefe0714d": "2026-11-06T10:11:05.419197+00:00",
     "6d484b9307bc337b49fd3acc64a2c4dc82a7bc529561dd3b17521d38be0dbce5": "2026-09-23T02:51:16.322581+00:00",
     "6e0cde1a68224c52958199cbf6893754c5ef38faad4bbdee1acc246d08c87894": "2026-10-29T18:10:53.636655+00:00",
     "6e0f7fec7fa965a9fbcefbb7838d761e7672209e2e9ab21e4fd5737537a1bd4d": "2026-10-02T05:30:57.313883+00:00",
