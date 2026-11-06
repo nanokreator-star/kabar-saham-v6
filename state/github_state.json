@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 31,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 1002,
-  "early_signal_last_scan_utc": "2026-11-06T07:00:49.966855+00:00",
+  "early_signal_last_scan_utc": "2026-11-06T07:50:54.905685+00:00",
   "early_signal_memory": {
     "BNGA": {
       "change_pct": -0.9,
@@ -39,7 +39,7 @@
       "volume_ratio": 1.84
     }
   },
-  "event_duplicates_suppressed": 86,
+  "event_duplicates_suppressed": 87,
   "event_memory": {
     "IPO|TICKER|ANDA": {
       "family": "IPO",
@@ -919,42 +919,6 @@
       "first_seen_utc": "2026-09-16T13:50:59.873396+00:00",
       "last_alert_utc": "2026-09-16T13:50:59.873391+00:00",
       "last_seen_utc": "2026-09-16T13:50:59.873391+00:00",
-      "market_context": {
-        "change_pct": null,
-        "last_price": null,
-        "market_date": null
-      },
-      "material_snapshot": {
-        "acquirer": null,
-        "acquirer_confirmed": false,
-        "event_type": "IPO",
-        "execution_price": null,
-        "ipo_single_price": null,
-        "money": [],
-        "official_authority": null,
-        "official_kind": null,
-        "price_range": null,
-        "ratio": null,
-        "schedule": {},
-        "share_count": null,
-        "stage": "RENCANA / PROSPEKTUS",
-        "stage_step": 2,
-        "stage_total": 5,
-        "stake": [],
-        "standby_buyer": null,
-        "target": null,
-        "target_confirmed": false,
-        "tender_price": null,
-        "underwriter": null,
-        "use_of_funds": []
-      },
-      "ticker": ""
-    },
-    "IPO|TITLE|KESEHATAN DOMINASI CALON BURSA ADA CALON CNBC": {
-      "family": "IPO",
-      "first_seen_utc": "2026-09-07T05:01:00.193860+00:00",
-      "last_alert_utc": "2026-09-07T05:01:00.193854+00:00",
-      "last_seen_utc": "2026-09-07T07:41:03.722893+00:00",
       "market_context": {
         "change_pct": null,
         "last_price": null,
@@ -3223,7 +3187,7 @@
       "family": "M&A / TAKEOVER",
       "first_seen_utc": "2026-10-02T04:10:42.623353+00:00",
       "last_alert_utc": "2026-10-02T04:10:42.623348+00:00",
-      "last_seen_utc": "2026-10-02T06:01:01.800074+00:00",
+      "last_seen_utc": "2026-11-06T07:50:54.934494+00:00",
       "market_context": {
         "change_pct": null,
         "last_price": null,
@@ -7712,10 +7676,30 @@
       "ticker": "WSKT",
       "verified_at": "2026-09-07T17:20:47.405038+00:00",
       "website": null
+    },
+    "YANG": {
+      "business_activity": null,
+      "controller": null,
+      "industry": null,
+      "issuer_name": "YANG",
+      "owner_context_sources": 0,
+      "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
+      "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
+      "owner_v6_checked_utc": "2026-11-06T07:50:47.458612+00:00",
+      "owner_v6_pages_fetched": 0,
+      "profile_source": "Yahoo Finance",
+      "profile_source_quality": "FALLBACK",
+      "profile_source_url": null,
+      "sector": null,
+      "subindustry": null,
+      "subsector": null,
+      "ticker": "YANG",
+      "verified_at": "2026-11-06T07:50:48.386276+00:00",
+      "website": null
     }
   },
   "last_keepalive_utc": "2026-10-23T10:40:53.220355+00:00",
-  "last_state_change_utc": "2026-11-06T07:00:49.996186+00:00",
+  "last_state_change_utc": "2026-11-06T07:50:54.937011+00:00",
   "market_noise_suppressed": 10,
   "milestone_alerts": {},
   "rumor_alerts_sent": 157,
@@ -7727,7 +7711,7 @@
   "rumor_entity_rekeys": 10,
   "rumor_expired_count": 37,
   "rumor_integrity_repairs": 3264,
-  "rumor_last_scan_utc": "2026-11-06T07:00:49.959016+00:00",
+  "rumor_last_scan_utc": "2026-11-06T07:50:54.897626+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BUMI": {
       "category": "AKUISISI / TAKEOVER",
@@ -10518,6 +10502,82 @@
       "strength": "CONFIRMED OFFICIAL",
       "ticker": "EFEK",
       "title": "PENGUMUMAN HASIL PELAKSANAAN PENAMBAHAN MODAL TANPA MEMBERIKAN HAK MEMESAN EFEK TERLEBIH DAHULU PT BANK INA PERDANA Tbk (\u201c - PT Bursa Efek Indonesia"
+    },
+    "TENDER OFFER|TICKER|YANG": {
+      "category": "TENDER OFFER",
+      "company_name": "PT Bur",
+      "copy_duplicate_count": 0,
+      "credible_effective_independent_count": 1.1,
+      "derivative_source_count": 0,
+      "detected_source_count": 1,
+      "effective_independent_count": 1.1,
+      "entity_aliases": [],
+      "entity_resolution_source": null,
+      "first_seen_utc": "2026-11-06T07:30:17+00:00",
+      "high_quality_source_count": 1,
+      "independent_story_count": 1,
+      "issuer_profile": {
+        "business_activity": null,
+        "controller": null,
+        "industry": null,
+        "issuer_name": "YANG",
+        "owner_context_sources": 0,
+        "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
+        "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
+        "owner_v6_checked_utc": "2026-11-06T07:50:47.458612+00:00",
+        "owner_v6_pages_fetched": 0,
+        "profile_source": "Yahoo Finance",
+        "profile_source_quality": "FALLBACK",
+        "profile_source_url": null,
+        "sector": null,
+        "subindustry": null,
+        "subsector": null,
+        "ticker": "YANG",
+        "verified_at": "2026-11-06T07:50:48.386276+00:00",
+        "website": null
+      },
+      "key": "TENDER OFFER|TICKER|YANG",
+      "last_seen_utc": "2026-11-06T07:30:17+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQ0R2UXkxLVBwd2I3emZRbjh6U1RrbGRPMXFsYWlSVUpqZkxsVVZOVlcxenJycFE3OHZxWTBOc0FRUjEyRVpmWHdDcVI1M1lOQ1p3Z3JmRV9EQ0xfZkNsZmhDRzdiNHBtUHhVM0lEMDFlQ3VjdlRlMHNIelludElyTjZSeUxmcDlIck5UdU1TWmkzQlVMVGVDNW0yRmtTaEotV0NNU0lpa2l3X1FxbkpwQUFoVQ?oc=5",
+      "market_data": null,
+      "official_confirmation": null,
+      "premium_source_count": 1,
+      "profile_refresh_utc": "2026-11-06T07:50:54.895933+00:00",
+      "published": "Fri, 06 Nov 2026 07:30:17 GMT",
+      "rumor_details": {
+        "ipo_price": null,
+        "listing_estimate": null,
+        "money": [],
+        "percentages": [],
+        "price_range": null,
+        "rumored_party": null,
+        "share_count": null,
+        "underwriter": null
+      },
+      "semantic_copy_count": 0,
+      "source": "PT Bursa Efek Indonesia",
+      "source_breakdown": [
+        {
+          "derivative": false,
+          "group": "pt bursa efek indonesia",
+          "new_material": 0,
+          "quality": "OFFICIAL",
+          "semantic_copy": false,
+          "source": "PT Bursa Efek Indonesia",
+          "tier": 5,
+          "weight": 1.1
+        }
+      ],
+      "source_count": 1,
+      "source_quality": "MEDIUM",
+      "source_quality_score": 5.5,
+      "sources": [
+        "PT Bursa Efek Indonesia"
+      ],
+      "status": "CONFIRMED OFFICIAL",
+      "strength": "CONFIRMED OFFICIAL",
+      "ticker": "YANG",
+      "title": "KETERBUKAAN INFORMASI INI DIBUAT DALAM RANGKA PENAWARAN TENDER WAJIB YANG HARUS DILAKUKAN SEHUBUNGAN DENGAN ADANYA PERUBAHAN PEN - PT Bursa Efek Indonesia"
     }
   },
   "schema_version": 3,
@@ -10637,7 +10697,6 @@
     "6a81ae4a51d2f38926dc15ff38e0637f2c8becd06b9a02fb8d5eb9cf8e00c3ef": "2026-10-01T10:31:06.919882+00:00",
     "6a931dc4f9d84f40c1f05ccfce8c959f914f402e5af9fc28eaf133027a8780b5": "2026-11-02T05:40:55.897868+00:00",
     "6a9995b4e4ae16b4c8723d08e3a136cae11cacb552fbfe678fb92d333232a544": "2026-10-02T06:50:58.197330+00:00",
-    "6b0356f1b341163b2daf1bf92d46e0587b8b3f356071b68f5f900e83cfeb9d2b": "2026-09-07T07:41:03.722878+00:00",
     "6d484b9307bc337b49fd3acc64a2c4dc82a7bc529561dd3b17521d38be0dbce5": "2026-09-23T02:51:16.322581+00:00",
     "6e0cde1a68224c52958199cbf6893754c5ef38faad4bbdee1acc246d08c87894": "2026-10-29T18:10:53.636655+00:00",
     "6e0f7fec7fa965a9fbcefbb7838d761e7672209e2e9ab21e4fd5737537a1bd4d": "2026-10-02T05:30:57.313883+00:00",
@@ -10740,6 +10799,7 @@
     "bdc2ff783662f15f8c0e5456ad5749739566804761ed9afc41ba089fe1931a14": "2026-11-02T07:41:11.014521+00:00",
     "be1a33426ce740ba5b00de3c99f7a715ce2e8b852ec0ed64f2d3bf6e0eb3c2f3": "2026-10-05T12:41:28.033499+00:00",
     "be8c673e02ac41d26cd57b00130e4b816365787aca0763dad8147b1a468b3c01": "2026-09-18T06:02:03.327531+00:00",
+    "beb6b13475c9d96cb678228e9a83733d263590510f33602359338aaa72795d8a": "2026-11-06T07:50:54.934484+00:00",
     "bec9e4191c4c8be3d5f3b644e61b6201e0d7cda8fc8f91bd17494e532bed593c": "2026-10-25T04:20:51.214531+00:00",
     "bf11a8f55c452c95a1e09788c923c25b3aa9d8f47f4e233ec51322d88119a53e": "2026-09-07T10:30:52.503607+00:00",
     "bf22e20fd9feda46226a1048d56cd3380097f250ab02c7b46f58bf349c1cfb25": "2026-09-30T11:11:06.442586+00:00",
