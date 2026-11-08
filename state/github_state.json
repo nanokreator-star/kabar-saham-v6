@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 31,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 1002,
-  "early_signal_last_scan_utc": "2026-11-08T04:20:38.905675+00:00",
+  "early_signal_last_scan_utc": "2026-11-08T09:50:49.320338+00:00",
   "early_signal_memory": {
     "BNGA": {
       "change_pct": -0.9,
@@ -3692,6 +3692,49 @@
       },
       "ticker": ""
     },
+    "M&A / TAKEOVER|TITLE|PENGENDALI BARU TGUK GELAR WAJIB RP56 PER": {
+      "family": "M&A / TAKEOVER",
+      "first_seen_utc": "2026-11-08T09:51:07.190638+00:00",
+      "last_alert_utc": "2026-11-08T09:51:07.190632+00:00",
+      "last_seen_utc": "2026-11-08T09:51:07.190632+00:00",
+      "market_context": {
+        "change_pct": 0.0,
+        "last_price": 75.0,
+        "market_date": "2026-11-06"
+      },
+      "material_snapshot": {
+        "acquirer": null,
+        "acquirer_confirmed": false,
+        "event_type": "TENDER OFFER",
+        "execution_price": null,
+        "ipo_single_price": null,
+        "money": [
+          "Rp42,94 miliar"
+        ],
+        "official_authority": null,
+        "official_kind": null,
+        "price_range": null,
+        "ratio": null,
+        "schedule": {},
+        "share_count": "2,03 miliar saham",
+        "stage": "TENDER OFFER",
+        "stage_step": 6,
+        "stage_total": 7,
+        "stake": [
+          56.84,
+          21.47
+        ],
+        "standby_buyer": null,
+        "target": null,
+        "target_confirmed": false,
+        "tender_price": null,
+        "underwriter": null,
+        "use_of_funds": [
+          "AKUISISI / INVESTASI"
+        ]
+      },
+      "ticker": "TGUK"
+    },
     "M&A / TAKEOVER|TITLE|PROTELINDO PERPANJANG SUPR RP45 000 MENUJU GO": {
       "family": "M&A / TAKEOVER",
       "first_seen_utc": "2026-10-30T22:41:49.055535+00:00",
@@ -5698,7 +5741,7 @@
       "owner_context_sources": 0,
       "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
       "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-      "owner_v6_checked_utc": "2026-11-07T21:40:42.408941+00:00",
+      "owner_v6_checked_utc": "2026-11-08T09:50:37.468182+00:00",
       "owner_v6_pages_fetched": 0,
       "profile_source": "Yahoo Finance",
       "profile_source_quality": "FALLBACK",
@@ -5707,7 +5750,7 @@
       "subindustry": null,
       "subsector": null,
       "ticker": "ANDA",
-      "verified_at": "2026-11-07T21:40:43.182702+00:00",
+      "verified_at": "2026-11-08T09:50:38.375920+00:00",
       "website": null
     },
     "AQUA": {
@@ -7427,7 +7470,7 @@
       "owner_context_sources": 0,
       "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
       "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-      "owner_v6_checked_utc": "2026-11-06T10:11:04.760577+00:00",
+      "owner_v6_checked_utc": "2026-11-08T09:51:06.434703+00:00",
       "owner_v6_pages_fetched": 0,
       "profile_source": "Yahoo Finance",
       "profile_source_quality": "FALLBACK",
@@ -7665,7 +7708,7 @@
     }
   },
   "last_keepalive_utc": "2026-11-06T10:50:40.166496+00:00",
-  "last_state_change_utc": "2026-11-08T04:20:38.936463+00:00",
+  "last_state_change_utc": "2026-11-08T09:51:07.192883+00:00",
   "market_noise_suppressed": 10,
   "milestone_alerts": {},
   "rumor_alerts_sent": 159,
@@ -7677,7 +7720,7 @@
   "rumor_entity_rekeys": 11,
   "rumor_expired_count": 39,
   "rumor_integrity_repairs": 3264,
-  "rumor_last_scan_utc": "2026-11-08T04:20:38.897776+00:00",
+  "rumor_last_scan_utc": "2026-11-08T09:50:49.310260+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BUMI": {
       "category": "AKUISISI / TAKEOVER",
@@ -9208,7 +9251,7 @@
         "owner_context_sources": 0,
         "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
         "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-        "owner_v6_checked_utc": "2026-11-07T21:40:42.408941+00:00",
+        "owner_v6_checked_utc": "2026-11-08T09:50:37.468182+00:00",
         "owner_v6_pages_fetched": 0,
         "profile_source": "Yahoo Finance",
         "profile_source_quality": "FALLBACK",
@@ -9217,7 +9260,7 @@
         "subindustry": null,
         "subsector": null,
         "ticker": "ANDA",
-        "verified_at": "2026-11-07T21:40:43.182702+00:00",
+        "verified_at": "2026-11-08T09:50:38.375920+00:00",
         "website": null
       },
       "key": "IPO|TICKER|ANDA",
@@ -9227,7 +9270,7 @@
       "market_data": null,
       "official_confirmation": null,
       "premium_source_count": 0,
-      "profile_refresh_utc": "2026-11-07T21:40:54.761749+00:00",
+      "profile_refresh_utc": "2026-11-08T09:50:49.308537+00:00",
       "published": "Fri, 06 Nov 2026 16:17:38 GMT",
       "rumor_details": {
         "ipo_price": null,
@@ -10742,6 +10785,7 @@
     "349bb28245dcba9f30943964fc29e163fb52ff590512a8934c2d726d3ec23759": "2026-10-19T13:31:10.412032+00:00",
     "34ea868b6aee641a69a186443b53e7ab78c18365f012bde6c4620ba5eef707b1": "2026-10-02T04:11:18.451080+00:00",
     "35caa677fedc0bf6c3a8fe7f823443af0bd6f067d0642818b29bccc275122630": "2026-09-15T07:01:24.271273+00:00",
+    "35f3f38bcf49b3bedbb9c4cd3c49e881084164f97cd7ae8d0669b3b33a4250b9": "2026-11-08T09:51:07.190613+00:00",
     "36164984a67a3808b879cc77ebd2eb926f20dc3b8629d67f9cdb6c05741e30ac": "2026-10-19T13:31:10.412032+00:00",
     "36752e24f2585b110cad35b4a05ee20c97940013532a21c0c340e4685f01cdf7": "2026-10-22T12:30:51.521593+00:00",
     "386419857714651762ed9b41d3ad0cd769a3c078803d2f99a33cd8e4996d8917": "2026-10-04T20:11:30.748833+00:00",
