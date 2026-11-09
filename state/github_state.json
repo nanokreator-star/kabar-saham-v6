@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 31,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 1002,
-  "early_signal_last_scan_utc": "2026-11-09T03:31:10.616114+00:00",
+  "early_signal_last_scan_utc": "2026-11-09T04:51:05.315395+00:00",
   "early_signal_memory": {
     "BNGA": {
       "change_pct": -0.9,
@@ -243,6 +243,42 @@
         "use_of_funds": []
       },
       "ticker": "UMKM"
+    },
+    "IPO|TITLE|BEI CATAT SEMBILAN CALON PADA 2026 CHATNEWS": {
+      "family": "IPO",
+      "first_seen_utc": "2026-11-09T04:51:08.866983+00:00",
+      "last_alert_utc": "2026-11-09T04:51:08.866976+00:00",
+      "last_seen_utc": "2026-11-09T04:51:08.866976+00:00",
+      "market_context": {
+        "change_pct": null,
+        "last_price": null,
+        "market_date": null
+      },
+      "material_snapshot": {
+        "acquirer": null,
+        "acquirer_confirmed": false,
+        "event_type": "IPO",
+        "execution_price": null,
+        "ipo_single_price": null,
+        "money": [],
+        "official_authority": null,
+        "official_kind": null,
+        "price_range": null,
+        "ratio": null,
+        "schedule": {},
+        "share_count": null,
+        "stage": "RENCANA / PROSPEKTUS",
+        "stage_step": 2,
+        "stage_total": 5,
+        "stake": [],
+        "standby_buyer": null,
+        "target": null,
+        "target_confirmed": false,
+        "tender_price": null,
+        "underwriter": null,
+        "use_of_funds": []
+      },
+      "ticker": ""
     },
     "IPO|TITLE|BEI CATAT TIGA CALON DENGAN ASET JUMBO": {
       "family": "IPO",
@@ -7708,7 +7744,7 @@
     }
   },
   "last_keepalive_utc": "2026-11-06T10:50:40.166496+00:00",
-  "last_state_change_utc": "2026-11-09T03:31:10.647195+00:00",
+  "last_state_change_utc": "2026-11-09T04:51:08.869160+00:00",
   "market_noise_suppressed": 10,
   "milestone_alerts": {},
   "rumor_alerts_sent": 160,
@@ -7720,7 +7756,7 @@
   "rumor_entity_rekeys": 11,
   "rumor_expired_count": 39,
   "rumor_integrity_repairs": 3264,
-  "rumor_last_scan_utc": "2026-11-09T03:31:10.608133+00:00",
+  "rumor_last_scan_utc": "2026-11-09T04:51:04.361689+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BUMI": {
       "category": "AKUISISI / TAKEOVER",
@@ -9230,7 +9266,7 @@
     },
     "IPO|TICKER|ANDA": {
       "category": "IPO",
-      "company_name": "Andalan Artha Primanusa",
+      "company_name": "Profil Andalan Artha Primanusa (ANDA), Perusahaan Tambang yang",
       "copy_duplicate_count": 0,
       "credible_effective_independent_count": 1.0,
       "derivative_source_count": 0,
@@ -10995,6 +11031,7 @@
     "edd1905038637dce8375a175f8e8c0ca561c369cd8b0804cb15c76b655593453": "2026-10-16T14:11:03.419877+00:00",
     "eec14a0862b95a363f351455262fa038a07531e49340f298c45b5099198bcba4": "2026-09-10T06:01:09.957995+00:00",
     "eed4e6f8638345167d3f10414aa243ba57c50ea626945d33ebdf86ef5af43d6c": "2026-09-21T19:31:05.916952+00:00",
+    "ef1c142aa16837ef395d16a3c6e44ae030328fc6d19027cbcad0c2723485a443": "2026-11-09T04:51:08.866958+00:00",
     "ef252ce99bc63d93b1c1ad161ecd084313db25210179079ec71a946a2cb9236f": "2026-10-01T04:20:53.436202+00:00",
     "f02582d3b1bbdae6cc6ecc673ec1969d25a661bd15ee59e6821d30da6252bf35": "2026-10-18T13:40:54.590496+00:00",
     "f09ec87150ea11047c92de5b8dfb9de40fb3e39180df7af414cfd75b5a22f8c5": "2026-10-19T13:31:10.412032+00:00",
