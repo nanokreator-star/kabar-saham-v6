@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 31,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 1002,
-  "early_signal_last_scan_utc": "2026-11-09T19:40:37.349451+00:00",
+  "early_signal_last_scan_utc": "2026-11-09T19:50:41.909949+00:00",
   "early_signal_memory": {
     "BNGA": {
       "change_pct": -0.9,
@@ -7795,7 +7795,7 @@
     }
   },
   "last_keepalive_utc": "2026-11-06T10:50:40.166496+00:00",
-  "last_state_change_utc": "2026-11-09T19:40:37.401807+00:00",
+  "last_state_change_utc": "2026-11-09T19:50:41.937112+00:00",
   "market_noise_suppressed": 11,
   "milestone_alerts": {},
   "rumor_alerts_sent": 161,
@@ -7806,8 +7806,8 @@
   "rumor_duplicates_suppressed": 963,
   "rumor_entity_rekeys": 11,
   "rumor_expired_count": 40,
-  "rumor_integrity_repairs": 3342,
-  "rumor_last_scan_utc": "2026-11-09T19:40:36.559858+00:00",
+  "rumor_integrity_repairs": 3343,
+  "rumor_last_scan_utc": "2026-11-09T19:50:40.621756+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BUMI": {
       "category": "AKUISISI / TAKEOVER",
@@ -8914,7 +8914,7 @@
     },
     "DELISTING / RELISTING|TICKER|SRIL": {
       "category": "DELISTING / RELISTING",
-      "company_name": "Sri Rejeki Isman",
+      "company_name": "PT Sri Rejeki Isman Tbk ( null ) Papan Pencatatan Pemantau",
       "copy_duplicate_count": 0,
       "credible_effective_independent_count": 1.1,
       "derivative_source_count": 0,
