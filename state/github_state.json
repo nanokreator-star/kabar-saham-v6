@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 31,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 1002,
-  "early_signal_last_scan_utc": "2026-11-09T02:10:33.290420+00:00",
+  "early_signal_last_scan_utc": "2026-11-09T03:31:10.616114+00:00",
   "early_signal_memory": {
     "BNGA": {
       "change_pct": -0.9,
@@ -5750,7 +5750,7 @@
       "subindustry": null,
       "subsector": null,
       "ticker": "ANDA",
-      "verified_at": "2026-11-08T22:00:53.514190+00:00",
+      "verified_at": "2026-11-09T03:30:56.932872+00:00",
       "website": null
     },
     "AQUA": {
@@ -7708,10 +7708,10 @@
     }
   },
   "last_keepalive_utc": "2026-11-06T10:50:40.166496+00:00",
-  "last_state_change_utc": "2026-11-09T02:10:33.312354+00:00",
+  "last_state_change_utc": "2026-11-09T03:31:10.647195+00:00",
   "market_noise_suppressed": 10,
   "milestone_alerts": {},
-  "rumor_alerts_sent": 159,
+  "rumor_alerts_sent": 160,
   "rumor_baseline_initialized": true,
   "rumor_confirmed_count": 44,
   "rumor_confirmed_dedups": 0,
@@ -7720,7 +7720,7 @@
   "rumor_entity_rekeys": 11,
   "rumor_expired_count": 39,
   "rumor_integrity_repairs": 3264,
-  "rumor_last_scan_utc": "2026-11-09T02:10:33.286285+00:00",
+  "rumor_last_scan_utc": "2026-11-09T03:31:10.608133+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BUMI": {
       "category": "AKUISISI / TAKEOVER",
@@ -9230,19 +9230,20 @@
     },
     "IPO|TICKER|ANDA": {
       "category": "IPO",
-      "company_name": "PT Andalan Artha Primanusa Tbk",
+      "company_name": "Andalan Artha Primanusa",
       "copy_duplicate_count": 0,
-      "credible_effective_independent_count": 0,
+      "credible_effective_independent_count": 1.0,
       "derivative_source_count": 0,
-      "detected_source_count": 1,
-      "effective_independent_count": 0.6,
+      "detected_source_count": 2,
+      "effective_independent_count": 1.6,
       "entity_aliases": [
-        "Andalan Artha Primanusa"
+        "Andalan Artha Primanusa",
+        "Profil Andalan Artha Primanusa (ANDA), Perusahaan Tambang yang"
       ],
       "entity_resolution_source": "ISSUER_PROFILE_CACHE",
       "first_seen_utc": "2026-11-06T16:17:38+00:00",
-      "high_quality_source_count": 0,
-      "independent_story_count": 1,
+      "high_quality_source_count": 1,
+      "independent_story_count": 2,
       "issuer_profile": {
         "business_activity": null,
         "controller": null,
@@ -9260,22 +9261,23 @@
         "subindustry": null,
         "subsector": null,
         "ticker": "ANDA",
-        "verified_at": "2026-11-08T22:00:53.514190+00:00",
+        "verified_at": "2026-11-09T03:30:56.932872+00:00",
         "website": null
       },
       "key": "IPO|TICKER|ANDA",
-      "last_alert_utc": "2026-11-06T16:30:43.860607+00:00",
-      "last_seen_utc": "2026-11-06T16:17:38+00:00",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPU3o0WEt5dExtTVlxdkstMnFJOTE3SzJmdHVDTll2dVN3NVloTFhxVkFuUUxON19IekN2RFpqZVdTM1dJbGNYWG5INDAyZG9MYllyTDdYZEc5cy1CTzdkWjhtU3c5NzlvbkswcEhoVDRuOFlRLTFfYk9QVXVhQVgtWGFEQTl2Y0dBbGVPWW9pNG1RWlAyYnc?oc=5",
+      "last_alert_utc": "2026-11-09T03:31:10.607168+00:00",
+      "last_seen_utc": "2026-11-09T03:27:55+00:00",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPOUE0eFI5Z25LVzVzQVJLaGkwdF90cWZ0Q1VwSzlKMnoteWx2bXJ6UTkwbzA5V1psZXRLNTVwNVdmaXdzc3VYR0JuZURra09RSkdyOE9rWU9CNW1TLUg3Z0RqWUNYbXlWRDhYa28yWXNaQ2ZfSDk4cXVwMG9OWnZBbVBTVVJzUk0teEF1OWlMOXdFczhfRmNiX00xM2NMZ3IwUXRXWFViajMyMWpaZ3JlZm9TRGdXa0hvVVhRX2ZaMDR4VGd4TzBLUEZtSGVxM3M?oc=5",
       "market_data": null,
       "official_confirmation": null,
-      "premium_source_count": 0,
+      "premium_source_count": 1,
       "profile_refresh_utc": "2026-11-08T22:01:02.843718+00:00",
-      "published": "Fri, 06 Nov 2026 16:17:38 GMT",
+      "published": "Mon, 09 Nov 2026 03:27:55 GMT",
       "rumor_details": {
         "ipo_price": null,
         "listing_estimate": null,
         "money": [
+          "Rp316 miliar",
           "Rp316,76 miliar"
         ],
         "percentages": [],
@@ -9285,8 +9287,18 @@
         "underwriter": null
       },
       "semantic_copy_count": 0,
-      "source": "Head Topics",
+      "source": "Bisnis.com - Market",
       "source_breakdown": [
+        {
+          "derivative": false,
+          "group": "bisnis.com",
+          "new_material": 1,
+          "quality": "HIGH",
+          "semantic_copy": false,
+          "source": "Bisnis.com - Market",
+          "tier": 4,
+          "weight": 1.0
+        },
         {
           "derivative": false,
           "group": "head topics",
@@ -9298,16 +9310,17 @@
           "weight": 0.55
         }
       ],
-      "source_count": 1,
-      "source_quality": "LOW",
-      "source_quality_score": 0.6,
+      "source_count": 2,
+      "source_quality": "MEDIUM",
+      "source_quality_score": 4.5,
       "sources": [
+        "Bisnis.com - Market",
         "Head Topics"
       ],
       "status": "ACTIVE",
-      "strength": "WEAK",
+      "strength": "MEDIUM",
       "ticker": "ANDA",
-      "title": "PT Andalan Artha Primanusa Tbk Siap IPO, Target Dana Rp316,76 Miliar - Head Topics"
+      "title": "Profil Andalan Artha Primanusa (ANDA), Perusahaan Tambang yang Bakal IPO Rp316 Miliar - Bisnis.com - Market"
     },
     "IPO|TICKER|CNBC": {
       "category": "IPO",
