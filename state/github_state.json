@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 31,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 1002,
-  "early_signal_last_scan_utc": "2026-11-09T08:30:49.701675+00:00",
+  "early_signal_last_scan_utc": "2026-11-09T08:41:58.116914+00:00",
   "early_signal_memory": {
     "BNGA": {
       "change_pct": -0.9,
@@ -7699,7 +7699,7 @@
     }
   },
   "last_keepalive_utc": "2026-11-06T10:50:40.166496+00:00",
-  "last_state_change_utc": "2026-11-09T08:30:49.735839+00:00",
+  "last_state_change_utc": "2026-11-09T08:41:58.118922+00:00",
   "market_noise_suppressed": 10,
   "milestone_alerts": {},
   "rumor_alerts_sent": 160,
@@ -7710,8 +7710,8 @@
   "rumor_duplicates_suppressed": 963,
   "rumor_entity_rekeys": 11,
   "rumor_expired_count": 39,
-  "rumor_integrity_repairs": 3286,
-  "rumor_last_scan_utc": "2026-11-09T08:30:48.811462+00:00",
+  "rumor_integrity_repairs": 3287,
+  "rumor_last_scan_utc": "2026-11-09T08:41:57.453926+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BUMI": {
       "category": "AKUISISI / TAKEOVER",
@@ -9221,7 +9221,7 @@
     },
     "IPO|TICKER|ANDA": {
       "category": "IPO",
-      "company_name": "Profil Andalan Artha Primanusa (ANDA), Perusahaan Tambang yang",
+      "company_name": "Andalan Artha Primanusa",
       "copy_duplicate_count": 0,
       "credible_effective_independent_count": 1.0,
       "derivative_source_count": 0,
