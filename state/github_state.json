@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 31,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 1002,
-  "early_signal_last_scan_utc": "2026-11-09T21:31:21.627606+00:00",
+  "early_signal_last_scan_utc": "2026-11-09T21:40:46.404038+00:00",
   "early_signal_memory": {
     "BNGA": {
       "change_pct": -0.9,
@@ -1158,6 +1158,42 @@
         "use_of_funds": []
       },
       "ticker": ""
+    },
+    "IPO|TITLE|RANS HENTIKAN KOLABORASI DENGAN ANTARA SUARA PADAHAL": {
+      "family": "IPO",
+      "first_seen_utc": "2026-11-09T21:41:08.841747+00:00",
+      "last_alert_utc": "2026-11-09T21:41:08.841741+00:00",
+      "last_seen_utc": "2026-11-09T21:41:08.841741+00:00",
+      "market_context": {
+        "change_pct": null,
+        "last_price": null,
+        "market_date": null
+      },
+      "material_snapshot": {
+        "acquirer": null,
+        "acquirer_confirmed": false,
+        "event_type": "IPO",
+        "execution_price": null,
+        "ipo_single_price": null,
+        "money": [],
+        "official_authority": null,
+        "official_kind": null,
+        "price_range": null,
+        "ratio": null,
+        "schedule": {},
+        "share_count": null,
+        "stage": "RENCANA / PROSPEKTUS",
+        "stage_step": 2,
+        "stage_total": 5,
+        "stake": [],
+        "standby_buyer": null,
+        "target": null,
+        "target_confirmed": false,
+        "tender_price": null,
+        "underwriter": null,
+        "use_of_funds": []
+      },
+      "ticker": "RANS"
     },
     "IPO|TITLE|SEPI PEMINAT CALON MAKIN TAK BERHASRAT EMITENNEWS": {
       "family": "IPO",
@@ -7334,7 +7370,7 @@
       "owner_context_sources": 0,
       "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
       "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-      "owner_v6_checked_utc": "2026-10-06T03:21:42.651269+00:00",
+      "owner_v6_checked_utc": "2026-11-09T21:41:08.190844+00:00",
       "owner_v6_pages_fetched": 1,
       "owner_v6_source_urls": [
         "https://ransentertainment.co.id/shareholders-information"
@@ -7346,7 +7382,7 @@
       "subindustry": null,
       "subsector": null,
       "ticker": "RANS",
-      "verified_at": "2026-10-05T12:41:17.604112+00:00",
+      "verified_at": "2026-11-09T21:40:59.658074+00:00",
       "website": "https://ransentertainment.co.id"
     },
     "RATU": {
@@ -7815,7 +7851,7 @@
     }
   },
   "last_keepalive_utc": "2026-11-06T10:50:40.166496+00:00",
-  "last_state_change_utc": "2026-11-09T21:31:21.668047+00:00",
+  "last_state_change_utc": "2026-11-09T21:41:08.844449+00:00",
   "market_noise_suppressed": 11,
   "milestone_alerts": {},
   "rumor_alerts_sent": 161,
@@ -7826,8 +7862,8 @@
   "rumor_duplicates_suppressed": 963,
   "rumor_entity_rekeys": 11,
   "rumor_expired_count": 40,
-  "rumor_integrity_repairs": 3363,
-  "rumor_last_scan_utc": "2026-11-09T21:31:20.637622+00:00",
+  "rumor_integrity_repairs": 3365,
+  "rumor_last_scan_utc": "2026-11-09T21:40:45.457222+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BUMI": {
       "category": "AKUISISI / TAKEOVER",
@@ -11403,6 +11439,7 @@
     "94f5393b01a6201b1064e067adc3fb2d00b16715521b66d4354611d99dd49d3b": "2026-11-02T07:41:11.014521+00:00",
     "958438a390dd53aedc604d91a5871b03277efb46e26194ac8216a8c3eaac1ca1": "2026-11-03T04:01:32.178966+00:00",
     "96a520e53f7155a3f8e60e112b5f1bf8ac54101b0125add0d1b18b0d9d4a8652": "2026-10-01T16:31:16.621213+00:00",
+    "9736ddc3c7931f8c1beb47e4adcdb99a46c6aaaf7d689959fb6997b84a84e3ed": "2026-11-09T21:41:08.841723+00:00",
     "974d92ee48b538a04596bb5c980fc09f5cd66608d901837616c28100f1b66ca5": "2026-09-15T04:11:16.787656+00:00",
     "98d1b8d6c9b07b848380d34b8962d5a76be94d10dbc650caf0f76d327307a372": "2026-11-05T03:51:02.508684+00:00",
     "99eddadc9391f8427e37eeb6b516b6d89ae153203f43ad5b3c9b2299549b5b22": "2026-10-02T10:51:37.467291+00:00",
