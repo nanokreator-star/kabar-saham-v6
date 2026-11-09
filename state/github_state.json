@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 31,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 1002,
-  "early_signal_last_scan_utc": "2026-11-09T17:20:40.735732+00:00",
+  "early_signal_last_scan_utc": "2026-11-09T17:31:39.447960+00:00",
   "early_signal_memory": {
     "BNGA": {
       "change_pct": -0.9,
@@ -7409,6 +7409,26 @@
       "verified_at": "2026-09-07T23:51:24.979687+00:00",
       "website": null
     },
+    "SRIL": {
+      "business_activity": null,
+      "controller": null,
+      "industry": null,
+      "issuer_name": "Sri Rejeki Isman",
+      "owner_context_sources": 0,
+      "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
+      "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
+      "owner_v6_checked_utc": "2026-11-09T17:30:45.014307+00:00",
+      "owner_v6_pages_fetched": 0,
+      "profile_source": "Yahoo Finance",
+      "profile_source_quality": "FALLBACK",
+      "profile_source_url": null,
+      "sector": null,
+      "subindustry": null,
+      "subsector": null,
+      "ticker": "SRIL",
+      "verified_at": "2026-11-09T17:30:45.604012+00:00",
+      "website": null
+    },
     "SUPR": {
       "business_activity": "PT Solusi Tunas Pratama Tbk operates as an independent tower company in Indonesia. The company manages and leases base transceiver station towers.",
       "controller": null,
@@ -7528,6 +7548,26 @@
       "ticker": "TPIA",
       "verified_at": "2026-10-20T00:01:28.123784+00:00",
       "website": "https://www.chandra-asri.com"
+    },
+    "TRIL": {
+      "business_activity": null,
+      "controller": null,
+      "industry": null,
+      "issuer_name": "TRIL PENGUMUMAN BURSA Delisting saham Triwira Insanlestari",
+      "owner_context_sources": 0,
+      "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
+      "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
+      "owner_v6_checked_utc": "2026-11-09T17:30:58.871352+00:00",
+      "owner_v6_pages_fetched": 0,
+      "profile_source": "Yahoo Finance",
+      "profile_source_quality": "FALLBACK",
+      "profile_source_url": null,
+      "sector": null,
+      "subindustry": null,
+      "subsector": null,
+      "ticker": "TRIL",
+      "verified_at": "2026-11-09T17:31:04.414423+00:00",
+      "website": null
     },
     "TRUK": {
       "business_activity": "PT Guna Timur Raya Tbk engages in providing land transportation services in Indonesia. It also invests in land transportation services companies.",
@@ -7735,7 +7775,7 @@
     }
   },
   "last_keepalive_utc": "2026-11-06T10:50:40.166496+00:00",
-  "last_state_change_utc": "2026-11-09T17:20:40.769918+00:00",
+  "last_state_change_utc": "2026-11-09T17:31:39.484350+00:00",
   "market_noise_suppressed": 11,
   "milestone_alerts": {},
   "rumor_alerts_sent": 161,
@@ -7746,8 +7786,8 @@
   "rumor_duplicates_suppressed": 963,
   "rumor_entity_rekeys": 11,
   "rumor_expired_count": 40,
-  "rumor_integrity_repairs": 3324,
-  "rumor_last_scan_utc": "2026-11-09T17:20:39.768692+00:00",
+  "rumor_integrity_repairs": 3325,
+  "rumor_last_scan_utc": "2026-11-09T17:31:38.669074+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BUMI": {
       "category": "AKUISISI / TAKEOVER",
@@ -8773,6 +8813,163 @@
       "strength": "WEAK",
       "ticker": "FREE",
       "title": "Free Float Minim, Sejumlah Emiten Pilih Jalan Go Private: Sinyal Bahaya bagi Pasar Modal Indonesia? - Inforiau"
+    },
+    "DELISTING / RELISTING|TICKER|SRIL": {
+      "category": "DELISTING / RELISTING",
+      "company_name": "PT Sri Rejeki Isman Tbk ( null ) Papan Pencatatan Pemantau",
+      "copy_duplicate_count": 0,
+      "credible_effective_independent_count": 1.1,
+      "derivative_source_count": 0,
+      "detected_source_count": 1,
+      "effective_independent_count": 1.1,
+      "entity_aliases": [
+        "Sri Rejeki Isman",
+        "Sri Rejeki Isman Tbk ( null ) Papan Pencatatan Pemantau"
+      ],
+      "entity_resolution_source": null,
+      "first_seen_utc": "2026-11-09T16:18:00+00:00",
+      "high_quality_source_count": 1,
+      "independent_story_count": 1,
+      "issuer_profile": {
+        "business_activity": null,
+        "controller": null,
+        "industry": null,
+        "issuer_name": "Sri Rejeki Isman",
+        "owner_context_sources": 0,
+        "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
+        "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
+        "owner_v6_checked_utc": "2026-11-09T17:30:45.014307+00:00",
+        "owner_v6_pages_fetched": 0,
+        "profile_source": "Yahoo Finance",
+        "profile_source_quality": "FALLBACK",
+        "profile_source_url": null,
+        "sector": null,
+        "subindustry": null,
+        "subsector": null,
+        "ticker": "SRIL",
+        "verified_at": "2026-11-09T17:30:45.604012+00:00",
+        "website": null
+      },
+      "key": "DELISTING / RELISTING|TICKER|SRIL",
+      "last_seen_utc": "2026-11-09T16:18:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSWhOeEU5dnN4ZUJweG9oc25KNWhBZlNyVXN1NTJzWlA2SFVodVJiUTBFOVlFQzdCS2I4TldxcDNiY1JpZHpUdlVIVUdhY1NDbjlhT0U0ZXlHREp5VXRJQUtqdndoV21ZZTZKb2ltTWl6ckJzdU9Wb3BjOFk5NDRIbDhGT1dBTkRXUFh2aGxwcXlZckJ2X1NaeEdlQjlhVjdYTGg4aDlKVjFhNDNnckEyOTBFTQ?oc=5",
+      "market_data": null,
+      "official_confirmation": null,
+      "premium_source_count": 1,
+      "profile_refresh_utc": "2026-11-09T17:30:53.663626+00:00",
+      "published": "Mon, 09 Nov 2026 16:18:00 GMT",
+      "rumor_details": {
+        "ipo_price": null,
+        "listing_estimate": null,
+        "money": [],
+        "percentages": [],
+        "price_range": null,
+        "rumored_party": null,
+        "share_count": null,
+        "underwriter": null
+      },
+      "semantic_copy_count": 0,
+      "source": "PT Bursa Efek Indonesia",
+      "source_breakdown": [
+        {
+          "derivative": false,
+          "group": "pt bursa efek indonesia",
+          "new_material": 0,
+          "quality": "OFFICIAL",
+          "semantic_copy": false,
+          "source": "PT Bursa Efek Indonesia",
+          "tier": 5,
+          "weight": 1.1
+        }
+      ],
+      "source_count": 1,
+      "source_quality": "MEDIUM",
+      "source_quality_score": 5.5,
+      "sources": [
+        "PT Bursa Efek Indonesia"
+      ],
+      "status": "CONFIRMED OFFICIAL",
+      "strength": "CONFIRMED OFFICIAL",
+      "ticker": "SRIL",
+      "title": "Peng-DEL-00004/BEI.PP3/11-2026-SRIL PENGUMUMAN BURSA Delisting saham PT Sri Rejeki Isman Tbk ( null ) Papan Pencatatan Pemantau - PT Bursa Efek Indonesia"
+    },
+    "DELISTING / RELISTING|TICKER|TRIL": {
+      "category": "DELISTING / RELISTING",
+      "company_name": "PT Bur",
+      "copy_duplicate_count": 0,
+      "credible_effective_independent_count": 1.1,
+      "derivative_source_count": 0,
+      "detected_source_count": 1,
+      "effective_independent_count": 1.1,
+      "entity_aliases": [
+        "TRIL PENGUMUMAN BURSA Delisting saham Triwira Insanlestari"
+      ],
+      "entity_resolution_source": null,
+      "first_seen_utc": "2026-11-09T15:55:00+00:00",
+      "high_quality_source_count": 1,
+      "independent_story_count": 1,
+      "issuer_profile": {
+        "business_activity": null,
+        "controller": null,
+        "industry": null,
+        "issuer_name": "TRIL PENGUMUMAN BURSA Delisting saham Triwira Insanlestari",
+        "owner_context_sources": 0,
+        "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
+        "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
+        "owner_v6_checked_utc": "2026-11-09T17:30:58.871352+00:00",
+        "owner_v6_pages_fetched": 0,
+        "profile_source": "Yahoo Finance",
+        "profile_source_quality": "FALLBACK",
+        "profile_source_url": null,
+        "sector": null,
+        "subindustry": null,
+        "subsector": null,
+        "ticker": "TRIL",
+        "verified_at": "2026-11-09T17:31:04.414423+00:00",
+        "website": null
+      },
+      "key": "DELISTING / RELISTING|TICKER|TRIL",
+      "last_seen_utc": "2026-11-09T15:55:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVVp2RE5meXhmY3JCV3FoWVh1bE10cmhjRkh4RmNPcE1hOXZNaTVEZERkdTIzbzZ0OENRMXVLb2IxZmlCMDVIazFnbkFfME0yNl9zbElXM09YYzMycEl2X1FfYzBCem1YdzYxelZsYm0tWUFHQkNpNTB3MjZzTHNHbFBWQTJUaGVSdlZGRE1WdUQ2dktvSHU3NEhCYjMxMVN4RUVqSm9ZTnQ2V1U5aFdQWjYwZw?oc=5",
+      "market_data": null,
+      "official_confirmation": null,
+      "premium_source_count": 1,
+      "profile_refresh_utc": "2026-11-09T17:31:38.667341+00:00",
+      "published": "Mon, 09 Nov 2026 15:55:00 GMT",
+      "rumor_details": {
+        "ipo_price": null,
+        "listing_estimate": null,
+        "money": [],
+        "percentages": [],
+        "price_range": null,
+        "rumored_party": null,
+        "share_count": null,
+        "underwriter": null
+      },
+      "semantic_copy_count": 0,
+      "source": "PT Bursa Efek Indonesia",
+      "source_breakdown": [
+        {
+          "derivative": false,
+          "group": "pt bursa efek indonesia",
+          "new_material": 0,
+          "quality": "OFFICIAL",
+          "semantic_copy": false,
+          "source": "PT Bursa Efek Indonesia",
+          "tier": 5,
+          "weight": 1.1
+        }
+      ],
+      "source_count": 1,
+      "source_quality": "MEDIUM",
+      "source_quality_score": 5.5,
+      "sources": [
+        "PT Bursa Efek Indonesia"
+      ],
+      "status": "CONFIRMED OFFICIAL",
+      "strength": "CONFIRMED OFFICIAL",
+      "ticker": "TRIL",
+      "title": "Peng-DEL-00004/BEI.PP3/11-2026-TRIL PENGUMUMAN BURSA Delisting saham Triwira Insanlestari Tbk ( null ) Papan Pencatatan Pengemb - PT Bursa Efek Indonesia"
     },
     "DELISTING / RELISTING|TITLE|PENGUMUMAN MENGINGATKAN JADWAL PENGHAPUSAN DELISTING EFEK WARAN": {
       "category": "DELISTING / RELISTING",
