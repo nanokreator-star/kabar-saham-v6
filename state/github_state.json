@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 31,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 1002,
-  "early_signal_last_scan_utc": "2026-11-09T10:10:55.834718+00:00",
+  "early_signal_last_scan_utc": "2026-11-09T11:10:45.855551+00:00",
   "early_signal_memory": {
     "BNGA": {
       "change_pct": -0.9,
@@ -3417,6 +3417,42 @@
         ]
       },
       "ticker": "MBSS"
+    },
+    "M&A / TAKEOVER|TITLE|MULAI HARI VISIONARY CAPITAL GELAR WAJIB TGUK": {
+      "family": "M&A / TAKEOVER",
+      "first_seen_utc": "2026-11-09T11:10:47.783392+00:00",
+      "last_alert_utc": "2026-11-09T11:10:47.783385+00:00",
+      "last_seen_utc": "2026-11-09T11:10:47.783385+00:00",
+      "market_context": {
+        "change_pct": null,
+        "last_price": null,
+        "market_date": null
+      },
+      "material_snapshot": {
+        "acquirer": null,
+        "acquirer_confirmed": false,
+        "event_type": "TENDER OFFER",
+        "execution_price": null,
+        "ipo_single_price": null,
+        "money": [],
+        "official_authority": null,
+        "official_kind": null,
+        "price_range": null,
+        "ratio": null,
+        "schedule": {},
+        "share_count": null,
+        "stage": "TENDER OFFER",
+        "stage_step": 6,
+        "stage_total": 7,
+        "stake": [],
+        "standby_buyer": null,
+        "target": null,
+        "target_confirmed": false,
+        "tender_price": null,
+        "underwriter": null,
+        "use_of_funds": []
+      },
+      "ticker": ""
     },
     "M&A / TAKEOVER|TITLE|NAGITA SLAVINA LAPORKAN VISI TAK ADA INVESTOR": {
       "family": "M&A / TAKEOVER",
@@ -7699,7 +7735,7 @@
     }
   },
   "last_keepalive_utc": "2026-11-06T10:50:40.166496+00:00",
-  "last_state_change_utc": "2026-11-09T10:10:55.871350+00:00",
+  "last_state_change_utc": "2026-11-09T11:10:47.786337+00:00",
   "market_noise_suppressed": 10,
   "milestone_alerts": {},
   "rumor_alerts_sent": 160,
@@ -7711,7 +7747,7 @@
   "rumor_entity_rekeys": 11,
   "rumor_expired_count": 39,
   "rumor_integrity_repairs": 3287,
-  "rumor_last_scan_utc": "2026-11-09T10:10:55.098284+00:00",
+  "rumor_last_scan_utc": "2026-11-09T11:10:45.326279+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BUMI": {
       "category": "AKUISISI / TAKEOVER",
@@ -9221,7 +9257,7 @@
     },
     "IPO|TICKER|ANDA": {
       "category": "IPO",
-      "company_name": "Andalan Artha Primanusa",
+      "company_name": "Profil Andalan Artha Primanusa (ANDA), Perusahaan Tambang yang",
       "copy_duplicate_count": 0,
       "credible_effective_independent_count": 1.0,
       "derivative_source_count": 0,
@@ -10952,6 +10988,7 @@
     "c63377493101a073fc2455a1859c87967c9c41e36f8ee40e31341eeb3ccaa791": "2026-10-04T11:31:08.065517+00:00",
     "c76d361989a26af601c420bc1b9d523e33e80e86539bcdc2da6182debe75a10f": "2026-09-22T07:51:40.556429+00:00",
     "c7a6013a2c6ba6faf8230cc799e19e7982746659652ed0c38308607bfcd0c98d": "2026-09-27T02:21:22.105985+00:00",
+    "c8109d75f6cfed9788a2aa79ee44b14e5d671d7e827023ae801ed2df5d716fae": "2026-11-09T11:10:47.783362+00:00",
     "c90f201961a9f9efc1802061b66ebe2bf583bdc273a1476f4405b7deeed27264": "2026-09-30T16:31:13.529133+00:00",
     "cd9196851e1c1075a76436e7884e5359513f90cc97cfb147c332cae70673ecb0": "2026-10-12T03:20:50.948805+00:00",
     "ce8e551323b705c6b9d10316b8ee83da618a0685855dfd1e43f75fe4c968329e": "2026-09-30T06:41:24.283066+00:00",
