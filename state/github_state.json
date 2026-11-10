@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 31,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 1002,
-  "early_signal_last_scan_utc": "2026-11-10T08:00:51.742032+00:00",
+  "early_signal_last_scan_utc": "2026-11-10T08:10:55.360693+00:00",
   "early_signal_memory": {
     "BNGA": {
       "change_pct": -0.9,
@@ -3836,49 +3836,6 @@
         "use_of_funds": []
       },
       "ticker": "AQUA"
-    },
-    "M&A / TAKEOVER|TITLE|RENCANA GO PRIVATE IPAC 2026 NILAI RP250": {
-      "family": "M&A / TAKEOVER",
-      "first_seen_utc": "2026-09-11T07:21:24.577712+00:00",
-      "last_alert_utc": "2026-09-11T07:21:24.577705+00:00",
-      "last_seen_utc": "2026-09-11T08:01:14.955553+00:00",
-      "market_context": {
-        "change_pct": 1.6129,
-        "last_price": 189.0,
-        "market_date": "2026-09-10"
-      },
-      "material_snapshot": {
-        "acquirer": null,
-        "acquirer_confirmed": false,
-        "event_type": "TENDER OFFER",
-        "execution_price": null,
-        "ipo_single_price": null,
-        "money": [
-          "Rp55.156.846.439",
-          "Rp40.588.422.169",
-          "Rp58.499.735.099",
-          "Rp1.481.768.925"
-        ],
-        "official_authority": null,
-        "official_kind": null,
-        "price_range": null,
-        "ratio": null,
-        "schedule": {},
-        "share_count": null,
-        "stage": "TENDER OFFER",
-        "stage_step": 6,
-        "stage_total": 7,
-        "stake": [],
-        "standby_buyer": null,
-        "target": null,
-        "target_confirmed": false,
-        "tender_price": "Rp250",
-        "underwriter": null,
-        "use_of_funds": [
-          "MODAL KERJA"
-        ]
-      },
-      "ticker": "IPAC"
     },
     "M&A / TAKEOVER|TITLE|SAIKO CONSULTANCY GELAR WAJIB NAYZ RP87 68": {
       "family": "M&A / TAKEOVER",
@@ -7851,7 +7808,7 @@
     }
   },
   "last_keepalive_utc": "2026-11-06T10:50:40.166496+00:00",
-  "last_state_change_utc": "2026-11-10T08:00:51.786932+00:00",
+  "last_state_change_utc": "2026-11-10T08:10:55.412883+00:00",
   "market_noise_suppressed": 11,
   "milestone_alerts": {},
   "rumor_alerts_sent": 161,
@@ -7862,8 +7819,8 @@
   "rumor_duplicates_suppressed": 964,
   "rumor_entity_rekeys": 11,
   "rumor_expired_count": 40,
-  "rumor_integrity_repairs": 3486,
-  "rumor_last_scan_utc": "2026-11-10T08:00:51.222020+00:00",
+  "rumor_integrity_repairs": 3488,
+  "rumor_last_scan_utc": "2026-11-10T08:10:54.963559+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BUMI": {
       "category": "AKUISISI / TAKEOVER",
@@ -11452,7 +11409,6 @@
     "a05ce50ce611f2f9bdba9077e9bb743111bed97e79ccebfac4f2c4a0d7a1d509": "2026-10-03T13:11:01.547411+00:00",
     "a0b9ace6b9f9fa819a49654ebe2c5e47bc381be9c065f5e3cb13ded4760da71e": "2026-10-18T08:41:16.170114+00:00",
     "a126e80cffdf4bb67c58f2dd1b872d0d18bf4a60d55c62680b9b8331478798d9": "2026-10-19T15:30:49.189108+00:00",
-    "a1ec20cbc6200644cb2ca36e4100d4987bc2adb9cf6c941c755e2d5d6644dc51": "2026-09-11T08:01:14.955541+00:00",
     "a3662b48ea46b6d71edde2164209df4ea953ba5b171e391cf6faca9f0d8a9868": "2026-09-30T23:10:52.487570+00:00",
     "a463fb835a1f6b3b78368e5c04c178e2e5d089adba455f0779831ee35af7e59a": "2026-10-09T15:30:59.357852+00:00",
     "a4854aa2ffb95d4f40c6725bb05c239b313d185bd8e5df02a54e28e700826f94": "2026-11-04T02:01:34.220174+00:00",
