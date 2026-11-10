@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 31,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 1002,
-  "early_signal_last_scan_utc": "2026-11-10T12:40:44.508504+00:00",
+  "early_signal_last_scan_utc": "2026-11-10T12:50:43.278805+00:00",
   "early_signal_memory": {
     "BNGA": {
       "change_pct": -0.9,
@@ -7736,7 +7736,7 @@
     }
   },
   "last_keepalive_utc": "2026-11-06T10:50:40.166496+00:00",
-  "last_state_change_utc": "2026-11-10T12:40:44.550970+00:00",
+  "last_state_change_utc": "2026-11-10T12:50:43.319507+00:00",
   "market_noise_suppressed": 11,
   "milestone_alerts": {},
   "rumor_alerts_sent": 161,
@@ -7747,8 +7747,8 @@
   "rumor_duplicates_suppressed": 964,
   "rumor_entity_rekeys": 11,
   "rumor_expired_count": 40,
-  "rumor_integrity_repairs": 3540,
-  "rumor_last_scan_utc": "2026-11-10T12:40:43.782076+00:00",
+  "rumor_integrity_repairs": 3542,
+  "rumor_last_scan_utc": "2026-11-10T12:50:42.703877+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BUMI": {
       "category": "AKUISISI / TAKEOVER",
@@ -8942,8 +8942,8 @@
       "detected_source_count": 1,
       "effective_independent_count": 1.1,
       "entity_aliases": [
-        "Sunindo Adipersada",
-        "Sunindo Adipersada Tbk. ( null ) Papan Pencatatan Peman"
+        "Sunindo Adipersada Tbk. ( null ) Papan Pencatatan Peman",
+        "Sunindo Adipersada"
       ],
       "entity_resolution_source": null,
       "first_seen_utc": "2026-11-09T17:01:45+00:00",
