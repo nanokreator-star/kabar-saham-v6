@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 31,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 1002,
-  "early_signal_last_scan_utc": "2026-11-10T23:40:58.533253+00:00",
+  "early_signal_last_scan_utc": "2026-11-10T23:50:40.005724+00:00",
   "early_signal_memory": {
     "BNGA": {
       "change_pct": -0.9,
@@ -7756,7 +7756,7 @@
     }
   },
   "last_keepalive_utc": "2026-11-06T10:50:40.166496+00:00",
-  "last_state_change_utc": "2026-11-10T23:40:58.577889+00:00",
+  "last_state_change_utc": "2026-11-10T23:50:40.044614+00:00",
   "market_noise_suppressed": 11,
   "milestone_alerts": {},
   "rumor_alerts_sent": 161,
@@ -7767,8 +7767,8 @@
   "rumor_duplicates_suppressed": 965,
   "rumor_entity_rekeys": 11,
   "rumor_expired_count": 40,
-  "rumor_integrity_repairs": 3670,
-  "rumor_last_scan_utc": "2026-11-10T23:40:58.519556+00:00",
+  "rumor_integrity_repairs": 3672,
+  "rumor_last_scan_utc": "2026-11-10T23:50:39.993359+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BUMI": {
       "category": "AKUISISI / TAKEOVER",
@@ -9539,68 +9539,6 @@
       "ticker": null,
       "title": "Anthropic Akan IPO, Valuasi Ditargetkan 2 Triliun Dolar AS - FORTUNE Indonesia"
     },
-    "IPO|COMPANY|BEI CATAT 9 CALON EMITEN": {
-      "category": "IPO",
-      "company_name": "BEI Catat 9 Calon Emiten",
-      "copy_duplicate_count": 0,
-      "credible_effective_independent_count": 0,
-      "derivative_source_count": 0,
-      "detected_source_count": 1,
-      "effective_independent_count": 0.6,
-      "entity_aliases": [
-        "BEI Catat 9 Calon Emiten"
-      ],
-      "entity_resolution_source": null,
-      "first_seen_utc": "2026-10-11T23:41:31+00:00",
-      "high_quality_source_count": 0,
-      "independent_story_count": 1,
-      "issuer_profile": null,
-      "key": "IPO|COMPANY|BEI CATAT 9 CALON EMITEN",
-      "last_seen_utc": "2026-10-11T23:41:31+00:00",
-      "last_state_change_utc": "2026-10-18T23:50:48.398769+00:00",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMDg0QUNGY192VWJQSEZEUEFpcVU5Q29SUmFoRElFb0FkR3lSVkJOWTIwQmtpbDVnVmVSejZMcFcybzdGYS1wRVdXT3ZjT2lpazBkQkZ6S204Y2o0OXpZbkFiWW5IM1FoUEktY29GWlBmNjV5cHVXWG43RXJYVzNhczV5Nk1OUkwwcDdnbnczYTlkUUNEZGlFd0JYM3VrUnFlYkxRRtIBqgFBVV95cUxNdWg3OGFvQUtVR0EtRno5SUtWMF9TTTB2Xzh6T0p5WmpyLWtxV3lyNGs2NTV1R0w0blNMYm9aQlotU2l4eTJSb0pQbmVoZ2RvTjZsN2RNWldwMFVITVNkc3kwYzZxVmZzUmRFYUtfV3VLZ3BvZUNnQjVQRlItbjhoZXp3d2lTSE9KMWFtRjVzZGtpQ1lNY3l5NE92TEF2Z2FqSHJXS19JeVpmQQ?oc=5",
-      "market_data": null,
-      "official_confirmation": null,
-      "premium_source_count": 0,
-      "profile_refresh_utc": null,
-      "published": "Sun, 11 Oct 2026 23:41:31 GMT",
-      "rumor_details": {
-        "ipo_price": null,
-        "listing_estimate": null,
-        "money": [
-          "Rp250 miliar"
-        ],
-        "percentages": [],
-        "price_range": null,
-        "rumored_party": null,
-        "share_count": null,
-        "underwriter": null
-      },
-      "semantic_copy_count": 0,
-      "source": "Indragirione.com",
-      "source_breakdown": [
-        {
-          "derivative": false,
-          "group": "indragirione.com",
-          "new_material": 1,
-          "quality": "LOW",
-          "semantic_copy": false,
-          "source": "Indragirione.com",
-          "tier": 1,
-          "weight": 0.55
-        }
-      ],
-      "source_count": 1,
-      "source_quality": "LOW",
-      "source_quality_score": 0.6,
-      "sources": [
-        "Indragirione.com"
-      ],
-      "status": "EXPIRED",
-      "strength": "WEAK",
-      "ticker": null,
-      "title": "BEI Catat 9 Calon Emiten Siap IPO, 3 Beraset di Atas Rp 250 Miliar - Indragirione.com"
-    },
     "IPO|COMPANY|BEI UNGKAP 23 PERUSAHAAN": {
       "category": "IPO",
       "company_name": "BEI Ungkap 23 Perusahaan",
@@ -9821,99 +9759,6 @@
       "strength": "MEDIUM",
       "ticker": "ANDA",
       "title": "Profil Andalan Artha Primanusa (ANDA), Perusahaan Tambang yang Bakal IPO Rp316 Miliar - Bisnis.com - Market"
-    },
-    "IPO|TICKER|CNBC": {
-      "category": "IPO",
-      "company_name": "CNBC",
-      "copy_duplicate_count": 0,
-      "credible_effective_independent_count": 1.0,
-      "derivative_source_count": 0,
-      "detected_source_count": 2,
-      "effective_independent_count": 1.6,
-      "entity_aliases": [
-        "9 Calon Emiten",
-        "BEI Catat 9 Calon Emiten",
-        "Ada BUMN"
-      ],
-      "entity_resolution_source": null,
-      "first_seen_utc": "2026-10-07T06:10:17+00:00",
-      "high_quality_source_count": 1,
-      "independent_story_count": 2,
-      "issuer_profile": {
-        "business_activity": null,
-        "controller": null,
-        "industry": null,
-        "issuer_name": "CNBC",
-        "owner_context_sources": 0,
-        "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
-        "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-        "owner_v6_checked_utc": "2026-10-15T12:20:38.323401+00:00",
-        "owner_v6_pages_fetched": 0,
-        "profile_source": "Yahoo Finance",
-        "profile_source_quality": "FALLBACK",
-        "profile_source_url": null,
-        "sector": null,
-        "subindustry": null,
-        "subsector": null,
-        "ticker": "CNBC",
-        "verified_at": "2026-10-15T12:20:38.991545+00:00",
-        "website": null
-      },
-      "key": "IPO|TICKER|CNBC",
-      "last_alert_utc": "2026-10-07T09:31:44.431452+00:00",
-      "last_seen_utc": "2026-10-11T23:41:31+00:00",
-      "last_state_change_utc": "2026-10-18T23:50:48.398805+00:00",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTnlhZzRab3M3Z09Ob1RVMm5aMDhGcllOYWoyZWYwVzc5YkRod0h5NVNDZ1hyM3NCY1REdjNFdXBxYVFNa2NMQnhiUnRtRlNEUlpvRHBaT2gyV25qdlhjanc0T0R4S2dFSUN0ZnpKUjI5c3hpbmhPUWo4VVZ5aG94ejRadjRySWVWdks3RGhvc3laRWVCUHp6UEdPQjZLaUhTSTBtU3Q4MnJhVFBqakVVcFZ30gG3AUFVX3lxTE9lV1g5eFZEaW54dVd5V2ZhZUIxRmpUeF9EWDBGZHBJSFg0NmM5Vm5xZk0yN2pLZ2NlSmpjTGt1ZzNJU1MyTGU5Q2RWdkRXRFNCckYtTXNfWmdfV250cHNpU0ppWUJrMllER1hONDhfQXhLM3pPQk9qUHFSazNvQUdEUXBPeGM0bE15ODVIc284VzZubWJCUWNBbU1fMEQ2RGNxeTVuQzh4cHVvbkJSZ2VpY3dQdUN3UQ?oc=5",
-      "market_data": null,
-      "official_confirmation": null,
-      "premium_source_count": 1,
-      "profile_refresh_utc": "2026-10-15T12:25:42.940643+00:00",
-      "published": "Sun, 11 Oct 2026 23:35:24 GMT",
-      "rumor_details": {
-        "ipo_price": null,
-        "listing_estimate": null,
-        "money": [],
-        "percentages": [],
-        "price_range": null,
-        "rumored_party": null,
-        "share_count": null,
-        "underwriter": null
-      },
-      "semantic_copy_count": 0,
-      "source": "CNBC Indonesia",
-      "source_breakdown": [
-        {
-          "derivative": false,
-          "group": "cnbcindonesia.com",
-          "new_material": 0,
-          "quality": "HIGH",
-          "semantic_copy": false,
-          "source": "CNBC Indonesia",
-          "tier": 4,
-          "weight": 1.0
-        },
-        {
-          "derivative": false,
-          "group": "indragirione.com",
-          "new_material": 1,
-          "quality": "LOW",
-          "semantic_copy": false,
-          "source": "Indragirione.com",
-          "tier": 1,
-          "weight": 0.55
-        }
-      ],
-      "source_count": 2,
-      "source_quality": "MEDIUM",
-      "source_quality_score": 4.5,
-      "sources": [
-        "CNBC Indonesia",
-        "Indragirione.com"
-      ],
-      "status": "EXPIRED",
-      "strength": "MEDIUM",
-      "ticker": "CNBC",
-      "title": "9 Calon Emiten Siap IPO, 2 Perusahaan Beraset Jumbo - CNBC Indonesia"
     },
     "MERGER|TICKER|BANK": {
       "category": "MERGER",
