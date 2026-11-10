@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 31,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 1002,
-  "early_signal_last_scan_utc": "2026-11-10T11:40:41.920712+00:00",
+  "early_signal_last_scan_utc": "2026-11-10T11:50:40.626286+00:00",
   "early_signal_memory": {
     "BNGA": {
       "change_pct": -0.9,
@@ -3423,42 +3423,6 @@
       "first_seen_utc": "2026-11-09T11:10:47.783392+00:00",
       "last_alert_utc": "2026-11-09T11:10:47.783385+00:00",
       "last_seen_utc": "2026-11-09T11:10:47.783385+00:00",
-      "market_context": {
-        "change_pct": null,
-        "last_price": null,
-        "market_date": null
-      },
-      "material_snapshot": {
-        "acquirer": null,
-        "acquirer_confirmed": false,
-        "event_type": "TENDER OFFER",
-        "execution_price": null,
-        "ipo_single_price": null,
-        "money": [],
-        "official_authority": null,
-        "official_kind": null,
-        "price_range": null,
-        "ratio": null,
-        "schedule": {},
-        "share_count": null,
-        "stage": "TENDER OFFER",
-        "stage_step": 6,
-        "stage_total": 7,
-        "stake": [],
-        "standby_buyer": null,
-        "target": null,
-        "target_confirmed": false,
-        "tender_price": null,
-        "underwriter": null,
-        "use_of_funds": []
-      },
-      "ticker": ""
-    },
-    "M&A / TAKEOVER|TITLE|NAGITA SLAVINA LAPORKAN VISI TAK ADA INVESTOR": {
-      "family": "M&A / TAKEOVER",
-      "first_seen_utc": "2026-09-11T09:11:04.145679+00:00",
-      "last_alert_utc": "2026-09-11T09:11:04.145673+00:00",
-      "last_seen_utc": "2026-09-11T11:40:56.657930+00:00",
       "market_context": {
         "change_pct": null,
         "last_price": null,
@@ -7772,7 +7736,7 @@
     }
   },
   "last_keepalive_utc": "2026-11-06T10:50:40.166496+00:00",
-  "last_state_change_utc": "2026-11-10T11:40:41.947325+00:00",
+  "last_state_change_utc": "2026-11-10T11:50:40.673255+00:00",
   "market_noise_suppressed": 11,
   "milestone_alerts": {},
   "rumor_alerts_sent": 161,
@@ -7783,8 +7747,8 @@
   "rumor_duplicates_suppressed": 964,
   "rumor_entity_rekeys": 11,
   "rumor_expired_count": 40,
-  "rumor_integrity_repairs": 3528,
-  "rumor_last_scan_utc": "2026-11-10T11:40:41.189282+00:00",
+  "rumor_integrity_repairs": 3530,
+  "rumor_last_scan_utc": "2026-11-10T11:50:40.070717+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BUMI": {
       "category": "AKUISISI / TAKEOVER",
@@ -11226,7 +11190,6 @@
     "1c5b380735bd1ad2389f2e0f4655850eadfbc1a18a12ee7f2b93b191c0bfbc81": "2026-09-30T06:31:11.701312+00:00",
     "1d7123549ca4174d97c5964462be4bd756eac59d99ce6ca54fd83d4777f82076": "2026-10-05T11:52:02.589730+00:00",
     "1dbc6f5fae4f403631c8ef7b875726672769c9e77196ed0647058bc8b0471874": "2026-11-09T14:30:59.024477+00:00",
-    "1f0f838dbcc7db9cdb6b85d5fb96821724ca15d8ae40dfab1d99d75359e6efe9": "2026-09-11T11:40:56.657911+00:00",
     "1f29aecb3316eecd63605ead3eeb6f053b59ae2a7c10f77fb3bbdc219040af15": "2026-10-02T14:41:00.416041+00:00",
     "2178ff5db4ea856a86e37120ea36607f39022f4f95dced94e766cf01832c8d1a": "2026-10-09T03:40:37.534173+00:00",
     "21d7a129fa1053cb02a82727ee86a0da13ebb702eb7fc4b0f2ed2b7a9649fc58": "2026-09-25T16:20:50.588575+00:00",
