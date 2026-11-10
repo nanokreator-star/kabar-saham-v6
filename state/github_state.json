@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 31,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 1002,
-  "early_signal_last_scan_utc": "2026-11-10T05:30:46.267952+00:00",
+  "early_signal_last_scan_utc": "2026-11-10T05:41:04.329487+00:00",
   "early_signal_memory": {
     "BNGA": {
       "change_pct": -0.9,
@@ -7473,7 +7473,7 @@
       "owner_context_sources": 0,
       "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
       "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-      "owner_v6_checked_utc": "2026-11-09T17:30:45.014307+00:00",
+      "owner_v6_checked_utc": "2026-11-10T05:40:41.063007+00:00",
       "owner_v6_pages_fetched": 0,
       "profile_source": "Yahoo Finance",
       "profile_source_quality": "FALLBACK",
@@ -7482,7 +7482,7 @@
       "subindustry": null,
       "subsector": null,
       "ticker": "SRIL",
-      "verified_at": "2026-11-09T17:30:45.604012+00:00",
+      "verified_at": "2026-11-10T05:40:41.679073+00:00",
       "website": null
     },
     "SUPR": {
@@ -7633,7 +7633,7 @@
       "owner_context_sources": 0,
       "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
       "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-      "owner_v6_checked_utc": "2026-11-09T17:30:58.871352+00:00",
+      "owner_v6_checked_utc": "2026-11-10T05:40:52.253194+00:00",
       "owner_v6_pages_fetched": 0,
       "profile_source": "Yahoo Finance",
       "profile_source_quality": "FALLBACK",
@@ -7642,7 +7642,7 @@
       "subindustry": null,
       "subsector": null,
       "ticker": "TRIL",
-      "verified_at": "2026-11-09T17:31:04.414423+00:00",
+      "verified_at": "2026-11-10T05:40:57.803603+00:00",
       "website": null
     },
     "TRUK": {
@@ -7851,7 +7851,7 @@
     }
   },
   "last_keepalive_utc": "2026-11-06T10:50:40.166496+00:00",
-  "last_state_change_utc": "2026-11-10T05:30:46.438761+00:00",
+  "last_state_change_utc": "2026-11-10T05:41:04.554575+00:00",
   "market_noise_suppressed": 11,
   "milestone_alerts": {},
   "rumor_alerts_sent": 161,
@@ -7862,8 +7862,8 @@
   "rumor_duplicates_suppressed": 964,
   "rumor_entity_rekeys": 11,
   "rumor_expired_count": 40,
-  "rumor_integrity_repairs": 3456,
-  "rumor_last_scan_utc": "2026-11-10T05:30:45.170611+00:00",
+  "rumor_integrity_repairs": 3458,
+  "rumor_last_scan_utc": "2026-11-10T05:41:03.945472+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BUMI": {
       "category": "AKUISISI / TAKEOVER",
@@ -8992,7 +8992,7 @@
         "owner_context_sources": 0,
         "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
         "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-        "owner_v6_checked_utc": "2026-11-09T17:30:45.014307+00:00",
+        "owner_v6_checked_utc": "2026-11-10T05:40:41.063007+00:00",
         "owner_v6_pages_fetched": 0,
         "profile_source": "Yahoo Finance",
         "profile_source_quality": "FALLBACK",
@@ -9001,7 +9001,7 @@
         "subindustry": null,
         "subsector": null,
         "ticker": "SRIL",
-        "verified_at": "2026-11-09T17:30:45.604012+00:00",
+        "verified_at": "2026-11-10T05:40:41.679073+00:00",
         "website": null
       },
       "key": "DELISTING / RELISTING|TICKER|SRIL",
@@ -9010,7 +9010,7 @@
       "market_data": null,
       "official_confirmation": null,
       "premium_source_count": 1,
-      "profile_refresh_utc": "2026-11-09T17:30:53.663626+00:00",
+      "profile_refresh_utc": "2026-11-10T05:40:49.337921+00:00",
       "published": "Tue, 10 Nov 2026 03:57:00 GMT",
       "rumor_details": {
         "ipo_price": null,
@@ -9150,7 +9150,7 @@
         "owner_context_sources": 0,
         "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
         "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-        "owner_v6_checked_utc": "2026-11-09T17:30:58.871352+00:00",
+        "owner_v6_checked_utc": "2026-11-10T05:40:52.253194+00:00",
         "owner_v6_pages_fetched": 0,
         "profile_source": "Yahoo Finance",
         "profile_source_quality": "FALLBACK",
@@ -9159,7 +9159,7 @@
         "subindustry": null,
         "subsector": null,
         "ticker": "TRIL",
-        "verified_at": "2026-11-09T17:31:04.414423+00:00",
+        "verified_at": "2026-11-10T05:40:57.803603+00:00",
         "website": null
       },
       "key": "DELISTING / RELISTING|TICKER|TRIL",
@@ -9168,7 +9168,7 @@
       "market_data": null,
       "official_confirmation": null,
       "premium_source_count": 1,
-      "profile_refresh_utc": "2026-11-09T17:31:38.667341+00:00",
+      "profile_refresh_utc": "2026-11-10T05:41:03.943002+00:00",
       "published": "Mon, 09 Nov 2026 15:55:00 GMT",
       "rumor_details": {
         "ipo_price": null,
