@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 31,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 1002,
-  "early_signal_last_scan_utc": "2026-11-11T22:00:57.885202+00:00",
+  "early_signal_last_scan_utc": "2026-11-11T22:11:10.019553+00:00",
   "early_signal_memory": {
     "BNGA": {
       "change_pct": -0.9,
@@ -7498,7 +7498,7 @@
       "owner_context_sources": 0,
       "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
       "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-      "owner_v6_checked_utc": "2026-11-11T10:01:02.508247+00:00",
+      "owner_v6_checked_utc": "2026-11-11T22:11:01.543748+00:00",
       "owner_v6_pages_fetched": 0,
       "profile_source": "Yahoo Finance",
       "profile_source_quality": "FALLBACK",
@@ -7507,7 +7507,7 @@
       "subindustry": null,
       "subsector": null,
       "ticker": "TOYS",
-      "verified_at": "2026-11-11T10:01:03.262135+00:00",
+      "verified_at": "2026-11-11T22:11:02.768047+00:00",
       "website": "https://www.sunindo.id"
     },
     "TPIA": {
@@ -7756,7 +7756,7 @@
     }
   },
   "last_keepalive_utc": "2026-11-06T10:50:40.166496+00:00",
-  "last_state_change_utc": "2026-11-11T22:00:57.933883+00:00",
+  "last_state_change_utc": "2026-11-11T22:11:10.051592+00:00",
   "market_noise_suppressed": 11,
   "milestone_alerts": {},
   "rumor_alerts_sent": 161,
@@ -7767,8 +7767,8 @@
   "rumor_duplicates_suppressed": 965,
   "rumor_entity_rekeys": 11,
   "rumor_expired_count": 40,
-  "rumor_integrity_repairs": 3930,
-  "rumor_last_scan_utc": "2026-11-11T22:00:57.870947+00:00",
+  "rumor_integrity_repairs": 3932,
+  "rumor_last_scan_utc": "2026-11-11T22:11:10.007624+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BUMI": {
       "category": "AKUISISI / TAKEOVER",
@@ -9031,7 +9031,7 @@
     },
     "DELISTING / RELISTING|TICKER|TOYS": {
       "category": "DELISTING / RELISTING",
-      "company_name": "PT Sunindo Adipersada Tbk. ( null ) Papan Pencatatan Peman",
+      "company_name": "Sunindo Adipersada",
       "copy_duplicate_count": 0,
       "credible_effective_independent_count": 1.1,
       "derivative_source_count": 0,
@@ -9053,7 +9053,7 @@
         "owner_context_sources": 0,
         "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
         "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-        "owner_v6_checked_utc": "2026-11-11T10:01:02.508247+00:00",
+        "owner_v6_checked_utc": "2026-11-11T22:11:01.543748+00:00",
         "owner_v6_pages_fetched": 0,
         "profile_source": "Yahoo Finance",
         "profile_source_quality": "FALLBACK",
@@ -9062,7 +9062,7 @@
         "subindustry": null,
         "subsector": null,
         "ticker": "TOYS",
-        "verified_at": "2026-11-11T10:01:03.262135+00:00",
+        "verified_at": "2026-11-11T22:11:02.768047+00:00",
         "website": "https://www.sunindo.id"
       },
       "key": "DELISTING / RELISTING|TICKER|TOYS",
@@ -9071,7 +9071,7 @@
       "market_data": null,
       "official_confirmation": null,
       "premium_source_count": 1,
-      "profile_refresh_utc": "2026-11-11T10:01:10.596903+00:00",
+      "profile_refresh_utc": "2026-11-11T22:11:10.004175+00:00",
       "published": "Mon, 09 Nov 2026 17:01:45 GMT",
       "rumor_details": {
         "ipo_price": null,
