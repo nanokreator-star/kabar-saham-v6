@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 31,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 1002,
-  "early_signal_last_scan_utc": "2026-11-11T22:11:10.019553+00:00",
+  "early_signal_last_scan_utc": "2026-11-11T22:20:45.734544+00:00",
   "early_signal_memory": {
     "BNGA": {
       "change_pct": -0.9,
@@ -7756,7 +7756,7 @@
     }
   },
   "last_keepalive_utc": "2026-11-06T10:50:40.166496+00:00",
-  "last_state_change_utc": "2026-11-11T22:11:10.051592+00:00",
+  "last_state_change_utc": "2026-11-11T22:20:45.778144+00:00",
   "market_noise_suppressed": 11,
   "milestone_alerts": {},
   "rumor_alerts_sent": 161,
@@ -7767,8 +7767,8 @@
   "rumor_duplicates_suppressed": 965,
   "rumor_entity_rekeys": 11,
   "rumor_expired_count": 40,
-  "rumor_integrity_repairs": 3932,
-  "rumor_last_scan_utc": "2026-11-11T22:11:10.007624+00:00",
+  "rumor_integrity_repairs": 3933,
+  "rumor_last_scan_utc": "2026-11-11T22:20:45.720405+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BUMI": {
       "category": "AKUISISI / TAKEOVER",
@@ -9031,7 +9031,7 @@
     },
     "DELISTING / RELISTING|TICKER|TOYS": {
       "category": "DELISTING / RELISTING",
-      "company_name": "Sunindo Adipersada",
+      "company_name": "PT Sunindo Adipersada Tbk. ( null ) Papan Pencatatan Peman",
       "copy_duplicate_count": 0,
       "credible_effective_independent_count": 1.1,
       "derivative_source_count": 0,
