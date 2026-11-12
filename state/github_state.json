@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 31,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 1002,
-  "early_signal_last_scan_utc": "2026-11-12T06:21:02.587255+00:00",
+  "early_signal_last_scan_utc": "2026-11-12T06:30:47.558292+00:00",
   "early_signal_memory": {
     "BNGA": {
       "change_pct": -0.9,
@@ -7538,7 +7538,7 @@
       "owner_context_sources": 0,
       "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
       "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-      "owner_v6_checked_utc": "2026-11-11T18:10:49.172225+00:00",
+      "owner_v6_checked_utc": "2026-11-12T06:30:45.609009+00:00",
       "owner_v6_pages_fetched": 0,
       "profile_source": "Yahoo Finance",
       "profile_source_quality": "FALLBACK",
@@ -7547,7 +7547,7 @@
       "subindustry": null,
       "subsector": null,
       "ticker": "TRIL",
-      "verified_at": "2026-11-11T18:10:53.669826+00:00",
+      "verified_at": "2026-11-12T06:30:46.289599+00:00",
       "website": null
     },
     "TRUK": {
@@ -7756,7 +7756,7 @@
     }
   },
   "last_keepalive_utc": "2026-11-06T10:50:40.166496+00:00",
-  "last_state_change_utc": "2026-11-12T06:21:02.621780+00:00",
+  "last_state_change_utc": "2026-11-12T06:30:47.604084+00:00",
   "market_noise_suppressed": 11,
   "milestone_alerts": {},
   "rumor_alerts_sent": 161,
@@ -7767,8 +7767,8 @@
   "rumor_duplicates_suppressed": 965,
   "rumor_entity_rekeys": 11,
   "rumor_expired_count": 40,
-  "rumor_integrity_repairs": 4010,
-  "rumor_last_scan_utc": "2026-11-12T06:21:02.574364+00:00",
+  "rumor_integrity_repairs": 4011,
+  "rumor_last_scan_utc": "2026-11-12T06:30:47.543270+00:00",
   "rumor_memory": {
     "AKUISISI / TAKEOVER|TICKER|BUMI": {
       "category": "AKUISISI / TAKEOVER",
@@ -9131,7 +9131,7 @@
         "owner_context_sources": 0,
         "owner_discovery_method": "STRUCTURED_OFFICIAL_SOURCE_V6",
         "owner_resolution_level": "NO_SAFE_OWNER_RESULT",
-        "owner_v6_checked_utc": "2026-11-11T18:10:49.172225+00:00",
+        "owner_v6_checked_utc": "2026-11-12T06:30:45.609009+00:00",
         "owner_v6_pages_fetched": 0,
         "profile_source": "Yahoo Finance",
         "profile_source_quality": "FALLBACK",
@@ -9140,7 +9140,7 @@
         "subindustry": null,
         "subsector": null,
         "ticker": "TRIL",
-        "verified_at": "2026-11-11T18:10:53.669826+00:00",
+        "verified_at": "2026-11-12T06:30:46.289599+00:00",
         "website": null
       },
       "key": "DELISTING / RELISTING|TICKER|TRIL",
@@ -9149,7 +9149,7 @@
       "market_data": null,
       "official_confirmation": null,
       "premium_source_count": 1,
-      "profile_refresh_utc": "2026-11-11T18:10:58.662972+00:00",
+      "profile_refresh_utc": "2026-11-12T06:30:47.541426+00:00",
       "published": "Mon, 09 Nov 2026 15:55:00 GMT",
       "rumor_details": {
         "ipo_price": null,
