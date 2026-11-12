@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 31,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 1002,
-  "early_signal_last_scan_utc": "2026-11-12T07:30:56.236771+00:00",
+  "early_signal_last_scan_utc": "2026-11-12T07:40:32.913432+00:00",
   "early_signal_memory": {
     "BNGA": {
       "change_pct": -0.9,
@@ -7756,7 +7756,7 @@
     }
   },
   "last_keepalive_utc": "2026-11-06T10:50:40.166496+00:00",
-  "last_state_change_utc": "2026-11-12T07:30:56.274097+00:00",
+  "last_state_change_utc": "2026-11-12T07:40:32.936267+00:00",
   "market_noise_suppressed": 11,
   "milestone_alerts": {},
   "rumor_alerts_sent": 162,
@@ -7767,8 +7767,8 @@
   "rumor_duplicates_suppressed": 965,
   "rumor_entity_rekeys": 11,
   "rumor_expired_count": 40,
-  "rumor_integrity_repairs": 4017,
-  "rumor_last_scan_utc": "2026-11-12T07:30:56.227079+00:00",
+  "rumor_integrity_repairs": 4018,
+  "rumor_last_scan_utc": "2026-11-12T07:40:32.906522+00:00",
   "rumor_memory": {
     "BUYBACK|COMPANY|BARITO RENEWABLES ENERGY UNTUK": {
       "category": "BUYBACK",
