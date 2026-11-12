@@ -3,7 +3,7 @@
   "early_signal_alerts_sent": 31,
   "early_signal_baseline_initialized": true,
   "early_signal_duplicates_suppressed": 1002,
-  "early_signal_last_scan_utc": "2026-11-12T07:10:39.411376+00:00",
+  "early_signal_last_scan_utc": "2026-11-12T07:20:40.692575+00:00",
   "early_signal_memory": {
     "BNGA": {
       "change_pct": -0.9,
@@ -7756,7 +7756,7 @@
     }
   },
   "last_keepalive_utc": "2026-11-06T10:50:40.166496+00:00",
-  "last_state_change_utc": "2026-11-12T07:10:39.445948+00:00",
+  "last_state_change_utc": "2026-11-12T07:20:40.728336+00:00",
   "market_noise_suppressed": 11,
   "milestone_alerts": {},
   "rumor_alerts_sent": 162,
@@ -7767,8 +7767,8 @@
   "rumor_duplicates_suppressed": 965,
   "rumor_entity_rekeys": 11,
   "rumor_expired_count": 40,
-  "rumor_integrity_repairs": 4015,
-  "rumor_last_scan_utc": "2026-11-12T07:10:39.403674+00:00",
+  "rumor_integrity_repairs": 4016,
+  "rumor_last_scan_utc": "2026-11-12T07:20:40.680583+00:00",
   "rumor_memory": {
     "BUYBACK|COMPANY|BARITO RENEWABLES ENERGY UNTUK": {
       "category": "BUYBACK",
@@ -9620,7 +9620,7 @@
       "key": "IPO|COMPANY|SANDIAGA UNO OPTIMISTIS EKONOMI RI TETAP TANGGUH 5 PERUSAHAAN BINAAN",
       "last_alert_utc": "2026-11-12T07:10:39.403252+00:00",
       "last_seen_utc": "2026-11-12T06:56:00+00:00",
-      "link": "https://pasardana.id",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMTVuV0lpSHkxNWJGR1NCM2hZTzdyTGQ3aHd0Zm1jQVJ5dWlITkxaQkhBRzI5a1ktT2ktSEtQYmoxWkdwLXY0aTFLRk0wTk1tcjVyZTNteEtJdHpBZDl5c2xlN1JndzZzcVE1Z2VQZ1ZOZXZ2emw5VGlnMUxqQ2NORmZ4YUotOVgyN3o4S3cwam5YQzY3N2Q5dXlORGVPSWVPS3dNQmwwMDBScG1WZkFRMmt6eWQ?oc=5",
       "market_data": null,
       "official_confirmation": null,
       "premium_source_count": 0,
@@ -9647,7 +9647,7 @@
         {
           "derivative": false,
           "group": "pasardana.id",
-          "new_material": 4,
+          "new_material": 0,
           "quality": "MEDIUM",
           "semantic_copy": false,
           "source": "Pasardana",
